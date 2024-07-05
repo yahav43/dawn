@@ -1270,3 +1270,5 @@ class BulkAdd extends HTMLElement {
 if (!customElements.get('bulk-add')) {
   customElements.define('bulk-add', BulkAdd);
 }
+
+console.log('Hello');
