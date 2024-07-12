@@ -1,0 +1,13 @@
+/* Hebrew designs and RTL Fixes by Yahav */
+
+.rtl,
+.image-with-text,
+.footer__content-top {
+  direction: rtl;
+}
+
+@media only screen and (min-width: 750px) {
+  .image-with-text__content--desktop-right>* {
+    align-self: flex-start;
+  }
+}
