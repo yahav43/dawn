@@ -221,6 +221,33 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "featured_blog_Qz8A6d": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "מאמרים שאולי תאהבי",
+        "heading_size": "h1",
+        "blog": "blog",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_image": true,
+        "show_date": false,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "contact_form_MDwcX6": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Contact form",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -228,6 +255,8 @@
     "multirow_RkqD97",
     "multicolumn_FFmiYB",
     "page_KWVaTW",
-    "image_banner_imkE4Q"
+    "image_banner_imkE4Q",
+    "featured_blog_Qz8A6d",
+    "contact_form_MDwcX6"
   ]
 }
