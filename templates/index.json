@@ -111,10 +111,124 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_banner_imkE4Q": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_BcT6tA": {
+          "type": "heading",
+          "settings": {
+            "heading": "ריטריט היוגה שלנו",
+            "heading_size": "h1"
+          }
+        },
+        "text_LwPNKy": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "buttons_Y7LM7T": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_BcT6tA",
+        "text_LwPNKy",
+        "buttons_Y7LM7T"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "featured_product_YeC6XW": {
+      "type": "featured-product",
+      "blocks": {
+        "text_mh3GnQ": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_Gwqitg": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_WCLLRG": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_xFcMVY": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "buy_buttons_8pBgmt": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_z46DDR": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_mh3GnQ",
+        "title_Gwqitg",
+        "price_WCLLRG",
+        "variant_picker_xFcMVY",
+        "buy_buttons_8pBgmt",
+        "share_z46DDR"
+      ],
+      "settings": {
+        "product": "ריטריט-יוגה-ראשון",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "right",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "image_banner",
-    "multirow_RkqD97"
+    "multirow_RkqD97",
+    "image_banner_imkE4Q",
+    "featured_product_YeC6XW"
   ]
 }
