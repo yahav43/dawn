@@ -10,4 +10,8 @@
   .image-with-text__content--desktop-right>* {
     align-self: flex-start;
   }
+
+  .header__inline-menu {
+    direction: rtl;
+  }
 }
