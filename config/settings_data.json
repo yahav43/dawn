@@ -121,7 +121,7 @@
     "cart_type": "drawer",
     "show_vendor": false,
     "show_cart_note": false,
-    "cart_drawer_collection": "yoga-retreats",
+    "cart_drawer_collection": "",
     "cart_color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
     "sections": {
       "main-password-header": {
@@ -191,7 +191,7 @@
           "background_gradient": "",
           "text": "#000000",
           "button": "{{ shop.brand.colors.primary[0].background }}",
-          "button_label": "#FFFFFF",
+          "button_label": "#ffffff",
           "secondary_button_label": "{{ shop.brand.colors.secondary[0].background }}",
           "shadow": "#121212"
         }
