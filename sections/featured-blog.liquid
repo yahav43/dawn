@@ -75,7 +75,8 @@
                 show_image: section.settings.show_image,
                 show_date: section.settings.show_date,
                 show_author: section.settings.show_author,
-                show_excerpt: true
+                show_excerpt: true,
+                info_direction: section.settings.info_direction
               %}
             </li>
           {%- endfor -%}
@@ -250,6 +251,21 @@
       "step": 1,
       "default": 3,
       "label": "t:sections.featured-blog.settings.columns_desktop.label"
+    },
+    {
+      "type": "select",
+      "id": "info_direction",
+      "label": "Info Direction",
+      "options": [
+        {
+          "value": "rtl",
+          "label": "Right To Left"
+        },
+        {
+          "value": "ltr",
+          "label": "Left To Right"
+        }
+      ]
     },
     {
       "type": "color_scheme",

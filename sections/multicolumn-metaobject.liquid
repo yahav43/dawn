@@ -66,7 +66,7 @@
 
           <li
             id="Slide-{{ section.id }}-{{ forloop.index }}"
-            class="multicolumn-list__item grid__item{% if section.settings.swipe_on_mobile %} slider__slide{% endif %}{% if section.settings.column_alignment == 'center' %} center{% endif %}{{ empty_column }}{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}"
+            class="multicolumn-list__item {{ section.settings.list_item_direction }} grid__item{% if section.settings.swipe_on_mobile %} slider__slide{% endif %}{% if section.settings.column_alignment == 'center' %} center{% endif %}{{ empty_column }}{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}"
             {% if settings.animations_reveal_on_scroll %}
               data-cascade
               style="--animation-order: {{ forloop.index }};"
@@ -144,6 +144,21 @@
       "id": "title",
       "default": "t:sections.multicolumn.settings.title.default",
       "label": "t:sections.multicolumn.settings.title.label"
+    },
+    {
+      "type": "select",
+      "id": "list_item_direction",
+      "label": "Title Direction",
+      "options": [
+        {
+          "value": "rtl",
+          "label": "Right To Left"
+        },
+        {
+          "value": "ltr",
+          "label": "Left To Right"
+        }
+      ]
     },
     {
       "type": "select",
