@@ -301,7 +301,7 @@
         "hide_variants": false,
         "enable_video_looping": false,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 24
       }
     },
     "multicolumn_6rygMY": {
@@ -388,12 +388,22 @@
             "row_content": "<p>הריטריט מתאים לכל הרמות, עם תרגולים המותאמים למתחילים ומתקדמים.<\/p>",
             "page": ""
           }
+        },
+        "collapsible_row_jNefbB": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "האם אני צריכה ציוד כלשהו?",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "collapsible_row_dc3qEP",
         "collapsible_row_j4d46m",
-        "collapsible_row_UVTMVa"
+        "collapsible_row_UVTMVa",
+        "collapsible_row_jNefbB"
       ],
       "settings": {
         "caption": "",
