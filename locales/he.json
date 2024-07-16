@@ -371,7 +371,7 @@
         "name": "שם",
         "email": "מייל",
         "phone": "מספר טלפון",
-        "comment": "",
+        "comment": "תוכן הפנייה שלך",
         "send": "שליחה",
         "post_success": "",
         "error_heading": ""
