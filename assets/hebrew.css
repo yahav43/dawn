@@ -3,7 +3,8 @@
 .rtl,
 .image-with-text,
 .footer__content-top,
-.rte p {
+.rte p,
+.product__info-container {
   direction: rtl;
 }
 
