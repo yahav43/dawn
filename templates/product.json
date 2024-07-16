@@ -196,48 +196,38 @@
     "collapsible_content_t8grRA": {
       "type": "collapsible-content",
       "blocks": {
+        "collapsible_row_dc3qEP": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "מה כולל הריטריט?",
+            "icon": "none",
+            "row_content": "<p>הסבר קצר<\/p>",
+            "page": ""
+          }
+        },
         "collapsible_row_j4d46m": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "איך ניתן לצפות בריטריט המוקלט?",
+            "icon": "none",
+            "row_content": "<p>תשובה על זה<\/p>",
             "page": ""
           }
         },
-        "collapsible_row_btPUeQ": {
+        "collapsible_row_UVTMVa": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "collapsible_row_jzkKFL": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "collapsible_row_UjrfWq": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "מה אם אני חדשה ליוגה?",
+            "icon": "none",
+            "row_content": "<p>הריטריט מתאים לכל הרמות, עם תרגולים המותאמים למתחילים ומתקדמים.<\/p>",
             "page": ""
           }
         }
       },
       "block_order": [
+        "collapsible_row_dc3qEP",
         "collapsible_row_j4d46m",
-        "collapsible_row_btPUeQ",
-        "collapsible_row_jzkKFL",
-        "collapsible_row_UjrfWq"
+        "collapsible_row_UVTMVa"
       ],
       "settings": {
         "caption": "",
