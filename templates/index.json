@@ -249,35 +249,35 @@
         "column_JiYR89": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "יעל: שאלה נפוצה",
+            "text": "<p>יעל: תשובה לשאלה הנפוצה<\/p>",
             "link_label": "",
             "link": ""
           }
         },
-        "column_LjQqHt": {
+        "column_cjxCkC": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "יעל: שאלה נפוצה",
+            "text": "<p>יעל: תשובה לשאלה הנפוצה<\/p>",
             "link_label": "",
             "link": ""
           }
         },
-        "column_GffTF9": {
+        "column_HmTW9Y": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "יעל: שאלה נפוצה",
+            "text": "<p>יעל: תשובה לשאלה הנפוצה<\/p>",
             "link_label": "",
             "link": ""
           }
         },
-        "column_mjFPkf": {
+        "column_mg47DY": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "יעל: שאלה נפוצה",
+            "text": "<p>יעל: תשובה לשאלה הנפוצה<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -285,9 +285,9 @@
       },
       "block_order": [
         "column_JiYR89",
-        "column_LjQqHt",
-        "column_GffTF9",
-        "column_mjFPkf"
+        "column_cjxCkC",
+        "column_HmTW9Y",
+        "column_mg47DY"
       ],
       "settings": {
         "title": "<strong>שאלות נפוצות<\/strong>",
@@ -299,8 +299,8 @@
         "columns_desktop": 2,
         "column_alignment": "right",
         "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
+        "button_label": "לפרטים נוספים",
+        "button_link": "shopify:\/\/products\/ריטריט-יוגה-ראשון",
         "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
