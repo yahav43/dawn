@@ -43,16 +43,16 @@
       }
     },
     "cart": {
-      "title": "",
+      "title": "סל הקניות",
       "caption": "",
       "remove_title": "",
-      "estimated_total": "",
-      "new_estimated_total": "",
+      "estimated_total": "סיכום ביניים",
+      "new_estimated_total": "סיכום ביניים",
       "note": "",
-      "checkout": "",
-      "empty": "",
-      "cart_error": "",
-      "cart_quantity_error_html": "",
+      "checkout": "מעבר לתשלום",
+      "empty": "סל הקניות שלך ריק",
+      "cart_error": "אירעה שגיאה בעת טעינת הסל. יש לנסות שנית.",
+      "cart_quantity_error_html": "ניתן להוסיף רק {{ quantity }} מהפריט הזה לסל הקניות בכל רכישה.",
       "duties_and_taxes_included_shipping_at_checkout_with_policy_html": "",
       "duties_and_taxes_included_shipping_at_checkout_without_policy": "",
       "taxes_included_shipping_at_checkout_with_policy_html": "",
@@ -70,15 +70,15 @@
       },
       "update": "",
       "login": {
-        "title": "",
-        "paragraph_html": ""
+        "title": "יש לך משתמש?",
+        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">התחברי<\/a> לתהליך רכישה מהיר ונח."
       }
     },
     "footer": {
-      "payment": ""
+      "payment": "אמצעי תשלום"
     },
     "featured_blog": {
-      "view_all": "",
+      "view_all": "מאמרים נוספים",
       "onboarding_title": "",
       "onboarding_content": ""
     },
