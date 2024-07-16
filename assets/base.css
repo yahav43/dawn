@@ -775,6 +775,10 @@ summary::-webkit-details-marker {
   flex-wrap: wrap;
 }
 
+.title-wrapper-with-link.right {
+  justify-content: end;
+}
+
 .title--primary {
   margin: 4rem 0;
 }
@@ -1165,6 +1169,10 @@ deferred-media {
 .button--tertiary {
   --alpha-button-background: 0;
   --alpha-button-border: 0.2;
+}
+
+.button.bold {
+  font-weight: var(--font-body-weight-bold);
 }
 
 .button,
