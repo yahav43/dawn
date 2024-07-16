@@ -47,7 +47,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/meditation-and-yoga-in-nature.jpg",
-        "image_overlay_opacity": 30,
+        "image_overlay_opacity": 40,
         "image_height": "large",
         "desktop_content_position": "middle-left",
         "show_text_box": false,
