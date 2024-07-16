@@ -31,7 +31,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "לחצי כאן",
-            "button_weight_1": "normal",
+            "button_weight_1": "bold",
             "button_link_1": "shopify:\/\/products\/ריטריט-יוגה-ראשון",
             "button_style_secondary_1": false,
             "button_label_2": "",
