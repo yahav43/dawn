@@ -60,41 +60,32 @@
     "multirow_RkqD97": {
       "type": "multirow",
       "blocks": {
-        "row_4Nt7Q7": {
-          "type": "row",
-          "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        },
         "row_BBLraR": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
+            "image": "shopify:\/\/shop_images\/woman-tilts-her-head-back-and-smiles-outdoors.jpg",
+            "caption": "",
+            "heading": "<strong>מי אנחנו?<\/strong>",
+            "text": "<p>יעל: טקסט מרחיב יותר על המותג, המסר, מי אנחנו<\/p>",
+            "button_label": "",
             "button_link": ""
           }
         },
-        "row_KkfcEP": {
+        "row_4Nt7Q7": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
+            "image": "shopify:\/\/shop_images\/small-rock-piles-on-log.jpg",
+            "caption": "",
+            "heading": "<strong>המשימה שלנו<\/strong>",
+            "text": "<p>יעל: טקסט על מה באנו לעשות, למה לצפות, למה זה טוב, למה זו השליחות שלנו.<\/p>",
+            "button_label": "",
             "button_link": ""
           }
         }
       },
       "block_order": [
-        "row_4Nt7Q7",
         "row_BBLraR",
-        "row_KkfcEP"
+        "row_4Nt7Q7"
       ],
       "settings": {
         "image_height": "medium",
@@ -118,8 +109,8 @@
         "column_DtVENE": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "יתרון 1",
+            "text": "<p>יעל: טקסט על יתרון שלנו<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -127,8 +118,8 @@
         "column_WCGCKg": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "יתרון 2",
+            "text": "<p>יעל: טקסט על יתרון שלנו<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -136,8 +127,8 @@
         "column_qr3dJj": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "יתרון 3",
+            "text": "<p>יעל: טקסט על יתרון שלנו<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -149,28 +140,18 @@
         "column_qr3dJj"
       ],
       "settings": {
-        "title": "למה לבחור ב C.o.C?",
+        "title": "<strong>למה לבחור ב C.o.C?<\/strong>",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
-        "color_scheme": "",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "page_KWVaTW": {
-      "type": "page",
-      "settings": {
-        "page": "",
-        "heading_size": "h1",
-        "color_scheme": "",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -181,15 +162,8 @@
         "heading_BcT6tA": {
           "type": "heading",
           "settings": {
-            "heading": "ריטריט היוגה שלנו",
-            "heading_size": "h1"
-          }
-        },
-        "text_LwPNKy": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
+            "heading": "<strong>מוכנה להתחבר לנפש שלך?<\/strong>",
+            "heading_size": "h2"
           }
         },
         "buttons_Y7LM7T": {
@@ -206,20 +180,20 @@
       },
       "block_order": [
         "heading_BcT6tA",
-        "text_LwPNKy",
         "buttons_Y7LM7T"
       ],
       "settings": {
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image": "shopify:\/\/shop_images\/leaning-into-yoga-on-the-rocks.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "small",
         "desktop_content_position": "middle-center",
-        "show_text_box": true,
+        "show_text_box": false,
         "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
+        "color_scheme": "scheme-4",
+        "image_behavior": "zoom-in",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
-        "show_text_below": true
+        "show_text_below": false
       }
     },
     "featured_blog_Qz8A6d": {
@@ -254,7 +228,6 @@
     "image_banner",
     "multirow_RkqD97",
     "multicolumn_FFmiYB",
-    "page_KWVaTW",
     "image_banner_imkE4Q",
     "featured_blog_Qz8A6d",
     "contact_form_MDwcX6"
