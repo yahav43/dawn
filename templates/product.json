@@ -193,6 +193,20 @@
         "padding_bottom": 28
       }
     },
+    "video_R9QTQb": {
+      "type": "video",
+      "settings": {
+        "heading": "הצצה פנימה",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": true,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "collapsible_content_t8grRA": {
       "type": "collapsible-content",
       "blocks": {
@@ -249,6 +263,7 @@
     "main",
     "multicolumn",
     "related-products",
+    "video_R9QTQb",
     "collapsible_content_t8grRA"
   ]
 }
