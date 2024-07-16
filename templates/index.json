@@ -31,6 +31,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "לחצי כאן",
+            "button_weight_1": "bold",
             "button_link_1": "shopify:\/\/products\/ריטריט-יוגה-ראשון",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -143,6 +144,7 @@
       "settings": {
         "title": "<strong>למה לבחור ב C.o.C?<\/strong>",
         "title_direction": "rtl",
+        "title_alignment": "center",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -164,6 +166,8 @@
         "title": "לקוחות מספרות",
         "list_item_direction": "rtl",
         "heading_size": "h1",
+        "title_alignment": "center",
+        "list_item_text_alignment": "center",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
@@ -193,6 +197,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "לחצי כאן",
+            "button_weight_1": "normal",
             "button_link_1": "shopify:\/\/products\/ריטריט-יוגה-ראשון",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -224,6 +229,7 @@
       "settings": {
         "heading": "מאמרים שאולי תאהבי",
         "heading_size": "h1",
+        "title_alignment": "right",
         "blog": "blog",
         "post_limit": 3,
         "columns_desktop": 3,
@@ -276,6 +282,7 @@
       "settings": {
         "title": "<strong>שאלות נפוצות<\/strong>",
         "title_direction": "rtl",
+        "title_alignment": "center",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -324,6 +331,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "לחצי כאן",
+            "button_weight_1": "normal",
             "button_link_1": "shopify:\/\/products\/ריטריט-יוגה-ראשון",
             "button_style_secondary_1": false,
             "button_label_2": "",
