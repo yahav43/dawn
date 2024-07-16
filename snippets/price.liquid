@@ -106,8 +106,8 @@
           {{ money_price }}
         </span>
         <span class="badge badge-discount">
-          {{ 'products.product.discount' | t }}
           {{ percentageOff }}%
+          {{ 'products.product.discount' | t }}
         </span>
       </div>
       <small class="unit-price caption{% if product.selected_or_first_available_variant.unit_price_measurement == nil %} hidden{% endif %}">

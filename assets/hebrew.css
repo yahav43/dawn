@@ -4,7 +4,9 @@
 .image-with-text,
 .footer__content-top,
 .rte p,
-.product__info-container {
+.product__info-container,
+.accordion summary,
+.drawer__inner {
   direction: rtl;
 }
 
@@ -15,6 +17,25 @@
 .price span.price-item,
 .price s.price-item {
   margin: 0 0 0 1rem;
+}
+
+button.drawer__close {
+  right: auto;
+  left: -10px;
+}
+
+summary svg.icon.icon-caret {
+  right: auto;
+  left: 1.5rem;
+}
+
+.cart-drawer tr.cart-item>td+td {
+  padding-right: 1rem;
+  padding-left: 0;
+}
+
+.cart-item__quantity-wrapper {
+  justify-content: space-between;
 }
 
 @media only screen and (min-width: 750px) {
