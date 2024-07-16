@@ -213,6 +213,59 @@
         "padding_bottom": 36
       }
     },
+    "multicolumn_wX3qMW": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_JiYR89": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_LjQqHt": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_GffTF9": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_JiYR89",
+        "column_LjQqHt",
+        "column_GffTF9"
+      ],
+      "settings": {
+        "title": "<strong>שאלות נפוצות<\/strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "contact_form_MDwcX6": {
       "type": "contact-form",
       "settings": {
@@ -222,6 +275,54 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_banner_TDHjac": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_kjr7r3": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>למה את מחכה?<\/strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_QWRLYU": {
+          "type": "text",
+          "settings": {
+            "text": "הגיע הזמן לשים את עצמך במרכז.",
+            "text_style": "subtitle"
+          }
+        },
+        "buttons_Ndhcmz": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "לחצי כאן",
+            "button_link_1": "shopify:\/\/products\/ריטריט-יוגה-ראשון",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_kjr7r3",
+        "text_QWRLYU",
+        "buttons_Ndhcmz"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/woman-does-yoga-by-the-water.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-4",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
     }
   },
   "order": [
@@ -230,6 +331,8 @@
     "multicolumn_FFmiYB",
     "image_banner_imkE4Q",
     "featured_blog_Qz8A6d",
-    "contact_form_MDwcX6"
+    "multicolumn_wX3qMW",
+    "contact_form_MDwcX6",
+    "image_banner_TDHjac"
   ]
 }
