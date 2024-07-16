@@ -47,7 +47,9 @@
     >
       {%- unless section.settings.heading == blank -%}
         <div class="title-wrapper title-wrapper--no-top-margin{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}">
-          <h2 class="title inline-richtext {{ section.settings.heading_size }}">{{ section.settings.heading }}</h2>
+          <h2 class="title inline-richtext {{ section.settings.heading_size }} {{ section.settings.heading_text_alignment }}">
+            {{ section.settings.heading }}
+          </h2>
         </div>
       {%- endunless -%}
     </div>
@@ -160,6 +162,26 @@
       ],
       "default": "h1",
       "label": "t:sections.all.heading_size.label"
+    },
+    {
+      "type": "select",
+      "id": "heading_text_alignment",
+      "options": [
+        {
+          "value": "left",
+          "label": "Left"
+        },
+        {
+          "value": "center",
+          "label": "Center"
+        },
+        {
+          "value": "right",
+          "label": "Right"
+        }
+      ],
+      "default": "center",
+      "label": "Title text alignment"
     },
     {
       "type": "checkbox",

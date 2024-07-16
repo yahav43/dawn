@@ -228,6 +228,7 @@
       "choose_options": "",
       "choose_product_options": "",
       "description": "תיאור",
+      "discount": "הנחה",
       "inventory_in_stock": "במלאי",
       "inventory_in_stock_show_count": "{{ quantity }} במלאי",
       "inventory_low_stock": "מלאי נמוך",
