@@ -23,6 +23,11 @@
     {%- else -%}
       <h2 class="visually-hidden">{{ 'templates.contact.form.title' | t }}</h2>
     {%- endif -%}
+    {%- if section.settings.sub_heading != blank -%}
+      <div class="rte">
+        {{ section.settings.sub_heading }}
+      </div>
+    {%- endif -%}
     {%- liquid
       assign contact_form_class = 'isolate'
       if settings.animations_reveal_on_scroll
@@ -190,6 +195,11 @@
       ],
       "default": "h1",
       "label": "t:sections.all.heading_size.label"
+    },
+    {
+      "type": "text",
+      "id": "sub_heading",
+      "label": "Contact from sub heading"
     },
     {
       "type": "color_scheme",

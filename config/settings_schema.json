@@ -1311,6 +1311,12 @@
       },
       {
         "type": "text",
+        "id": "whatsapp_contact_phone",
+        "label": "Whatsapp contact phone number",
+        "placeholder": "Main contact phone number for Whatsapp"
+      },
+      {
+        "type": "text",
         "id": "social_facebook_link",
         "label": "t:settings_schema.social-media.settings.social_facebook_link.label",
         "placeholder": "t:settings_schema.social-media.settings.social_facebook_link.info"
