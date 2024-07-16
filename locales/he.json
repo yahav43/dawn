@@ -194,7 +194,7 @@
     }
   },
   "newsletter": {
-    "label": "",
+    "label": "מייל",
     "success": "",
     "button_label": ""
   },
@@ -209,7 +209,7 @@
       "moderated": "",
       "comment_form_title": "",
       "name": "",
-      "email": "",
+      "email": "מייל",
       "message": "",
       "post": "",
       "back_to_blog": "",
@@ -369,7 +369,7 @@
       "form": {
         "title": "",
         "name": "שם",
-        "email": "",
+        "email": "מייל",
         "phone": "",
         "comment": "",
         "send": "",
@@ -435,7 +435,7 @@
     "login_page": {
       "cancel": "",
       "create_account": "",
-      "email": "",
+      "email": "מייל",
       "forgot_password": "",
       "guest_continue": "",
       "guest_title": "",
@@ -483,14 +483,14 @@
     },
     "recover_password": {
       "title": "",
-      "subtext": "",
-      "success": ""
+      "subtext": "אנחנו נשלח אליך מייל עם הוראות לאיפוס הסיסמא שלך.",
+      "success": "שלחנו אליך מייל עם הוראות לאיפוס הסיסמה שלך כעת."
     },
     "register": {
       "title": "",
       "first_name": "שם פרטי",
       "last_name": "שם משפחה",
-      "email": "",
+      "email": "מייל",
       "password": "",
       "submit": ""
     },
@@ -522,9 +522,9 @@
       "checkbox": "",
       "expanded": "",
       "collapsed": "",
-      "email_label": "",
-      "email_label_optional_for_no_js_behavior": "",
-      "email": "",
+      "email_label": "מייל",
+      "email_label_optional_for_no_js_behavior": "מייל",
+      "email": "מייל",
       "name_label": "שם",
       "name": "שם",
       "message_label": "",
