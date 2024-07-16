@@ -533,5 +533,17 @@
       "send_on": "",
       "send_on_label": ""
     }
+  },
+  "shopify": {
+    "checkout": {
+      "contact": {
+        "email_or_phone_label": "מייל או טלפון",
+        "email_or_phone_placeholder": "מייל או טלפון",
+        "phone_label": "מספר טלפון",
+        "optional_phone_label": "מספר טלפון (לא חובה)",
+        "phone_placeholder": "טלפון",
+        "phone_tooltip": "במידה ונצטרך ליצור איתך קשר לגבי ההזמנה שלך"
+      }
+    }
   }
 }
