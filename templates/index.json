@@ -156,6 +156,25 @@
         "padding_bottom": 36
       }
     },
+    "multicolumn_metaobject_D7Dgxt": {
+      "type": "multicolumn-metaobject",
+      "settings": {
+        "title": "לקוחות מספרות",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_banner_imkE4Q": {
       "type": "image-banner",
       "blocks": {
@@ -329,6 +348,7 @@
     "image_banner",
     "multirow_RkqD97",
     "multicolumn_FFmiYB",
+    "multicolumn_metaobject_D7Dgxt",
     "image_banner_imkE4Q",
     "featured_blog_Qz8A6d",
     "multicolumn_wX3qMW",
