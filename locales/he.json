@@ -201,21 +201,21 @@
   "blogs": {
     "article": {
       "blog": "",
-      "read_more_title": "",
+      "read_more_title": "למאמר המלא",
       "comments": {
-        "one": "",
+        "one": "תגובה אחת",
         "other": ""
       },
-      "moderated": "",
-      "comment_form_title": "",
-      "name": "",
+      "moderated": "בניהול שלנו",
+      "comment_form_title": "טופס השארת תגובה",
+      "name": "שם",
       "email": "מייל",
-      "message": "",
-      "post": "",
-      "back_to_blog": "",
+      "message": "התגובה שלך",
+      "post": "שליחה",
+      "back_to_blog": "חזרה",
       "share": "",
-      "success": "",
-      "success_moderated": ""
+      "success": "תגובתך נשלחה ותעלה בקרוב.",
+      "success_moderated": "תגובתך נשלחה ואנו נתייחס אליה בהקדם."
     }
   },
   "onboarding": {

@@ -6,12 +6,20 @@
 .rte p,
 .product__info-container,
 .accordion summary,
-.drawer__inner {
+.drawer__inner,
+div.main-blog,
+.article-template,
+.article-template__comment-wrapper {
   direction: rtl;
 }
 
-.image-with-text__text p {
+.image-with-text__text p, input.field__input, .customer .field input {
   text-align: right;
+}
+
+label.field__label, .customer .field label {
+  left: auto;
+  right: calc(var(--inputs-border-width) + 2rem);
 }
 
 .price span.price-item,
@@ -36,6 +44,12 @@ summary svg.icon.icon-caret {
 
 .cart-item__quantity-wrapper {
   justify-content: space-between;
+}
+
+.article-template__link span.icon-wrap {
+  transform: rotate(0);
+  margin-right: 0;
+  margin-left: 1rem;
 }
 
 @media only screen and (min-width: 750px) {
