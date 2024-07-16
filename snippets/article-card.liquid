@@ -11,6 +11,7 @@
   - show_author: {String} The setting either show the article author or not. If it's not included it will not show the author by default
   - show_badge: {String} The setting either show the blog badge or not.
   - lazy_load: {Boolean} Image should be lazy loaded. Default: true (optional)
+  - info_direction: {Boolean} The direction of the content.
 
   Usage:
   {% render 'article-card' blog: blog, article: article, show_image: section.settings.show_image %}
@@ -73,7 +74,7 @@
             </div>
           </div>
         {%- endif -%}
-        <div class="card__content">
+        <div class="card__content {{ info_direction }}">
           <div class="card__information">
             <h3 class="card__heading{% if show_excerpt %} h2{% endif %}">
               <a href="{{ article.url }}" class="full-unstyled-link">
@@ -112,7 +113,7 @@
           {%- endif -%}
         </div>
       </div>
-      <div class="card__content">
+      <div class="card__content {{ info_direction }}">
         <div class="card__information">
           <h3 class="card__heading{% if show_excerpt %} h2{% endif %}">
             <a href="{{ article.url }}" class="full-unstyled-link">
