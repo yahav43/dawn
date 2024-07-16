@@ -148,23 +148,23 @@
     },
     "social": {
       "alt_text": {
-        "share_on_facebook": "",
-        "share_on_twitter": "",
-        "share_on_pinterest": ""
+        "share_on_facebook": "שיתוף בפייסבוק",
+        "share_on_twitter": "שיתוף בטוויטר",
+        "share_on_pinterest": "שיתוף בפינטרסט"
       },
       "links": {
-        "twitter": "",
-        "facebook": "",
-        "pinterest": "",
-        "instagram": "",
+        "twitter": "טוויטר",
+        "facebook": "פייסבוק",
+        "pinterest": "פינטרסט",
+        "instagram": "אינסטגרם",
         "tumblr": "",
         "snapchat": "",
-        "youtube": "",
+        "youtube": "יוטיוב",
         "vimeo": "",
-        "tiktok": ""
+        "tiktok": "טיקטוק"
       }
     },
-    "continue_shopping": "",
+    "continue_shopping": "לאתר",
     "pagination": {
       "label": "",
       "page": "",
@@ -176,13 +176,13 @@
       "reset": ""
     },
     "cart": {
-      "view": "",
-      "view_empty_cart": "",
-      "item_added": ""
+      "view": "סל הקניות ({{ count }})",
+      "view_empty_cart": "סל הקניות שלך ריק",
+      "item_added": "נוסף לסל!"
     },
     "share": {
       "close": "",
-      "copy_to_clipboard": "",
+      "copy_to_clipboard": "העתקה",
       "share_url": "",
       "success_message": ""
     },
