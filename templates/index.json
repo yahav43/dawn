@@ -289,8 +289,8 @@
         "text_QWRLYU": {
           "type": "text",
           "settings": {
-            "text": "הגיע הזמן לשים את עצמך במרכז.",
-            "text_style": "subtitle"
+            "text": "הגיע הזמן לשים את עצמך במרכז המעגל.",
+            "text_style": "body"
           }
         },
         "buttons_Ndhcmz": {
