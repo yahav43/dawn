@@ -15,14 +15,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Center Of The Circle",
-            "heading_size": "h0"
+            "heading": "The Center Of The Circle",
+            "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "תיאור קצר",
+            "text": "מרחב להיזכרות וחזרה הביתה , אלייך, אל עצמך, אל <strong>מרכז המעגל.<\/strong>",
             "text_style": "body"
           }
         },
