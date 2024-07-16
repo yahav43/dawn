@@ -224,19 +224,19 @@
   },
   "products": {
     "product": {
-      "add_to_cart": "",
+      "add_to_cart": "הוספה לסל",
       "choose_options": "",
       "choose_product_options": "",
-      "description": "",
-      "inventory_in_stock": "",
-      "inventory_in_stock_show_count": "",
-      "inventory_low_stock": "",
+      "description": "תיאור",
+      "inventory_in_stock": "במלאי",
+      "inventory_in_stock_show_count": "{{ quantity }} במלאי",
+      "inventory_low_stock": "מלאי נמוך",
       "inventory_low_stock_show_count": "",
-      "inventory_out_of_stock": "",
-      "inventory_out_of_stock_continue_selling": "",
-      "sku": "",
-      "on_sale": "",
-      "product_variants": "",
+      "inventory_out_of_stock": "אזל המלאי",
+      "inventory_out_of_stock_continue_selling": "במלאי",
+      "sku": "מקט",
+      "on_sale": "SALE",
+      "product_variants": "משתני מוצר",
       "media": {
         "gallery_viewer": "",
         "load_image": "",
@@ -248,8 +248,8 @@
         "play_video": ""
       },
       "quantity": {
-        "label": "",
-        "input_label": "",
+        "label": "כמות",
+        "input_label": "כמות עבור {{ product }}",
         "increase": "",
         "decrease": "",
         "minimum_of": "",
@@ -257,7 +257,7 @@
         "multiples_of": "",
         "min_of": "",
         "max_of": "",
-        "in_cart_html": "",
+        "in_cart_html": "<span class=\"quantity-car\"״>{{ quantity }}<\/span> בסל",
         "note": ""
       },
       "volume_pricing": {
@@ -278,24 +278,24 @@
       },
       "price": {
         "from_price_html": "",
-        "regular_price": "",
-        "sale_price": "",
+        "regular_price": "מחיר",
+        "sale_price": "מחיר מבצע",
         "unit_price": ""
       },
-      "share": "",
-      "sold_out": "",
-      "unavailable": "",
+      "share": "שיתוף",
+      "sold_out": "אזל המלאי",
+      "unavailable": "לא זמין למכירה",
       "vendor": "",
       "value_unavailable": "",
       "variant_sold_out_or_unavailable": "",
       "video_exit_message": "",
-      "view_full_details": "",
+      "view_full_details": "לפרטים נוספים",
       "xr_button": "",
       "xr_button_label": "",
-      "taxes_included": "",
+      "taxes_included": "כולל מע״מ",
       "duties_included": "",
-      "duties_and_taxes_included": "",
-      "shipping_policy_html": ""
+      "duties_and_taxes_included": "כולל מע״מ",
+      "shipping_policy_html": "<a href=\"{{ link }}\">משלוח<\/a> יחושב בשלב התשלום."
     },
     "modal": {
       "label": ""
@@ -303,19 +303,19 @@
     "facets": {
       "filter_and_operator_subtitle": "",
       "apply": "",
-      "clear": "",
-      "clear_all": "",
-      "from": "",
-      "filter_and_sort": "",
-      "filter_by_label": "",
-      "filter_button": "",
+      "clear": "איפוס",
+      "clear_all": "ניקוי הכל",
+      "from": "מ",
+      "filter_and_sort": "פילטר",
+      "filter_by_label": "פילטור לפי:",
+      "filter_button": "החל",
       "filters_selected": {
-        "one": "",
-        "other": ""
+        "one": "פילטר {{ count }} פעיל",
+        "other": "{{ count }} פילטרים פעילים"
       },
-      "filter_selected_accessibility": "",
-      "show_more": "",
-      "show_less": "",
+      "filter_selected_accessibility": "{{ type }} ({{ count }}) סינונים פעילים",
+      "show_more": "הצג עוד",
+      "show_less": "הצג פחות",
       "max_price": "",
       "product_count": {
         "one": "",
@@ -325,11 +325,11 @@
         "one": "",
         "other": ""
       },
-      "reset": "",
-      "sort_button": "",
-      "sort_by_label": "",
+      "reset": "איפוס",
+      "sort_button": "סינון",
+      "sort_by_label": "סינון לפי:",
       "to": "",
-      "clear_filter": ""
+      "clear_filter": "איפוס"
     }
   },
   "templates": {
