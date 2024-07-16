@@ -16,7 +16,8 @@
           "type": "heading",
           "settings": {
             "heading": "The Center Of The Circle",
-            "heading_size": "h1"
+            "heading_size": "h1",
+            "title_direction": "rtl"
           }
         },
         "text": {
@@ -47,7 +48,7 @@
         "image": "shopify:\/\/shop_images\/meditation-and-yoga-in-nature.jpg",
         "image_overlay_opacity": 30,
         "image_height": "large",
-        "desktop_content_position": "bottom-center",
+        "desktop_content_position": "middle-left",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "scheme-4",
@@ -141,6 +142,7 @@
       ],
       "settings": {
         "title": "<strong>למה לבחור ב C.o.C?<\/strong>",
+        "title_direction": "rtl",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -160,6 +162,7 @@
       "type": "multicolumn-metaobject",
       "settings": {
         "title": "לקוחות מספרות",
+        "list_item_direction": "rtl",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -182,7 +185,8 @@
           "type": "heading",
           "settings": {
             "heading": "<strong>מוכנה להתחבר לנפש שלך?<\/strong>",
-            "heading_size": "h2"
+            "heading_size": "h2",
+            "title_direction": "rtl"
           }
         },
         "buttons_Y7LM7T": {
@@ -223,6 +227,7 @@
         "blog": "blog",
         "post_limit": 3,
         "columns_desktop": 3,
+        "info_direction": "rtl",
         "color_scheme": "",
         "show_image": true,
         "show_date": false,
@@ -270,6 +275,7 @@
       ],
       "settings": {
         "title": "<strong>שאלות נפוצות<\/strong>",
+        "title_direction": "rtl",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -288,6 +294,7 @@
     "contact_form_MDwcX6": {
       "type": "contact-form",
       "settings": {
+        "direction": "rtl",
         "heading": "Contact form",
         "heading_size": "h1",
         "color_scheme": "",
@@ -302,7 +309,8 @@
           "type": "heading",
           "settings": {
             "heading": "<strong>למה את מחכה?<\/strong>",
-            "heading_size": "h2"
+            "heading_size": "h2",
+            "title_direction": "rtl"
           }
         },
         "text_QWRLYU": {
