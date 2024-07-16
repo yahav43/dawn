@@ -1171,7 +1171,7 @@ deferred-media {
   --alpha-button-border: 0.2;
 }
 
-.button.bold {
+.button.bold, button.bold {
   font-weight: var(--font-body-weight-bold);
 }
 

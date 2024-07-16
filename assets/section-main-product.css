@@ -1476,3 +1476,7 @@ a.product__text {
     border: none;
   }
 }
+
+.product-form__buttons button {
+  font-weight: var(--font-body-weight-bold);
+}
