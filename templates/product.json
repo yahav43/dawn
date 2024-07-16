@@ -208,6 +208,61 @@
         "padding_bottom": 36
       }
     },
+    "multicolumn_H6jPCm": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_iW6rCb": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_tq4aU9": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_dDLENK": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_iW6rCb",
+        "column_tq4aU9",
+        "column_dDLENK"
+      ],
+      "settings": {
+        "title": "איך זה עובד?",
+        "title_direction": "rtl",
+        "title_alignment": "center",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "collapsible_content_t8grRA": {
       "type": "collapsible-content",
       "blocks": {
@@ -265,6 +320,7 @@
     "multicolumn",
     "related-products",
     "video_R9QTQb",
+    "multicolumn_H6jPCm",
     "collapsible_content_t8grRA"
   ]
 }
