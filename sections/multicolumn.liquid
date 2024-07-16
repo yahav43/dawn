@@ -31,7 +31,7 @@
     {% endif %}
   >
     {%- unless section.settings.title == blank -%}
-      <div class="title-wrapper-with-link title-wrapper--self-padded-mobile title-wrapper--no-top-margin multicolumn__title">
+      <div class="title-wrapper-with-link title-wrapper--self-padded-mobile title-wrapper--no-top-margin multicolumn__title {{ section.settings.title_alignment }}">
         <h2 class="title inline-richtext {{ section.settings.heading_size }} {{ section.settings.title_direction }}">
           {{ section.settings.title }}
         </h2>
@@ -217,6 +217,26 @@
           "label": "Left To Right"
         }
       ]
+    },
+    {
+      "type": "select",
+      "id": "title_alignment",
+      "label": "Title Text Alignment",
+      "options": [
+        {
+          "value": "left",
+          "label": "Left"
+        },
+        {
+          "value": "center",
+          "label": "Center"
+        },
+        {
+          "value": "right",
+          "label": "Right"
+        }
+      ],
+      "default": "center"
     },
     {
       "type": "select",
