@@ -17,6 +17,15 @@
           "settings": {
           }
         },
+        "stamped_product_reviews_ugc_star_rating_badge_xLqL8N": {
+          "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/star-rating-badge\/a103faaf-2125-4b0e-89fa-de5149736723",
+          "settings": {
+            "use_metafields": false,
+            "sku_tagtype": "sku",
+            "is_featured_product": false,
+            "featured_product_handle": ""
+          }
+        },
         "caption": {
           "type": "text",
           "settings": {
@@ -66,6 +75,7 @@
       },
       "block_order": [
         "title",
+        "stamped_product_reviews_ugc_star_rating_badge_xLqL8N",
         "caption",
         "price",
         "variant_picker",
@@ -198,6 +208,7 @@
       "settings": {
         "heading": "הצצה פנימה",
         "heading_size": "h1",
+        "heading_text_alignment": "center",
         "enable_video_looping": false,
         "video": "{{ product.metafields.custom.video_trailer.value }}",
         "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
