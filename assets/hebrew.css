@@ -2,7 +2,8 @@
 
 .rtl,
 .image-with-text,
-.footer__content-top {
+.footer__content-top,
+.rte p {
   direction: rtl;
 }
 
