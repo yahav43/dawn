@@ -193,16 +193,6 @@
         "padding_bottom": 28
       }
     },
-    "quick_order_list_iAqNHr": {
-      "type": "quick-order-list",
-      "settings": {
-        "show_image": false,
-        "show_sku": false,
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "collapsible_content_t8grRA": {
       "type": "collapsible-content",
       "blocks": {
@@ -269,7 +259,6 @@
     "main",
     "multicolumn",
     "related-products",
-    "quick_order_list_iAqNHr",
     "collapsible_content_t8grRA"
   ]
 }
