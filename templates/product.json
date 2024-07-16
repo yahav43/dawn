@@ -266,10 +266,11 @@
     "secondary_product_VJLDN9": {
       "type": "secondary-product",
       "blocks": {
-        "title_wLnVWF": {
-          "type": "title",
+        "text_nh3tji": {
+          "type": "text",
           "settings": {
-            "heading_size": "h1"
+            "text": "<strong>{{ section.settings.product.metafields.custom.secondary_product_section_title.value }}<\/strong>",
+            "text_style": "body"
           }
         },
         "price_izFeNJ": {
@@ -293,7 +294,7 @@
         }
       },
       "block_order": [
-        "title_wLnVWF",
+        "text_nh3tji",
         "price_izFeNJ",
         "variant_picker_8FjD3c",
         "buy_buttons_hrANC9"
