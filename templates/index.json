@@ -167,7 +167,7 @@
         "list_item_direction": "rtl",
         "heading_size": "h1",
         "title_alignment": "center",
-        "list_item_text_alignment": "center",
+        "list_item_text_alignment": "right",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
