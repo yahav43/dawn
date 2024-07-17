@@ -60,6 +60,10 @@ summary svg.icon.icon-caret {
   justify-content: space-between;
 }
 
+div.totals>*+* {
+  margin-left: 0;
+}
+
 .article-template__link span.icon-wrap {
   transform: rotate(0);
   margin-right: 0;
