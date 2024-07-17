@@ -37,6 +37,20 @@ summary svg.icon.icon-caret {
   left: 1.5rem;
 }
 
+.newsletter-form__field-wrapper input.field__input {
+  padding-right: 1.5rem;
+  padding-left: 5rem;
+}
+
+.newsletter-form__field-wrapper button.newsletter-form__button {
+  right: auto;
+  left: var(--inputs-border-width);
+}
+
+.newsletter-form__field-wrapper button.newsletter-form__button .icon {
+  transform: rotate(180deg);
+}
+
 .cart-drawer tr.cart-item>td+td {
   padding-right: 1rem;
   padding-left: 0;
