@@ -27,11 +27,20 @@
             "heading": "Our mission",
             "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
           }
+        },
+        "image_Kja6rx": {
+          "type": "image",
+          "settings": {
+            "image": "{{ shop.brand.logo }}",
+            "image_width": 100,
+            "alignment": "center"
+          }
         }
       },
       "block_order": [
         "footer-1",
-        "footer-2"
+        "footer-2",
+        "image_Kja6rx"
       ],
       "settings": {
         "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
