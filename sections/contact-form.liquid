@@ -17,12 +17,21 @@
 <div class="color-{{ section.settings.color_scheme }} gradient {{ section.settings.direction }}">
   <div class="contact page-width page-width--narrow section-{{ section.id }}-padding">
     {%- if section.settings.heading != blank -%}
-      <h2 class="title title-wrapper--no-top-margin inline-richtext {{ section.settings.heading_size }}{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}">
+      <h2 class="title title-wrapper--no-top-margin inline-richtext {{ section.settings.heading_size }} {{ section.settings.heading_alignment }}{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}">
         {{ section.settings.heading }}
       </h2>
     {%- else -%}
       <h2 class="visually-hidden">{{ 'templates.contact.form.title' | t }}</h2>
     {%- endif -%}
+    {% if settings.whatsapp_contact_phone != blank %}
+      <a
+        href="https://wa.me/{{ settings.whatsapp_contact_phone }}"
+        target="_blank"
+        class="contact-whatsapp-icon title {{ section.settings.heading_alignment }}"
+      >
+        {% render 'icon-whatsapp' %}
+      </a>
+    {% endif %}
     {%- if section.settings.sub_heading != blank -%}
       <div class="rte">
         {{ section.settings.sub_heading }}
@@ -195,6 +204,26 @@
       ],
       "default": "h1",
       "label": "t:sections.all.heading_size.label"
+    },
+    {
+      "type": "select",
+      "id": "heading_alignment",
+      "label": "Heading Text Alignment",
+      "options": [
+        {
+          "value": "left",
+          "label": "Left"
+        },
+        {
+          "value": "center",
+          "label": "Center"
+        },
+        {
+          "value": "right",
+          "label": "Right"
+        }
+      ],
+      "default": "center"
     },
     {
       "type": "richtext",

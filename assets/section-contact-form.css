@@ -14,6 +14,18 @@
   margin-bottom: 1.5rem;
 }
 
+.contact-whatsapp-icon {
+  display: block;
+}
+
+.contact-whatsapp-icon .icon {
+  fill: rgba(var(--color-button),var(--alpha-button-background));
+}
+
+.contact .rte {
+  margin-bottom: 2rem;
+}
+
 @media screen and (min-width: 750px) {
   .contact .field {
     margin-bottom: 2rem;
