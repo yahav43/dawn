@@ -136,6 +136,9 @@
     }
   },
   "general": {
+    "breadcrumbs": {
+      "homepage": "דף הבית"
+    },
     "password_page": {
       "login_form_heading": "",
       "login_password_button": "",
