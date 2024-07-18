@@ -359,5 +359,15 @@
     {%- if settings.predictive_search_enabled -%}
       <script src="{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
+
+    {%- if settings.show_floating_whatsapp_bubble == true and settings.whatsapp_contact_phone != blank -%}
+      <a
+        href="https://wa.me/{{ settings.whatsapp_contact_phone }}"
+        target="_blank"
+        class="contact-whatsapp-icon site-wide-icon"
+      >
+        {% render 'icon-whatsapp' %}
+      </a>
+    {%- endif -%}
   </body>
 </html>

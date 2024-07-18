@@ -1316,6 +1316,12 @@
         "placeholder": "Main contact phone number for Whatsapp"
       },
       {
+        "type": "checkbox",
+        "id": "show_floating_whatsapp_bubble",
+        "label": "Toggle floating Whatsapp bubble",
+        "default": true
+      },
+      {
         "type": "text",
         "id": "social_facebook_link",
         "label": "t:settings_schema.social-media.settings.social_facebook_link.label",

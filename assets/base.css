@@ -2539,7 +2539,7 @@ input[type='checkbox'] {
 .header__icon .icon {
   height: 2rem;
   width: 2rem;
-  fill: none;
+  /* fill: none; */
   vertical-align: middle;
 }
 
@@ -3581,4 +3581,23 @@ details-disclosure > details {
   100% {
     transform: translateX(100%) scaleX(0);
   }
+}
+
+.site-wide-icon {
+  position: fixed;
+  bottom: 1em;
+  right: 1em;
+}
+
+.site-wide-icon .icon {
+  width: 3em;
+  height: 3em;
+  fill: #fff;
+  background: #fff;
+  border-radius: 50%;
+}
+
+.site-wide-icon .icon path {
+  fill: #22d365;
+  background: #fff;
 }

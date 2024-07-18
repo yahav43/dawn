@@ -289,6 +289,14 @@
         {%- endcase -%}
       {%- endfor -%}
 
+      {% if section.settings.show_whatsapp == true %}
+        <a href="https://wa.me/{{ settings.whatsapp_contact_phone }}" 
+          class="header__icon header__icon--whatsapp link focus-inset"
+          target="_blank">
+          {% render 'icon-whatsapp' %}
+        </a>
+      {% endif %}
+
       <a href="{{ routes.cart_url }}" class="header__icon header__icon--cart link focus-inset" id="cart-icon-bubble">
         {%- liquid
           if cart == empty
@@ -473,6 +481,12 @@
   "class": "section-header",
   "max_blocks": 3,
   "settings": [
+    {
+      "type": "checkbox",
+      "id": "show_whatsapp",
+      "default": true,
+      "label": "Toggle Whatsapp icon in the header"
+    },
     {
       "type": "select",
       "id": "logo_position",
