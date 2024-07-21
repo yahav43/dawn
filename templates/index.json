@@ -201,28 +201,6 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_metaobject_D7Dgxt": {
-      "type": "multicolumn-metaobject",
-      "settings": {
-        "title": "לקוחות מספרות",
-        "list_item_direction": "rtl",
-        "heading_size": "h1",
-        "title_alignment": "center",
-        "list_item_text_alignment": "right",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "image_banner_imkE4Q": {
       "type": "image-banner",
       "blocks": {
@@ -263,6 +241,28 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": false
+      }
+    },
+    "multicolumn_metaobject_D7Dgxt": {
+      "type": "multicolumn-metaobject",
+      "settings": {
+        "title": "לקוחות מספרות",
+        "list_item_direction": "rtl",
+        "heading_size": "h1",
+        "title_alignment": "center",
+        "list_item_text_alignment": "right",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "featured_blog_Qz8A6d": {
@@ -417,8 +417,8 @@
     "image_banner",
     "multirow_RkqD97",
     "multicolumn_FFmiYB",
-    "multicolumn_metaobject_D7Dgxt",
     "image_banner_imkE4Q",
+    "multicolumn_metaobject_D7Dgxt",
     "featured_blog_Qz8A6d",
     "multicolumn_wX3qMW",
     "contact_form_MDwcX6",
