@@ -190,7 +190,6 @@
         "heading_size": "h1",
         "heading_text_alignment": "center",
         "enable_video_looping": false,
-        "video": "{{ product.metafields.custom.video_trailer.value }}",
         "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
         "description": "",
         "full_width": true,
