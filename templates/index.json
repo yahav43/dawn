@@ -131,8 +131,8 @@
         "column_WCGCKg": {
           "type": "column",
           "settings": {
-            "title": "800+ מטופלים מרוצים",
-            "text": "<p>כל מה שבחרנו להגיש לך עבר תהליך קפדני של מחקר אמפירי על מאות מטופלים ותלמידים , לאורך יותר משני עשורים. אנחנו מגישים לך פה רק את מה שבוודאות עובד.<\/p>",
+            "title": "800+ מטופלים. 20 שנות ניסיון",
+            "text": "<p>כל מה שבחרנו להגיש לך עבר תהליך קפדני של מחקר אמפירי על מאות מטופלים ותלמידים , לאורך יותר משני עשורים.<br\/>אנחנו מגישים לך פה רק את מה שבוודאות עובד.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -145,12 +145,42 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_ncPBLY": {
+          "type": "column",
+          "settings": {
+            "title": "פשטות",
+            "text": "<p>אנחנו מאמינים שבסוף הכל פשוט! ברור לנו שאמת נאמרת במשפט קצר אחד.<br\/>לכן, הכלים המוגשים פה הינם כלים פשוטים וקלים לשימוש איפה שאת נמצאת.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_XtQMVy": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_jg9NH7": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "column_DtVENE",
         "column_WCGCKg",
-        "column_qr3dJj"
+        "column_qr3dJj",
+        "column_ncPBLY",
+        "column_XtQMVy",
+        "column_jg9NH7"
       ],
       "settings": {
         "title": "<strong>למה לבחור ב C.o.C?<\/strong>",
