@@ -123,7 +123,7 @@
     "cart_type": "drawer",
     "show_vendor": false,
     "show_cart_note": false,
-    "cart_drawer_collection": "",
+    "cart_drawer_collection": "yoga-retreats",
     "cart_color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
     "sections": {
       "main-password-header": {
