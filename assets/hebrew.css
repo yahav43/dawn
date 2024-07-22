@@ -9,7 +9,8 @@
 .drawer__inner,
 div.main-blog,
 .article-template,
-.article-template__comment-wrapper {
+.article-template__comment-wrapper,
+.customer {
   direction: rtl;
 }
 

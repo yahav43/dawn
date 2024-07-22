@@ -138,9 +138,10 @@
   "general": {
     "breadcrumbs": {
       "homepage": "דף הבית",
-      "Account": "משתמש",
+      "login": "משתמש",
       "about": "מי אנחנו",
-      "contact": "צרי קשר"
+      "contact": "צרי קשר",
+      "register": "הרשמה"
     },
     "password_page": {
       "login_form_heading": "",

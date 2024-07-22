@@ -65,9 +65,14 @@
             <a class="breadcrumbs__link" href="{{ article.url }}" aria-current="page">{{ article.title }}</a>
           </li>
         {%- else -%}
+          {% if request.path contains 'pages' %}
+            {% assign new_page_title = page.url | replace: '/pages/', '' %}
+          {% else %}
+            {% assign new_page_title = request.path | replace: '/account/', '' %}
+          {% endif %}
           <li class="breadcrumbs__item">
             <a class="breadcrumbs__link" href="{{ request.path }}" aria-current="page">
-              {{- 'general.breadcrumbs' | append: '.' | append: page_title | t -}}
+              {{- 'general.breadcrumbs' | append: '.' | append: new_page_title | t -}}
             </a>
           </li>
       {%- endcase -%}
