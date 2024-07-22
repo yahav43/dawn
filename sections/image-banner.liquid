@@ -119,6 +119,13 @@
     <div class="banner__box content-container content-container--full-width-mobile color-{{ section.settings.color_scheme }} gradient">
       {%- for block in section.blocks -%}
         {%- case block.type -%}
+          {%- when 'richtext' -%}
+            <h2
+              class="banner__heading inline-richtext {{ block.settings.higher_heading_size }} {{ block.settings.higher_title_direction }}"
+              {{ block.shopify_attributes }}
+            >
+              {{ block.settings.higher_heading }}
+            </h2>
           {%- when 'heading' -%}
             <h2
               class="banner__heading inline-richtext {{ block.settings.heading_size }} {{ block.settings.title_direction }}"
@@ -365,7 +372,7 @@
     {
       "type": "heading",
       "name": "t:sections.image-banner.blocks.heading.name",
-      "limit": 1,
+      "limit": 2,
       "settings": [
         {
           "type": "inline_richtext",
@@ -404,6 +411,62 @@
         {
           "type": "select",
           "id": "title_direction",
+          "label": "Title Direction",
+          "options": [
+            {
+              "value": "rtl",
+              "label": "Right To Left"
+            },
+            {
+              "value": "ltr",
+              "label": "Left To Right"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "richtext",
+      "name": "Higher Heading",
+      "limit": 2,
+      "settings": [
+        {
+          "type": "inline_richtext",
+          "id": "higher_heading",
+          "default": "t:sections.image-banner.blocks.heading.settings.heading.default",
+          "label": "Higher Heading"
+        },
+        {
+          "type": "select",
+          "id": "higher_heading_size",
+          "options": [
+            {
+              "value": "h2",
+              "label": "t:sections.all.heading_size.options__1.label"
+            },
+            {
+              "value": "h1",
+              "label": "t:sections.all.heading_size.options__2.label"
+            },
+            {
+              "value": "h0",
+              "label": "t:sections.all.heading_size.options__3.label"
+            },
+            {
+              "value": "hxl",
+              "label": "t:sections.all.heading_size.options__4.label"
+            },
+            {
+              "value": "hxxl",
+              "label": "t:sections.all.heading_size.options__5.label"
+            }
+          ],
+          "default": "h1",
+          "label": "t:sections.all.heading_size.label"
+        },
+        {
+          "type": "select",
+          "id": "higher_title_direction",
           "label": "Title Direction",
           "options": [
             {
