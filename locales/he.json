@@ -495,19 +495,19 @@
       "success": "שלחנו אליך מייל עם הוראות לאיפוס הסיסמה שלך כעת."
     },
     "register": {
-      "title": "",
+      "title": "הרשמה",
       "first_name": "שם פרטי",
       "last_name": "שם משפחה",
       "email": "מייל",
-      "password": "",
-      "submit": ""
+      "password": "סיסמא",
+      "submit": "שליחה"
     },
     "reset_password": {
-      "title": "",
-      "subtext": "",
-      "password": "",
-      "password_confirm": "",
-      "submit": ""
+      "title": "איפוס סיסמא",
+      "subtext": "יש להזין סיסמא חדשה.",
+      "password": "סיסמא",
+      "password_confirm": "אימות סיסמא",
+      "submit": "אישור"
     }
   },
   "gift_cards": {

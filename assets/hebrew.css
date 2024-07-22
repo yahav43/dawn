@@ -10,11 +10,14 @@
 div.main-blog,
 .article-template,
 .article-template__comment-wrapper,
-.customer {
+.customer,
+.collection-hero,
+.product-grid-container,
+.facets-wrapper {
   direction: rtl;
 }
 
-.image-with-text__text p, input.field__input, .customer .field input {
+.image-with-text__text p, input.field__input, .customer div.field input {
   text-align: right;
 }
 
