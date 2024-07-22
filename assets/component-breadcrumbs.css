@@ -1,0 +1,22 @@
+.breadcrumbs__list {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin-bottom: 0;
+}
+
+.breadcrumbs__item:not(:last-child) {
+  margin-left: var(--grid-desktop-vertical-spacing);
+  position: relative;
+}
+
+.breadcrumbs__item:not(:last-child):after {
+  content: '\2192';
+  display: inline-block;
+  transform: rotate(180deg);
+}
+
+.breadcrumbs__link {
+  color: rgb(var(--color-foreground));
+  font-size: var(--font-body-scale-small);
+}

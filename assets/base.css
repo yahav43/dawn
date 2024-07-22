@@ -2523,6 +2523,12 @@ input[type='checkbox'] {
   color: rgb(var(--color-foreground));
 }
 
+.header__icon .icon-whatsapp {
+  fill: rgb(var(--color-foreground));
+  stroke-width: 0.5px;
+    stroke: white;
+}
+
 .header__icon span {
   height: 100%;
 }

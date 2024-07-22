@@ -490,3 +490,9 @@
     color: currentColor;
   }
 }
+
+.button--primary:hover {
+  color: rgba(var(--color-button),var(--alpha-button-background));
+  background-color: rgb(var(--color-button-text));
+  border-color: rgb(var(--color-button-text));
+}

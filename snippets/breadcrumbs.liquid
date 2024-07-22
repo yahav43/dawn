@@ -4,7 +4,7 @@
   {%- assign t = template | split: '.' | first -%}
 
   <nav
-    class="breadcrumbs page-width fix-direction {% unless section.settings.show_on_mobile %}desktop-only{% endunless %}"
+    class="breadcrumbs page-width rtl {% unless section.settings.show_on_mobile %}desktop-only{% endunless %}"
     role="navigation"
     aria-label="breadcrumbs"
   >
@@ -69,22 +69,3 @@
     </ul>
   </nav>
 {%- endunless -%}
-
-{% schema %}
-{
-  "name": "Breadcrumbs",
-  "class": "breadcrumbs-section",
-  "settings": [
-    {
-      "type": "checkbox",
-      "id": "show_on_mobile",
-      "label": "Toggle on mobile"
-    }
-  ],
-  "presets": [
-    {
-      "name": "Breadcrumbs"
-    }
-  ]
-}
-{% endschema %}
