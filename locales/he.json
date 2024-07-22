@@ -28,11 +28,11 @@
   },
   "sections": {
     "announcements": {
-      "previous_announcement": "",
-      "next_announcement": "",
-      "carousel": "",
-      "announcement": "",
-      "announcement_bar": ""
+      "previous_announcement": "להודעה הקודמת",
+      "next_announcement": "להודעה הבאה",
+      "carousel": "קרוסלה",
+      "announcement": "הודעה",
+      "announcement_bar": "באנר הודעות"
     },
     "header": {
       "announcement": "",
