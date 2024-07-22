@@ -4,7 +4,7 @@
   {%- assign t = template | split: '.' | first -%}
 
   <nav
-    class="breadcrumbs page-width rtl {% unless section.settings.show_on_mobile %}desktop-only{% endunless %}"
+    class="breadcrumbs page-width rtl"
     role="navigation"
     aria-label="breadcrumbs"
   >
@@ -14,8 +14,11 @@
       </li>
       {%- case t -%}
         {%- when 'page' -%}
+          {% assign new_page_title = page.url | replace: '/pages/', '' %}
           <li class="breadcrumbs__item">
-            <a class="breadcrumbs__link" href="{{ page.url }}" aria-current="page">{{ page.title }}</a>
+            <a class="breadcrumbs__link" href="{{ page.url }}" aria-current="page">
+              {{- 'general.breadcrumbs' | append: '.' | append: new_page_title | t -}}
+            </a>
           </li>
         {%- when 'product' -%}
           {%- if collection.url -%}
@@ -63,7 +66,9 @@
           </li>
         {%- else -%}
           <li class="breadcrumbs__item">
-            <a class="breadcrumbs__link" href="{{ request.path }}" aria-current="page">{{ page_title }}</a>
+            <a class="breadcrumbs__link" href="{{ request.path }}" aria-current="page">
+              {{- 'general.breadcrumbs' | append: '.' | append: page_title | t -}}
+            </a>
           </li>
       {%- endcase -%}
     </ul>

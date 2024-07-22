@@ -137,7 +137,10 @@
   },
   "general": {
     "breadcrumbs": {
-      "homepage": "דף הבית"
+      "homepage": "דף הבית",
+      "Account": "משתמש",
+      "about": "מי אנחנו",
+      "contact": "צרי קשר"
     },
     "password_page": {
       "login_form_heading": "",
@@ -397,14 +400,14 @@
   },
   "customer": {
     "account": {
-      "title": "",
+      "title": "איזור אישי",
       "details": "",
       "view_addresses": "",
       "return": ""
     },
     "account_fallback": "",
     "activate_account": {
-      "title": "",
+      "title": "הפעלת משתמש",
       "subtext": "",
       "password": "",
       "password_confirm": "",
@@ -438,7 +441,7 @@
     "log_out": "",
     "login_page": {
       "cancel": "",
-      "create_account": "",
+      "create_account": "יצירת משתמש",
       "email": "מייל",
       "forgot_password": "",
       "guest_continue": "",
