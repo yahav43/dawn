@@ -170,11 +170,7 @@ if (!customElements.get('product-info')) {
       updateOptionValues(html) {
         const variantSelects = html.querySelector('variant-selects');
         if (variantSelects) {
-          HTMLUpdateUtility.viewTransition(
-            this.variantSelectors,
-            variantSelects,
-            this.preProcessHtmlCallbacks,
-          );
+          HTMLUpdateUtility.viewTransition(this.variantSelectors, variantSelects, this.preProcessHtmlCallbacks);
         }
       }
 
@@ -367,6 +363,9 @@ if (!customElements.get('product-info')) {
       }
 
       updateQuantityRules(sectionId, html) {
+        this.quantityForm = this.querySelector('.product-form__quantity');
+        if (!this.quantityForm) return;
+
         this.setQuantityBoundries();
 
         const quantityFormUpdated = html.getElementById(`Quantity-Form-${sectionId}`);
