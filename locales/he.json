@@ -438,7 +438,7 @@
       "delete": "מחיקה",
       "delete_confirm": "האם למחוק את הכתובת הזו?"
     },
-    "log_in": "התחברות",
+    "log_in": "איזור אישי",
     "log_out": "יציאה",
     "login_page": {
       "cancel": "ביטול",
@@ -448,8 +448,8 @@
       "guest_continue": "המשך",
       "guest_title": "המשך כאורחת",
       "password": "סיסמא",
-      "title": "התחברות",
-      "sign_in": "התחברות",
+      "title": "איזור אישי",
+      "sign_in": "כניסה",
       "submit": "שליחה",
       "alternate_provider_separator": "או"
     },

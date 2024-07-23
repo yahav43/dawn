@@ -2503,7 +2503,7 @@ input[type='checkbox'] {
   display: flex;
   grid-area: icons;
   justify-self: end;
-  padding-right: 0.8rem;
+  padding-left: 0.8rem;
 }
 
 .header__icons .shopify-app-block {
@@ -2549,11 +2549,15 @@ input[type='checkbox'] {
   vertical-align: middle;
 }
 
-.header__icon,
-.header__icon--cart .icon {
-  height: 4rem;
-  width: 4rem;
+.header__icon {
+  height: 3.5rem;
+  width: 3.5rem;
   padding: 0;
+}
+
+.header__icon--cart .icon {
+  height: 5rem;
+  width: 5rem;
 }
 
 .header__icon--cart {

@@ -230,8 +230,23 @@
   white-space: nowrap;
 }
 
+.multicolumn-card__info h3,
+.multicolumn-card__info .h3 {
+  font-size: calc(var(--font-heading-scale) * 2.1rem);
+}
+
 @media screen and (min-width: 990px) {
   .multicolumn-list__item--empty {
     display: list-item;
+  }
+
+  .multicolumn-list.grid--3-col-desktop {
+    column-gap: calc(var(--grid-desktop-horizontal-spacing) * 3);
+    row-gap: calc(var(--grid-desktop-vertical-spacing) * 3);
+  }
+
+  .multicolumn-list.grid--3-col-desktop .grid__item {
+    width: calc(33.33% - var(--grid-desktop-horizontal-spacing) * 6 / 3);
+    max-width: calc(33.33% - var(--grid-desktop-horizontal-spacing) * 6 / 3);
   }
 }

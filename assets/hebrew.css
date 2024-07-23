@@ -13,7 +13,9 @@ div.main-blog,
 .customer,
 .collection-hero,
 .product-grid-container,
-.facets-wrapper {
+.facets-wrapper,
+.menu-drawer__utility-links,
+.multicolumn-list {
   direction: rtl;
 }
 
@@ -27,7 +29,8 @@ label.field__label, .customer .field label {
 }
 
 .price span.price-item,
-.price s.price-item {
+.price s.price-item,
+.menu-drawer__account svg.icon-account {
   margin: 0 0 0 1rem;
 }
 
