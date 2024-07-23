@@ -240,7 +240,7 @@
     display: list-item;
   }
 
-  .multicolumn-list.grid--3-col-desktop {
+  /* .multicolumn-list.grid--3-col-desktop {
     column-gap: calc(var(--grid-desktop-horizontal-spacing) * 3);
     row-gap: calc(var(--grid-desktop-vertical-spacing) * 3);
   }
@@ -248,5 +248,5 @@
   .multicolumn-list.grid--3-col-desktop .grid__item {
     width: calc(33.33% - var(--grid-desktop-horizontal-spacing) * 6 / 3);
     max-width: calc(33.33% - var(--grid-desktop-horizontal-spacing) * 6 / 3);
-  }
+  } */
 }

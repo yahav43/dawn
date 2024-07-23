@@ -15,7 +15,8 @@ div.main-blog,
 .product-grid-container,
 .facets-wrapper,
 .menu-drawer__utility-links,
-.multicolumn-list {
+.multicolumn-list,
+.main-page-section {
   direction: rtl;
 }
 
