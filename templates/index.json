@@ -12,6 +12,14 @@
     "image_banner": {
       "type": "image-banner",
       "blocks": {
+        "richtext_a8UX6k": {
+          "type": "richtext",
+          "settings": {
+            "higher_heading": "C.o.C",
+            "higher_heading_size": "h0",
+            "higher_title_direction": "rtl"
+          }
+        },
         "heading": {
           "type": "heading",
           "settings": {
@@ -41,6 +49,7 @@
         }
       },
       "block_order": [
+        "richtext_a8UX6k",
         "heading",
         "text",
         "button"
