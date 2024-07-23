@@ -529,19 +529,19 @@
   },
   "recipient": {
     "form": {
-      "checkbox": "",
-      "expanded": "",
-      "collapsed": "",
+      "checkbox": "קופסה",
+      "expanded": "הרחבה",
+      "collapsed": "קולפס",
       "email_label": "מייל",
       "email_label_optional_for_no_js_behavior": "מייל",
       "email": "מייל",
       "name_label": "שם",
       "name": "שם",
-      "message_label": "",
-      "message": "",
-      "max_characters": "",
-      "send_on": "",
-      "send_on_label": ""
+      "message_label": "המסר שלך לייבל",
+      "message": "המסר שלך",
+      "max_characters": "מקסימום תווים",
+      "send_on": "שלח ב",
+      "send_on_label": "שלח ב לייבל"
     }
   },
   "shopify": {
