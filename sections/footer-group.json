@@ -17,7 +17,7 @@
         "footer-1": {
           "type": "link_list",
           "settings": {
-            "heading": "Info",
+            "heading": "מידע נוסף",
             "menu": "main-menu"
           }
         },
