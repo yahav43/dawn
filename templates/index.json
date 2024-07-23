@@ -162,6 +162,7 @@
         "column_ncPBLY": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/iconmonstr-key-thin-240.png",
             "title": "פשטות",
             "text": "<p>אנחנו מאמינים שבסוף הכל פשוט! ברור לנו שאמת נאמרת במשפט קצר אחד.<br\/>לכן, הכלים המוגשים פה הינם כלים פשוטים וקלים לשימוש איפה שאת נמצאת.<\/p>",
             "link_label": "",
@@ -171,6 +172,7 @@
         "column_XtQMVy": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/iconmonstr-clock-thin-240.png",
             "title": "בזמן ובמקום שלך",
             "text": "<p>אנחנו מבינים שאת סופרוומן ושאת מנהלת שגרת חיים גדושה ומלאה.<br\/>לכן, הכלים שתמצאי פה יכולים כולם להצטרף אלייך לשגרת יומך , כך שלא תזדקקי לשינוי גדול כדי להכניסם.<\/p>",
             "link_label": "",
