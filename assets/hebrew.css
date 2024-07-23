@@ -17,7 +17,8 @@ div.main-blog,
 .facets-wrapper,
 .menu-drawer__utility-links,
 .multicolumn-list,
-.main-page-section {
+.main-page-section,
+.announcement-bar__message {
   direction: rtl;
 }
 
