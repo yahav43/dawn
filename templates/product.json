@@ -136,6 +136,15 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_jpn7tW": {
+          "type": "column",
+          "settings": {
+            "title": "זו רק ההתחלה",
+            "text": "<p>הרשמי לדיוור שלנו בסוף הדף ואל תפספסי את ההשקות הבאות!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -143,7 +152,8 @@
         "column-1",
         "column_9QVhVf",
         "column_zAxyYT",
-        "column_RPQ36j"
+        "column_RPQ36j",
+        "column_jpn7tW"
       ],
       "settings": {
         "title": "למה אפשר לצפות",
