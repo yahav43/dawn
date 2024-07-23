@@ -300,71 +300,6 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_wX3qMW": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_JiYR89": {
-          "type": "column",
-          "settings": {
-            "title": "יעל: שאלה נפוצה",
-            "text": "<p>יעל: תשובה לשאלה הנפוצה<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_cjxCkC": {
-          "type": "column",
-          "settings": {
-            "title": "יעל: שאלה נפוצה",
-            "text": "<p>יעל: תשובה לשאלה הנפוצה<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_HmTW9Y": {
-          "type": "column",
-          "settings": {
-            "title": "יעל: שאלה נפוצה",
-            "text": "<p>יעל: תשובה לשאלה הנפוצה<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_mg47DY": {
-          "type": "column",
-          "settings": {
-            "title": "יעל: שאלה נפוצה",
-            "text": "<p>יעל: תשובה לשאלה הנפוצה<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_JiYR89",
-        "column_cjxCkC",
-        "column_HmTW9Y",
-        "column_mg47DY"
-      ],
-      "settings": {
-        "title": "<strong>שאלות נפוצות<\/strong>",
-        "title_direction": "rtl",
-        "title_alignment": "center",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "right",
-        "background_style": "primary",
-        "button_label": "לפרטים נוספים",
-        "button_link": "shopify:\/\/products\/yoga-energy-retreat",
-        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "contact_form_MDwcX6": {
       "type": "contact-form",
       "settings": {
@@ -436,7 +371,6 @@
     "image_banner_imkE4Q",
     "multicolumn_metaobject_D7Dgxt",
     "featured_blog_Qz8A6d",
-    "multicolumn_wX3qMW",
     "contact_form_MDwcX6",
     "image_banner_TDHjac"
   ]
