@@ -132,7 +132,7 @@
         "column_DtVENE": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/iconmonstr-heart-thin.svg",
+            "image": "shopify:\/\/shop_images\/iconmonstr-heart-thin-240.png",
             "title": "אהבה",
             "text": "<p>אנחנו ממש , אבל ממש אוהבים את מה שאנחנו עושים.<\/p>",
             "link_label": "",
