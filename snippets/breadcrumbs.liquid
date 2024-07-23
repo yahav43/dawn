@@ -68,10 +68,19 @@
           {% if request.path contains 'pages' %}
             {% assign new_page_title = page.url | replace: '/pages/', '' %}
           {% else %}
-            {% assign new_page_title = request.path | replace: '/account/', '' %}
+            {% if request.path == '/account' %}
+              {% assign new_page_title = request.path | replace: '/', '' %}
+            {% else %}
+              {% assign new_page_title = request.path | replace: '/account/', '' %}
+            {% endif %}
           {% endif %}
           <li class="breadcrumbs__item">
-            <a class="breadcrumbs__link" href="{{ request.path }}" aria-current="page">
+            <a
+              class="breadcrumbs__link"
+              href="{{ request.path }}"
+              aria-current="page"
+              data-title="{{ new_page_title }}"
+            >
               {{- 'general.breadcrumbs' | append: '.' | append: new_page_title | t -}}
             </a>
           </li>

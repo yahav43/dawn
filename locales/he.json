@@ -141,7 +141,9 @@
       "login": "משתמש",
       "about": "מי אנחנו",
       "contact": "צרי קשר",
-      "register": "הרשמה"
+      "register": "הרשמה",
+      "account": "איזור אישי",
+      "addresses": "הכתובות שלי"
     },
     "password_page": {
       "login_form_heading": "כניסת בעלים",

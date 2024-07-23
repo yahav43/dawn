@@ -11,6 +11,7 @@ div.main-blog,
 .article-template,
 .article-template__comment-wrapper,
 .customer,
+.account,
 .collection-hero,
 .product-grid-container,
 .facets-wrapper,
@@ -78,6 +79,11 @@ div.totals>*+* {
   margin-left: 1rem;
 }
 
+.account a svg {
+  margin-right: 0;
+  margin-left: 1rem;
+}
+
 @media only screen and (min-width: 750px) {
   .image-with-text__content--desktop-right>* {
     align-self: flex-start;
@@ -92,4 +98,8 @@ div.totals>*+* {
 
 #trustoo-mask, #trustoo-mask * {
   direction: rtl;
+}
+
+#vstar-reviews .star-raw .star-classify .number {
+  width: 10px !important;
 }

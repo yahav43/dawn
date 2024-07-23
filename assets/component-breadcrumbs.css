@@ -6,7 +6,7 @@
 }
 
 .breadcrumbs__item:not(:last-child) {
-  margin-left: var(--grid-desktop-vertical-spacing);
+  margin-left: var(--grid-mobile-vertical-spacing);
   position: relative;
 }
 
