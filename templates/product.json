@@ -214,8 +214,8 @@
         "column_iW6rCb": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "1",
+            "text": "<p>לאחר הרכישה, תקבלי מאיתנו מייל עם פרטי ההתחברות אישיים לתכנים של הריטריט.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -223,8 +223,8 @@
         "column_tq4aU9": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "2",
+            "text": "<p>עקבי אחרי השלבים במייל מהשלב הקודם, ושם תוכלי לראות את כל התכנים בצורה מסודרת.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -232,8 +232,8 @@
         "column_dDLENK": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "3",
+            "text": "<p>ניתן לצפות ולתרגל את התכנים שוב ושוב - כמה שתרצי!<\/p><p>הגישה לתכנים אינה מוגבלת בזמן.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -256,7 +256,7 @@
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "",
+        "color_scheme": "scheme-3",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
