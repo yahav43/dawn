@@ -586,6 +586,27 @@
         "payment_method": "אמצעי תשלום",
         "card_security_notice": "כל העסקאות מאובטחות בתקן האבטחה הגבוהה ביותר.",
         "card_information_notice": "כל העסקאות מאובטחות בתקן האבטחה הגבוהה ביותר."
+      },
+      "failed_payment": {
+        "page_title": "אירעה שגיאה. התשלום לא עבר.",
+        "title": "אירעה שגיאה. התשלום לא עבר.",
+        "payment_not_processed_title": "התשלום שלך נכשל.",
+        "return_to_cart_button_label": "חזרה לסל הקניות"
+      },
+      "payment_gateway": {
+        "credit_card_label": "כרטיס אשראי"
+      },
+      "thank_you": {
+        "payment_information_title": "פרטי תשלום",
+        "payment_method_title": "אמצעי תשלום",
+        "thank_you_title_payment": "התשלום שלך אושר!",
+        "thank_you_title_payments_app_pending_default": "אנחנו מעבדים את התשלום שלך..."
+      },
+      "review": {
+        "blocks": {
+          "payment_method_title": "אמצעי תשלום",
+          "change_payment_method_link_label": "שינוי אמצעי תשלום"
+        }
       }
     }
   },
