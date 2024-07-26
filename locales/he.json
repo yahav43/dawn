@@ -590,7 +590,9 @@
           "payment_tag": "גיפט קארד",
           "add_label": "הוספת גיפט קארד"
         },
-        "payment_method_saved": "אמצעי התשלום נשמר"
+        "payment_method_saved": "אמצעי התשלום נשמר",
+        "amount_left_to_pay_label": "תשלום עד:",
+        "update_payment_method": "עדכון אמצעי תשלום"
       },
       "failed_payment": {
         "page_title": "אירעה שגיאה. התשלום לא עבר.",
@@ -605,7 +607,8 @@
         "payment_information_title": "פרטי תשלום",
         "payment_method_title": "אמצעי תשלום",
         "thank_you_title_payment": "התשלום שלך אושר!",
-        "thank_you_title_payments_app_pending_default": "אנחנו מעבדים את התשלום שלך..."
+        "thank_you_title_payments_app_pending_default": "אנחנו מעבדים את התשלום שלך...",
+        "first_payment_complete": "תשלום ראשון שולם"
       },
       "review": {
         "blocks": {
@@ -618,6 +621,25 @@
         "back_to_payment_method": "חזרה לתשלום",
         "choose_payment_method": "בחירת אמצעי תשלום",
         "continue_to_payment_plans_button_label": "המשך לתכניות תשלום"
+      },
+      "order_summary": {
+        "payment_due_label": "תשלום עד"
+      },
+      "field_errors": {
+        "payment_gateway_missing": "יש לבחור אמצעי תשלום."
+      },
+      "change_currency": {
+        "payment_total_label": "סך הכל לתשלום"
+      },
+      "customer_payment_methods": {
+        "page_title": "אמצעי תשלום",
+        "title": "אמצעי תשלום",
+        "update_card_button_label": "עדכון כרטיס"
+      },
+      "notice_banner": {
+        "individual_violations_title": {
+          "PaymentViolations": "כתובת לחיוב"
+        }
       }
     }
   },
