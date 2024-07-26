@@ -290,7 +290,7 @@
       {%- endfor -%}
 
       {% if section.settings.show_whatsapp == true %}
-        <a href="https://wa.me/{{ settings.whatsapp_contact_phone }}" 
+        <a href="https://wa.me/{{ settings.whatsapp_contact_phone }}?text={{ section.settings.whatsapp_open_message |  url_encode }}" 
           class="header__icon header__icon--whatsapp link focus-inset"
           target="_blank">
           {% render 'icon-whatsapp' %}
@@ -486,6 +486,12 @@
       "id": "show_whatsapp",
       "default": true,
       "label": "Toggle Whatsapp icon in the header"
+    },
+    {
+      "type": "text",
+      "id": "whatsapp_open_message",
+      "label": "Whatsapp opening message to us.",
+      "default": "היי, יש לי שאלה לגבי מרכז המעגל."
     },
     {
       "type": "select",

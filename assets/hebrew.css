@@ -22,7 +22,8 @@ div.main-blog,
   direction: rtl;
 }
 
-.image-with-text__text p, input.field__input, .customer div.field input {
+.image-with-text__text p, input.field__input, .customer div.field input,
+textarea.field__input, .customer .field input {
   text-align: right;
 }
 
