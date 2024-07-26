@@ -25,7 +25,7 @@
     {%- endif -%}
     {% if settings.whatsapp_contact_phone != blank %}
       <a
-        href="https://wa.me/{{ settings.whatsapp_contact_phone }}"
+        href="https://wa.me/{{ settings.whatsapp_contact_phone }}?text={{ settings.whatsapp_open_message |  url_encode }}"
         target="_blank"
         class="contact-whatsapp-icon title {{ section.settings.heading_alignment }}"
       >

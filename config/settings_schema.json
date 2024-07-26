@@ -1323,6 +1323,12 @@
       },
       {
         "type": "text",
+        "id": "whatsapp_open_message",
+        "label": "Whatsapp opening message",
+        "default": "היי, יש לי שאלה לגבי מרכז המעגל."
+      },
+      {
+        "type": "text",
         "id": "social_facebook_link",
         "label": "t:settings_schema.social-media.settings.social_facebook_link.label",
         "placeholder": "t:settings_schema.social-media.settings.social_facebook_link.info"
