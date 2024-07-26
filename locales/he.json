@@ -611,6 +611,12 @@
           "payment_method_title": "אמצעי תשלום",
           "change_payment_method_link_label": "שינוי אמצעי תשלום"
         }
+      },
+      "general": {
+        "continue_to_payment_method": "המשך לתשלום",
+        "back_to_payment_method": "חזרה לתשלום",
+        "choose_payment_method": "בחירת אמצעי תשלום",
+        "continue_to_payment_plans_button_label": "המשך לתכניות תשלום"
       }
     }
   },
