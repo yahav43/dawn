@@ -578,7 +578,15 @@
         "zip_code_label": "מיקוד דואר",
         "optional_zip_code_label": "מיקוד דואר (לא חובה)",
         "zip_code_placeholder": "מיקוד דואר (לא חובה)"
+      },
+      "marketing": {
+        "accept_marketing_checkbox_label": "אני מאשר\/ת קבלת מסרים שיווקיים."
       }
+    }
+  },
+  "customer_accounts": {
+    "order_details": {
+      "marketing_checkbox_label": "אני מאשר\/ת קבלת מסרים שיווקיים."
     }
   }
 }
