@@ -585,7 +585,11 @@
       "payment": {
         "payment_method": "אמצעי תשלום",
         "card_security_notice": "כל העסקאות מאובטחות בתקן האבטחה הגבוהה ביותר.",
-        "card_information_notice": "כל העסקאות מאובטחות בתקן האבטחה הגבוהה ביותר."
+        "card_information_notice": "כל העסקאות מאובטחות בתקן האבטחה הגבוהה ביותר.",
+        "gift_card_wrapper": {
+          "payment_tag": "גיפט קארד",
+          "add_label": "הוספת גיפט קארד"
+        }
       },
       "failed_payment": {
         "page_title": "אירעה שגיאה. התשלום לא עבר.",
