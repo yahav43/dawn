@@ -552,7 +552,32 @@
         "phone_label": "מספר טלפון",
         "optional_phone_label": "מספר טלפון (לא חובה)",
         "phone_placeholder": "טלפון",
-        "phone_tooltip": "במידה ונצטרך ליצור איתך קשר לגבי ההזמנה שלך"
+        "phone_tooltip": "במידה ונצטרך ליצור איתך קשר לגבי ההזמנה שלך",
+        "contact_method_title": "פרטי יצירת קשר",
+        "email_label": "מייל",
+        "email_placeholder": "מייל",
+        "stored_addresses_label": "הכתובות שלי",
+        "available_addresses_label": "הכתובות שלי",
+        "new_address_label": "שימוש בכתובת חדשה",
+        "first_name_label": "שם פרטי",
+        "optional_first_name_label": "שם פרטי (לא חובה)",
+        "last_name_label": "שם משפחה",
+        "company_label": "חברה",
+        "company_attention_label": "חברה",
+        "optional_company_attention_label": "חברה (לא חובה)",
+        "optional_company_label": "חברה (לא חובה)",
+        "address1_label": "רחוב ומספר בית",
+        "address2_label": "מספר דירה",
+        "optional_address2_label": "מספר דירה (לא חובה)",
+        "city_label": "עיר",
+        "country_label": "ארץ",
+        "province_label": "מחוז",
+        "province_placeholder": "מחוז",
+        "county_label": "ארץ",
+        "county_placeholder": "ארץ",
+        "zip_code_label": "מיקוד דואר",
+        "optional_zip_code_label": "מיקוד דואר (לא חובה)",
+        "zip_code_placeholder": "מיקוד דואר (לא חובה)"
       }
     }
   }
