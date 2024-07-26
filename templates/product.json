@@ -358,13 +358,23 @@
             "row_content": "<p>מומלץ להצטייד במזרן יוגה ורצועת יוגה.<\/p><p>מעבר לשני הפריטים האלו אין צורך בעוד ציוד.<\/p>",
             "page": ""
           }
+        },
+        "collapsible_row_bRCbw7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "כמה זמן אורך הריטריט?",
+            "icon": "none",
+            "row_content": "<p>אורך התכנים של הריטריט כולו הוא כ-6 שעות, אך התכנים מחולקים וניתן לקחת הפסקות ואין צורך לבצע את כל הריטריט ברצף.<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "collapsible_row_dc3qEP",
         "collapsible_row_j4d46m",
         "collapsible_row_UVTMVa",
-        "collapsible_row_jNefbB"
+        "collapsible_row_jNefbB",
+        "collapsible_row_bRCbw7"
       ],
       "settings": {
         "caption": "",
