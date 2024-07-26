@@ -589,7 +589,8 @@
         "gift_card_wrapper": {
           "payment_tag": "גיפט קארד",
           "add_label": "הוספת גיפט קארד"
-        }
+        },
+        "payment_method_saved": "אמצעי התשלום נשמר"
       },
       "failed_payment": {
         "page_title": "אירעה שגיאה. התשלום לא עבר.",
