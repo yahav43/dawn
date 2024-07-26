@@ -581,6 +581,9 @@
       },
       "marketing": {
         "accept_marketing_checkbox_label": "אני מאשר\/ת קבלת מסרים שיווקיים."
+      },
+      "payment": {
+        "payment_method": "אמצעי תשלום"
       }
     }
   },
