@@ -672,7 +672,8 @@
         "customer_information_title": "פרטי ההזמנה",
         "login_title": "התחברי לאיזור האישי על מנת לראות את כל המידע על ההזמנות שלך",
         "billing_address_title": "כתובת לחיוב",
-        "contact_us_html": "במידה ונתקלת בבעיה כלשהי נשמח שתצרי איתנו קשר."
+        "contact_us_html": "במידה ונתקלת בבעיה כלשהי נשמח שתצרי איתנו קשר.",
+        "return_to_store_link_label": "חזרה לאתר"
       },
       "review": {
         "blocks": {
