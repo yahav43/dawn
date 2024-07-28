@@ -606,7 +606,17 @@
         "store_credit": {
           "apply_label": "מימוש קרדיט באתר"
         },
-        "waiting_on_taxes_notice": "מחשב מסים"
+        "waiting_on_taxes_notice": "מחשב מסים",
+        "card_fields": {
+          "errors": {
+            "required": {
+              "issue_date": "יש לציין תוקף תקין"
+            },
+            "invalid": {
+              "verification_value": "יש לציין קוד 3 ספרות בגב הכרטיס"
+            }
+          }
+        }
       },
       "failed_payment": {
         "page_title": "אירעה שגיאה. התשלום לא עבר.",
@@ -677,7 +687,15 @@
         "address_last_name_blank": "יש לציין שם משפחה",
         "address_address1_blank": "יש לציין כתובת",
         "address_city_blank": "יש לציין עיר",
-        "phone_blank": "יש לציין מספר טלפון"
+        "phone_blank": "יש לציין מספר טלפון",
+        "handle_email_invalid": "יש לציין כתובת אימייל",
+        "email_invalid": "כתובת אימייל לא תקינה",
+        "email_or_phone_invalid": "כתובת אימייל או מספר טלפון לא תקינים",
+        "address_phone_blank": "מספר טלפון לא תקין",
+        "credit_card_number_invalid": "מספר הכרטיס לא תקין",
+        "credit_card_expiry_invalid": "תוקף הכרטיס לא תקין",
+        "credit_card_month_invalid": "יש לציין תוקף (חודש)",
+        "credit_card_year_invalid": "יש לציין תוקף (שנה)"
       },
       "change_currency": {
         "payment_total_label": "סך הכל לתשלום"
