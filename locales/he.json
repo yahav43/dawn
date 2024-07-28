@@ -672,7 +672,8 @@
       "field_errors": {
         "payment_gateway_missing": "יש לבחור אמצעי תשלום.",
         "address_zip_blank": "יש להזין מיקוד דואר תקין",
-        "address_zip_too_long": "מיקוד הדואר ארוך מדי"
+        "address_zip_too_long": "מיקוד הדואר ארוך מדי",
+        "address_first_name_blank": "יש לציין שם פרטי"
       },
       "change_currency": {
         "payment_total_label": "סך הכל לתשלום"
@@ -703,12 +704,18 @@
         "errors": {
           "invalid": {
             "reduction_code": "יש להזין קוד קופון או גיפט קארד תקין."
+          },
+          "missing": {
+            "first_name": "יש לציין שם פרטי"
           }
         }
       },
       "delivery_options": {
         "free_total_label": "חינם"
       }
+    },
+    "errors": {
+      "full_name_required": "יש לציין שם פרטי ושם משפחה"
     }
   },
   "customer_accounts": {
