@@ -623,9 +623,12 @@
         "card_verification_value_explanation_other": "3 ספרות בגב הכרטיס",
         "edit_credit_card_modal": {
           "fields": {
-            "security_code": "3 ספרות בגב הכרטיס"
+            "security_code": "3 ספרות בגב הכרטיס",
+            "name": "שם בעל הכרטיס"
           }
-        }
+        },
+        "name_on_card_label": "שם בעל הכרטיס",
+        "name_on_card_placeholder": "שם בעל הכרטיס"
       },
       "failed_payment": {
         "page_title": "אירעה שגיאה. התשלום לא עבר.",
@@ -781,7 +784,9 @@
           "credit_card_verification_value_blank": "יש לציין קוד 3 ספרות בגב הכרטיס"
         },
         "card_verification_value_label": "3 ספרות בגב הכרטיס",
-        "card_verification_value_placeholder": "3 ספרות בגב הכרטיס"
+        "card_verification_value_placeholder": "3 ספרות בגב הכרטיס",
+        "name_on_card_label": "שם בעל הכרטיס",
+        "name_on_card_placeholder": "שם בעל הכרטיס"
       }
     },
     "payment_method_brands": {
