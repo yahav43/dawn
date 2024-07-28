@@ -43,7 +43,9 @@
         <thead role="rowgroup">
           <tr role="row">
             <th id="ColumnProduct" scope="col" role="columnheader">{{ 'customer.order.product' | t }}</th>
-            <th id="ColumnSku" scope="col" role="columnheader">{{ 'customer.order.sku' | t }}</th>
+            {% comment %}
+              <th id="ColumnSku" scope="col" role="columnheader">{{ 'customer.order.sku' | t }}</th>
+            {% endcomment %}
             <th id="ColumnPrice" scope="col" role="columnheader">{{ 'customer.order.price' | t }}</th>
             <th id="ColumnQuantity" scope="col" role="columnheader">{{ 'customer.order.quantity' | t }}</th>
             <th id="ColumnTotal" scope="col" role="columnheader">{{ 'customer.order.total' | t }}</th>
@@ -231,7 +233,7 @@
         </tbody>
         <tfoot role="rowgroup">
           <tr role="row">
-            <td id="RowSubtotal" role="rowheader" scope="row" colspan="4">
+            <td id="RowSubtotal" role="rowheader" scope="row" colspan="3">
               {{ 'customer.order.subtotal' | t }}
             </td>
             <td headers="RowSubtotal" role="cell" data-label="{{ 'customer.order.subtotal' | t }}">

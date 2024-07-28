@@ -111,6 +111,16 @@ div.totals>*+* {
   .header__inline-menu {
     direction: rtl;
   }
+
+  :is(div.account,div.order)>div:nth-of-type(2)>div:first-of-type {
+    padding-right: 0;
+    padding-left: 3.2rem;
+  }
+
+  div.customer th, div.customer td:first-of-type,
+  div.customer tfoot td:first-of-type {
+    text-align: right;
+  }
 }
 
 /* App designs, may include !important */
