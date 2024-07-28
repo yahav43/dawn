@@ -592,7 +592,8 @@
         },
         "payment_method_saved": "אמצעי התשלום נשמר",
         "amount_left_to_pay_label": "תשלום עד:",
-        "update_payment_method": "עדכון אמצעי תשלום"
+        "update_payment_method": "עדכון אמצעי תשלום",
+        "title": "שיטת תשלום"
       },
       "failed_payment": {
         "page_title": "אירעה שגיאה. התשלום לא עבר.",
