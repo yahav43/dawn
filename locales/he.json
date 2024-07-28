@@ -64,7 +64,7 @@
       "headings": {
         "product": "",
         "price": "",
-        "total": "",
+        "total": "סך הכל",
         "quantity": "",
         "image": ""
       },
@@ -471,7 +471,7 @@
       "sku": "",
       "price": "",
       "quantity": "",
-      "total": "",
+      "total": "סך הכל",
       "total_refunded": "",
       "fulfilled_at_html": "",
       "track_shipment": "",
@@ -488,7 +488,7 @@
       "date": "",
       "payment_status": "סטטוס תשלום",
       "fulfillment_status": "",
-      "total": "",
+      "total": "סך הכל",
       "none": ""
     },
     "recover_password": {
@@ -658,7 +658,15 @@
         "apply_discount_button_label": "מימוש",
         "gift_card_subscriptions_notice": "גיפט קארד תקף רק למחזור התשלום הראשון.",
         "calculating_shipping": "טוען...",
-        "calculating": "טוען..."
+        "calculating": "טוען...",
+        "order_total_label": "סך הכל",
+        "total_savings": "חסכת",
+        "total_label": "סך הכל",
+        "partial_total_label": "סך הכל",
+        "free_total_label": "חינם",
+        "order_total_updated_label": "סך הכל מעודכן",
+        "total_already_paid_label": "שולם",
+        "multiple_shipping_lines_label": "סך הכל עלויות משלוח"
       },
       "field_errors": {
         "payment_gateway_missing": "יש לבחור אמצעי תשלום.",
@@ -696,6 +704,9 @@
             "reduction_code": "יש להזין קוד קופון או גיפט קארד תקין."
           }
         }
+      },
+      "delivery_options": {
+        "free_total_label": "חינם"
       }
     }
   },
@@ -703,7 +714,8 @@
     "order_details": {
       "marketing_checkbox_label": "אני מאשר\/ת קבלת מסרים שיווקיים.",
       "subtotal": "סיכום ביניים",
-      "log_in": "כניסה למשתמש"
+      "log_in": "כניסה למשתמש",
+      "total": "סך הכל"
     },
     "payment_methods": {
       "add_payment_method": {
@@ -723,6 +735,15 @@
       "order_list": {
         "filter": {
           "apply": "מימוש"
+        },
+        "column_headers": {
+          "total": "סך הכל"
+        },
+        "sort": {
+          "order_total": {
+            "ascending": "שווי הזמנה (מהנמוך לגובה)",
+            "descending": "שווי הזמנה (מהגבוה לנמוך)"
+          }
         }
       }
     }
