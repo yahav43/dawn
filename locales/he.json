@@ -478,7 +478,7 @@
       "tracking_url": "",
       "tracking_company": "",
       "tracking_number": "",
-      "subtotal": "",
+      "subtotal": "סיכום ביניים",
       "total_duties": ""
     },
     "orders": {
@@ -632,7 +632,8 @@
         "pay_now_button_label": "לתשלום"
       },
       "order_summary": {
-        "payment_due_label": "תשלום עד"
+        "payment_due_label": "תשלום עד",
+        "subtotal_label": "סיכום ביניים"
       },
       "field_errors": {
         "payment_gateway_missing": "יש לבחור אמצעי תשלום.",
@@ -664,7 +665,8 @@
   },
   "customer_accounts": {
     "order_details": {
-      "marketing_checkbox_label": "אני מאשר\/ת קבלת מסרים שיווקיים."
+      "marketing_checkbox_label": "אני מאשר\/ת קבלת מסרים שיווקיים.",
+      "subtotal": "סיכום ביניים"
     },
     "payment_methods": {
       "add_payment_method": {
