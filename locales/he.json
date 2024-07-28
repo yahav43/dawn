@@ -665,7 +665,8 @@
         "title": "תודה רבה!",
         "page_title": "{{ display_name }}, תודה רבה!",
         "page_title_no_name": "תודה רבה!",
-        "thank_you_title": "הזמנתך אושרה."
+        "thank_you_title": "הזמנתך אושרה.",
+        "confirmed_title": "הזמנתך אושרה."
       },
       "review": {
         "blocks": {
@@ -878,6 +879,9 @@
             "descending": "שווי הזמנה (מהגבוה לנמוך)"
           }
         }
+      },
+      "order_status": {
+        "confirmed_title": "הזמנתך אושרה"
       }
     },
     "errors": {
