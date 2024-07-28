@@ -666,7 +666,8 @@
         "page_title": "{{ display_name }}, תודה רבה!",
         "page_title_no_name": "תודה רבה!",
         "thank_you_title": "הזמנתך אושרה.",
-        "confirmed_title": "הזמנתך אושרה."
+        "confirmed_title": "הזמנתך אושרה.",
+        "thank_you_confirmed_order_with_email": "ברגעים אלו ממש נשלח אלייך מייל אישור הזמנה עם כל הפרטים."
       },
       "review": {
         "blocks": {
