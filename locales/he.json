@@ -630,7 +630,8 @@
         "continue_to_payment_plans_button_label": "המשך לתכניות תשלום",
         "authenticate_purchase_button_label": "אימות תשלום",
         "choose_billing_address": "בחרי כתובת לחיוב",
-        "pay_now_button_label": "לתשלום"
+        "pay_now_button_label": "לתשלום",
+        "all_rights_reserved": "כל הזכויות שמורות. {{ shop_name }}"
       },
       "order_summary": {
         "payment_due_label": "תשלום עד",
