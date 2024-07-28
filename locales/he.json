@@ -403,7 +403,7 @@
   },
   "customer": {
     "account": {
-      "title": "איזור אישי",
+      "title": "האיזור האישי שלי",
       "details": "הפרטים שלי",
       "view_addresses": "הכתובות שלי",
       "return": "חזרה לפרטים שלי"
