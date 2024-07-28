@@ -660,7 +660,8 @@
         "thank_you_title_payment": "התשלום שלך אושר!",
         "thank_you_title_payments_app_pending_default": "אנחנו מעבדים את התשלום שלך...",
         "first_payment_complete": "תשלום ראשון שולם",
-        "login": "כניסה למשתמש"
+        "login": "כניסה למשתמש",
+        "view_business_customer_account": "לאיזור האישי"
       },
       "review": {
         "blocks": {
@@ -705,7 +706,9 @@
         "order_total_updated_label": "סך הכל מעודכן",
         "total_already_paid_label": "שולם",
         "multiple_shipping_lines_label": "סך הכל עלויות משלוח",
-        "vat_label_html": "‎"
+        "vat_label_html": "‎",
+        "expand_order_summary": "הצגת פרטים נוספים",
+        "collapse_order_summary": "הצגת פחות פרטים"
       },
       "field_errors": {
         "payment_gateway_missing": "יש לבחור אמצעי תשלום.",
@@ -748,13 +751,19 @@
         "duties_and_taxes_options": {
           "ddp_title": "לתשלום",
           "ddu_caption": "ייתכנו עמלות נוספות."
-        }
+        },
+        "address_confirm": "למחוק את הכתובת הזו מהמשתמש שלך?"
       },
       "order_payment_collection": {
         "pay_now": "לתשלום"
       },
       "customer_account": {
-        "sign_in_link_label": "כניסה למשתמש"
+        "sign_in_link_label": "כניסה למשתמש",
+        "not_user_label": "לא {{ first_name }}?",
+        "have_an_account_label": "יש לך משתמש?",
+        "sign_out_link_label": "יציאה",
+        "rollup_label": "משתמש",
+        "saved_address_option_link": "שימוש בכתובת קיימת"
       },
       "wallets": {
         "errors": {
@@ -777,11 +786,24 @@
         "invalid_cvc": "יש לציין 3 ספרות בגב הכרטיס",
         "invalid_number": "יש לציין מספר כרטיס",
         "invalid_expiry_date": "יש לציין תוקף כרטיס תקין"
+      },
+      "billing": {
+        "address_confirm": "למחוק את הכתובת הזו מהמשתמש שלך?"
       }
     },
     "errors": {
       "full_name_required": "יש לציין שם פרטי ושם משפחה",
       "invalid_expiry_year": "שנת תוקף לא תקינה"
+    },
+    "notices": {
+      "customer": {
+        "no_account_found": "לא מצאנו משתמש עם המייל שהזנת"
+      }
+    },
+    "page_titles": {
+      "account": "איזור אישי",
+      "create_account": "יצירת משתמש",
+      "reset_account": "איפוס משתמש"
     }
   },
   "customer_accounts": {
@@ -789,7 +811,11 @@
       "marketing_checkbox_label": "אני מאשר\/ת קבלת מסרים שיווקיים.",
       "subtotal": "סיכום ביניים",
       "log_in": "כניסה למשתמש",
-      "total": "סך הכל"
+      "total": "סך הכל",
+      "mobile_summary_toggle_button": {
+        "closed": "הצגת פחות פרטים"
+      },
+      "hide_order_summary": "הצגת פחות פרטים"
     },
     "payment_methods": {
       "add_payment_method": {
