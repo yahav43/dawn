@@ -614,7 +614,8 @@
         "payment_method_title": "אמצעי תשלום",
         "thank_you_title_payment": "התשלום שלך אושר!",
         "thank_you_title_payments_app_pending_default": "אנחנו מעבדים את התשלום שלך...",
-        "first_payment_complete": "תשלום ראשון שולם"
+        "first_payment_complete": "תשלום ראשון שולם",
+        "login": "כניסה למשתמש"
       },
       "review": {
         "blocks": {
@@ -663,13 +664,17 @@
       },
       "order_payment_collection": {
         "pay_now": "לתשלום"
+      },
+      "customer_account": {
+        "sign_in_link_label": "כניסה למשתמש"
       }
     }
   },
   "customer_accounts": {
     "order_details": {
       "marketing_checkbox_label": "אני מאשר\/ת קבלת מסרים שיווקיים.",
-      "subtotal": "סיכום ביניים"
+      "subtotal": "סיכום ביניים",
+      "log_in": "כניסה למשתמש"
     },
     "payment_methods": {
       "add_payment_method": {
