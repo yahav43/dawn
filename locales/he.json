@@ -709,7 +709,8 @@
         "vat_label_html": "‎",
         "expand_order_summary": "הצגת פרטים נוספים",
         "collapse_order_summary": "הצגת פחות פרטים",
-        "title": "סיכום הזמנה"
+        "title": "סיכום הזמנה",
+        "confirmation_number_label": "אישור מספר #{{ confirmation_number }}"
       },
       "field_errors": {
         "payment_gateway_missing": "יש לבחור אמצעי תשלום.",
