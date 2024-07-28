@@ -645,7 +645,8 @@
         "discount_code_applied": "קוד הקופון פעיל!",
         "gift_card_and_discount_title": "קוד קופון או גיפט קארד",
         "gift_card_and_discount_label": "קוד קופון או גיפט קארד",
-        "gift_card_and_discount_placeholder": "כאן מכניסים קוד קופון או קוד גיפט קארד"
+        "gift_card_and_discount_placeholder": "כאן מכניסים קוד קופון או קוד גיפט קארד",
+        "cart_does_not_meet_discount_requirements_notice": "קוד הקופון <strong style=\"text-transform:uppercase\">{{ code }}<\/strong>אינו תקף על הפריטים שבסל הקניות שלך."
       },
       "field_errors": {
         "payment_gateway_missing": "יש לבחור אמצעי תשלום.",
