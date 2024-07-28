@@ -676,7 +676,7 @@
         "address_first_name_blank": "יש לציין שם פרטי",
         "address_last_name_blank": "יש לציין שם משפחה",
         "address_address1_blank": "יש לציין כתובת",
-        "address_city_blank": "יש להזין עיר"
+        "address_city_blank": "יש לציין עיר"
       },
       "change_currency": {
         "payment_total_label": "סך הכל לתשלום"
@@ -712,7 +712,7 @@
             "first_name": "יש לציין שם פרטי",
             "last_name": "יש לציין שם משפחה",
             "address1": "יש לציין כתובת",
-            "city": "יש להזין עיר"
+            "city": "יש לציין עיר"
           }
         }
       },
