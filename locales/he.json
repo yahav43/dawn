@@ -706,7 +706,8 @@
         "total_already_paid_label": "שולם",
         "multiple_shipping_lines_label": "סך הכל עלויות משלוח",
         "vat_label_html": "‎",
-        "expand_order_summary": "הצגת פרטים נוספים"
+        "expand_order_summary": "הצגת פרטים נוספים",
+        "collapse_order_summary": "הצגת פחות פרטים"
       },
       "field_errors": {
         "payment_gateway_missing": "יש לבחור אמצעי תשלום.",
@@ -809,7 +810,11 @@
       "marketing_checkbox_label": "אני מאשר\/ת קבלת מסרים שיווקיים.",
       "subtotal": "סיכום ביניים",
       "log_in": "כניסה למשתמש",
-      "total": "סך הכל"
+      "total": "סך הכל",
+      "mobile_summary_toggle_button": {
+        "closed": "הצגת פחות פרטים"
+      },
+      "hide_order_summary": "הצגת פחות פרטים"
     },
     "payment_methods": {
       "add_payment_method": {
