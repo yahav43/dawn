@@ -27,7 +27,12 @@ textarea.field__input, .customer .field input {
   text-align: right;
 }
 
-label.field__label, .customer .field label {
+.customer div.field input:focus~label,
+.customer div.field input:not(:placeholder-shown)~label {
+  left: auto;
+}
+
+label.field__label, .customer div.field label {
   left: auto;
   right: calc(var(--inputs-border-width) + 2rem);
 }

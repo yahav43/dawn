@@ -496,7 +496,10 @@
       "last_name": "Last name",
       "email": "Email",
       "password": "Password",
-      "submit": "Create"
+      "submit": "Create",
+      "form_errors": {
+        "invalid_email": "Invalid Email"
+      }
     },
     "reset_password": {
       "title": "Reset account password",
