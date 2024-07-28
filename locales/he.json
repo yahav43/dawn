@@ -695,7 +695,9 @@
         "credit_card_number_invalid": "מספר הכרטיס לא תקין",
         "credit_card_expiry_invalid": "תוקף הכרטיס לא תקין",
         "credit_card_month_invalid": "יש לציין תוקף (חודש)",
-        "credit_card_year_invalid": "יש לציין תוקף (שנה)"
+        "credit_card_year_invalid": "יש לציין תוקף (שנה)",
+        "credit_card_name_blank": "יש לציין שם כפי שרשום על הכרטיס",
+        "credit_card_name_invalid": "יש לציין שם כפי שרשום על הכרטיס"
       },
       "change_currency": {
         "payment_total_label": "סך הכל לתשלום"
@@ -755,6 +757,11 @@
       "add_payment_method": {
         "billing_address": {
           "default_checkbox": "שמור כברירת מחדל"
+        }
+      },
+      "card_fields": {
+        "field_errors": {
+          "credit_card_name_invalid": "יש לציין שם כפי שרשום על הכרטיס"
         }
       }
     },
