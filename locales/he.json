@@ -605,7 +605,8 @@
         "apply_gift_card_button_label": "מימוש",
         "store_credit": {
           "apply_label": "מימוש קרדיט באתר"
-        }
+        },
+        "waiting_on_taxes_notice": "מחשב מסים"
       },
       "failed_payment": {
         "page_title": "אירעה שגיאה. התשלום לא עבר.",
@@ -655,7 +656,9 @@
         "cart_does_not_meet_discount_requirements_notice": "קוד הקופון <strong style=\"text-transform:uppercase\">{{ code }}<\/strong>אינו תקף על הפריטים שבסל הקניות שלך.",
         "customer_already_used_once_per_customer_discount_notice": "קוד הקופון שניסית להזין כבר מומש יותר מכמות הפעמים המקסימלית.",
         "apply_discount_button_label": "מימוש",
-        "gift_card_subscriptions_notice": "גיפט קארד תקף רק למחזור התשלום הראשון."
+        "gift_card_subscriptions_notice": "גיפט קארד תקף רק למחזור התשלום הראשון.",
+        "calculating_shipping": "טוען...",
+        "calculating": "טוען..."
       },
       "field_errors": {
         "payment_gateway_missing": "יש לבחור אמצעי תשלום.",
