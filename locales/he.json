@@ -624,11 +624,14 @@
         "edit_credit_card_modal": {
           "fields": {
             "security_code": "3 ספרות בגב הכרטיס",
-            "name": "שם בעל הכרטיס"
+            "name": "שם בעל הכרטיס",
+            "card_number": "מספר כרטיס"
           }
         },
         "name_on_card_label": "שם בעל הכרטיס",
-        "name_on_card_placeholder": "שם בעל הכרטיס"
+        "name_on_card_placeholder": "שם בעל הכרטיס",
+        "card_number_label": "מספר כרטיס",
+        "card_number_placeholder": "מספר כרטיס"
       },
       "failed_payment": {
         "page_title": "אירעה שגיאה. התשלום לא עבר.",
@@ -758,7 +761,8 @@
         "free_total_label": "חינם"
       },
       "payment_errors": {
-        "invalid_cvc": "יש לציין 3 ספרות בגב הכרטיס"
+        "invalid_cvc": "יש לציין 3 ספרות בגב הכרטיס",
+        "invalid_number": "יש לציין מספר כרטיס"
       }
     },
     "errors": {
@@ -781,12 +785,15 @@
       "card_fields": {
         "field_errors": {
           "credit_card_name_invalid": "יש לציין שם כפי שרשום על הכרטיס",
-          "credit_card_verification_value_blank": "יש לציין קוד 3 ספרות בגב הכרטיס"
+          "credit_card_verification_value_blank": "יש לציין קוד 3 ספרות בגב הכרטיס",
+          "credit_card_number_invalid": "יש לציין מספר כרטיס"
         },
         "card_verification_value_label": "3 ספרות בגב הכרטיס",
         "card_verification_value_placeholder": "3 ספרות בגב הכרטיס",
         "name_on_card_label": "שם בעל הכרטיס",
-        "name_on_card_placeholder": "שם בעל הכרטיס"
+        "name_on_card_placeholder": "שם בעל הכרטיס",
+        "card_number_label": "מספר כרטיס",
+        "card_number_placeholder": "מספר כרטיס"
       }
     },
     "payment_method_brands": {
