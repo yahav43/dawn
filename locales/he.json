@@ -667,7 +667,9 @@
         "page_title_no_name": "תודה רבה!",
         "thank_you_title": "הזמנתך אושרה.",
         "confirmed_title": "הזמנתך אושרה.",
-        "thank_you_confirmed_order_with_email": "ברגעים אלו ממש נשלח אלייך מייל אישור הזמנה עם כל הפרטים."
+        "thank_you_confirmed_order_with_email": "ברגעים אלו ממש נשלח אלייך מייל אישור הזמנה עם כל הפרטים.",
+        "customer_information_title": "פרטי ההזמנה",
+        "login_title": "התחברי לאיזור האישי על מנת לראות את כל המידע על ההזמנות שלך"
       },
       "review": {
         "blocks": {
@@ -879,6 +881,9 @@
             "ascending": "שווי הזמנה (מהנמוך לגובה)",
             "descending": "שווי הזמנה (מהגבוה לנמוך)"
           }
+        },
+        "carousel": {
+          "view_order_details": "הצגת פרטי הזמנה"
         }
       },
       "order_status": {
