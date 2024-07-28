@@ -633,7 +633,10 @@
       },
       "order_summary": {
         "payment_due_label": "תשלום עד",
-        "subtotal_label": "סיכום ביניים"
+        "subtotal_label": "סיכום ביניים",
+        "estimated_taxes_label": "מסים",
+        "information_estimated_taxes_label": "מסים (משוער)",
+        "estimated_tax_label": "מסים"
       },
       "field_errors": {
         "payment_gateway_missing": "יש לבחור אמצעי תשלום.",
