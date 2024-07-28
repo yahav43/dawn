@@ -403,7 +403,7 @@
   },
   "customer": {
     "account": {
-      "title": "האיזור האישי שלי",
+      "title": "איזור אישי",
       "details": "הפרטים שלי",
       "view_addresses": "הכתובות שלי",
       "return": "חזרה לפרטים שלי"
@@ -506,9 +506,9 @@
       "form_errors": {
         "email": "יש להזין כתובת מייל תקינה.",
         "password": "יש להזין סיסמה הכוללת לפחות 5 תווים.",
-        "email_taken_html": "זיהינו כי כבר קיים משתמש עם המייל שניסית להירשם איתו. אם כבר נרשמת לאתר, ניתן <a href='/account/login#recover'>לאפס סיסמא כאן</a>."
+        "email_taken_html": "זיהינו כי כבר קיים משתמש עם המייל שניסית להירשם איתו. אם כבר נרשמת לאתר, ניתן <a href='\/account\/login#recover'>לאפס סיסמא כאן<\/a>."
       },
-      "marketing_consent_html": "הרשמה לאתר מהווה את <a href='#' class='inline link-underline'>תקנון האתר ומדיניות הפרטיות,</a> וקבלת מיילים שיווקיים."
+      "marketing_consent_html": "הרשמה לאתר מהווה את <a href='#' class='inline link-underline'>תקנון האתר ומדיניות הפרטיות,<\/a> וקבלת מיילים שיווקיים."
     },
     "reset_password": {
       "title": "איפוס סיסמא",
@@ -708,7 +708,8 @@
         "multiple_shipping_lines_label": "סך הכל עלויות משלוח",
         "vat_label_html": "‎",
         "expand_order_summary": "הצגת פרטים נוספים",
-        "collapse_order_summary": "הצגת פחות פרטים"
+        "collapse_order_summary": "הצגת פחות פרטים",
+        "title": "סיכום הזמנה"
       },
       "field_errors": {
         "payment_gateway_missing": "יש לבחור אמצעי תשלום.",
@@ -813,9 +814,12 @@
       "log_in": "כניסה למשתמש",
       "total": "סך הכל",
       "mobile_summary_toggle_button": {
-        "closed": "הצגת פחות פרטים"
+        "closed": "הצגת פחות פרטים",
+        "open": "פתיחת סיכום הזמנה"
       },
-      "hide_order_summary": "הצגת פחות פרטים"
+      "hide_order_summary": "הצגת פחות פרטים",
+      "show_order_summary": "פתיחת סיכום הזמנה",
+      "summary_title": "סיכום הזמנה"
     },
     "payment_methods": {
       "add_payment_method": {
