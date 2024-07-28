@@ -625,13 +625,19 @@
           "fields": {
             "security_code": "3 ספרות בגב הכרטיס",
             "name": "שם בעל הכרטיס",
-            "card_number": "מספר כרטיס"
+            "card_number": "מספר כרטיס",
+            "expiry": "תוקף"
           }
         },
         "name_on_card_label": "שם בעל הכרטיס",
         "name_on_card_placeholder": "שם בעל הכרטיס",
         "card_number_label": "מספר כרטיס",
-        "card_number_placeholder": "מספר כרטיס"
+        "card_number_placeholder": "מספר כרטיס",
+        "card_expiry_label": "תוקף (MM\/YY)",
+        "card_expiry_placeholder": "תוקף (MM\/YY)",
+        "card_expiry_date_explanation": "תוקף הכרטיס - חודשים ושנים",
+        "card_expiration_month_label": "תוקף (חודש)",
+        "card_expiration_year_label": "תוקף (שנה)"
       },
       "failed_payment": {
         "page_title": "אירעה שגיאה. התשלום לא עבר.",
@@ -762,11 +768,13 @@
       },
       "payment_errors": {
         "invalid_cvc": "יש לציין 3 ספרות בגב הכרטיס",
-        "invalid_number": "יש לציין מספר כרטיס"
+        "invalid_number": "יש לציין מספר כרטיס",
+        "invalid_expiry_date": "יש לציין תוקף כרטיס תקין"
       }
     },
     "errors": {
-      "full_name_required": "יש לציין שם פרטי ושם משפחה"
+      "full_name_required": "יש לציין שם פרטי ושם משפחה",
+      "invalid_expiry_year": "שנת תוקף לא תקינה"
     }
   },
   "customer_accounts": {
@@ -793,7 +801,14 @@
         "name_on_card_label": "שם בעל הכרטיס",
         "name_on_card_placeholder": "שם בעל הכרטיס",
         "card_number_label": "מספר כרטיס",
-        "card_number_placeholder": "מספר כרטיס"
+        "card_number_placeholder": "מספר כרטיס",
+        "card_expiry_label": "תוקף (MM\/YY)",
+        "card_expiry_placeholder": "תוקף (MM\/YY)"
+      },
+      "store_credit": {
+        "details_modal": {
+          "expiration_date_label": "תוקף"
+        }
       }
     },
     "payment_method_brands": {
