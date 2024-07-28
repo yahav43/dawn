@@ -577,7 +577,10 @@
         "county_placeholder": "ארץ",
         "zip_code_label": "מיקוד דואר",
         "optional_zip_code_label": "מיקוד דואר (לא חובה)",
-        "zip_code_placeholder": "מיקוד דואר (לא חובה)"
+        "zip_code_placeholder": "מיקוד דואר (לא חובה)",
+        "postal_code_label": "מיקוד דואר",
+        "optional_postal_code_label": "מיקוד דואר (לא חובה)",
+        "postal_code_placeholder": "מיקוד דואר"
       },
       "marketing": {
         "accept_marketing_checkbox_label": "אני מאשר\/ת קבלת מסרים שיווקיים."
@@ -631,7 +634,9 @@
         "payment_due_label": "תשלום עד"
       },
       "field_errors": {
-        "payment_gateway_missing": "יש לבחור אמצעי תשלום."
+        "payment_gateway_missing": "יש לבחור אמצעי תשלום.",
+        "address_zip_blank": "יש להזין מיקוד דואר תקין",
+        "address_zip_too_long": "מיקוד הדואר ארוך מדי"
       },
       "change_currency": {
         "payment_total_label": "סך הכל לתשלום"
