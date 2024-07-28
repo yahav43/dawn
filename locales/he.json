@@ -699,7 +699,8 @@
         "credit_card_name_blank": "יש לציין שם כפי שרשום על הכרטיס",
         "credit_card_name_invalid": "יש לציין שם כפי שרשום על הכרטיס",
         "email_or_phone_blank": "יש לציין כתובת אימייל או מספר טלפון",
-        "email_blank": "יש לציין כתובת אימייל"
+        "email_blank": "יש לציין כתובת אימייל",
+        "credit_card_number_blank": "יש לציין מספר כרטיס"
       },
       "change_currency": {
         "payment_total_label": "סך הכל לתשלום"
