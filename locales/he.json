@@ -790,6 +790,11 @@
       },
       "billing": {
         "address_confirm": "למחוק את הכתובת הזו מהמשתמש שלך?"
+      },
+      "processing": {
+        "wait": {
+          "short": "טוען..."
+        }
       }
     },
     "errors": {
