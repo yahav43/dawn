@@ -312,7 +312,7 @@
     },
     "facets": {
       "filter_and_operator_subtitle": "",
-      "apply": "",
+      "apply": "מימוש",
       "clear": "איפוס",
       "clear_all": "ניקוי הכל",
       "from": "מ",
@@ -591,7 +591,9 @@
         "card_information_notice": "כל העסקאות מאובטחות בתקן האבטחה הגבוהה ביותר.",
         "gift_card_wrapper": {
           "payment_tag": "גיפט קארד",
-          "add_label": "הוספת גיפט קארד"
+          "add_label": "הוספת גיפט קארד",
+          "apply_gift_card_label": "מימוש גיפט קארד",
+          "apply_another_gift_card_label": "מימוש גיפט קארד אחר\/נוסף"
         },
         "payment_method_saved": "אמצעי התשלום נשמר",
         "amount_left_to_pay_label": "תשלום עד:",
@@ -599,7 +601,11 @@
         "title": "שיטת תשלום",
         "different_billing_address_label": "שימוש בכתובת חיוב שונה",
         "billing_address_title": "כתובת לחיוב",
-        "discount_button_action_label": "מימוש קוד קופון"
+        "discount_button_action_label": "מימוש קוד קופון",
+        "apply_gift_card_button_label": "מימוש",
+        "store_credit": {
+          "apply_label": "מימוש קרדיט באתר"
+        }
       },
       "failed_payment": {
         "page_title": "אירעה שגיאה. התשלום לא עבר.",
@@ -647,7 +653,9 @@
         "gift_card_and_discount_label": "קוד קופון או גיפט קארד",
         "gift_card_and_discount_placeholder": "כאן מכניסים קוד קופון או קוד גיפט קארד",
         "cart_does_not_meet_discount_requirements_notice": "קוד הקופון <strong style=\"text-transform:uppercase\">{{ code }}<\/strong>אינו תקף על הפריטים שבסל הקניות שלך.",
-        "customer_already_used_once_per_customer_discount_notice": "קוד הקופון שניסית להזין כבר מומש יותר מכמות הפעמים המקסימלית."
+        "customer_already_used_once_per_customer_discount_notice": "קוד הקופון שניסית להזין כבר מומש יותר מכמות הפעמים המקסימלית.",
+        "apply_discount_button_label": "מימוש",
+        "gift_card_subscriptions_notice": "גיפט קארד תקף רק למחזור התשלום הראשון."
       },
       "field_errors": {
         "payment_gateway_missing": "יש לבחור אמצעי תשלום.",
@@ -669,7 +677,8 @@
       },
       "shipping": {
         "duties_and_taxes_options": {
-          "ddp_title": "לתשלום"
+          "ddp_title": "לתשלום",
+          "ddu_caption": "ייתכנו עמלות נוספות."
         }
       },
       "order_payment_collection": {
@@ -706,6 +715,13 @@
       "mastercard": "Mastercard",
       "applepay": "Apple Pay",
       "googlepay": "Google Pay"
+    },
+    "orders": {
+      "order_list": {
+        "filter": {
+          "apply": "מימוש"
+        }
+      }
     }
   }
 }
