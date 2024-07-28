@@ -479,7 +479,21 @@
       "tracking_company": "",
       "tracking_number": "מספר מעקב",
       "subtotal": "סיכום ביניים",
-      "total_duties": "מסים"
+      "total_duties": "מסים",
+      "fulfillment_statuses": {
+        "Fulfilled": "נשלח",
+        "Partial": "טרם נשלח",
+        "Restocked": "מחזיר מלאי",
+        "Unfulfilled": "טרם נשלח"
+      },
+      "payment_statuses": {
+        "partially_paid": "שולם חלקית",
+        "partially_refunded": "הוחזר חלקית",
+        "Paid": "שולם",
+        "pending": "ממתין לתשלום",
+        "Refunded": "הוחזר",
+        "voided": "בוטל"
+      },
     },
     "orders": {
       "title": "הסטוריית הזמנות",

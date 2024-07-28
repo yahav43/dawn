@@ -70,15 +70,18 @@
                     role="cell"
                     data-label="{{ 'customer.orders.payment_status' | t }}"
                   >
-                    {{ order.financial_status_label }}
+                    {{ 'customer.order.payment_statuses.' | append: order.financial_status_label | t }}
                   </td>
-                  <td
-                    headers="RowOrder ColumnFulfillment"
-                    role="cell"
-                    data-label="{{ 'customer.orders.fulfillment_status' | t }}"
-                  >
-                    {{ order.fulfillment_status_label }}
-                  </td>
+                  {%- if order.shipping_methods != blank -%}
+                    <td
+                      headers="RowOrder ColumnFulfillment"
+                      role="cell"
+                      data-label="{{ 'customer.orders.fulfillment_status' | t }}"
+                      data-shipping="{{ order.shipping_methods }}"
+                    >
+                      {{ 'customer.order.fulfillment_statuses.' | append: order.fulfillment_status_label | t }}
+                    </td>
+                  {%- endif -%}
                   <td headers="RowOrder ColumnTotal" role="cell" data-label="{{ 'customer.orders.total' | t }}">
                     {{ order.total_net_amount | money_with_currency }}
                   </td>

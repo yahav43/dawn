@@ -24,8 +24,14 @@ div.main-blog,
 
 .image-with-text__text p, input.field__input, .customer div.field input,
 textarea.field__input, .customer .field input,
-div.customer ul {
+div.customer ul,
+div.customer td:before {
   text-align: right;
+}
+
+div.customer td:before {
+  padding-right: 0;
+  padding-left: 2rem;
 }
 
 .customer div.field input:focus~label,
