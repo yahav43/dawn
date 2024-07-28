@@ -136,6 +136,33 @@
         {{ 'customer.register.form_errors.password' | t }}
       </span>
     {%- endif -%}
+    {% comment %}
+      <div class="field" id="birthday-wrapper">
+            <input
+                    type="date"
+                    name="customer[note][birthday]"
+                    id="RegisterForm-birthday"
+                    placeholder="{{ 'customer.register.birthday' | t }}"
+            >
+            <label for="RegisterForm-birthday">
+                {{ 'customer.register.birthday' | t }}
+            </label>
+        </div>
+    {% endcomment %}
+    <div class="inputRegister" id="accepts_marketing_checkbox">
+      <input
+        type="checkbox"
+        name="customer[accepts_marketing]"
+        checked="checked"
+        hidden="hidden"
+        id="marketing"
+        value="true"
+        class="hidden"
+      >
+      <div class="accept-marketing-notice">
+        {{ 'customer.register.marketing_consent_html' | t }}
+      </div>
+    </div>
     <button>
       {{ 'customer.register.submit' | t }}
     </button>
