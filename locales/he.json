@@ -616,6 +616,15 @@
               "verification_value": "יש לציין קוד 3 ספרות בגב הכרטיס"
             }
           }
+        },
+        "card_verification_value_label": "3 ספרות בגב הכרטיס",
+        "card_verification_value_placeholder": "3 ספרות בגב הכרטיס",
+        "card_verification_value_explanation_amex": "4 ספרות בחלק הקדמי של הכרטיס",
+        "card_verification_value_explanation_other": "3 ספרות בגב הכרטיס",
+        "edit_credit_card_modal": {
+          "fields": {
+            "security_code": "3 ספרות בגב הכרטיס"
+          }
         }
       },
       "failed_payment": {
@@ -744,6 +753,9 @@
       },
       "delivery_options": {
         "free_total_label": "חינם"
+      },
+      "payment_errors": {
+        "invalid_cvc": "יש לציין 3 ספרות בגב הכרטיס"
       }
     },
     "errors": {
@@ -767,7 +779,9 @@
         "field_errors": {
           "credit_card_name_invalid": "יש לציין שם כפי שרשום על הכרטיס",
           "credit_card_verification_value_blank": "יש לציין קוד 3 ספרות בגב הכרטיס"
-        }
+        },
+        "card_verification_value_label": "3 ספרות בגב הכרטיס",
+        "card_verification_value_placeholder": "3 ספרות בגב הכרטיס"
       }
     },
     "payment_method_brands": {
