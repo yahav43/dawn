@@ -593,7 +593,9 @@
         "payment_method_saved": "אמצעי התשלום נשמר",
         "amount_left_to_pay_label": "תשלום עד:",
         "update_payment_method": "עדכון אמצעי תשלום",
-        "title": "שיטת תשלום"
+        "title": "שיטת תשלום",
+        "different_billing_address_label": "שימוש בכתובת חיוב שונה",
+        "billing_address_title": "כתובת לחיוב"
       },
       "failed_payment": {
         "page_title": "אירעה שגיאה. התשלום לא עבר.",
@@ -622,7 +624,8 @@
         "back_to_payment_method": "חזרה לתשלום",
         "choose_payment_method": "בחירת אמצעי תשלום",
         "continue_to_payment_plans_button_label": "המשך לתכניות תשלום",
-        "authenticate_purchase_button_label": "אימות תשלום"
+        "authenticate_purchase_button_label": "אימות תשלום",
+        "choose_billing_address": "בחרי כתובת לחיוב"
       },
       "order_summary": {
         "payment_due_label": "תשלום עד"
