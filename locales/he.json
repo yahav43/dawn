@@ -705,7 +705,8 @@
         "order_total_updated_label": "סך הכל מעודכן",
         "total_already_paid_label": "שולם",
         "multiple_shipping_lines_label": "סך הכל עלויות משלוח",
-        "vat_label_html": "‎"
+        "vat_label_html": "‎",
+        "expand_order_summary": "הצגת פרטים נוספים"
       },
       "field_errors": {
         "payment_gateway_missing": "יש לבחור אמצעי תשלום.",
