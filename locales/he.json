@@ -460,7 +460,7 @@
       "date_html": "",
       "cancelled_html": "",
       "cancelled_reason": "",
-      "billing_address": "",
+      "billing_address": "כתובת לחיוב",
       "payment_status": "סטטוס תשלום",
       "shipping_address": "",
       "fulfillment_status": "",
@@ -643,7 +643,8 @@
         "card_expiry_placeholder": "תוקף (MM\/YY)",
         "card_expiry_date_explanation": "תוקף הכרטיס - חודשים ושנים",
         "card_expiration_month_label": "תוקף (חודש)",
-        "card_expiration_year_label": "תוקף (שנה)"
+        "card_expiration_year_label": "תוקף (שנה)",
+        "fact_billing_address_label": "כתובת לחיוב"
       },
       "failed_payment": {
         "page_title": "אירעה שגיאה. התשלום לא עבר.",
@@ -669,7 +670,8 @@
         "confirmed_title": "הזמנתך אושרה.",
         "thank_you_confirmed_order_with_email": "ברגעים אלו ממש נשלח אלייך מייל אישור הזמנה עם כל הפרטים.",
         "customer_information_title": "פרטי ההזמנה",
-        "login_title": "התחברי לאיזור האישי על מנת לראות את כל המידע על ההזמנות שלך"
+        "login_title": "התחברי לאיזור האישי על מנת לראות את כל המידע על ההזמנות שלך",
+        "billing_address_title": "כתובת לחיוב"
       },
       "review": {
         "blocks": {
@@ -804,6 +806,9 @@
         "wait": {
           "short": "טוען..."
         }
+      },
+      "payment_summary": {
+        "billing_address_title": "כתובת לחיוב"
       }
     },
     "errors": {
@@ -833,12 +838,14 @@
       },
       "hide_order_summary": "הצגת פחות פרטים",
       "show_order_summary": "פתיחת סיכום הזמנה",
-      "summary_title": "סיכום הזמנה"
+      "summary_title": "סיכום הזמנה",
+      "billing_address": "כתובת לחיוב"
     },
     "payment_methods": {
       "add_payment_method": {
         "billing_address": {
-          "default_checkbox": "שמור כברירת מחדל"
+          "default_checkbox": "שמור כברירת מחדל",
+          "title": "כתובת לחיוב"
         }
       },
       "card_fields": {
@@ -898,6 +905,13 @@
       "order_not_found": {
         "title": "לא נמצאו הזמנות"
       }
+    },
+    "addresses": {
+      "edit_modal_title": {
+        "billing": "עריכת כתובת לחיוב"
+      },
+      "loading_billing_accessibility_message": "טוען כתובת לחיוב",
+      "billing_address_dropdown_placeholder": "כתובת לחיוב"
     }
   }
 }
