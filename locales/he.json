@@ -697,7 +697,9 @@
         "credit_card_month_invalid": "יש לציין תוקף (חודש)",
         "credit_card_year_invalid": "יש לציין תוקף (שנה)",
         "credit_card_name_blank": "יש לציין שם כפי שרשום על הכרטיס",
-        "credit_card_name_invalid": "יש לציין שם כפי שרשום על הכרטיס"
+        "credit_card_name_invalid": "יש לציין שם כפי שרשום על הכרטיס",
+        "email_or_phone_blank": "יש לציין כתובת אימייל או מספר טלפון",
+        "email_blank": "יש לציין כתובת אימייל"
       },
       "change_currency": {
         "payment_total_label": "סך הכל לתשלום"
