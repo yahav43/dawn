@@ -671,7 +671,8 @@
         "thank_you_confirmed_order_with_email": "ברגעים אלו ממש נשלח אלייך מייל אישור הזמנה עם כל הפרטים.",
         "customer_information_title": "פרטי ההזמנה",
         "login_title": "התחברי לאיזור האישי על מנת לראות את כל המידע על ההזמנות שלך",
-        "billing_address_title": "כתובת לחיוב"
+        "billing_address_title": "כתובת לחיוב",
+        "contact_us_html": "במידה ונתקלת בבעיה כלשהי נשמח שתצרי איתנו קשר."
       },
       "review": {
         "blocks": {
