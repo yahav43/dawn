@@ -504,7 +504,9 @@
       "password": "סיסמא",
       "submit": "הרשמה",
       "form_errors": {
-        "invalid_email": "יש להזין מייל תקין"
+        "email": "יש להזין כתובת מייל תקינה.",
+        "password": "יש להזין סיסמה הכוללת לפחות 5 תווים.",
+        "email_taken_html": "זיהינו כי כבר קיים משתמש עם המייל שניסית להירשם איתו. אם כבר נרשמת לאתר, ניתן <a href='/account/login#recover'>לאפס סיסמא כאן</a>."
       }
     },
     "reset_password": {

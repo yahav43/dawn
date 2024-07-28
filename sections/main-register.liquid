@@ -38,11 +38,14 @@
         {%- for field in form.errors -%}
           <li class="{{ field }}">
             {%- if field == 'form' -%}
-              {{ form.errors.messages[field] }}
+              {% if form.errors.messages[field] contains 'already associated' %}
+                {{ 'customer.register.form_errors.email_taken_html' | t }}
+              {% else %}
+                {{ form.errors.messages[field] }}
+              {% endif %}
             {%- else -%}
               <a href="#RegisterForm-{{ field }}">
-                {{ form.errors.translated_fields[field] | capitalize }}
-                {{ form.errors.messages[field] }}
+                {{ 'customer.register.form_errors.' | append: field | t }}
               </a>
             {%- endif -%}
           </li>
@@ -106,8 +109,7 @@
         <svg aria-hidden="true" focusable="false">
           <use href="#icon-error" />
         </svg>
-        {{ form.errors.translated_fields.email | capitalize }}
-        {{ form.errors.messages.email }}.
+        {{ 'customer.register.form_errors.email' | t }}
       </span>
     {%- endif -%}
     <div class="field">
@@ -131,8 +133,7 @@
         <svg aria-hidden="true" focusable="false">
           <use href="#icon-error" />
         </svg>
-        {{ form.errors.translated_fields.password | capitalize }}
-        {{ form.errors.messages.password }}.
+        {{ 'customer.register.form_errors.password' | t }}
       </span>
     {%- endif -%}
     <button>

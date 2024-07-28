@@ -498,7 +498,8 @@
       "password": "Password",
       "submit": "Create",
       "form_errors": {
-        "invalid_email": "Invalid Email"
+        "email": "Email can't be blank",
+        "password": "p"
       }
     },
     "reset_password": {

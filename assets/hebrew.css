@@ -23,7 +23,8 @@ div.main-blog,
 }
 
 .image-with-text__text p, input.field__input, .customer div.field input,
-textarea.field__input, .customer .field input {
+textarea.field__input, .customer .field input,
+div.customer ul {
   text-align: right;
 }
 
@@ -89,6 +90,11 @@ div.totals>*+* {
 .account a svg {
   margin-right: 0;
   margin-left: 1rem;
+}
+
+.customer span.form__message svg {
+  margin-right: 0;
+  margin-left: 1.5rem;
 }
 
 @media only screen and (min-width: 750px) {
