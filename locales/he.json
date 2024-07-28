@@ -700,7 +700,8 @@
         "credit_card_name_invalid": "יש לציין שם כפי שרשום על הכרטיס",
         "email_or_phone_blank": "יש לציין כתובת אימייל או מספר טלפון",
         "email_blank": "יש לציין כתובת אימייל",
-        "credit_card_number_blank": "יש לציין מספר כרטיס"
+        "credit_card_number_blank": "יש לציין מספר כרטיס",
+        "credit_card_verification_value_blank": "יש לציין קוד 3 ספרות בגב הכרטיס"
       },
       "change_currency": {
         "payment_total_label": "סך הכל לתשלום"
@@ -764,7 +765,8 @@
       },
       "card_fields": {
         "field_errors": {
-          "credit_card_name_invalid": "יש לציין שם כפי שרשום על הכרטיס"
+          "credit_card_name_invalid": "יש לציין שם כפי שרשום על הכרטיס",
+          "credit_card_verification_value_blank": "יש לציין קוד 3 ספרות בגב הכרטיס"
         }
       }
     },
