@@ -734,7 +734,7 @@
     "payment_methods": {
       "add_payment_method": {
         "billing_address": {
-          "missing_billing_address_error_message": "יש לציין כתובת לחיוב.",
+          "missing_billing_address_error_message": "יש למלא כתובת",
           "default_checkbox": "שמור כברירת מחדל"
         }
       }
