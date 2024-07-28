@@ -14,7 +14,7 @@
     "close": "",
     "unit_price_separator": "",
     "vendor": "",
-    "error": "",
+    "error": "שגיאה",
     "refresh_page": "",
     "link_messages": {
       "new_window": "",
@@ -673,7 +673,8 @@
         "authenticate_purchase_button_label": "אימות תשלום",
         "choose_billing_address": "בחרי כתובת לחיוב",
         "pay_now_button_label": "לתשלום",
-        "all_rights_reserved": "כל הזכויות שמורות. {{ shop_name }}"
+        "all_rights_reserved": "כל הזכויות שמורות. {{ shop_name }}",
+        "error_page_title": "שגיאה"
       },
       "order_summary": {
         "payment_due_label": "תשלום עד",
@@ -834,6 +835,15 @@
             "descending": "שווי הזמנה (מהגבוה לנמוך)"
           }
         }
+      }
+    },
+    "errors": {
+      "not_found": {
+        "description": "אנא וודאי שהכתובת שהזנת תקינה או שתנסי שוב בעוד מספר דקות",
+        "title": "הדף לא יכל להיטען"
+      },
+      "order_not_found": {
+        "title": "לא נמצאו הזמנות"
       }
     }
   }
