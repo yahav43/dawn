@@ -18,8 +18,7 @@ div.main-blog,
 .menu-drawer__utility-links,
 .multicolumn-list,
 .main-page-section,
-.announcement-bar__message,
-div[class^="klaviyo-form"] {
+.announcement-bar__message {
   direction: rtl;
 }
 
@@ -132,4 +131,25 @@ div.totals>*+* {
 
 #vstar-reviews .star-raw .star-classify .number {
   width: 10px !important;
+}
+
+div[class^="needsclick  kl-private-reset-css-"]>a {
+  display: none !important;
+}
+
+div[class^="klaviyo-form"],
+form[class^="klaviyo-form"],
+form.klaviyo-form p,
+form.klaviyo-form input,
+div[id^="rich-text-"] {
+  direction: rtl !important;
+}
+
+form.klaviyo-form input {
+  text-align: right !important;
+  padding: 0 16px 0 0 !important;
+}
+
+form.klaviyo-form label {
+  text-align: right !important;
 }
