@@ -28,16 +28,23 @@
             "image_width": 100,
             "alignment": "center"
           }
+        },
+        "klaviyo_email_marketing_sms_form_embed_block_4ajXF8": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "SZ3nDD"
+          }
         }
       },
       "block_order": [
         "footer-1",
-        "image_Kja6rx"
+        "image_Kja6rx",
+        "klaviyo_email_marketing_sms_form_embed_block_4ajXF8"
       ],
       "settings": {
         "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
-        "newsletter_enable": true,
-        "newsletter_heading": "אל תפספסי את המבצעים והתכנים שלנו, הרשמי עכשיו!",
+        "newsletter_enable": false,
+        "newsletter_heading": "",
         "enable_follow_on_shop": false,
         "show_social": true,
         "enable_country_selector": false,
