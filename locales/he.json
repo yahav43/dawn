@@ -480,7 +480,10 @@
       "tracking_company": "",
       "tracking_number": "מספר מעקב",
       "subtotal": "סיכום ביניים",
-      "total_duties": "מסים"
+      "total_duties": "מסים",
+      "payment_statuses": {
+        "Refunded": "בוטלה ובוצע זיכוי"
+      }
     },
     "orders": {
       "title": "הסטוריית הזמנות",
