@@ -137,6 +137,18 @@ table.cart-items .right.caption-with-letter-spacing {
   div.customer tfoot td:first-of-type {
     text-align: right;
   }
+
+  .cart-items th.cart-items__heading--quantity,
+  .cart-item th.cart-item__quantity,
+  .cart-item__quantity--info quantity-popover>* {
+    padding-left: 0;
+    padding-right: 5rem;
+  }
+
+  tr.cart-item>td+td {
+    padding-left: 0;
+    padding-right: 4rem;
+  }
 }
 
 /* App designs, may include !important */
