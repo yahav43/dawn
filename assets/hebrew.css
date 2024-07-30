@@ -18,7 +18,9 @@ div.main-blog,
 .menu-drawer__utility-links,
 .multicolumn-list,
 .main-page-section,
-.announcement-bar__message {
+.announcement-bar__message,
+.cart__login-title,
+.cart__login-paragraph {
   direction: rtl;
 }
 
