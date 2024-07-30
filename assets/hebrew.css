@@ -20,7 +20,8 @@ div.main-blog,
 .main-page-section,
 .announcement-bar__message,
 .cart__login-title,
-.cart__login-paragraph {
+.cart__login-paragraph,
+.shopify-section cart-items {
   direction: rtl;
 }
 
@@ -87,6 +88,19 @@ summary svg.icon.icon-caret {
 
 div.totals>*+* {
   margin-left: 0;
+}
+
+table.cart-items th {
+  text-align: right;
+}
+
+table.cart-items .right.caption-with-letter-spacing {
+  text-align: left;
+}
+
+.shopify-section .totals {
+  flex-direction: row-reverse;
+  justify-content: space-between;
 }
 
 .article-template__link span.icon-wrap {
