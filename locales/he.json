@@ -44,11 +44,11 @@
     },
     "cart": {
       "title": "סל הקניות",
-      "caption": "",
-      "remove_title": "",
+      "caption": "הפריטים שלך",
+      "remove_title": "הסרת {{ title }}",
       "estimated_total": "סיכום ביניים",
       "new_estimated_total": "סיכום ביניים",
-      "note": "",
+      "note": "בקשות מיוחדות",
       "checkout": "מעבר לתשלום",
       "empty": "סל הקניות שלך ריק",
       "cart_error": "אירעה שגיאה בעת טעינת הסל. יש לנסות שנית.",
@@ -62,13 +62,13 @@
       "taxes_at_checkout_shipping_at_checkout_with_policy_html": "",
       "taxes_at_checkout_shipping_at_checkout_without_policy": "",
       "headings": {
-        "product": "",
-        "price": "",
+        "product": "מוצר",
+        "price": "מחיר",
         "total": "סך הכל",
-        "quantity": "",
-        "image": ""
+        "quantity": "כמות",
+        "image": "תמונת מוצר"
       },
-      "update": "",
+      "update": "עדכון",
       "login": {
         "title": "יש לך משתמש?",
         "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">התחברי<\/a> לתהליך רכישה מהיר ונח."
@@ -143,8 +143,7 @@
       "contact": "צרי קשר",
       "register": "הרשמה",
       "account": "איזור אישי",
-      "addresses": "הכתובות שלי",
-      "order": "פרטי הזמנה"
+      "addresses": "הכתובות שלי"
     },
     "password_page": {
       "login_form_heading": "כניסת בעלים",
@@ -471,7 +470,7 @@
       "product": "מוצר",
       "sku": "מקט",
       "price": "מחיר",
-      "quantity": "כמות",
+      "quantity": "",
       "total": "סך הכל",
       "total_refunded": "בוצע זיכוי",
       "fulfilled_at_html": "נארז בתאריך {{ date }}",
@@ -480,21 +479,7 @@
       "tracking_company": "",
       "tracking_number": "מספר מעקב",
       "subtotal": "סיכום ביניים",
-      "total_duties": "מסים",
-      "fulfillment_statuses": {
-        "Fulfilled": "נשלח",
-        "Partial": "טרם נשלח",
-        "Restocked": "מחזיר מלאי",
-        "Unfulfilled": "טרם נשלח"
-      },
-      "payment_statuses": {
-        "partially_paid": "שולם חלקית",
-        "partially_refunded": "הוחזר חלקית",
-        "Paid": "שולם",
-        "pending": "ממתין לתשלום",
-        "Refunded": "הוחזר",
-        "voided": "בוטל"
-      },
+      "total_duties": "מסים"
     },
     "orders": {
       "title": "הסטוריית הזמנות",
