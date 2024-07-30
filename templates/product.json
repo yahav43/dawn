@@ -74,6 +74,7 @@
         "icon_with_text_cggd3E"
       ],
       "settings": {
+        "show_tax_notice": false,
         "enable_sticky_info": true,
         "color_scheme": "scheme-5",
         "media_size": "large",
@@ -311,10 +312,23 @@
           "type": "shopify:\/\/apps\/trustoo-io-reviews\/blocks\/review-widget\/c8f15077-6475-4e86-ad06-b66038d5ba2c",
           "settings": {
           }
+        },
+        "stamped_product_reviews_ugc_main_widget_iqETUF": {
+          "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/main-widget\/a103faaf-2125-4b0e-89fa-de5149736723",
+          "settings": {
+            "animation": true,
+            "tags_exclude": "",
+            "tags_include": "",
+            "search": "",
+            "linkify": true,
+            "use_metafields": false,
+            "sku_tagtype": "sku"
+          }
         }
       },
       "block_order": [
-        "trustoo_io_reviews_review_widget_xK8C7H"
+        "trustoo_io_reviews_review_widget_xK8C7H",
+        "stamped_product_reviews_ugc_main_widget_iqETUF"
       ],
       "settings": {
         "include_margins": true
