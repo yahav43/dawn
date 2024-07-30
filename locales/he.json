@@ -482,7 +482,8 @@
       "subtotal": "סיכום ביניים",
       "total_duties": "מסים",
       "payment_statuses": {
-        "Refunded": "בוטלה ובוצע זיכוי"
+        "Refunded": "בוטלה ובוצע זיכוי",
+        "Paid": "שולם"
       }
     },
     "orders": {
