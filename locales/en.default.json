@@ -447,7 +447,8 @@
       "title": "Login",
       "sign_in": "Sign in",
       "submit": "Submit",
-      "alternate_provider_separator": "or"
+      "alternate_provider_separator": "or",
+      "helper": "In case you made a purchase but have yet to create an account, please create an account."
     },
     "order": {
       "title": "Order {{ name }}",

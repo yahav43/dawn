@@ -453,7 +453,8 @@
       "title": "איזור אישי",
       "sign_in": "כניסה",
       "submit": "שליחה",
-      "alternate_provider_separator": "או"
+      "alternate_provider_separator": "או",
+      "helper": "במידה ורק ביצעת רכישה באתר וטרם יצרת משתמש יש ללחוץ על הכפתור 'יצירת משתמש'"
     },
     "order": {
       "title": "הזמנה מספר {{ name }}",
