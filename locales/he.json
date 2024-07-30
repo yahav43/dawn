@@ -674,12 +674,14 @@
         "login_title": "התחברי לאיזור האישי על מנת לראות את כל המידע על ההזמנות שלך",
         "billing_address_title": "כתובת לחיוב",
         "contact_us_html": "במידה ונתקלת בבעיה כלשהי נשמח שתצרי איתנו קשר.",
-        "return_to_store_link_label": "חזרה לאתר"
+        "return_to_store_link_label": "חזרה לאתר",
+        "contact_information_title": "פרטי התקשרות"
       },
       "review": {
         "blocks": {
           "payment_method_title": "אמצעי תשלום",
-          "change_payment_method_link_label": "שינוי אמצעי תשלום"
+          "change_payment_method_link_label": "שינוי אמצעי תשלום",
+          "change_contact_method_link_label": "שינוי פרטי התקשרות"
         }
       },
       "general": {
@@ -812,6 +814,9 @@
       },
       "payment_summary": {
         "billing_address_title": "כתובת לחיוב"
+      },
+      "shop_policies": {
+        "contact_information": "פרטי התקשרות"
       }
     },
     "errors": {
@@ -842,7 +847,8 @@
       "hide_order_summary": "הצגת פחות פרטים",
       "show_order_summary": "פתיחת סיכום הזמנה",
       "summary_title": "סיכום הזמנה",
-      "billing_address": "כתובת לחיוב"
+      "billing_address": "כתובת לחיוב",
+      "contact_information": "פרטי התקשרות"
     },
     "payment_methods": {
       "add_payment_method": {
@@ -915,6 +921,9 @@
       },
       "loading_billing_accessibility_message": "טוען כתובת לחיוב",
       "billing_address_dropdown_placeholder": "כתובת לחיוב"
+    },
+    "navigation_and_structure": {
+      "contact_link": "פרטי התקשרות"
     }
   }
 }
