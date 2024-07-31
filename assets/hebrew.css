@@ -217,3 +217,17 @@ form.klaviyo-form input {
 form.klaviyo-form label {
   text-align: right !important;
 }
+
+@media screen and (min-width: 750px) {
+  div.summary-overview,
+  div.stamped-summary-ratings {
+    float: right !important;
+  }
+
+  div.stamped-summary-ratings {
+    padding-left: 0;
+    padding-right: 20px;
+    margin-left: 20px;
+    margin-right: 0;
+  }
+}
