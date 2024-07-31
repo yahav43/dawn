@@ -157,7 +157,7 @@
       },
       "1575957009345749421": {
         "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/side-drawer\/a103faaf-2125-4b0e-89fa-de5149736723",
-        "disabled": false,
+        "disabled": true,
         "settings": {
           "show_avatar": true,
           "position": "left",
