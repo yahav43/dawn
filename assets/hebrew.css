@@ -153,12 +153,48 @@ table.cart-items .right.caption-with-letter-spacing {
 
 /* App designs, may include !important */
 
-#trustoo-mask, #trustoo-mask * {
+.stamped-container {
   direction: rtl;
 }
 
-#vstar-reviews .star-raw .star-classify .number {
-  width: 10px !important;
+span.stamped-summary-text-1 {
+  margin-right: 0;
+  margin-left: 5px;
+}
+
+div.stamped-container,
+h3.stamped-review-header-title {
+  text-align: right;
+}
+
+div.stamped-review-avatar {
+  margin-right: 0;
+  margin-left: 10px;
+}
+
+.stamped-review strong.author {
+  margin-right: 0;
+  margin-left: 7px;
+}
+
+span.stamped-review-header-starratings {
+  margin-right: 0;
+  margin-left: -2px;
+}
+
+div.stamped-reviews-filter,
+div.stamped-header div.stamped-summary span.stamped-summary-actions,
+div.stamped-review-body>div.stamped-review-product>a,
+div.stamped-review-footer {
+  display: none !important;
+}
+
+.st-f-l, .stamped-review-header #stamped-review-avatar, .stamped-review-header .stamped-review-avatar, .stamped-review-reply #stamped-review-avatar, .stamped-review-reply .stamped-review-avatar {
+  float: right !important;
+}
+
+.stamped-review-header div.created, .stamped-review-header-byline div.created {
+  float: left !important;
 }
 
 div[class^="needsclick  kl-private-reset-css-"]>a {
