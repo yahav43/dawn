@@ -786,7 +786,10 @@
         "address_update": "עדכון כתובת",
         "shipping_address_title": "כתובת למשלוח",
         "edit": "עריכה",
-        "delete": "מחיקה"
+        "delete": "מחיקה",
+        "address_edit": "עריכת כתובת",
+        "address_delete": "מחיקת כתובת",
+        "address_default": "שימוש בכתובת זו בברירת מחדל"
       },
       "order_payment_collection": {
         "pay_now": "לתשלום"
