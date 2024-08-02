@@ -798,7 +798,10 @@
         "address_delete": "מחיקת כתובת",
         "address_default": "שימוש בכתובת זו בברירת מחדל",
         "delivery_title": "כתובת למשלוח",
-        "add_address": "שינוי כתובת"
+        "add_address": "שינוי כתובת",
+        "address_form": {
+          "add_address": "הוספת כתובת"
+        }
       },
       "order_payment_collection": {
         "pay_now": "לתשלום"
@@ -837,7 +840,10 @@
       },
       "billing": {
         "address_confirm": "למחוק את הכתובת הזו מהמשתמש שלך?",
-        "add_address": "שינוי כתובת לחיוב"
+        "add_address": "שינוי כתובת לחיוב",
+        "address_form": {
+          "add_address": "הוספת כתובת"
+        }
       },
       "processing": {
         "wait": {
@@ -957,10 +963,16 @@
         "shipping": "עריכת כתובת למשלוח"
       },
       "loading_billing_accessibility_message": "טוען כתובת לחיוב",
-      "billing_address_dropdown_placeholder": "כתובת לחיוב"
+      "billing_address_dropdown_placeholder": "כתובת לחיוב",
+      "add_button": "הוספת כתובת",
+      "add_button_accessibility_label": "הוספת כתובת",
+      "add_address_banner": "הוספת כתובת לשימוש במעמד התשלום"
     },
     "navigation_and_structure": {
       "contact_link": "פרטי התקשרות"
+    },
+    "address_form": {
+      "section_title_accessibility_label": "הוספת כתובת"
     }
   }
 }
