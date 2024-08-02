@@ -115,7 +115,7 @@
           "type": "column",
           "settings": {
             "title": "{{ product.metafields.custom.product_explanation_third.value }}",
-            "text": "<p>מדיטציית צ'אקרות עם מנטרות הזרע ( ביג'ה) ותרגול קל להאיר את הגוף, ויניאסה.<\/p>",
+            "text": "<p>{{ product.metafields.custom.product_explanation_description_third | metafield_tag }}<\/p>",
             "link_label": "",
             "link": ""
           }
