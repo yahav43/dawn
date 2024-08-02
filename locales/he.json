@@ -591,7 +591,8 @@
         "zip_code_placeholder": "מיקוד דואר (לא חובה)",
         "postal_code_label": "מיקוד דואר",
         "optional_postal_code_label": "מיקוד דואר (לא חובה)",
-        "postal_code_placeholder": "מיקוד דואר"
+        "postal_code_placeholder": "מיקוד דואר",
+        "different_shipping_address_label": "משלוח לכתובת שונה"
       },
       "marketing": {
         "accept_marketing_checkbox_label": "אני מאשר\/ת קבלת מסרים שיווקיים."
@@ -697,7 +698,8 @@
         "choose_billing_address": "בחרי כתובת לחיוב",
         "pay_now_button_label": "לתשלום",
         "all_rights_reserved": "כל הזכויות שמורות. {{ shop_name }}",
-        "error_page_title": "שגיאה"
+        "error_page_title": "שגיאה",
+        "choose_shipping_method": "בחרי שיטת משלוח"
       },
       "order_summary": {
         "payment_due_label": "תשלום עד",
@@ -729,7 +731,11 @@
         "expand_order_summary": "הצגת פרטים נוספים",
         "collapse_order_summary": "הצגת פחות פרטים",
         "title": "סיכום הזמנה",
-        "confirmation_number_label": "אישור מספר #{{ confirmation_number }}"
+        "confirmation_number_label": "אישור מספר #{{ confirmation_number }}",
+        "free_shipping_discount_label": "משלוח חינם",
+        "applied_free_shipping_discount_label": "בוצע",
+        "shipping_label": "משלוח",
+        "shipping_discount_title": "הנחה למשלוח"
       },
       "field_errors": {
         "payment_gateway_missing": "יש לבחור אמצעי תשלום.",
@@ -773,7 +779,14 @@
           "ddp_title": "לתשלום",
           "ddu_caption": "ייתכנו עמלות נוספות."
         },
-        "address_confirm": "למחוק את הכתובת הזו מהמשתמש שלך?"
+        "address_confirm": "למחוק את הכתובת הזו מהמשתמש שלך?",
+        "title": "משלוח",
+        "shipping_method_title": "שיטת משלוח",
+        "free_rate_label": "חינם",
+        "address_update": "עדכון כתובת",
+        "shipping_address_title": "כתובת למשלוח",
+        "edit": "עריכה",
+        "delete": "מחיקה"
       },
       "order_payment_collection": {
         "pay_now": "לתשלום"
@@ -801,7 +814,8 @@
         }
       },
       "delivery_options": {
-        "free_total_label": "חינם"
+        "free_total_label": "חינם",
+        "shipping_address": "כתובת למשלוח"
       },
       "payment_errors": {
         "invalid_cvc": "יש לציין 3 ספרות בגב הכרטיס",
