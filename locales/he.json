@@ -789,7 +789,8 @@
         "delete": "מחיקה",
         "address_edit": "עריכת כתובת",
         "address_delete": "מחיקת כתובת",
-        "address_default": "שימוש בכתובת זו בברירת מחדל"
+        "address_default": "שימוש בכתובת זו בברירת מחדל",
+        "delivery_title": "כתובת למשלוח"
       },
       "order_payment_collection": {
         "pay_now": "לתשלום"
