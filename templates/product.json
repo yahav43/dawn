@@ -132,8 +132,8 @@
         "column_RPQ36j": {
           "type": "column",
           "settings": {
-            "title": "סשן חמישי - סיכום ופרידה",
-            "text": "<p>סיכום החוויה שהחווינו.<\/p>",
+            "title": "{{ product.metafields.custom.product_explanation_fifth.value }}",
+            "text": "<p>{{ product.metafields.custom.product_explanation_description_fifth | metafield_tag }}<\/p>",
             "link_label": "",
             "link": ""
           }
