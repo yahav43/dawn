@@ -800,7 +800,8 @@
         "delivery_title": "כתובת למשלוח",
         "add_address": "שינוי כתובת",
         "address_form": {
-          "add_address": "הוספת כתובת"
+          "add_address": "הוספת כתובת",
+          "save": "שמירה"
         }
       },
       "order_payment_collection": {
@@ -813,7 +814,8 @@
         "sign_out_link_label": "יציאה",
         "rollup_label": "משתמש",
         "saved_address_option_link": "שימוש בכתובת קיימת",
-        "save_my_information_label": "שמרו לי את הפרטים לפעם הבאה."
+        "save_my_information_label": "שמרו לי את הפרטים לפעם הבאה.",
+        "saved_address_modal_title": "שימוש בכתובות השמורות שלי"
       },
       "wallets": {
         "errors": {
