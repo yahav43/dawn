@@ -105,8 +105,8 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "title": "סשן שני - לימוד",
-            "text": "<p>מהי פראנה? איפה היא נמצאת? יין ויאנג ותורת הניגודים. קונדליני שאקטי.<\/p>",
+            "title": "{{ product.metafields.custom.product_explanation_second.value }}",
+            "text": "<p>{{ product.metafields.custom.product_explanation_description_second | metafield_tag }}<\/p>",
             "link_label": "",
             "link": ""
           }
