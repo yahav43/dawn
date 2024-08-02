@@ -72,6 +72,8 @@
               {% assign new_page_title = request.path | replace: '/', '' %}
             {% elsif request.path contains '/account/order' %}
               {% assign new_page_title = 'order' %}
+            {% elsif request.path contains '/account/reset' %}
+              {% assign new_page_title = request.path | replace: request.path, 'reset' %}
             {% else %}
               {% assign new_page_title = request.path | replace: '/account/', '' %}
             {% endif %}

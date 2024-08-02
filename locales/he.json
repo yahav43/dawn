@@ -144,7 +144,9 @@
       "register": "הרשמה",
       "account": "איזור אישי",
       "addresses": "הכתובות שלי",
-      "order": "ההזמנה שלי"
+      "order": "ההזמנה שלי",
+      "invalid_token": "דף שגיאה",
+      "reset": "איפוס סיסמא"
     },
     "password_page": {
       "login_form_heading": "כניסת בעלים",
