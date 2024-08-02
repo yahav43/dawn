@@ -123,8 +123,8 @@
         "column_zAxyYT": {
           "type": "column",
           "settings": {
-            "title": "סשן רביעי - צ׳אקרות",
-            "text": "<p>חמשת האלמנטים, 7 הצ'אקרות. חמשת הגופים.<\/p>",
+            "title": "{{ product.metafields.custom.product_explanation_fourth.value }}",
+            "text": "<p>{{ product.metafields.custom.product_explanation_description_fourth | metafield_tag }}<\/p>",
             "link_label": "",
             "link": ""
           }
