@@ -129,7 +129,7 @@
       "remove_all_single_item_confirmation": "",
       "remove_all_items_confirmation": "",
       "remove_all": "",
-      "cancel": "",
+      "cancel": "ביטול",
       "min_error": "",
       "max_error": "",
       "step_error": ""
@@ -639,7 +639,8 @@
             "name": "שם בעל הכרטיס",
             "card_number": "מספר כרטיס",
             "expiry": "תוקף"
-          }
+          },
+          "cancel": "ביטול"
         },
         "name_on_card_label": "שם בעל הכרטיס",
         "name_on_card_placeholder": "שם בעל הכרטיס",
@@ -657,7 +658,15 @@
           "delete": "מחיקה"
         },
         "add_credit_card_modal": {
-          "save": "שמירה"
+          "save": "שמירה",
+          "cancel": "ביטול"
+        },
+        "delete_customer_mandate_modal_cancel": "ביטול",
+        "saved_credit_cards_modal": {
+          "cancel": "ביטול"
+        },
+        "delete_credit_card_modal": {
+          "cancel": "ביטול"
         }
       },
       "failed_payment": {
@@ -692,7 +701,10 @@
         "shipping_address_title": "כתובת למשלוח",
         "marker": {
           "shipping": "כתובת למשלוח"
-        }
+        },
+        "cancelled_page_title": "ההזמנה בוטלה",
+        "cancelled_title": "הזמנתך בוטלה",
+        "cancelled_description": "הזמנתך בוטלה בתאריך {{ date }}. צרי איתנו קשר במידה ויש לך שאלה כלשהי."
       },
       "review": {
         "blocks": {
@@ -808,7 +820,8 @@
         "add_address": "שינוי כתובת",
         "address_form": {
           "add_address": "הוספת כתובת",
-          "save": "שמירה"
+          "save": "שמירה",
+          "cancel": "ביטול"
         }
       },
       "order_payment_collection": {
@@ -852,7 +865,8 @@
         "add_address": "שינוי כתובת לחיוב",
         "address_form": {
           "add_address": "הוספת כתובת",
-          "save": "שמירה"
+          "save": "שמירה",
+          "cancel": "ביטול"
         }
       },
       "processing": {
@@ -865,6 +879,9 @@
       },
       "shop_policies": {
         "contact_information": "פרטי התקשרות"
+      },
+      "local_pickup": {
+        "cancel": "ביטול"
       }
     },
     "errors": {
@@ -955,7 +972,10 @@
         }
       },
       "order_status": {
-        "confirmed_title": "הזמנתך אושרה"
+        "confirmed_title": "הזמנתך אושרה",
+        "canceled_description": "הזמנתך בוטלה בתאריך {{ date }}",
+        "canceled_label": "בוטלה",
+        "canceled_title": "הזמנתך בוטלה"
       }
     },
     "errors": {
@@ -977,19 +997,33 @@
       "add_button": "הוספת כתובת",
       "add_button_accessibility_label": "הוספת כתובת",
       "add_address_banner": "הוספת כתובת לשימוש במעמד התשלום",
-      "save_new_address_accessibility_label": "שמירת כתובת"
+      "save_new_address_accessibility_label": "שמירת כתובת",
+      "cancel_adding_address_accessibility_label": "ביטול עריכת כתובת",
+      "cancel_deletion_button": "ביטול",
+      "cancel_deletion_button_accessibility_label": "ביטול מחיקת {{ address }}"
     },
     "navigation_and_structure": {
-      "contact_link": "פרטי התקשרות"
+      "contact_link": "פרטי התקשרות",
+      "delete_confirmation": {
+        "cancel": "ביטול"
+      }
     },
     "address_form": {
       "section_title_accessibility_label": "הוספת כתובת",
       "save": "שמירה",
-      "save_accessibility_label": "שמירה כתובת {{address}}"
+      "save_accessibility_label": "שמירה כתובת {{address}}",
+      "cancel": "ביטול"
     },
     "account_information": {
       "profile_card": {
-        "save": "שמירה"
+        "save": "שמירה",
+        "cancel": "ביטול",
+        "cancel_accessibility_label": "ביטול עריכת פרופיל"
+      }
+    },
+    "B2B": {
+      "location_selection": {
+        "selection_cancel_button": "ביטול"
       }
     }
   }
