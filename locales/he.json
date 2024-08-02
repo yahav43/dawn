@@ -713,14 +713,17 @@
         },
         "cancelled_page_title": "ההזמנה בוטלה",
         "cancelled_title": "הזמנתך בוטלה",
-        "cancelled_description": "הזמנתך בוטלה בתאריך {{ date }}. צרי איתנו קשר במידה ויש לך שאלה כלשהי."
+        "cancelled_description": "הזמנתך בוטלה בתאריך {{ date }}. צרי איתנו קשר במידה ויש לך שאלה כלשהי.",
+        "shipping_method_title": "שיטת משלוח"
       },
       "review": {
         "blocks": {
           "payment_method_title": "אמצעי תשלום",
           "change_payment_method_link_label": "שינוי אמצעי תשלום",
           "change_contact_method_link_label": "שינוי פרטי התקשרות",
-          "change_shipping_address_link_label": "שינוי כתובת למשלוח"
+          "change_shipping_address_link_label": "שינוי כתובת למשלוח",
+          "shipping_method_title": "שיטת משלוח",
+          "change_shipping_method_link_label": "שינוי שיטת משלוח"
         }
       },
       "general": {
@@ -925,7 +928,8 @@
       "contact_information": "פרטי התקשרות",
       "shipping": {
         "address": "כתובת למשלוח",
-        "address_map_marker": "כתובת למשלוח"
+        "address_map_marker": "כתובת למשלוח",
+        "method": "שיטת משלוח"
       }
     },
     "payment_methods": {
