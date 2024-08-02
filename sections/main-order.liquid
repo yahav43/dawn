@@ -67,6 +67,12 @@
                   {%- else -%}
                     <p>{{ line_item.title }}</p>
                   {%- endif -%}
+                  {%- assign qrCodePassword = line_item.product.metafields.custom.qr_code_password -%}
+                  {%- if qrCodePassword != blank -%}
+                    <span class="line-item__qr-code-password">
+                      {{ 'customer.order.qr_code_password_html' | t: password: qrCodePassword }}
+                    </span>
+                  {%- endif -%}
                   {%- assign property_size = line_item.properties | size -%}
                   {%- unless line_item.selling_plan_allocation == null and property_size == 0 -%}
                     <div class="properties">
@@ -268,7 +274,7 @@
           {%- endif -%}
           {%- for shipping_method in order.shipping_methods -%}
             <tr role="row">
-              <td id="RowShipping" role="rowheader" scope="row" colspan="4">
+              <td id="RowShipping" role="rowheader" scope="row" colspan="3">
                 {{ 'customer.order.shipping' | t }} ({{ shipping_method.title }})
               </td>
               <td
@@ -326,7 +332,7 @@
           <h2>{{ 'customer.order.shipping_address' | t }}</h2>
           <p>
             <strong>{{ 'customer.order.fulfillment_status' | t }}:</strong>
-            {{ order.fulfillment_status_label }}
+            {{ 'customer.order.fulfillment_statuses.' | append: order.fulfillment_status_label | t }}
           </p>
           {{ order.shipping_address | format_address }}
         </div>

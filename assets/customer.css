@@ -753,3 +753,12 @@ li[data-address] > h2 {
 .addresses form > div:nth-of-type(7) + div[id] {
   margin-top: 1.5rem;
 }
+
+.line-item__qr-code-password {
+  font-size: small;
+  padding-top: var(--grid-mobile-horizontal-spacing);
+}
+
+.line-item__qr-code-password b {
+  text-decoration: underline;
+}

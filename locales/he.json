@@ -143,7 +143,8 @@
       "contact": "צרי קשר",
       "register": "הרשמה",
       "account": "איזור אישי",
-      "addresses": "הכתובות שלי"
+      "addresses": "הכתובות שלי",
+      "order": "ההזמנה שלי"
     },
     "password_page": {
       "login_form_heading": "כניסת בעלים",
@@ -471,7 +472,7 @@
       "product": "מוצר",
       "sku": "מקט",
       "price": "מחיר",
-      "quantity": "",
+      "quantity": "כמות",
       "total": "סך הכל",
       "total_refunded": "בוצע זיכוי",
       "fulfilled_at_html": "נארז בתאריך {{ date }}",
@@ -489,7 +490,8 @@
       "payment_statuses": {
         "Refunded": "בוטלה ובוצע זיכוי",
         "Paid": "שולם"
-      }
+      },
+      "qr_code_password_html": "סיסמת ברקוד החבילה - <b>{{ password }}</b>"
     },
     "orders": {
       "title": "הסטוריית הזמנות",
