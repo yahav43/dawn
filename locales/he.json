@@ -481,6 +481,11 @@
       "tracking_number": "מספר מעקב",
       "subtotal": "סיכום ביניים",
       "total_duties": "מסים",
+      "no_fulfillment_status_needed": "מוצרים דיגיטליים בלבד",
+      "fulfillment_statuses": {
+        "Unfulfilled": "לא נארז",
+        "Fulfilled": "נארז ויצא למשלוח"
+      },
       "payment_statuses": {
         "Refunded": "בוטלה ובוצע זיכוי",
         "Paid": "שולם"
@@ -492,7 +497,7 @@
       "order_number_link": "הזמנה מספר {{ number }}",
       "date": "תאריך",
       "payment_status": "סטטוס תשלום",
-      "fulfillment_status": "סטטוס משלוח",
+      "fulfillment_status": "סטטוס אריזה",
       "total": "סך הכל",
       "none": "אין עדיין הזמנות על המשתמש הזה."
     },

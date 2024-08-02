@@ -31,6 +31,13 @@
 
       {% paginate customer.orders by 20 %}
         {%- if customer.orders.size > 0 -%}
+          {% assign requiresShipping = false %}
+          {% for order in customer.orders %}
+            {% if order.requires_shipping == true %}
+              {% assign requiresShipping = true %}
+            {% endif %}
+          {% endfor %}
+
           <table role="table" class="order-history">
             <caption class="visually-hidden">
               {{ 'customer.orders.title' | t }}
@@ -40,7 +47,7 @@
                 <th id="ColumnOrder" scope="col" role="columnheader">{{ 'customer.orders.order_number' | t }}</th>
                 <th id="ColumnDate" scope="col" role="columnheader">{{ 'customer.orders.date' | t }}</th>
                 <th id="ColumnPayment" scope="col" role="columnheader">{{ 'customer.orders.payment_status' | t }}</th>
-                {%- if order.shipping_methods != blank -%}
+                {%- if requiresShipping == true -%}
                   <th id="ColumnFulfillment" scope="col" role="columnheader">
                     {{ 'customer.orders.fulfillment_status' | t }}
                   </th>
@@ -74,16 +81,18 @@
                   >
                     {{ 'customer.order.payment_statuses.' | append: order.financial_status_label | t }}
                   </td>
-                  {%- if order.shipping_methods != blank -%}
-                    <td
-                      headers="RowOrder ColumnFulfillment"
-                      role="cell"
-                      data-label="{{ 'customer.orders.fulfillment_status' | t }}"
-                      data-shipping="{{ order.shipping_methods }}"
-                    >
+                  <td
+                    headers="RowOrder ColumnFulfillment"
+                    role="cell"
+                    data-label="{{ 'customer.orders.fulfillment_status' | t }}"
+                    data-shipping="{{ order.shipping_methods }}"
+                  >
+                    {%- if order.shipping_methods != blank -%}
                       {{ 'customer.order.fulfillment_statuses.' | append: order.fulfillment_status_label | t }}
-                    </td>
-                  {%- endif -%}
+                    {% else %}
+                      {{ 'customer.order.no_fulfillment_status_needed' | t }}
+                    {% endif %}
+                  </td>
                   <td headers="RowOrder ColumnTotal" role="cell" data-label="{{ 'customer.orders.total' | t }}">
                     {{ order.total_net_amount | money_with_currency }}
                   </td>
