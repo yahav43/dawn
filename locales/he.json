@@ -801,7 +801,8 @@
         "have_an_account_label": "יש לך משתמש?",
         "sign_out_link_label": "יציאה",
         "rollup_label": "משתמש",
-        "saved_address_option_link": "שימוש בכתובת קיימת"
+        "saved_address_option_link": "שימוש בכתובת קיימת",
+        "save_my_information_label": "שמרו לי את הפרטים לפעם הבאה."
       },
       "wallets": {
         "errors": {
