@@ -114,7 +114,7 @@
         "column_9QVhVf": {
           "type": "column",
           "settings": {
-            "title": "סשן שלישי - מדיטציה מודרכת",
+            "title": "{{ product.metafields.custom.product_explanation_third.value }}",
             "text": "<p>מדיטציית צ'אקרות עם מנטרות הזרע ( ביג'ה) ותרגול קל להאיר את הגוף, ויניאסה.<\/p>",
             "link_label": "",
             "link": ""
