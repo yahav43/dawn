@@ -141,8 +141,8 @@
         "column_jpn7tW": {
           "type": "column",
           "settings": {
-            "title": "זו רק ההתחלה",
-            "text": "<p>הרשמי לדיוור שלנו בסוף הדף ואל תפספסי את ההשקות הבאות!<\/p>",
+            "title": "{{ product.metafields.custom.product_explanation_sixth.value }}",
+            "text": "<p>{{ product.metafields.custom.product_explanation_description_sixth | metafield_tag }}<\/p>",
             "link_label": "",
             "link": ""
           }
