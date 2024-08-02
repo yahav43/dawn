@@ -681,13 +681,18 @@
         "billing_address_title": "כתובת לחיוב",
         "contact_us_html": "במידה ונתקלת בבעיה כלשהי נשמח שתצרי איתנו קשר.",
         "return_to_store_link_label": "חזרה לאתר",
-        "contact_information_title": "פרטי התקשרות"
+        "contact_information_title": "פרטי התקשרות",
+        "shipping_address_title": "כתובת למשלוח",
+        "marker": {
+          "shipping": "כתובת למשלוח"
+        }
       },
       "review": {
         "blocks": {
           "payment_method_title": "אמצעי תשלום",
           "change_payment_method_link_label": "שינוי אמצעי תשלום",
-          "change_contact_method_link_label": "שינוי פרטי התקשרות"
+          "change_contact_method_link_label": "שינוי פרטי התקשרות",
+          "change_shipping_address_link_label": "שינוי כתובת למשלוח"
         }
       },
       "general": {
@@ -772,7 +777,8 @@
       },
       "notice_banner": {
         "individual_violations_title": {
-          "PaymentViolations": "כתובת לחיוב"
+          "PaymentViolations": "כתובת לחיוב",
+          "DeliveryViolations": "כתובת למשלוח"
         }
       },
       "shipping": {
@@ -872,7 +878,11 @@
       "show_order_summary": "פתיחת סיכום הזמנה",
       "summary_title": "סיכום הזמנה",
       "billing_address": "כתובת לחיוב",
-      "contact_information": "פרטי התקשרות"
+      "contact_information": "פרטי התקשרות",
+      "shipping": {
+        "address": "כתובת למשלוח",
+        "address_map_marker": "כתובת למשלוח"
+      }
     },
     "payment_methods": {
       "add_payment_method": {
@@ -941,7 +951,8 @@
     },
     "addresses": {
       "edit_modal_title": {
-        "billing": "עריכת כתובת לחיוב"
+        "billing": "עריכת כתובת לחיוב",
+        "shipping": "עריכת כתובת למשלוח"
       },
       "loading_billing_accessibility_message": "טוען כתובת לחיוב",
       "billing_address_dropdown_placeholder": "כתובת לחיוב"
