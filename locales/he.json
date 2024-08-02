@@ -650,7 +650,8 @@
         "card_expiry_date_explanation": "תוקף הכרטיס - חודשים ושנים",
         "card_expiration_month_label": "תוקף (חודש)",
         "card_expiration_year_label": "תוקף (שנה)",
-        "fact_billing_address_label": "כתובת לחיוב"
+        "fact_billing_address_label": "כתובת לחיוב",
+        "same_billing_address_checkbox_label": "כתובת המשלוח וכתובת החיוב זהות"
       },
       "failed_payment": {
         "page_title": "אירעה שגיאה. התשלום לא עבר.",
