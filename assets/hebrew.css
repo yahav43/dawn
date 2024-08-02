@@ -49,7 +49,9 @@ label.field__label, .customer div.field label {
 
 .price span.price-item,
 .price s.price-item,
-.menu-drawer__account svg.icon-account {
+.menu-drawer__account svg.icon-account,
+.form__message--large svg.icon,
+div.customer .form__message svg {
   margin: 0 0 0 1rem;
 }
 
@@ -90,7 +92,8 @@ div.totals>*+* {
   margin-left: 0;
 }
 
-table.cart-items th {
+table.cart-items th,
+.login h3.form__message {
   text-align: right;
 }
 
