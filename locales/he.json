@@ -491,7 +491,7 @@
         "Refunded": "בוטלה ובוצע זיכוי",
         "Paid": "שולם"
       },
-      "qr_code_password_html": "סיסמת ברקוד החבילה - <b>{{ password }}</b>"
+      "qr_code_password_html": "סיסמת ברקוד החבילה - <b>{{ password }}<\/b>"
     },
     "orders": {
       "title": "הסטוריית הזמנות",

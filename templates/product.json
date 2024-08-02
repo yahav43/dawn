@@ -96,8 +96,8 @@
         "column-0": {
           "type": "column",
           "settings": {
-            "title": "סשן ראשון - תרגיל פיזי",
-            "text": "<p>כשעתיים של תרגול רך ונעים בהשראת היוגה טנטרה והבריגהו יוגה.<br\/>אסאנות (תנוחות) , קצת ויניאסה (fLow), פרניאמה ( עבודה עם הנשימה), טראטאקות (תרגילי ריכוז ומיקוד), שאבאסנות (תרגילי הרפייה ומנוחה).<br\/>דגש על תנועת האנרגייה והתמרות של אנרגייה.<\/p>",
+            "title": "{{ product.metafields.custom.product_explanation_first.value }}",
+            "text": "<p>{{ product.metafields.custom.product_explanation_description_first | metafield_tag }}<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -308,11 +308,6 @@
     "17211428891945090f": {
       "type": "apps",
       "blocks": {
-        "trustoo_io_reviews_review_widget_xK8C7H": {
-          "type": "shopify:\/\/apps\/trustoo-io-reviews\/blocks\/review-widget\/c8f15077-6475-4e86-ad06-b66038d5ba2c",
-          "settings": {
-          }
-        },
         "stamped_product_reviews_ugc_main_widget_iqETUF": {
           "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/main-widget\/a103faaf-2125-4b0e-89fa-de5149736723",
           "settings": {
@@ -327,7 +322,6 @@
         }
       },
       "block_order": [
-        "trustoo_io_reviews_review_widget_xK8C7H",
         "stamped_product_reviews_ugc_main_widget_iqETUF"
       ],
       "settings": {
