@@ -797,7 +797,8 @@
         "address_edit": "עריכת כתובת",
         "address_delete": "מחיקת כתובת",
         "address_default": "שימוש בכתובת זו בברירת מחדל",
-        "delivery_title": "כתובת למשלוח"
+        "delivery_title": "כתובת למשלוח",
+        "add_address": "שינוי כתובת"
       },
       "order_payment_collection": {
         "pay_now": "לתשלום"
@@ -835,7 +836,8 @@
         "invalid_expiry_date": "יש לציין תוקף כרטיס תקין"
       },
       "billing": {
-        "address_confirm": "למחוק את הכתובת הזו מהמשתמש שלך?"
+        "address_confirm": "למחוק את הכתובת הזו מהמשתמש שלך?",
+        "add_address": "שינוי כתובת לחיוב"
       },
       "processing": {
         "wait": {
