@@ -9,6 +9,44 @@
 */
 {
   "sections": {
+    "image_banner_CQJiFm": {
+      "type": "image-banner",
+      "blocks": {
+        "richtext_mfyL3g": {
+          "type": "richtext",
+          "settings": {
+            "higher_heading": "<strong>StressLess<\/strong>",
+            "higher_heading_size": "h0",
+            "higher_title_direction": "rtl"
+          }
+        },
+        "heading_EYKCLg": {
+          "type": "heading",
+          "settings": {
+            "heading": "הדרך שלך לחיים רגועים יותר",
+            "heading_size": "h1",
+            "title_direction": "rtl"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_mfyL3g",
+        "heading_EYKCLg"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/person-cross-legged-on-a-yoga-mat-at-the-beach.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-4",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -453,6 +491,7 @@
     }
   },
   "order": [
+    "image_banner_CQJiFm",
     "main",
     "multicolumn",
     "related-products",
