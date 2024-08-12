@@ -73,6 +73,7 @@
         "buy_buttons_AU3tcK": {
           "type": "buy_buttons",
           "settings": {
+            "show_add_to_cart": true,
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": false
           }
@@ -167,7 +168,7 @@
         "column_jpn7tW"
       ],
       "settings": {
-        "title": "למה אפשר לצפות",
+        "title": "למה אפשר לצפות?",
         "title_direction": "rtl",
         "title_alignment": "center",
         "heading_size": "h1",
