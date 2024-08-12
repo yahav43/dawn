@@ -69,11 +69,19 @@
             "image_3": "shopify:\/\/shop_images\/iconmonstr-time-7.svg",
             "heading_3": "גישה לכל החיים"
           }
+        },
+        "buy_buttons_AU3tcK": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false
+          }
         }
       },
       "block_order": [
         "description",
-        "icon_with_text_cggd3E"
+        "icon_with_text_cggd3E",
+        "buy_buttons_AU3tcK"
       ],
       "settings": {
         "show_tax_notice": false,
