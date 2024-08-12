@@ -236,6 +236,7 @@
   },
   "products": {
     "product": {
+      "payment_button": "קני עכשיו",
       "add_to_cart": "הוספה לסל",
       "choose_options": "",
       "choose_product_options": "",
