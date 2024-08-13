@@ -142,10 +142,10 @@
         "column_zAxyYT"
       ],
       "settings": {
-        "title": "למה אפשר לצפות?",
+        "title": "<strong>למה אפשר לצפות?<\/strong>",
         "title_direction": "rtl",
         "title_alignment": "center",
-        "heading_size": "h1",
+        "heading_size": "h0",
         "image_width": "third",
         "image_ratio": "adapt",
         "columns_desktop": 3,
