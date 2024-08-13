@@ -62,12 +62,15 @@
             "heading_2": "תשלום מאובטח",
             "icon_3": "truck",
             "image_3": "shopify:\/\/shop_images\/iconmonstr-time-7.svg",
-            "heading_3": "גישה לכל החיים"
+            "heading_3": "גישה לכל החיים",
+            "icon_4": "star",
+            "heading_4": "הצלחה מובטחת"
           }
         },
         "description": {
           "type": "description",
           "settings": {
+            "description_alignment": "center"
           }
         },
         "buy_buttons_AU3tcK": {
