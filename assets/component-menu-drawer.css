@@ -105,6 +105,9 @@ details[open].menu-opening>.menu-drawer__submenu {
 
 .menu-drawer__menu-item--center {
   justify-content: center;
+  width: fit-content;
+  margin: var(--grid-desktop-vertical-spacing) auto;
+  border-radius: var(--buttons-radius-outset);
 }
 
 .menu-drawer summary.menu-drawer__menu-item {
@@ -122,6 +125,7 @@ details[open].menu-opening>.menu-drawer__submenu {
 
 .stressless {
   background: #9d5659;
+  color: var(--atlas-background-content);
 }
 
 .menu-drawer__menu-item--active:hover {
