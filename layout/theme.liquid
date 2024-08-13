@@ -302,7 +302,7 @@
     {% sections 'header-group' %}
 
     <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
-      {% unless template.suffix == 'index' %}
+      {% unless template.suffix == 'index' or template.suffix == 'product' %}
         {% render 'breadcrumbs' %}
       {% endunless %}
 
