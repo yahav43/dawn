@@ -50,11 +50,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "description": {
-          "type": "description",
-          "settings": {
-          }
-        },
         "icon_with_text_cggd3E": {
           "type": "icon-with-text",
           "settings": {
@@ -70,6 +65,11 @@
             "heading_3": "גישה לכל החיים"
           }
         },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
         "buy_buttons_AU3tcK": {
           "type": "buy_buttons",
           "settings": {
@@ -80,8 +80,8 @@
         }
       },
       "block_order": [
-        "description",
         "icon_with_text_cggd3E",
+        "description",
         "buy_buttons_AU3tcK"
       ],
       "settings": {
