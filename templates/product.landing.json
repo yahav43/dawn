@@ -110,7 +110,7 @@
         "column-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/training-online-icon.svg",
+            "image": "shopify:\/\/shop_images\/training-online-icon_528de975-6d4f-4bde-82ca-1d6a93864b06.svg",
             "title": "{{ product.metafields.custom.product_explanation_first.value }}",
             "text": "<p>{{ product.metafields.custom.product_explanation_description_first | metafield_tag }}<\/p>",
             "link_label": "",
