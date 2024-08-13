@@ -110,7 +110,7 @@
         "column-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/number-one-icon.svg",
+            "image": "shopify:\/\/shop_images\/training-online-icon.svg",
             "title": "{{ product.metafields.custom.product_explanation_first.value }}",
             "text": "<p>{{ product.metafields.custom.product_explanation_description_first | metafield_tag }}<\/p>",
             "link_label": "",
@@ -126,15 +126,6 @@
             "link": ""
           }
         },
-        "column_9QVhVf": {
-          "type": "column",
-          "settings": {
-            "title": "{{ product.metafields.custom.product_explanation_third.value }}",
-            "text": "<p>{{ product.metafields.custom.product_explanation_description_third | metafield_tag }}<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_zAxyYT": {
           "type": "column",
           "settings": {
@@ -143,33 +134,12 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column_RPQ36j": {
-          "type": "column",
-          "settings": {
-            "title": "{{ product.metafields.custom.product_explanation_fifth.value }}",
-            "text": "<p>{{ product.metafields.custom.product_explanation_description_fifth | metafield_tag }}<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_jpn7tW": {
-          "type": "column",
-          "settings": {
-            "title": "{{ product.metafields.custom.product_explanation_sixth.value }}",
-            "text": "<p>{{ product.metafields.custom.product_explanation_description_sixth | metafield_tag }}<\/p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "column-0",
         "column-1",
-        "column_9QVhVf",
-        "column_zAxyYT",
-        "column_RPQ36j",
-        "column_jpn7tW"
+        "column_zAxyYT"
       ],
       "settings": {
         "title": "למה אפשר לצפות?",
