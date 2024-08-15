@@ -207,6 +207,7 @@
         "column_9fDaxp": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/yoga-exercise-icon.svg",
             "title": "{{ product.metafields.custom.landing_secondary_title_four.value }}",
             "text": "",
             "link_label": "",
@@ -237,6 +238,25 @@
         "swipe_on_mobile": false,
         "padding_top": 52,
         "padding_bottom": 52
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "disabled": true,
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 28
       }
     },
     "video_R9QTQb": {
