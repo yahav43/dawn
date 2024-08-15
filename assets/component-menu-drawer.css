@@ -123,9 +123,16 @@ details[open].menu-opening>.menu-drawer__submenu {
   background-color: rgba(var(--color-foreground), 0.04);
 }
 
-.stressless {
+.stressless,
+.stressless span {
   background: #9d5659;
-  color: var(--atlas-background-content);
+  color: var(--gradient-background);
+  border-radius: var(--buttons-radius-outset);
+}
+
+.stressless:hover {
+  color: rgba(var(--color-button), var(--alpha-button-background));
+  border-color: rgb(var(--color-button-text));
 }
 
 .menu-drawer__menu-item--active:hover {
