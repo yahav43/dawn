@@ -186,24 +186,6 @@
             "link": ""
           }
         },
-        "column_7FKB3H": {
-          "type": "column",
-          "settings": {
-            "title": "{{ product.metafields.custom.landing_secondary_title_two.value }}",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_QabCQB": {
-          "type": "column",
-          "settings": {
-            "title": "{{ product.metafields.custom.landing_secondary_title_three.value }}",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_9fDaxp": {
           "type": "column",
           "settings": {
@@ -213,13 +195,31 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_7FKB3H": {
+          "type": "column",
+          "settings": {
+            "title": "{{ product.metafields.custom.landing_secondary_title_three.value }}",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_QabCQB": {
+          "type": "column",
+          "settings": {
+            "title": "{{ product.metafields.custom.landing_secondary_title_four.value }}",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "column_CA3tUM",
+        "column_9fDaxp",
         "column_7FKB3H",
-        "column_QabCQB",
-        "column_9fDaxp"
+        "column_QabCQB"
       ],
       "settings": {
         "title": "<strong>למה StressLess?<\/strong>",
