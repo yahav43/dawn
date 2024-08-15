@@ -155,7 +155,72 @@
         "column_zAxyYT"
       ],
       "settings": {
-        "title": "<strong>למה אפשר לצפות?<\/strong>",
+        "title": "<strong>מה תקבלי ב StressLess?<\/strong>",
+        "title_direction": "rtl",
+        "title_alignment": "center",
+        "heading_size": "h0",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 52,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_J8dJaF": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_CA3tUM": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_7FKB3H": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_QabCQB": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_9fDaxp": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_CA3tUM",
+        "column_7FKB3H",
+        "column_QabCQB",
+        "column_9fDaxp"
+      ],
+      "settings": {
+        "title": "<strong>למה StressLess?<\/strong>",
         "title_direction": "rtl",
         "title_alignment": "center",
         "heading_size": "h0",
@@ -454,6 +519,7 @@
     "image_banner_CQJiFm",
     "main",
     "multicolumn",
+    "multicolumn_J8dJaF",
     "related-products",
     "video_R9QTQb",
     "multicolumn_H6jPCm",
