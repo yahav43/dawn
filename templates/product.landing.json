@@ -179,7 +179,8 @@
         "column_CA3tUM": {
           "type": "column",
           "settings": {
-            "title": "",
+            "image": "shopify:\/\/shop_images\/israel-flag-icon.svg",
+            "title": "{{ product.metafields.custom.landing_secondary_title_one.value }}",
             "text": "",
             "link_label": "",
             "link": ""
@@ -188,7 +189,7 @@
         "column_7FKB3H": {
           "type": "column",
           "settings": {
-            "title": "",
+            "title": "{{ product.metafields.custom.landing_secondary_title_two.value }}",
             "text": "",
             "link_label": "",
             "link": ""
@@ -197,7 +198,7 @@
         "column_QabCQB": {
           "type": "column",
           "settings": {
-            "title": "",
+            "title": "{{ product.metafields.custom.landing_secondary_title_three.value }}",
             "text": "",
             "link_label": "",
             "link": ""
@@ -206,7 +207,7 @@
         "column_9fDaxp": {
           "type": "column",
           "settings": {
-            "title": "",
+            "title": "{{ product.metafields.custom.landing_secondary_title_four.value }}",
             "text": "",
             "link_label": "",
             "link": ""
