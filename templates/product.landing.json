@@ -130,6 +130,7 @@
         "column_Tgtwaa": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/document-application-woman-icon.svg",
             "title": "{{ product.metafields.custom.product_explanation_third.value }}",
             "text": "",
             "link_label": "",
