@@ -208,7 +208,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/yoga-exercise-icon.svg",
-            "title": "{{ product.metafields.custom.landing_secondary_title_four.value }}",
+            "title": "{{ product.metafields.custom.landing_secondary_title_two.value }}",
             "text": "",
             "link_label": "",
             "link": ""
