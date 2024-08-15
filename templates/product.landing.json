@@ -199,6 +199,7 @@
         "column_7FKB3H": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/24-hour-icon.svg",
             "title": "{{ product.metafields.custom.landing_secondary_title_three.value }}",
             "text": "",
             "link_label": "",
