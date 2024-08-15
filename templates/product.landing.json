@@ -205,22 +205,12 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column_QabCQB": {
-          "type": "column",
-          "settings": {
-            "title": "{{ product.metafields.custom.landing_secondary_title_four.value }}",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "column_CA3tUM",
         "column_9fDaxp",
-        "column_7FKB3H",
-        "column_QabCQB"
+        "column_7FKB3H"
       ],
       "settings": {
         "title": "<strong>למה StressLess?<\/strong>",
@@ -229,7 +219,7 @@
         "heading_size": "h0",
         "image_width": "third",
         "image_ratio": "adapt",
-        "columns_desktop": 4,
+        "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
