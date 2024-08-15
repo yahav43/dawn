@@ -231,6 +231,29 @@
         "padding_bottom": 52
       }
     },
+    "17211428891945090f": {
+      "type": "apps",
+      "blocks": {
+        "stamped_product_reviews_ugc_main_widget_iqETUF": {
+          "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/main-widget\/a103faaf-2125-4b0e-89fa-de5149736723",
+          "settings": {
+            "animation": true,
+            "tags_exclude": "",
+            "tags_include": "",
+            "search": "",
+            "linkify": true,
+            "use_metafields": false,
+            "sku_tagtype": "sku"
+          }
+        }
+      },
+      "block_order": [
+        "stamped_product_reviews_ugc_main_widget_iqETUF"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "related-products": {
       "type": "related-products",
       "disabled": true,
@@ -361,151 +384,6 @@
         "padding_top": 36,
         "padding_bottom": 24
       }
-    },
-    "17211428891945090f": {
-      "type": "apps",
-      "blocks": {
-        "stamped_product_reviews_ugc_main_widget_iqETUF": {
-          "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/main-widget\/a103faaf-2125-4b0e-89fa-de5149736723",
-          "settings": {
-            "animation": true,
-            "tags_exclude": "",
-            "tags_include": "",
-            "search": "",
-            "linkify": true,
-            "use_metafields": false,
-            "sku_tagtype": "sku"
-          }
-        }
-      },
-      "block_order": [
-        "stamped_product_reviews_ugc_main_widget_iqETUF"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
-    "collapsible_content_t8grRA": {
-      "type": "collapsible-content",
-      "blocks": {
-        "collapsible_row_dc3qEP": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "מה כולל הריטריט?",
-            "icon": "none",
-            "row_content": "<p>הריטריט כולל כשעתיים של תרגול יוגה פיזי רך ונעים, שיעורים על האנרגיה שלנו בגוף ושאלות ותשובות של המשתתפות היקרות שלנו.<\/p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_j4d46m": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "איך ניתן לצפות בריטריט המוקלט?",
-            "icon": "none",
-            "row_content": "<p>לאחר רכישת הריטריט באתר תקבלי מייל עם פרטי ההתחברות וקישור לאתר שבו תוכלי למצוא את התכנים של הריטריט.<\/p><p>ניתן לצפות מכל מכשיר, בכל מקום, ולעצור ולהמשיך מכל נקודה שבה תרצי.<\/p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_UVTMVa": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "מה אם אני חדשה ליוגה?",
-            "icon": "none",
-            "row_content": "<p>הריטריט מתאים לכל הרמות, עם תרגולים המותאמים למתחילים ומתקדמים.<\/p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_jNefbB": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "האם אני צריכה ציוד כלשהו?",
-            "icon": "none",
-            "row_content": "<p>מומלץ להצטייד במזרן יוגה ורצועת יוגה.<\/p><p>מעבר לשני הפריטים האלו אין צורך בעוד ציוד.<\/p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_bRCbw7": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "כמה זמן אורך הריטריט?",
-            "icon": "none",
-            "row_content": "<p>אורך התכנים של הריטריט כולו הוא כ-6 שעות, אך התכנים מחולקים וניתן לקחת הפסקות ואין צורך לבצע את כל הריטריט ברצף.<\/p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_miEGhi": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "האם הגישה לתכנים של הריטריט מוגבלת בזמן?",
-            "icon": "none",
-            "row_content": "<p>לא, ברגע שרכשת את הריטריט הגישה לתכנים היא לכל החיים!<\/p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "collapsible_row_dc3qEP",
-        "collapsible_row_j4d46m",
-        "collapsible_row_UVTMVa",
-        "collapsible_row_jNefbB",
-        "collapsible_row_bRCbw7",
-        "collapsible_row_miEGhi"
-      ],
-      "settings": {
-        "caption": "",
-        "heading": "שאלות נפוצות",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "layout": "row",
-        "color_scheme": "",
-        "container_color_scheme": "",
-        "open_first_collapsible_row": true,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "secondary_product_BpHVnj": {
-      "type": "secondary-product",
-      "blocks": {
-        "text_BPAmYe": {
-          "type": "text",
-          "settings": {
-            "text": "<strong>{{ section.settings.product.title }}<\/strong>",
-            "text_style": "body"
-          }
-        },
-        "variant_picker_Ch3epF": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button",
-            "swatch_shape": "circle"
-          }
-        },
-        "buy_buttons_F3bjHx": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": true
-          }
-        }
-      },
-      "block_order": [
-        "text_BPAmYe",
-        "variant_picker_Ch3epF",
-        "buy_buttons_F3bjHx"
-      ],
-      "settings": {
-        "product": "{{ product }}",
-        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
-        "secondary_background": false,
-        "constrain_to_viewport": true,
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 24
-      }
     }
   },
   "order": [
@@ -513,12 +391,10 @@
     "main",
     "multicolumn",
     "multicolumn_J8dJaF",
+    "17211428891945090f",
     "related-products",
     "video_R9QTQb",
     "multicolumn_H6jPCm",
-    "secondary_product_VJLDN9",
-    "17211428891945090f",
-    "collapsible_content_t8grRA",
-    "secondary_product_BpHVnj"
+    "secondary_product_VJLDN9"
   ]
 }
