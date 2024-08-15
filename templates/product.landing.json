@@ -140,6 +140,7 @@
         "column_zAxyYT": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/calendar-checkmark-line-icon_a87e400a-41a3-45dc-a581-a4fc9fa98a8f.svg",
             "title": "{{ product.metafields.custom.product_explanation_fourth.value }}",
             "text": "<p>{{ product.metafields.custom.product_explanation_description_fourth | metafield_tag }}<\/p>",
             "link_label": "",
