@@ -50,7 +50,7 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "text_mztKqt": {
+        "text_7M4Adb": {
           "type": "text",
           "settings": {
             "text": "{{ product.metafields.custom.date_since_war | metafield_tag }}",
@@ -90,7 +90,7 @@
         }
       },
       "block_order": [
-        "text_mztKqt",
+        "text_7M4Adb",
         "icon_with_text_cggd3E",
         "description",
         "buy_buttons_AU3tcK"
