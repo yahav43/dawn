@@ -171,6 +171,10 @@ table.cart-items .right.caption-with-letter-spacing {
   direction: rtl;
 }
 
+div[data-widget-load-type=continue].stamped-container ul.stamped-pagination li.next a:before {
+  content: 'חוות דעת נוספות' !important;
+}
+
 span.stamped-summary-text-1 {
   margin-right: 0;
   margin-left: 5px;
