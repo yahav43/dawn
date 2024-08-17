@@ -247,32 +247,10 @@
             "use_metafields": false,
             "sku_tagtype": "sku"
           }
-        },
-        "stamped_product_reviews_ugc_carousel_cRxg6J": {
-          "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/carousel\/a103faaf-2125-4b0e-89fa-de5149736723",
-          "settings": {
-            "title": "Real Reviews from Real Customers",
-            "auto_play": false,
-            "take": 30,
-            "color_title": "",
-            "color_star": "",
-            "color_text": "",
-            "color_link": "",
-            "review_ids": "",
-            "product_ids": "",
-            "category": "",
-            "product_brand": "",
-            "tags": "",
-            "min_rating": "none",
-            "fill_empty": false,
-            "random": false,
-            "with_photos": false
-          }
         }
       },
       "block_order": [
-        "stamped_product_reviews_ugc_main_widget_iqETUF",
-        "stamped_product_reviews_ugc_carousel_cRxg6J"
+        "stamped_product_reviews_ugc_main_widget_iqETUF"
       ],
       "settings": {
         "include_margins": true
