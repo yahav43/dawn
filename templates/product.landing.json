@@ -53,14 +53,14 @@
         "text_7M4Adb": {
           "type": "text",
           "settings": {
-            "text": "<p>{{ product.metafields.custom.date_since_war | metafield_tag }}<\/p><p>טקסט שני<\/p>",
+            "text": "<h2><strong>{{ product.metafields.custom.date_since_war | metafield_tag }}<\/strong> ימים.<\/h2>",
             "text_style": "body"
           }
         },
-        "text_zBjaac": {
+        "text_HiP7Xq": {
           "type": "text",
           "settings": {
-            "text": "<p>{{ product.metafields.custom.date_since_war | metafield_tag }}<\/p><p>טקסט ראשון<\/p>",
+            "text": "<h2><strong>{{ product.metafields.custom.date_since_war | metafield_tag }}<\/strong> ימים.<\/h2>",
             "text_style": "body"
           }
         },
@@ -98,7 +98,7 @@
       },
       "block_order": [
         "text_7M4Adb",
-        "text_zBjaac",
+        "text_HiP7Xq",
         "description",
         "buy_buttons_AU3tcK",
         "icon_with_text_cggd3E"
