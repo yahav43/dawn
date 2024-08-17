@@ -1,12 +1,3 @@
-/*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
 {
   "sections": {
     "image_banner_CQJiFm": {
@@ -77,25 +68,18 @@
             "text": "<h2><strong>{{ product.metafields.custom.date_since_war | metafield_tag }}<\/strong> ימים שבהם השקט הפנימי שלנו נשחק, טיפה אחר טיפה.<\/h2>",
             "text_style": "body"
           }
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-            "description_alignment": "center"
-          }
         }
       },
       "block_order": [
         "text_7M4Adb",
         "text_HiP7Xq",
         "text_YtkGFN",
-        "text_BJLEYm",
-        "description"
+        "text_BJLEYm"
       ],
       "settings": {
         "show_tax_notice": false,
         "enable_sticky_info": false,
-        "color_scheme": "scheme-5",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
         "media_size": "large",
         "constrain_to_viewport": false,
         "media_fit": "cover",
@@ -107,6 +91,111 @@
         "enable_video_looping": true,
         "padding_top": 36,
         "padding_bottom": 12
+      }
+    },
+    "rich_text_TFyPLC": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_hkwN4x": {
+          "type": "heading",
+          "settings": {
+            "heading": "הסיפור של דנה",
+            "heading_size": "h1"
+          }
+        },
+        "text_DnCB6R": {
+          "type": "text",
+          "settings": {
+            "text": "<p>דנה, אמא לשניים מתל אביב, מצאה את עצמה מתעוררת כל בוקר עם תחושת כבדות בחזה.<\/p><p>\"הדבר הראשון שעשיתי כל בוקר היה לבדוק חדשות,\" היא מספרת. \"הפחד מפני מה שעלול לקרות השתלט על חיי. לא הצלחתי להתרכז בעבודה, לא נהניתי מזמן עם הילדים. הרגשתי שאני מאבדת את עצמי.\"<\/p><h3><strong>נשמע מוכר?<\/strong><\/h3>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_hkwN4x",
+        "text_DnCB6R"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_with_text_7K4ARw": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Rg4Jnj": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>המחיר הכבד של חיים בצל הפחד<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_UqDq6P": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>האם את מוצאת את עצמך בודקת חדשות בכפייתיות?<\/li><li>האם הדאגה לעתיד מונעת ממך ליהנות מהרגע?<\/li><li>האם את מרגישה שאיכות החיים שלך נפגעת?<\/li><li>האם את חשה חסרי אונים מול המציאות?<\/li><\/ul><h3><strong>אם ענית 'כן' לאחת השאלות הללו, את לא לבד.<\/strong><\/h3><h3><strong>אבל יש דרך אחרת.<\/strong><\/h3>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Rg4Jnj",
+        "text_UqDq6P"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/spa-flatlay.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "right",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_ffEqdk": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_rrrfbb": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>הכירי את StressLess<\/strong>",
+            "heading_size": "h1",
+            "title_direction": "rtl"
+          }
+        },
+        "text_bQAgrd": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>StressLess נוצר במיוחד עבורך, במציאות מורכבת ומאתגרת. אי אפשר לשנות את המציאות סביבנו, אבל אפשר לשנות את הדרך שבה אנחנו מגיבים אליה.<\/strong>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_rrrfbb",
+        "text_bQAgrd"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/candle-in-natural-stone-holder.jpg",
+        "image_overlay_opacity": 60,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-4",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
       }
     },
     "multicolumn": {
@@ -335,57 +424,18 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "secondary_product_VJLDN9": {
-      "type": "secondary-product",
-      "blocks": {
-        "text_nh3tji": {
-          "type": "text",
-          "settings": {
-            "text": "<strong>{{ section.settings.product.metafields.custom.secondary_product_section_title.value }}<\/strong>",
-            "text_style": "body"
-          }
-        },
-        "variant_picker_8FjD3c": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button",
-            "swatch_shape": "circle"
-          }
-        },
-        "buy_buttons_hrANC9": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": true
-          }
-        }
-      },
-      "block_order": [
-        "text_nh3tji",
-        "variant_picker_8FjD3c",
-        "buy_buttons_hrANC9"
-      ],
-      "settings": {
-        "product": "{{ product }}",
-        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
-        "secondary_background": false,
-        "constrain_to_viewport": true,
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 24
-      }
     }
   },
   "order": [
     "image_banner_CQJiFm",
     "main",
+    "rich_text_TFyPLC",
+    "image_with_text_7K4ARw",
+    "image_banner_ffEqdk",
     "multicolumn",
     "multicolumn_J8dJaF",
     "17211428891945090f",
     "related-products",
-    "multicolumn_H6jPCm",
-    "secondary_product_VJLDN9"
+    "multicolumn_H6jPCm"
   ]
 }
