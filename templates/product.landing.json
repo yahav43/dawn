@@ -268,6 +268,36 @@
         "padding_bottom": 52
       }
     },
+    "rich_text_nce7nq": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_iCHx8Y": {
+          "type": "heading",
+          "settings": {
+            "heading": "הסיפור של דנה - החלק השני",
+            "heading_size": "h1"
+          }
+        },
+        "text_Rxf7rW": {
+          "type": "text",
+          "settings": {
+            "text": "<p>\"אחרי חודש של שימוש בטכניקות של StressLess, הרגשתי כאילו קיבלתי את החיים שלי בחזרה,\" מספרת דנה.<\/p><p>\"אני עדיין מודעת למתרחש, אבל יש לי כלים להתמודד. אני ישנה טוב יותר, מצליחה ליהנות מרגעים קטנים, ומרגישה שיש לי שליטה על הרגשות שלי.\"<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_iCHx8Y",
+        "text_Rxf7rW"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "multicolumn_J8dJaF": {
       "type": "multicolumn",
       "blocks": {
@@ -320,10 +350,40 @@
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-3",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 52,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_xVwFTn": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_6UeTCW": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>לא נמאס לך?<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_hbLJLg": {
+          "type": "text",
+          "settings": {
+            "text": "<p>כל יום שעובר הוא עוד יום של:<\/p><ul><li>הפסד רגעים יקרים עם המשפחה<\/li><li>ירידה בפרודוקטיביות בעבודה<\/li><li>פגיעה באיכות השינה<\/li><li>הצטברות מתח שעלול להוביל לבעיות בריאות<\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_6UeTCW",
+        "text_hbLJLg"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
         "padding_bottom": 52
       }
     },
@@ -433,7 +493,9 @@
     "image_with_text_7K4ARw",
     "image_banner_ffEqdk",
     "multicolumn",
+    "rich_text_nce7nq",
     "multicolumn_J8dJaF",
+    "rich_text_xVwFTn",
     "17211428891945090f",
     "related-products",
     "multicolumn_H6jPCm"

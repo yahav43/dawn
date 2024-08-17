@@ -21,8 +21,7 @@ div.main-blog,
 .announcement-bar__message,
 .cart__login-title,
 .cart__login-paragraph,
-.shopify-section cart-items,
-h2.rte strong {
+.shopify-section cart-items {
   direction: rtl;
 }
 
@@ -127,7 +126,8 @@ table.cart-items .right.caption-with-letter-spacing {
   margin-left: 1.5rem;
 }
 
-h2.rte strong {
+.rte strong {
+  direction: rtl;
   display: block;
 }
 
