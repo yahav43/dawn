@@ -1496,3 +1496,11 @@ a.product__text {
   font-size: calc(var(--font-heading-scale) * 9rem);
   display: block;
 }
+
+.product__text.product__text--secondary.inline-richtext.subtitle {
+  font-size: 1.5rem;
+}
+
+.product__text.product__text--secondary.inline-richtext.subtitle:last-child {
+  font-size: 1.2rem;
+}

@@ -426,7 +426,7 @@
         "text_aw6inG": {
           "type": "text",
           "settings": {
-            "text": "אחריות החזר כספי ל-30 יום - אין מה להפסיד, יש הכל להרוויח.",
+            "text": "החזר כספי ל-30 יום - אין מה להפסיד, יש הכל להרוויח.",
             "text_style": "subtitle"
           }
         }
@@ -448,6 +448,29 @@
         "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "17211428891945090f": {
+      "type": "apps",
+      "blocks": {
+        "stamped_product_reviews_ugc_main_widget_iqETUF": {
+          "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/main-widget\/a103faaf-2125-4b0e-89fa-de5149736723",
+          "settings": {
+            "animation": true,
+            "tags_exclude": "",
+            "tags_include": "",
+            "search": "",
+            "linkify": true,
+            "use_metafields": false,
+            "sku_tagtype": "sku"
+          }
+        }
+      },
+      "block_order": [
+        "stamped_product_reviews_ugc_main_widget_iqETUF"
+      ],
+      "settings": {
+        "include_margins": true
       }
     },
     "multirow_Cy7zp8": {
@@ -506,29 +529,6 @@
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "17211428891945090f": {
-      "type": "apps",
-      "blocks": {
-        "stamped_product_reviews_ugc_main_widget_iqETUF": {
-          "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/main-widget\/a103faaf-2125-4b0e-89fa-de5149736723",
-          "settings": {
-            "animation": true,
-            "tags_exclude": "",
-            "tags_include": "",
-            "search": "",
-            "linkify": true,
-            "use_metafields": false,
-            "sku_tagtype": "sku"
-          }
-        }
-      },
-      "block_order": [
-        "stamped_product_reviews_ugc_main_widget_iqETUF"
-      ],
-      "settings": {
-        "include_margins": true
       }
     },
     "related-products": {
@@ -755,8 +755,8 @@
     "multicolumn_J8dJaF",
     "rich_text_xVwFTn",
     "secondary_product_EtVzUj",
-    "multirow_Cy7zp8",
     "17211428891945090f",
+    "multirow_Cy7zp8",
     "related-products",
     "collapsible_content_BhkJmX",
     "multicolumn_H6jPCm",
