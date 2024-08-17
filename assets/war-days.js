@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function(e) {
 
-  const warDateTextElement = document.querySelectorAll('.product__info-container .product__text.inline-richtext');
+  let warDateTextElement = document.querySelectorAll('.product__info-container .product__text.inline-richtext');
   
   warDateTextElement.forEach((element) => {
     let warDate = element.querySelector('time.metafield-date').getAttribute('datetime');
@@ -16,6 +16,8 @@ document.addEventListener('DOMContentLoaded', function(e) {
 
     // Convert time difference from milliseconds to days
     let daysDifference = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
+
+    console.log(element.innerText);
 
     // Prepend new text without overwriting the existing content
     element.innerText = daysDifference + element.innerText;
