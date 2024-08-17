@@ -550,6 +550,97 @@
         "padding_bottom": 28
       }
     },
+    "collapsible_content_BhkJmX": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_KTeJwC": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "האם הקורס מתאים למתחילים?",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_Fkb8Jh": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "כמה זמן יש לי גישה לתכנים?",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_tR8DGP": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "האם יש תמיכה טכנית?",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_xEDk8d": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "מה ההבדל בין StressLess לבין אפליקציות מדיטציה חינמיות?",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_UyiN7d": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "כמה זמן לוקח להרגיש שיפור בהתמודדות עם מתח?",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_UnXJRb": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "האם התכנים מתאימים גם לבני נוער?",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_jVgC6d": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "מה קורה אם אני לא מרוצה מהקורס?",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_KTeJwC",
+        "collapsible_row_Fkb8Jh",
+        "collapsible_row_tR8DGP",
+        "collapsible_row_xEDk8d",
+        "collapsible_row_UyiN7d",
+        "collapsible_row_UnXJRb",
+        "collapsible_row_jVgC6d"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "שאלות נפוצות",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": true,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multicolumn_H6jPCm": {
       "type": "multicolumn",
       "blocks": {
@@ -605,6 +696,52 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "secondary_product_GxN9ta": {
+      "type": "secondary-product",
+      "blocks": {
+        "title_thNi4H": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_KDHhth": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_c8iEUf": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "buy_buttons_rrqHNe": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        }
+      },
+      "block_order": [
+        "title_thNi4H",
+        "price_KDHhth",
+        "variant_picker_c8iEUf",
+        "buy_buttons_rrqHNe"
+      ],
+      "settings": {
+        "product": "{{ product }}",
+        "color_scheme": "scheme-5",
+        "secondary_background": false,
+        "constrain_to_viewport": false,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
@@ -621,6 +758,8 @@
     "multirow_Cy7zp8",
     "17211428891945090f",
     "related-products",
-    "multicolumn_H6jPCm"
+    "collapsible_content_BhkJmX",
+    "multicolumn_H6jPCm",
+    "secondary_product_GxN9ta"
   ]
 }
