@@ -21,7 +21,8 @@ div.main-blog,
 .announcement-bar__message,
 .cart__login-title,
 .cart__login-paragraph,
-.shopify-section cart-items {
+.shopify-section cart-items,
+.rte ul {
   direction: rtl;
 }
 
