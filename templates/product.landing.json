@@ -50,6 +50,13 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "text_mztKqt": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.custom.date_since_war | metafield_tag }}",
+            "text_style": "body"
+          }
+        },
         "icon_with_text_cggd3E": {
           "type": "icon-with-text",
           "settings": {
@@ -83,6 +90,7 @@
         }
       },
       "block_order": [
+        "text_mztKqt",
         "icon_with_text_cggd3E",
         "description",
         "buy_buttons_AU3tcK"
