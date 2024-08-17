@@ -64,6 +64,20 @@
             "text_style": "body"
           }
         },
+        "description": {
+          "type": "description",
+          "settings": {
+            "description_alignment": "center"
+          }
+        },
+        "buy_buttons_AU3tcK": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_add_to_cart": true,
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false
+          }
+        },
         "icon_with_text_cggd3E": {
           "type": "icon-with-text",
           "settings": {
@@ -80,28 +94,14 @@
             "icon_4": "star",
             "heading_4": "הצלחה מובטחת"
           }
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-            "description_alignment": "center"
-          }
-        },
-        "buy_buttons_AU3tcK": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_add_to_cart": true,
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": false
-          }
         }
       },
       "block_order": [
         "text_7M4Adb",
         "text_zBjaac",
-        "icon_with_text_cggd3E",
         "description",
-        "buy_buttons_AU3tcK"
+        "buy_buttons_AU3tcK",
+        "icon_with_text_cggd3E"
       ],
       "settings": {
         "show_tax_notice": false,
