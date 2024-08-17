@@ -1491,3 +1491,8 @@ a.product__text {
   color: firebrick;
   border: 1px solid firebrick;
 }
+
+.metafield-date {
+  font-size: calc(var(--font-heading-scale) * 9rem);
+  display: block;
+}
