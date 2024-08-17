@@ -409,13 +409,6 @@
           "settings": {
           }
         },
-        "variant_picker_3qqWAw": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button",
-            "swatch_shape": "circle"
-          }
-        },
         "buy_buttons_QzzfXG": {
           "type": "buy_buttons",
           "settings": {
@@ -423,11 +416,22 @@
             "show_gift_card_recipient": true
           }
         },
-        "text_aw6inG": {
-          "type": "text",
+        "icon_with_text_UWNrE9": {
+          "type": "icon-with-text",
           "settings": {
-            "text": "החזר כספי ל-30 יום - אין מה להפסיד, יש הכל להרוויח.",
-            "text_style": "subtitle"
+            "layout": "horizontal",
+            "icon_1": "none",
+            "image_1": "shopify:\/\/shop_images\/recurring-subscription-icon.svg",
+            "heading_1": "זיכוי כספי עד 30 יום",
+            "icon_2": "none",
+            "image_2": "shopify:\/\/shop_images\/secure-payment-icon.svg",
+            "heading_2": "תשלום מאובטח",
+            "icon_3": "none",
+            "image_3": "shopify:\/\/shop_images\/legal-agreement-contract-paper-icon.svg",
+            "heading_3": "תוצאות מוכחות",
+            "icon_4": "none",
+            "image_4": "shopify:\/\/shop_images\/pos-swipe-icon.svg",
+            "heading_4": "פריסה לתשלומים"
           }
         }
       },
@@ -435,9 +439,8 @@
         "text_zMz6KM",
         "text_dpBLrk",
         "price_he9Yhk",
-        "variant_picker_3qqWAw",
         "buy_buttons_QzzfXG",
-        "text_aw6inG"
+        "icon_with_text_UWNrE9"
       ],
       "settings": {
         "product": "{{ product }}",
@@ -553,12 +556,21 @@
     "collapsible_content_BhkJmX": {
       "type": "collapsible-content",
       "blocks": {
-        "collapsible_row_KTeJwC": {
+        "collapsible_row_UyiN7d": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "האם הקורס מתאים למתחילים?",
+            "heading": "כמה זמן לוקח להרגיש שיפור בהתמודדות עם מתח?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>ברוב המקרים ניתן לראות שינוי תוך 24 שעות, אך לבסוף זה אינדיבידואלי, ואצל כל אחת ואחד ניתן יהיה לראות שינוי בפרקי זמן שונים.<\/p><p>חשוב לזכור שאנחנו לא בתחרות עם אף אחד, ושכל שינוי לטובה יקרה בקצב שלו, ובקצב שמתאים לך.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_mADL4C": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "איך אני ניגשת לתכנים?",
+            "icon": "none",
+            "row_content": "<p>לאחר הרכישה, תקבלי מאיתנו מייל עם פרטי ההתחברות האישיים שלך לתכנים של הסדנה.<\/p>",
             "page": ""
           }
         },
@@ -567,7 +579,7 @@
           "settings": {
             "heading": "כמה זמן יש לי גישה לתכנים?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>התכנים זמינים לתמיד.<\/p>",
             "page": ""
           }
         },
@@ -576,7 +588,7 @@
           "settings": {
             "heading": "האם יש תמיכה טכנית?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>כן. ניתן לפנות אלינו בטופס <a href=\"\/pages\/contact\" target=\"_blank\" title=\"Contact\">יצירת הקשר<\/a> ואנו נעזור בהקדם.<\/p>",
             "page": ""
           }
         },
@@ -585,16 +597,7 @@
           "settings": {
             "heading": "מה ההבדל בין StressLess לבין אפליקציות מדיטציה חינמיות?",
             "icon": "none",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "collapsible_row_UyiN7d": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "כמה זמן לוקח להרגיש שיפור בהתמודדות עם מתח?",
-            "icon": "none",
-            "row_content": "",
+            "row_content": "<p>רוב האפליקציות אינן חינמיות לחלוטין, ולרוב דורשות מנוי חודשי.<\/p><p>אצלינו תקבלי יותר ערך תמורת מה ששילמת, ולא תצטרכי לשלם מספר פעמים, אלא רק פעם אחת.<\/p>",
             "page": ""
           }
         },
@@ -603,7 +606,7 @@
           "settings": {
             "heading": "האם התכנים מתאימים גם לבני נוער?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>התכנים מתאימים לכל הגילאים.<\/p>",
             "page": ""
           }
         },
@@ -612,17 +615,17 @@
           "settings": {
             "heading": "מה קורה אם אני לא מרוצה מהקורס?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>במידה ואינך מרוצה מהתכנים ניתן לבקש זיכוי וביטול, ואנו נדאג לבצע זיכוי לאמצעי התשלום איתו שילמת.<\/p><p>עם ביצוע הבקשה, הגישה לתכני הקורס תוסר.<\/p>",
             "page": ""
           }
         }
       },
       "block_order": [
-        "collapsible_row_KTeJwC",
+        "collapsible_row_UyiN7d",
+        "collapsible_row_mADL4C",
         "collapsible_row_Fkb8Jh",
         "collapsible_row_tR8DGP",
         "collapsible_row_xEDk8d",
-        "collapsible_row_UyiN7d",
         "collapsible_row_UnXJRb",
         "collapsible_row_jVgC6d"
       ],
@@ -632,67 +635,11 @@
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
-        "color_scheme": "",
-        "container_color_scheme": "",
-        "open_first_collapsible_row": true,
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "container_color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "multicolumn_H6jPCm": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_iW6rCb": {
-          "type": "column",
-          "settings": {
-            "title": "1",
-            "text": "<p>לאחר הרכישה, תקבלי מאיתנו מייל עם פרטי ההתחברות האישיים שלך לתכנים של הריטריט.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_tq4aU9": {
-          "type": "column",
-          "settings": {
-            "title": "2",
-            "text": "<p>עקבי אחרי השלבים במייל מהשלב הקודם, ושם תוכלי לראות את כל התכנים בצורה מסודרת.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_dDLENK": {
-          "type": "column",
-          "settings": {
-            "title": "3",
-            "text": "<p>ניתן לצפות ולתרגל את התכנים שוב ושוב - כמה שתרצי!<\/p><p>הגישה לתכנים אינה מוגבלת בזמן.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_iW6rCb",
-        "column_tq4aU9",
-        "column_dDLENK"
-      ],
-      "settings": {
-        "title": "איך זה עובד?",
-        "title_direction": "rtl",
-        "title_alignment": "center",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "show_image_after_effect": false,
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-3",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -724,13 +671,21 @@
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": true
           }
+        },
+        "text_WzR4QV": {
+          "type": "text",
+          "settings": {
+            "text": "החזר כספי ל-30 יום - אין מה להפסיד, יש הכל להרוויח.",
+            "text_style": "subtitle"
+          }
         }
       },
       "block_order": [
         "title_thNi4H",
         "price_KDHhth",
         "variant_picker_c8iEUf",
-        "buy_buttons_rrqHNe"
+        "buy_buttons_rrqHNe",
+        "text_WzR4QV"
       ],
       "settings": {
         "product": "{{ product }}",
@@ -759,7 +714,6 @@
     "multirow_Cy7zp8",
     "related-products",
     "collapsible_content_BhkJmX",
-    "multicolumn_H6jPCm",
     "secondary_product_GxN9ta"
   ]
 }
