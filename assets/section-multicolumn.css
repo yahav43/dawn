@@ -122,9 +122,9 @@
   position: absolute;
   display: block;
   content: '';
-  background: rgba(var(--color-background-contrast), 0.5);
+  background: rgba(var(--color-background-contrast), 0.3);
   height: 80%;
-  width: 100%;
+  width: 80%;
   top: 40%;
   left: 25%;
   z-index: 1;
