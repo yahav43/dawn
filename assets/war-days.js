@@ -18,6 +18,6 @@ document.addEventListener('DOMContentLoaded', function(e) {
     let daysDifference = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
 
     // Prepend new text without overwriting the existing content
-    warDateElement.innerText = daysDifference;
+    warDateElement.innerText = daysDifference + ' ימים';
   }
 });
