@@ -6,6 +6,7 @@
   data-update-url="true"
   data-url="{{ product.url }}"
 >
+  {{ 'war-days.js' | asset_url | script_tag }}
   {{ 'section-main-product.css' | asset_url | stylesheet_tag }}
   {{ 'component-accordion.css' | asset_url | stylesheet_tag }}
   {{ 'component-price.css' | asset_url | stylesheet_tag }}
