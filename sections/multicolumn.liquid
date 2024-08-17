@@ -102,7 +102,7 @@
                       endif
 
                       assign show_image_after_effect = false
-                      if block.settings.show_image_after_effect == true
+                      if section.settings.show_image_after_effect == true
                         assign show_image_after_effect = true
                       endif
                     -%}
@@ -327,6 +327,12 @@
       "label": "t:sections.multicolumn.settings.image_ratio.label"
     },
     {
+      "type": "checkbox",
+      "default": false,
+      "id": "show_image_after_effect",
+      "label": "Show image after effect"
+    },
+    {
       "type": "range",
       "id": "columns_desktop",
       "min": 1,
@@ -448,12 +454,6 @@
           "type": "image_picker",
           "id": "image",
           "label": "t:sections.multicolumn.blocks.column.settings.image.label"
-        },
-        {
-          "type": "checkbox",
-          "default": false,
-          "id": "show_image_after_effect",
-          "label": "Show image after effect"
         },
         {
           "type": "inline_richtext",
