@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "image_banner": {
@@ -31,7 +40,7 @@
           "settings": {
             "button_label_1": "לחצי כאן",
             "button_weight_1": "bold",
-            "button_link_1": "shopify:\/\/products\/stress-less",
+            "button_link_1": "shopify:\/\/collections\/yoga-retreats",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
