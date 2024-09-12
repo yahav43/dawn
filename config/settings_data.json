@@ -129,11 +129,14 @@
       "main-password-header": {
         "type": "main-password-header",
         "settings": {
-          "color_scheme": "scheme-1"
+          "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28"
         }
       },
       "main-password-footer": {
         "type": "main-password-footer",
+        "custom_css": [
+          ".password__footer {display: none;}"
+        ],
         "settings": {
           "color_scheme": "scheme-1"
         }
