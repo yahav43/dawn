@@ -224,8 +224,8 @@
         "heading_BcT6tA": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>מוכנה להתחבר לנפש שלך?<\/strong>",
-            "heading_size": "h2",
+            "heading": "<strong>חדשה בעולם היוגה?<\/strong>",
+            "heading_size": "h1",
             "title_direction": "rtl"
           }
         },
@@ -234,7 +234,7 @@
           "settings": {
             "button_label_1": "לחצי כאן",
             "button_weight_1": "bold",
-            "button_link_1": "shopify:\/\/products\/stress-less",
+            "button_link_1": "shopify:\/\/collections\/yoga-retreats",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
