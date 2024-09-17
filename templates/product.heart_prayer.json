@@ -50,71 +50,45 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "title": {
-          "type": "title",
-          "settings": {
-          }
-        },
-        "caption": {
+        "text_7M4Adb": {
           "type": "text",
           "settings": {
-            "text": "{{ product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
+            "text": "<h2><strong>{{ product.metafields.custom.date_since_war | metafield_tag }}<\/strong> ימים.<\/h2>",
+            "text_style": "body"
           }
         },
-        "price": {
-          "type": "price",
+        "text_HiP7Xq": {
+          "type": "text",
           "settings": {
+            "text": "<h2><strong>{{ product.metafields.custom.date_since_war | metafield_tag }}<\/strong> ימים של חדשות בלתי פוסקות.<\/h2>",
+            "text_style": "body"
           }
         },
-        "variant_picker": {
-          "type": "variant_picker",
+        "text_YtkGFN": {
+          "type": "text",
           "settings": {
-            "picker_type": "button",
-            "swatch_shape": "circle"
+            "text": "<h2><strong>{{ product.metafields.custom.date_since_war | metafield_tag }}<\/strong> ימים של דאגה מתמדת.<\/h2>",
+            "text_style": "body"
           }
         },
-        "buy_buttons": {
-          "type": "buy_buttons",
+        "text_BJLEYm": {
+          "type": "text",
           "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": true
-          }
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-          }
-        },
-        "icon_with_text_cggd3E": {
-          "type": "icon-with-text",
-          "settings": {
-            "layout": "horizontal",
-            "icon_1": "heart",
-            "image_1": "shopify:\/\/shop_images\/iconmonstr-nis-icon.svg",
-            "heading_1": "זיכוי כספי",
-            "icon_2": "return",
-            "image_2": "shopify:\/\/shop_images\/iconmonstr-credit-card-10.svg",
-            "heading_2": "תשלום מאובטח",
-            "icon_3": "truck",
-            "image_3": "shopify:\/\/shop_images\/iconmonstr-time-7.svg",
-            "heading_3": "גישה לכל החיים"
+            "text": "<h2><strong>{{ product.metafields.custom.date_since_war | metafield_tag }}<\/strong> ימים שבהם השקט הפנימי שלנו נשחק, טיפה אחר טיפה.<\/h2>",
+            "text_style": "body"
           }
         }
       },
       "block_order": [
-        "title",
-        "caption",
-        "price",
-        "variant_picker",
-        "buy_buttons",
-        "description",
-        "icon_with_text_cggd3E"
+        "text_7M4Adb",
+        "text_HiP7Xq",
+        "text_YtkGFN",
+        "text_BJLEYm"
       ],
       "settings": {
         "show_tax_notice": false,
-        "enable_sticky_info": true,
-        "color_scheme": "scheme-5",
+        "enable_sticky_info": false,
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
         "media_size": "large",
         "constrain_to_viewport": false,
         "media_fit": "cover",
@@ -128,12 +102,118 @@
         "padding_bottom": 12
       }
     },
+    "rich_text_TFyPLC": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_hkwN4x": {
+          "type": "heading",
+          "settings": {
+            "heading": "הסיפור של דנה",
+            "heading_size": "h1"
+          }
+        },
+        "text_DnCB6R": {
+          "type": "text",
+          "settings": {
+            "text": "<p>דנה, אמא לשניים מתל אביב, מצאה את עצמה מתעוררת כל בוקר עם תחושת כבדות בחזה.<\/p><p>\"הדבר הראשון שעשיתי כל בוקר היה לבדוק חדשות,\" היא מספרת. \"הפחד מפני מה שעלול לקרות השתלט על חיי. לא הצלחתי להתרכז בעבודה, לא נהניתי מזמן עם הילדים. הרגשתי שאני מאבדת את עצמי.\"<\/p><h3><strong>נשמע מוכר?<\/strong><\/h3>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_hkwN4x",
+        "text_DnCB6R"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_with_text_7K4ARw": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Rg4Jnj": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>המחיר הכבד של חיים בצל הפחד<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_UqDq6P": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>האם את מוצאת את עצמך בודקת חדשות בכפייתיות?<\/li><li>האם הדאגה לעתיד מונעת ממך ליהנות מהרגע?<\/li><li>האם את מרגישה שאיכות החיים שלך נפגעת?<\/li><li>האם את חשה חסרי אונים מול המציאות?<\/li><\/ul><h3><strong>אם ענית 'כן' לאחת השאלות הללו, את לא לבד.<\/strong><\/h3><h3><strong>אבל יש דרך אחרת.<\/strong><\/h3>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Rg4Jnj",
+        "text_UqDq6P"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/spa-flatlay.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "right",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_ffEqdk": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_rrrfbb": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>הכירי את StressLess<\/strong>",
+            "heading_size": "h1",
+            "title_direction": "rtl"
+          }
+        },
+        "text_bQAgrd": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>StressLess נוצר במיוחד עבורך, במציאות מורכבת ומאתגרת. אי אפשר לשנות את המציאות סביבנו, אבל אפשר לשנות את הדרך שבה אנחנו מגיבים אליה.<\/strong>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_rrrfbb",
+        "text_bQAgrd"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/candle-in-natural-stone-holder.jpg",
+        "image_overlay_opacity": 60,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-4",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
         "column-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/training-online-icon_528de975-6d4f-4bde-82ca-1d6a93864b06.svg",
             "title": "{{ product.metafields.custom.product_explanation_first.value }}",
             "text": "<p>{{ product.metafields.custom.product_explanation_description_first | metafield_tag }}<\/p>",
             "link_label": "",
@@ -143,17 +223,19 @@
         "column-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/check-mark-box-icon.svg",
             "title": "{{ product.metafields.custom.product_explanation_second.value }}",
             "text": "<p>{{ product.metafields.custom.product_explanation_description_second | metafield_tag }}<\/p>",
             "link_label": "",
             "link": ""
           }
         },
-        "column_9QVhVf": {
+        "column_Tgtwaa": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/document-application-woman-icon.svg",
             "title": "{{ product.metafields.custom.product_explanation_third.value }}",
-            "text": "<p>{{ product.metafields.custom.product_explanation_description_third | metafield_tag }}<\/p>",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -161,26 +243,9 @@
         "column_zAxyYT": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/calendar-checkmark-line-icon_a87e400a-41a3-45dc-a581-a4fc9fa98a8f.svg",
             "title": "{{ product.metafields.custom.product_explanation_fourth.value }}",
             "text": "<p>{{ product.metafields.custom.product_explanation_description_fourth | metafield_tag }}<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_RPQ36j": {
-          "type": "column",
-          "settings": {
-            "title": "{{ product.metafields.custom.product_explanation_fifth.value }}",
-            "text": "<p>{{ product.metafields.custom.product_explanation_description_fifth | metafield_tag }}<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_jpn7tW": {
-          "type": "column",
-          "settings": {
-            "title": "{{ product.metafields.custom.product_explanation_sixth.value }}",
-            "text": "<p>{{ product.metafields.custom.product_explanation_description_sixth | metafield_tag }}<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -189,18 +254,106 @@
       "block_order": [
         "column-0",
         "column-1",
-        "column_9QVhVf",
-        "column_zAxyYT",
-        "column_RPQ36j",
-        "column_jpn7tW"
+        "column_Tgtwaa",
+        "column_zAxyYT"
       ],
       "settings": {
-        "title": "למה אפשר לצפות",
+        "title": "<strong>מה תקבלי ב StressLess?<\/strong>",
         "title_direction": "rtl",
         "title_alignment": "center",
-        "heading_size": "h1",
-        "image_width": "full",
+        "heading_size": "h0",
+        "image_width": "third",
         "image_ratio": "adapt",
+        "show_image_after_effect": true,
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 52,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_nce7nq": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_iCHx8Y": {
+          "type": "heading",
+          "settings": {
+            "heading": "הסיפור של דנה - החלק השני",
+            "heading_size": "h1"
+          }
+        },
+        "text_Rxf7rW": {
+          "type": "text",
+          "settings": {
+            "text": "<p>\"אחרי חודש של שימוש בטכניקות של StressLess, הרגשתי כאילו קיבלתי את החיים שלי בחזרה,\" מספרת דנה.<\/p><p>\"אני עדיין מודעת למתרחש, אבל יש לי כלים להתמודד. אני ישנה טוב יותר, מצליחה ליהנות מרגעים קטנים, ומרגישה שיש לי שליטה על הרגשות שלי.\"<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_iCHx8Y",
+        "text_Rxf7rW"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_J8dJaF": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_CA3tUM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/israel-flag-icon.svg",
+            "title": "{{ product.metafields.custom.landing_secondary_title_one.value }}",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_9fDaxp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/yoga-exercise-icon.svg",
+            "title": "{{ product.metafields.custom.landing_secondary_title_two.value }}",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_7FKB3H": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/24-hour-icon.svg",
+            "title": "{{ product.metafields.custom.landing_secondary_title_three.value }}",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_CA3tUM",
+        "column_9fDaxp",
+        "column_7FKB3H"
+      ],
+      "settings": {
+        "title": "<strong>למה StressLess?<\/strong>",
+        "title_direction": "rtl",
+        "title_alignment": "center",
+        "heading_size": "h0",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "show_image_after_effect": false,
         "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "primary",
@@ -211,6 +364,206 @@
         "swipe_on_mobile": false,
         "padding_top": 52,
         "padding_bottom": 52
+      }
+    },
+    "rich_text_xVwFTn": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_6UeTCW": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>לא נמאס לך?<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_hbLJLg": {
+          "type": "text",
+          "settings": {
+            "text": "<p>כל יום שעובר הוא עוד יום של:<\/p><ul><li>הפסד רגעים יקרים עם המשפחה<\/li><li>ירידה בפרודוקטיביות בעבודה<\/li><li>פגיעה באיכות השינה<\/li><li>הצטברות מתח שעלול להוביל לבעיות בריאות<\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_6UeTCW",
+        "text_hbLJLg"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "secondary_product_EtVzUj": {
+      "type": "secondary-product",
+      "blocks": {
+        "text_zMz6KM": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>הצעה מיוחדת - לזמן מוגבל<\/strong>",
+            "text_style": "body"
+          }
+        },
+        "text_dpBLrk": {
+          "type": "text",
+          "settings": {
+            "text": "כי מגיע לך לחיים רגועים יותר, כאן ועכשיו.",
+            "text_style": "subtitle"
+          }
+        },
+        "price_he9Yhk": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "buy_buttons_QzzfXG": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "icon_with_text_UWNrE9": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "none",
+            "image_1": "shopify:\/\/shop_images\/recurring-subscription-icon.svg",
+            "heading_1": "זיכוי כספי עד 30 יום",
+            "icon_2": "none",
+            "image_2": "shopify:\/\/shop_images\/secure-payment-icon.svg",
+            "heading_2": "תשלום מאובטח",
+            "icon_3": "none",
+            "image_3": "shopify:\/\/shop_images\/legal-agreement-contract-paper-icon.svg",
+            "heading_3": "תוצאות מוכחות",
+            "icon_4": "none",
+            "image_4": "shopify:\/\/shop_images\/pos-swipe-icon.svg",
+            "heading_4": "פריסה לתשלומים"
+          }
+        }
+      },
+      "block_order": [
+        "text_zMz6KM",
+        "text_dpBLrk",
+        "price_he9Yhk",
+        "buy_buttons_QzzfXG",
+        "icon_with_text_UWNrE9"
+      ],
+      "settings": {
+        "product": "{{ product }}",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "secondary_background": false,
+        "constrain_to_viewport": false,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_x8bVDk": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Wwr7Wk": {
+          "type": "heading",
+          "settings": {
+            "heading": "לקוחות מספרות",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Wwr7Wk"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "17211428891945090f": {
+      "type": "apps",
+      "blocks": {
+        "stamped_product_reviews_ugc_main_widget_iqETUF": {
+          "type": "shopify:\/\/apps\/stamped-reviews\/blocks\/main-widget\/a103faaf-2125-4b0e-89fa-de5149736723",
+          "settings": {
+            "animation": true,
+            "tags_exclude": "",
+            "tags_include": "",
+            "search": "",
+            "linkify": true,
+            "use_metafields": false,
+            "sku_tagtype": "sku"
+          }
+        }
+      },
+      "block_order": [
+        "stamped_product_reviews_ugc_main_widget_iqETUF"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "multirow_Cy7zp8": {
+      "type": "multirow",
+      "blocks": {
+        "row_FEBtAG": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/spa-candles-and-decor-near-window.jpg",
+            "caption": "",
+            "heading": "<strong>מי אנחנו?<\/strong>",
+            "text": "<p>אנחנו עסק משפחתי שמחבר בין עולמות הרוח והטיפול לבין עולמות הטכנולוגיה המגוונים.<br\/>המטרה העיקרית שלנו היא להנגיש את הידע לקהל הרחב בצורה פשוטה, בהירה ונוחה.<br\/>לא לפני הרבה שנים , אנשים היו צריכים לנדוד בעולם בחיפוש אחר מורה מתאים ואחר ידע נכון.<br\/>מסעות שלפעמים היו נגמרים גם באכזבה ואו בכישלון והחיפוש נמשך...<br\/>אחרי כמעט שלושה עשורים של חיפוש - חיפוש רוחבי עם העמקה אל תכנים רלוונטים .<br\/>אחרי התנסות אישית ארוכת שנים בתירגול הידע ובהעברתו לתלמידים.<br\/>יש לנו בשורה משמחת!<br\/>אנחנו יכולים לקצר לך משמעותית את החיפוש ולהגיש לך בצורה ממוקדת ושלמה רק את מה שעובד!<br\/>ועכשיו כשהטכנולוגיה המתאימה עומדת לרשותינו - אנחנו מביאים לך את זה מזוקק ובהיר אלייך לסלון.<br\/>ברוכה הבאה אל מרכז המעגל.<br\/>בטוחים שתוכלי למצוא פה אותך.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_KpnjKQ": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/all-natural-spa-decorations.jpg",
+            "caption": "",
+            "heading": "<strong>המשימה שלנו<\/strong>",
+            "text": "<p>החזון העיקרי שלנו הוא להחזיר את הסמכות הפנימית אל בני האדם.<br\/>למה זה חשוב לנו?<br\/>בעשורים האחרונים אנחנו עדים לתהליך הפוך - תהליך של \"אילוף\" הפרט למצב של תלות ושיעבוד על ידי הרחקתו מעצמו וריבוי גירויים חיצוניים של \" אנחנו יודעים מה טוב ונכון עבורך\".<br\/>בלי לשים לב נתת את הסמכות לגורמים חיצוניים ובדרך לשם שכחת איך להקשיב לך. איך נשמע הקול שלך. מהם הרצונות שלך ומהו סדר העדיפות הנכון עבורך.<br\/>במקום לשאול שאלה ולחכות לקול שלך (שברור שיענה וברור שיודע) התרגלת להפנות שאלות החוצה ולפעול לפי סמכות חיצונית ש\"יודעת\".<br\/>המקום הטבעי עבורך להיות הינו- מרכז המעגל. <\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_y6WFWX": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/spa-tools-and-decorations.jpg",
+            "caption": "",
+            "heading": "למה הכוונה?",
+            "text": "<p>מרכז המעגל הוא בעצם מרכז העולם שלך.<br\/>החזון שלנו הוא לראות אותך ניצבת במרכז עולמך!<br\/>בכל מקרה , את היא שבוראת את מציאות חייך, את עולמך.<br\/>בדיוק מהסיבה הזו בני האדם חווים עולמות שונים ומגוונים.<br\/>כשאת נוכחת במרכז המעגל שלך, זה מספר על שאת מקבלת אותך, זה מספר שאת באהבה עצמית.<br\/>מהנוכחות שלך במרכז המעגל, ינבעו ללא מאמץ מערכות יחסים הרמוניות עם מעגלים חיצוניים לך, עולמות אחרים: למשל , מערכת יחסים זוגית, מערכת יחסים עם בני משפחה, עם כסף ועוד...<br\/>To make long story short<br\/>אנחנו מאמינים בך!<br\/>אנחנו רוצים אותך במרכז המעגל!<br\/>אנחנו יודעים שרק את יכולה לרפא את חייך!<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_FEBtAG",
+        "row_KpnjKQ",
+        "row_y6WFWX"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "related-products": {
@@ -232,274 +585,168 @@
         "padding_bottom": 28
       }
     },
-    "video_R9QTQb": {
-      "type": "video",
-      "settings": {
-        "heading": "הצצה פנימה",
-        "heading_size": "h1",
-        "heading_text_alignment": "center",
-        "enable_video_looping": false,
-        "video": "{{ product.metafields.custom.video_trailer.value }}",
-        "video_url": "",
-        "description": "",
-        "full_width": true,
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "multicolumn_H6jPCm": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_iW6rCb": {
-          "type": "column",
-          "settings": {
-            "title": "1",
-            "text": "<p>לאחר הרכישה, תקבלי מאיתנו מייל עם פרטי ההתחברות האישיים שלך לתכנים של הריטריט.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_tq4aU9": {
-          "type": "column",
-          "settings": {
-            "title": "2",
-            "text": "<p>עקבי אחרי השלבים במייל מהשלב הקודם, ושם תוכלי לראות את כל התכנים בצורה מסודרת.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_dDLENK": {
-          "type": "column",
-          "settings": {
-            "title": "3",
-            "text": "<p>ניתן לצפות ולתרגל את התכנים שוב ושוב - כמה שתרצי!<\/p><p>הגישה לתכנים אינה מוגבלת בזמן.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_iW6rCb",
-        "column_tq4aU9",
-        "column_dDLENK"
-      ],
-      "settings": {
-        "title": "איך זה עובד?",
-        "title_direction": "rtl",
-        "title_alignment": "center",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-3",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "secondary_product_VJLDN9": {
-      "type": "secondary-product",
-      "blocks": {
-        "text_nh3tji": {
-          "type": "text",
-          "settings": {
-            "text": "<strong>{{ section.settings.product.metafields.custom.secondary_product_section_title.value }}<\/strong>",
-            "text_style": "body"
-          }
-        },
-        "variant_picker_8FjD3c": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button",
-            "swatch_shape": "circle"
-          }
-        },
-        "buy_buttons_hrANC9": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": true
-          }
-        }
-      },
-      "block_order": [
-        "text_nh3tji",
-        "variant_picker_8FjD3c",
-        "buy_buttons_hrANC9"
-      ],
-      "settings": {
-        "product": "{{ product }}",
-        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
-        "secondary_background": false,
-        "constrain_to_viewport": true,
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 24
-      }
-    },
-    "17211428891945090f": {
-      "type": "apps",
-      "blocks": {
-        "stamped_product_reviews_ugc_main_widget_iqETUF": {
-          "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/main-widget\/a103faaf-2125-4b0e-89fa-de5149736723",
-          "settings": {
-            "animation": true,
-            "tags_exclude": "",
-            "tags_include": "",
-            "search": "",
-            "linkify": true,
-            "use_metafields": false,
-            "sku_tagtype": "sku"
-          }
-        }
-      },
-      "block_order": [
-        "stamped_product_reviews_ugc_main_widget_iqETUF"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
-    "collapsible_content_t8grRA": {
+    "collapsible_content_BhkJmX": {
       "type": "collapsible-content",
       "blocks": {
-        "collapsible_row_dc3qEP": {
+        "collapsible_row_UyiN7d": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "מה כולל הריטריט?",
+            "heading": "כמה זמן לוקח להרגיש שיפור בהתמודדות עם מתח?",
             "icon": "none",
-            "row_content": "<p>הריטריט כולל כשעתיים של תרגול יוגה פיזי רך ונעים, שיעורים על האנרגיה שלנו בגוף ושאלות ותשובות של המשתתפות היקרות שלנו.<\/p>",
+            "row_content": "<p>ברוב המקרים ניתן לראות שינוי תוך 24 שעות, אך לבסוף זה אינדיבידואלי, ואצל כל אחת ואחד ניתן יהיה לראות שינוי בפרקי זמן שונים.<\/p><p>חשוב לזכור שאנחנו לא בתחרות עם אף אחד, ושכל שינוי לטובה יקרה בקצב שלו, ובקצב שמתאים לך.<\/p>",
             "page": ""
           }
         },
-        "collapsible_row_j4d46m": {
+        "collapsible_row_mADL4C": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "איך ניתן לצפות בריטריט המוקלט?",
+            "heading": "איך אני ניגשת לתכנים?",
             "icon": "none",
-            "row_content": "<p>לאחר רכישת הריטריט באתר תקבלי מייל עם פרטי ההתחברות וקישור לאתר שבו תוכלי למצוא את התכנים של הריטריט.<\/p><p>ניתן לצפות מכל מכשיר, בכל מקום, ולעצור ולהמשיך מכל נקודה שבה תרצי.<\/p>",
+            "row_content": "<p>לאחר הרכישה, תקבלי מאיתנו מייל עם פרטי ההתחברות האישיים שלך לתכנים של הסדנה.<\/p>",
             "page": ""
           }
         },
-        "collapsible_row_UVTMVa": {
+        "collapsible_row_Fkb8Jh": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "מה אם אני חדשה ליוגה?",
+            "heading": "כמה זמן יש לי גישה לתכנים?",
             "icon": "none",
-            "row_content": "<p>הריטריט מתאים לכל הרמות, עם תרגולים המותאמים למתחילים ומתקדמים.<\/p>",
+            "row_content": "<p>התכנים זמינים לתמיד.<\/p>",
             "page": ""
           }
         },
-        "collapsible_row_jNefbB": {
+        "collapsible_row_tR8DGP": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "האם אני צריכה ציוד כלשהו?",
+            "heading": "האם יש תמיכה טכנית?",
             "icon": "none",
-            "row_content": "<p>מומלץ להצטייד במזרן יוגה ורצועת יוגה.<\/p><p>מעבר לשני הפריטים האלו אין צורך בעוד ציוד.<\/p>",
+            "row_content": "<p>כן. ניתן לפנות אלינו בטופס <a href=\"\/pages\/contact\" target=\"_blank\" title=\"Contact\">יצירת הקשר<\/a> ואנו נעזור בהקדם.<\/p>",
             "page": ""
           }
         },
-        "collapsible_row_bRCbw7": {
+        "collapsible_row_xEDk8d": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "כמה זמן אורך הריטריט?",
+            "heading": "מה ההבדל בין StressLess לבין אפליקציות מדיטציה חינמיות?",
             "icon": "none",
-            "row_content": "<p>אורך התכנים של הריטריט כולו הוא כ-6 שעות, אך התכנים מחולקים וניתן לקחת הפסקות ואין צורך לבצע את כל הריטריט ברצף.<\/p>",
+            "row_content": "<p>רוב האפליקציות אינן חינמיות לחלוטין, ולרוב דורשות מנוי חודשי.<\/p><p>אצלינו תקבלי יותר ערך תמורת מה ששילמת, ולא תצטרכי לשלם מספר פעמים, אלא רק פעם אחת.<\/p>",
             "page": ""
           }
         },
-        "collapsible_row_miEGhi": {
+        "collapsible_row_UnXJRb": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "האם הגישה לתכנים של הריטריט מוגבלת בזמן?",
+            "heading": "האם התכנים מתאימים גם לבני נוער?",
             "icon": "none",
-            "row_content": "<p>לא, ברגע שרכשת את הריטריט הגישה לתכנים היא לכל החיים!<\/p>",
+            "row_content": "<p>התכנים מתאימים לכל הגילאים.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_jVgC6d": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "מה קורה אם אני לא מרוצה מהקורס?",
+            "icon": "none",
+            "row_content": "<p>במידה ואינך מרוצה מהתכנים ניתן לבקש זיכוי וביטול, ואנו נדאג לבצע זיכוי לאמצעי התשלום איתו שילמת.<\/p><p>עם ביצוע הבקשה, הגישה לתכני הקורס תוסר.<\/p>",
             "page": ""
           }
         }
       },
       "block_order": [
-        "collapsible_row_dc3qEP",
-        "collapsible_row_j4d46m",
-        "collapsible_row_UVTMVa",
-        "collapsible_row_jNefbB",
-        "collapsible_row_bRCbw7",
-        "collapsible_row_miEGhi"
+        "collapsible_row_UyiN7d",
+        "collapsible_row_mADL4C",
+        "collapsible_row_Fkb8Jh",
+        "collapsible_row_tR8DGP",
+        "collapsible_row_xEDk8d",
+        "collapsible_row_UnXJRb",
+        "collapsible_row_jVgC6d"
       ],
       "settings": {
         "caption": "",
         "heading": "שאלות נפוצות",
         "heading_size": "h1",
         "heading_alignment": "center",
-        "layout": "row",
-        "color_scheme": "",
-        "container_color_scheme": "",
-        "open_first_collapsible_row": true,
+        "layout": "none",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "container_color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
         "padding_top": 36,
         "padding_bottom": 36
       }
     },
-    "secondary_product_BpHVnj": {
+    "secondary_product_GxN9ta": {
       "type": "secondary-product",
       "blocks": {
-        "text_BPAmYe": {
-          "type": "text",
+        "title_thNi4H": {
+          "type": "title",
           "settings": {
-            "text": "<strong>{{ section.settings.product.title }}<\/strong>",
-            "text_style": "body"
+            "heading_size": "h1"
           }
         },
-        "variant_picker_Ch3epF": {
+        "price_KDHhth": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_c8iEUf": {
           "type": "variant_picker",
           "settings": {
             "picker_type": "button",
             "swatch_shape": "circle"
           }
         },
-        "buy_buttons_F3bjHx": {
+        "buy_buttons_rrqHNe": {
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": false,
-            "show_gift_card_recipient": true
+            "show_gift_card_recipient": false
+          }
+        },
+        "text_WzR4QV": {
+          "type": "text",
+          "settings": {
+            "text": "החזר כספי ל-30 יום - אין מה להפסיד, יש הכל להרוויח.",
+            "text_style": "subtitle"
           }
         }
       },
       "block_order": [
-        "text_BPAmYe",
-        "variant_picker_Ch3epF",
-        "buy_buttons_F3bjHx"
+        "title_thNi4H",
+        "price_KDHhth",
+        "variant_picker_c8iEUf",
+        "buy_buttons_rrqHNe",
+        "text_WzR4QV"
       ],
       "settings": {
         "product": "{{ product }}",
-        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "color_scheme": "scheme-5",
         "secondary_background": false,
-        "constrain_to_viewport": true,
+        "constrain_to_viewport": false,
         "hide_variants": false,
         "enable_video_looping": false,
         "padding_top": 36,
-        "padding_bottom": 24
+        "padding_bottom": 0
       }
     }
   },
   "order": [
     "image_banner_CQJiFm",
     "main",
+    "rich_text_TFyPLC",
+    "image_with_text_7K4ARw",
+    "image_banner_ffEqdk",
     "multicolumn",
-    "related-products",
-    "video_R9QTQb",
-    "multicolumn_H6jPCm",
-    "secondary_product_VJLDN9",
+    "rich_text_nce7nq",
+    "multicolumn_J8dJaF",
+    "rich_text_xVwFTn",
+    "secondary_product_EtVzUj",
+    "rich_text_x8bVDk",
     "17211428891945090f",
-    "collapsible_content_t8grRA",
-    "secondary_product_BpHVnj"
+    "multirow_Cy7zp8",
+    "related-products",
+    "collapsible_content_BhkJmX",
+    "secondary_product_GxN9ta"
   ]
 }
