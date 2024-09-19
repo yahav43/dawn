@@ -512,10 +512,11 @@
     "secondary_product_GxN9ta": {
       "type": "secondary-product",
       "blocks": {
-        "title_thNi4H": {
-          "type": "title",
+        "text_WzR4QV": {
+          "type": "text",
           "settings": {
-            "heading_size": "h1"
+            "text": "גלי את הכוח האנרגטי שבתוכך והתחילי במסע של טרנספורמציה אישית עוד היום!",
+            "text_style": "body"
           }
         },
         "price_KDHhth": {
@@ -533,24 +534,16 @@
         "buy_buttons_rrqHNe": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": false
-          }
-        },
-        "text_WzR4QV": {
-          "type": "text",
-          "settings": {
-            "text": "החזר כספי ל-30 יום - אין מה להפסיד, יש הכל להרוויח.",
-            "text_style": "subtitle"
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
           }
         }
       },
       "block_order": [
-        "title_thNi4H",
+        "text_WzR4QV",
         "price_KDHhth",
         "variant_picker_c8iEUf",
-        "buy_buttons_rrqHNe",
-        "text_WzR4QV"
+        "buy_buttons_rrqHNe"
       ],
       "settings": {
         "product": "{{ product }}",
