@@ -281,13 +281,6 @@
             "text_style": "body"
           }
         },
-        "text_dpBLrk": {
-          "type": "text",
-          "settings": {
-            "text": "כי מגיע לך לחיים רגועים יותר, כאן ועכשיו.",
-            "text_style": "subtitle"
-          }
-        },
         "price_he9Yhk": {
           "type": "price",
           "settings": {
@@ -321,7 +314,6 @@
       },
       "block_order": [
         "text_zMz6KM",
-        "text_dpBLrk",
         "price_he9Yhk",
         "buy_buttons_QzzfXG",
         "icon_with_text_UWNrE9"
