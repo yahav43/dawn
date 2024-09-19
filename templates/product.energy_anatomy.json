@@ -149,8 +149,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/israel-flag-icon.svg",
-            "title": "{{ product.metafields.custom.landing_secondary_title_one.value }}",
-            "text": "",
+            "title": "<strong>פראנה ופראניאמה<\/strong>",
+            "text": "<ul><li>מהי אנרגיית החיים ואיך לשלוט בה<\/li><li>טכניקות נשימה לאיזון אנרגטי<\/li><\/ul>",
             "link_label": "",
             "link": ""
           }
@@ -182,10 +182,10 @@
         "column_7FKB3H"
       ],
       "settings": {
-        "title": "<strong>למה StressLess?<\/strong>",
+        "title": "מה תלמדי בריטריט?",
         "title_direction": "rtl",
         "title_alignment": "center",
-        "heading_size": "h0",
+        "heading_size": "h1",
         "image_width": "third",
         "image_ratio": "adapt",
         "show_image_after_effect": false,
