@@ -165,7 +165,7 @@
             "link": ""
           }
         },
-        "column_7FKB3H": {
+        "column_R38JXD": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/24-hour-icon.svg",
@@ -174,11 +174,22 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_7FKB3H": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/24-hour-icon.svg",
+            "title": "<strong>הצ'אקרות<\/strong>",
+            "text": "<ul><li>מסע עמוק דרך שבע הצ'אקרות<\/li><li>טכניקות לפתיחה ואיזון הצ'אקרות<\/li><\/ul>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "column_CA3tUM",
         "column_9fDaxp",
+        "column_R38JXD",
         "column_7FKB3H"
       ],
       "settings": {
