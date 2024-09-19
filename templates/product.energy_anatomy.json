@@ -212,33 +212,73 @@
         "padding_bottom": 52
       }
     },
-    "rich_text_xVwFTn": {
-      "type": "rich-text",
+    "multicolumn_EJJeFK": {
+      "type": "multicolumn",
       "blocks": {
-        "heading_6UeTCW": {
-          "type": "heading",
+        "column_tVCQrz": {
+          "type": "column",
           "settings": {
-            "heading": "<strong>לא נמאס לך?<\/strong>",
-            "heading_size": "h1"
+            "image": "shopify:\/\/shop_images\/israel-flag-icon.svg",
+            "title": "<strong>גישה לכל החיים<\/strong>",
+            "text": "<p>לאחר הרכישה תקבלי גישה לכל החיים לתוכן הריטריט<\/p>",
+            "link_label": "",
+            "link": ""
           }
         },
-        "text_hbLJLg": {
-          "type": "text",
+        "column_Bpt7Nz": {
+          "type": "column",
           "settings": {
-            "text": "<p>כל יום שעובר הוא עוד יום של:<\/p><ul><li>הפסד רגעים יקרים עם המשפחה<\/li><li>ירידה בפרודוקטיביות בעבודה<\/li><li>פגיעה באיכות השינה<\/li><li>הצטברות מתח שעלול להוביל לבעיות בריאות<\/li><\/ul>"
+            "image": "shopify:\/\/shop_images\/yoga-exercise-icon.svg",
+            "title": "<strong>יין ויאנג<\/strong>",
+            "text": "<ul><li>הבנת האיזון הקוסמי<\/li><li>יישום עקרונות היין והיאנג בחיי היומיום<\/li><\/ul>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_XzEMjE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/24-hour-icon.svg",
+            "title": "<strong>חמשת האלמנטים<\/strong>",
+            "text": "<ul><li>  הכרת האלמנטים: אדמה, מים, אש, אוויר וחלל<\/li><li>איך לאזן את האלמנטים בגופך ובחייך<\/li><\/ul>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_MwCFcw": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/24-hour-icon.svg",
+            "title": "<strong>הצ'אקרות<\/strong>",
+            "text": "<ul><li>מסע עמוק דרך שבע הצ'אקרות<\/li><li>טכניקות לפתיחה ואיזון הצ'אקרות<\/li><\/ul>",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "heading_6UeTCW",
-        "text_hbLJLg"
+        "column_tVCQrz",
+        "column_Bpt7Nz",
+        "column_XzEMjE",
+        "column_MwCFcw"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
+        "title": "ריטריט דיגיטלי? איך זה עובד?",
+        "title_direction": "rtl",
+        "title_alignment": "center",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "show_image_after_effect": false,
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 52,
         "padding_bottom": 52
       }
     },
@@ -581,7 +621,7 @@
     "main",
     "multicolumn",
     "multicolumn_J8dJaF",
-    "rich_text_xVwFTn",
+    "multicolumn_EJJeFK",
     "secondary_product_EtVzUj",
     "rich_text_x8bVDk",
     "17211428891945090f",
