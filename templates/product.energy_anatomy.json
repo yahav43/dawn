@@ -9,81 +9,40 @@
 */
 {
   "sections": {
-    "image_banner_CQJiFm": {
-      "type": "image-banner",
-      "blocks": {
-        "richtext_mfyL3g": {
-          "type": "richtext",
-          "settings": {
-            "higher_heading": "<strong>StressLess<\/strong>",
-            "higher_heading_size": "h0",
-            "higher_title_direction": "rtl"
-          }
-        },
-        "heading_EYKCLg": {
-          "type": "heading",
-          "settings": {
-            "heading": "הדרך שלך לחיים רגועים יותר",
-            "heading_size": "h1",
-            "title_direction": "rtl"
-          }
-        }
-      },
-      "block_order": [
-        "richtext_mfyL3g",
-        "heading_EYKCLg"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/person-cross-legged-on-a-yoga-mat-at-the-beach.jpg",
-        "image_overlay_opacity": 30,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-4",
-        "image_behavior": "ambient",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
     "main": {
       "type": "main-product",
       "blocks": {
-        "text_7M4Adb": {
+        "title_GVcL83": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "text_cLpfC8": {
           "type": "text",
           "settings": {
-            "text": "<h2><strong>{{ product.metafields.custom.date_since_war | metafield_tag }}<\/strong> ימים.<\/h2>",
+            "text": "<p>גלי את סודות האנרגיה והטרנספורמציה האישית בריטריט דיגיטלי מעמיק<\/p><p><\/p><p>הצטרפי למסע מרתק לחקר האנרגיה האנושית והקוסמית בהנחיית יעל מימון (סאד'וי), מורה ליוגה טנטרה עם נסיון עשיר ומגוון, פסיכותרפיסטית ומרצה למקצועות הטיפול.<\/p>",
             "text_style": "body"
           }
         },
-        "text_HiP7Xq": {
-          "type": "text",
+        "price_bRUV8E": {
+          "type": "price",
           "settings": {
-            "text": "<h2><strong>{{ product.metafields.custom.date_since_war | metafield_tag }}<\/strong> ימים של חדשות בלתי פוסקות.<\/h2>",
-            "text_style": "body"
           }
         },
-        "text_YtkGFN": {
-          "type": "text",
+        "buy_buttons_DhFQ8E": {
+          "type": "buy_buttons",
           "settings": {
-            "text": "<h2><strong>{{ product.metafields.custom.date_since_war | metafield_tag }}<\/strong> ימים של דאגה מתמדת.<\/h2>",
-            "text_style": "body"
-          }
-        },
-        "text_BJLEYm": {
-          "type": "text",
-          "settings": {
-            "text": "<h2><strong>{{ product.metafields.custom.date_since_war | metafield_tag }}<\/strong> ימים שבהם השקט הפנימי שלנו נשחק, טיפה אחר טיפה.<\/h2>",
-            "text_style": "body"
+            "show_add_to_cart": true,
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
           }
         }
       },
       "block_order": [
-        "text_7M4Adb",
-        "text_HiP7Xq",
-        "text_YtkGFN",
-        "text_BJLEYm"
+        "title_GVcL83",
+        "text_cLpfC8",
+        "price_bRUV8E",
+        "buy_buttons_DhFQ8E"
       ],
       "settings": {
         "show_tax_notice": false,
@@ -102,111 +61,6 @@
         "padding_bottom": 12
       }
     },
-    "rich_text_TFyPLC": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_hkwN4x": {
-          "type": "heading",
-          "settings": {
-            "heading": "הסיפור של דנה",
-            "heading_size": "h1"
-          }
-        },
-        "text_DnCB6R": {
-          "type": "text",
-          "settings": {
-            "text": "<p>דנה, אמא לשניים מתל אביב, מצאה את עצמה מתעוררת כל בוקר עם תחושת כבדות בחזה.<\/p><p>\"הדבר הראשון שעשיתי כל בוקר היה לבדוק חדשות,\" היא מספרת. \"הפחד מפני מה שעלול לקרות השתלט על חיי. לא הצלחתי להתרכז בעבודה, לא נהניתי מזמן עם הילדים. הרגשתי שאני מאבדת את עצמי.\"<\/p><h3><strong>נשמע מוכר?<\/strong><\/h3>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_hkwN4x",
-        "text_DnCB6R"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "image_with_text_7K4ARw": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_Rg4Jnj": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>המחיר הכבד של חיים בצל הפחד<\/strong>",
-            "heading_size": "h1"
-          }
-        },
-        "text_UqDq6P": {
-          "type": "text",
-          "settings": {
-            "text": "<ul><li>האם את מוצאת את עצמך בודקת חדשות בכפייתיות?<\/li><li>האם הדאגה לעתיד מונעת ממך ליהנות מהרגע?<\/li><li>האם את מרגישה שאיכות החיים שלך נפגעת?<\/li><li>האם את חשה חסרי אונים מול המציאות?<\/li><\/ul><h3><strong>אם ענית 'כן' לאחת השאלות הללו, את לא לבד.<\/strong><\/h3><h3><strong>אבל יש דרך אחרת.<\/strong><\/h3>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_Rg4Jnj",
-        "text_UqDq6P"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/spa-flatlay.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "right",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
-        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_banner_ffEqdk": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_rrrfbb": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>הכירי את StressLess<\/strong>",
-            "heading_size": "h1",
-            "title_direction": "rtl"
-          }
-        },
-        "text_bQAgrd": {
-          "type": "text",
-          "settings": {
-            "text": "<strong>StressLess נוצר במיוחד עבורך, במציאות מורכבת ומאתגרת. אי אפשר לשנות את המציאות סביבנו, אבל אפשר לשנות את הדרך שבה אנחנו מגיבים אליה.<\/strong>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_rrrfbb",
-        "text_bQAgrd"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/candle-in-natural-stone-holder.jpg",
-        "image_overlay_opacity": 60,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-4",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
@@ -214,8 +68,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/training-online-icon_528de975-6d4f-4bde-82ca-1d6a93864b06.svg",
-            "title": "{{ product.metafields.custom.product_explanation_first.value }}",
-            "text": "<p>{{ product.metafields.custom.product_explanation_description_first | metafield_tag }}<\/p>",
+            "title": "<strong>ידע עמוק ומקיף<\/strong>",
+            "text": "<p>למידה על פראנה, יין ויאנג, הצ'אקרות, וחמשת האלמנטים<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -258,14 +112,14 @@
         "column_zAxyYT"
       ],
       "settings": {
-        "title": "<strong>מה תקבלי ב StressLess?<\/strong>",
+        "title": "למה להשתתף בריטריט הדיגיטלי שלנו?",
         "title_direction": "rtl",
         "title_alignment": "center",
-        "heading_size": "h0",
+        "heading_size": "h1",
         "image_width": "third",
         "image_ratio": "adapt",
         "show_image_after_effect": true,
-        "columns_desktop": 4,
+        "columns_desktop": 5,
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
@@ -274,36 +128,6 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 52,
-        "padding_bottom": 52
-      }
-    },
-    "rich_text_nce7nq": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_iCHx8Y": {
-          "type": "heading",
-          "settings": {
-            "heading": "הסיפור של דנה - החלק השני",
-            "heading_size": "h1"
-          }
-        },
-        "text_Rxf7rW": {
-          "type": "text",
-          "settings": {
-            "text": "<p>\"אחרי חודש של שימוש בטכניקות של StressLess, הרגשתי כאילו קיבלתי את החיים שלי בחזרה,\" מספרת דנה.<\/p><p>\"אני עדיין מודעת למתרחש, אבל יש לי כלים להתמודד. אני ישנה טוב יותר, מצליחה ליהנות מרגעים קטנים, ומרגישה שיש לי שליטה על הרגשות שלי.\"<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_iCHx8Y",
-        "text_Rxf7rW"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
         "padding_bottom": 52
       }
     },
@@ -732,13 +556,8 @@
     }
   },
   "order": [
-    "image_banner_CQJiFm",
     "main",
-    "rich_text_TFyPLC",
-    "image_with_text_7K4ARw",
-    "image_banner_ffEqdk",
     "multicolumn",
-    "rich_text_nce7nq",
     "multicolumn_J8dJaF",
     "rich_text_xVwFTn",
     "secondary_product_EtVzUj",
