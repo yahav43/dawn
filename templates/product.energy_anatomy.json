@@ -159,8 +159,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/yoga-exercise-icon.svg",
-            "title": "{{ product.metafields.custom.landing_secondary_title_two.value }}",
-            "text": "",
+            "title": "<strong>יין ויאנג<\/strong>",
+            "text": "<ul><li>הבנת האיזון הקוסמי<\/li><li>יישום עקרונות היין והיאנג בחיי היומיום<\/li><\/ul>",
             "link_label": "",
             "link": ""
           }
@@ -169,8 +169,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/24-hour-icon.svg",
-            "title": "{{ product.metafields.custom.landing_secondary_title_three.value }}",
-            "text": "",
+            "title": "<strong>חמשת האלמנטים<\/strong>",
+            "text": "<ul><li>  הכרת האלמנטים: אדמה, מים, אש, אוויר וחלל<\/li><li>איך לאזן את האלמנטים בגופך ובחייך<\/li><\/ul>",
             "link_label": "",
             "link": ""
           }
