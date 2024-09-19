@@ -229,8 +229,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/yoga-exercise-icon.svg",
-            "title": "<strong>יין ויאנג<\/strong>",
-            "text": "<ul><li>הבנת האיזון הקוסמי<\/li><li>יישום עקרונות היין והיאנג בחיי היומיום<\/li><\/ul>",
+            "title": "<strong>שיעורים מוקלטים בוידאו<\/strong>",
+            "text": "<p>5 שיעורים מוקלטים בוידאו כך שתוכלי לצפות בהם מכל מקום ובכל מצב!<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -239,18 +239,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/24-hour-icon.svg",
-            "title": "<strong>חמשת האלמנטים<\/strong>",
-            "text": "<ul><li>  הכרת האלמנטים: אדמה, מים, אש, אוויר וחלל<\/li><li>איך לאזן את האלמנטים בגופך ובחייך<\/li><\/ul>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_MwCFcw": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/24-hour-icon.svg",
-            "title": "<strong>הצ'אקרות<\/strong>",
-            "text": "<ul><li>מסע עמוק דרך שבע הצ'אקרות<\/li><li>טכניקות לפתיחה ואיזון הצ'אקרות<\/li><\/ul>",
+            "title": "<strong>חוברת דיגיטלית מפורטת<\/strong>",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -259,8 +249,7 @@
       "block_order": [
         "column_tVCQrz",
         "column_Bpt7Nz",
-        "column_XzEMjE",
-        "column_MwCFcw"
+        "column_XzEMjE"
       ],
       "settings": {
         "title": "ריטריט דיגיטלי? איך זה עובד?",
@@ -270,7 +259,7 @@
         "image_width": "third",
         "image_ratio": "adapt",
         "show_image_after_effect": false,
-        "columns_desktop": 5,
+        "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
