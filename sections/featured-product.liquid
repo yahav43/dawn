@@ -495,12 +495,6 @@
       "name": "t:sections.featured-product.blocks.text.name",
       "settings": [
         {
-          "type": "checkbox",
-          "default": true,
-          "id": "show_badges",
-          "label": "Whether to show sale or sold-out badge"
-        },
-        {
           "type": "inline_richtext",
           "id": "text",
           "default": "t:sections.featured-product.blocks.text.settings.text.default",
@@ -566,7 +560,15 @@
     {
       "type": "price",
       "name": "t:sections.featured-product.blocks.price.name",
-      "limit": 1
+      "limit": 1,
+      "settings": [
+        {
+          "type": "checkbox",
+          "default": true,
+          "id": "show_badges",
+          "label": "Whether to show sale or sold-out badge"
+        }
+      ]
     },
     {
       "type": "sku",
