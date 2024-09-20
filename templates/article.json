@@ -58,6 +58,7 @@
         "price_7VpKNe": {
           "type": "price",
           "settings": {
+            "show_badges": false
           }
         },
         "buy_buttons_BMVMbG": {
