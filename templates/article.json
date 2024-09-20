@@ -31,9 +31,68 @@
       ],
       "settings": {
       }
+    },
+    "featured_product_LpyTNn": {
+      "type": "featured-product",
+      "blocks": {
+        "title_zx7fJg": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "text_hVUQAR": {
+          "type": "text",
+          "settings": {
+            "text": "גלי את סודות האנרגיה והטרנספורמציה האישית בריטריט דיגיטלי מעמיק.",
+            "text_style": "body"
+          }
+        },
+        "text_pA6yyH": {
+          "type": "text",
+          "settings": {
+            "text": "הצטרפי למסע מרתק לחקר האנרגיה האנושית והקוסמית בהנחיית יעל מימון (סאד'וי), מורה ליוגה טנטרה עם נסיון עשיר ומגוון, פסיכותרפיסטית ומרצה למקצועות הטיפול.",
+            "text_style": "body"
+          }
+        },
+        "price_7VpKNe": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "buy_buttons_BMVMbG": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": true
+          }
+        }
+      },
+      "block_order": [
+        "title_zx7fJg",
+        "text_hVUQAR",
+        "text_pA6yyH",
+        "price_7VpKNe",
+        "buy_buttons_BMVMbG"
+      ],
+      "settings": {
+        "product": "yoga-energy-retreat",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "featured_product_LpyTNn"
   ]
 }
