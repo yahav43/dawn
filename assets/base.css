@@ -382,6 +382,10 @@ blockquote {
   .caption {
     font-size: 1.2rem;
   }
+
+  .featured-product .slider-buttons {
+    display: none;
+  }
 }
 
 .caption-with-letter-spacing {
