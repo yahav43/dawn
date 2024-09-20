@@ -67,7 +67,7 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/check-mark-box-icon.svg",
+            "image": "shopify:\/\/shop_images\/bulb-icon.svg",
             "title": "<strong>שילוב של מזרח ומערב<\/strong>",
             "text": "<p>חוויה ייחודית המשלבת חכמת המזרח עם תובנות מודרניות<\/p>",
             "link_label": "",
@@ -77,7 +77,7 @@
         "column_Tgtwaa": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/document-application-woman-icon.svg",
+            "image": "shopify:\/\/shop_images\/360-degree-rotate-icon.svg",
             "title": "<strong>טרנספורמציה אישית<\/strong>",
             "text": "<p>כלים מעשיים לאיזון אנרגטי ושיפור איכות החיים<\/p>",
             "link_label": "",
@@ -87,7 +87,7 @@
         "column_zAxyYT": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/calendar-checkmark-line-icon_a87e400a-41a3-45dc-a581-a4fc9fa98a8f.svg",
+            "image": "shopify:\/\/shop_images\/girl-exercise-workout-pose-icon.svg",
             "title": "<strong>גמישות מלאה<\/strong>",
             "text": "<p>חוויה בקצב שלך, מהנוחות של ביתך<\/p>",
             "link_label": "",
@@ -97,7 +97,7 @@
         "column_yGG6PD": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/calendar-checkmark-line-icon_a87e400a-41a3-45dc-a581-a4fc9fa98a8f.svg",
+            "image": "shopify:\/\/shop_images\/instruction-manuals-book-icon.svg",
             "title": "<strong>תוכן עשיר<\/strong>",
             "text": "<p>שיעורים מוקלטים, תרגילים מעשיים, ומדיטציות מונחות<\/p>",
             "link_label": "",
@@ -138,7 +138,7 @@
         "column_CA3tUM": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/israel-flag-icon.svg",
+            "image": "shopify:\/\/shop_images\/yoga-exercise-icon.svg",
             "title": "<strong>פראנה ופראניאמה<\/strong>",
             "text": "<ul><li>מהי אנרגיית החיים ואיך לשלוט בה<\/li><li>טכניקות נשימה לאיזון אנרגטי<\/li><\/ul>",
             "link_label": "",
@@ -148,7 +148,7 @@
         "column_9fDaxp": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/yoga-exercise-icon.svg",
+            "image": "shopify:\/\/shop_images\/taoism-icon.svg",
             "title": "<strong>יין ויאנג<\/strong>",
             "text": "<ul><li>הבנת האיזון הקוסמי<\/li><li>יישום עקרונות היין והיאנג בחיי היומיום<\/li><\/ul>",
             "link_label": "",
@@ -158,7 +158,7 @@
         "column_R38JXD": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/24-hour-icon.svg",
+            "image": "shopify:\/\/shop_images\/flame-icon.svg",
             "title": "<strong>חמשת האלמנטים<\/strong>",
             "text": "<ul><li>  הכרת האלמנטים: אדמה, מים, אש, אוויר וחלל<\/li><li>איך לאזן את האלמנטים בגופך ובחייך<\/li><\/ul>",
             "link_label": "",
@@ -168,7 +168,7 @@
         "column_7FKB3H": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/24-hour-icon.svg",
+            "image": "shopify:\/\/shop_images\/lotus-icon.svg",
             "title": "<strong>הצ'אקרות<\/strong>",
             "text": "<ul><li>מסע עמוק דרך שבע הצ'אקרות<\/li><li>טכניקות לפתיחה ואיזון הצ'אקרות<\/li><\/ul>",
             "link_label": "",
@@ -208,7 +208,7 @@
         "column_tVCQrz": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/israel-flag-icon.svg",
+            "image": "shopify:\/\/shop_images\/24-hour-icon_e0c625f3-8aec-4536-b582-acddb79cb364.svg",
             "title": "<strong>גישה לכל החיים<\/strong>",
             "text": "<p>לאחר הרכישה תקבלי גישה לכל החיים לתוכן הריטריט<\/p>",
             "link_label": "",
@@ -218,7 +218,7 @@
         "column_Bpt7Nz": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/yoga-exercise-icon.svg",
+            "image": "shopify:\/\/shop_images\/desktop-mobile-icon.svg",
             "title": "<strong>שיעורים מוקלטים בוידאו<\/strong>",
             "text": "<p>5 שיעורים מוקלטים בוידאו כך שתוכלי לצפות בהם מכל מקום ובכל מצב!<\/p>",
             "link_label": "",
@@ -228,9 +228,9 @@
         "column_XzEMjE": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/24-hour-icon.svg",
+            "image": "shopify:\/\/shop_images\/syllabus-icon.svg",
             "title": "<strong>חוברת דיגיטלית מפורטת<\/strong>",
-            "text": "",
+            "text": "<p>חוברת דיגיטלית מקיפה עם כל תכני הריטריט, ועוד כמה בונוסים קטנים<\/p>",
             "link_label": "",
             "link": ""
           }
