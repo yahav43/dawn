@@ -40,7 +40,7 @@
           "settings": {
             "button_label_1": "לחצי כאן",
             "button_weight_1": "bold",
-            "button_link_1": "shopify:\/\/collections\/yoga-retreats",
+            "button_link_1": "shopify:\/\/products\/yoga-energy-retreat",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -320,7 +320,7 @@
         "heading_kjr7r3": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>ריטריט יוגה ל״מתקדמים״<\/strong>",
+            "heading": "<strong>הגיע הזמן להפחית סטרס<\/strong>",
             "heading_size": "h1",
             "title_direction": "rtl"
           }
@@ -328,7 +328,7 @@
         "text_QWRLYU": {
           "type": "text",
           "settings": {
-            "text": "העמיקי את החיבור שלך עם עצמך, עם הכל, עם כולם.",
+            "text": "התנתקי עכשיו עם הריטריט הדיגיטלי שלנו - מגיעה לך הפסקה",
             "text_style": "body"
           }
         },
@@ -337,7 +337,7 @@
           "settings": {
             "button_label_1": "לחצי כאן",
             "button_weight_1": "bold",
-            "button_link_1": "shopify:\/\/products\/ריטריט-יוגה-תפילת-הלב",
+            "button_link_1": "shopify:\/\/products\/yoga-energy-retreat",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
