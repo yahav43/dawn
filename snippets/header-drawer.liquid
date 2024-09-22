@@ -22,6 +22,7 @@
           <nav class="menu-drawer__navigation">
             <ul class="menu-drawer__menu has-submenu list-menu" role="list">
               {%- for link in section.settings.menu.links -%}
+                {% assign link_class = link.url | replace: '/', '' | replace: 'products', '' %}
                 <li>
                   {%- if link.links != blank -%}
                     <details id="Details-menu-drawer-menu-item-{{ forloop.index }}">
@@ -111,7 +112,11 @@
                     <a
                       id="HeaderDrawer-{{ link.handle }}"
                       href="{{ link.url }}"
-                      class="menu-drawer__menu-item menu-drawer__menu-item--{{ childlink_alignment }} list-menu__item link link--text focus-inset {{ link.handle }}"
+                      class="
+                        menu-drawer__menu-item menu-drawer__menu-item--{{ childlink_alignment }}
+                        list-menu__item link link--text focus-inset
+                        {{ link_class }}
+                      "
                       {% if link.current %}
                         aria-current="page"
                       {% endif %}

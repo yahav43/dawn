@@ -80,10 +80,11 @@
             </details>
           </header-menu>
         {%- else -%}
+          {% assign link_class = link.url | replace: '/', '' | replace: 'products', '' %}
           <a
             id="HeaderMenu-{{ link.handle }}"
             href="{{ link.url }}"
-            class="header__menu-item list-menu__item link link--text focus-inset {{ link.handle }}"
+            class="header__menu-item list-menu__item link link--text focus-inset {{ link_class }}"
             {% if link.current %}
               aria-current="page"
             {% endif %}

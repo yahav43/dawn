@@ -124,13 +124,16 @@ details[open].menu-opening>.menu-drawer__submenu {
 }
 
 .stressless,
-.stressless span {
+.stressless span,
+.yoga-energy-retreat,
+.yoga-energy-retreat span {
   background: #9d5659;
   color: var(--gradient-background);
   border-radius: var(--buttons-radius-outset);
 }
 
-.stressless:hover {
+.stressless:hover,
+.yoga-energy-retreat:hover {
   color: rgba(var(--color-button), var(--alpha-button-background));
   border-color: rgb(var(--color-button-text));
 }
