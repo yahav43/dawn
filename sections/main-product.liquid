@@ -6,7 +6,6 @@
   data-update-url="true"
   data-url="{{ product.url }}"
 >
-  {{ 'war-days.js' | asset_url | script_tag }}
   {{ 'section-main-product.css' | asset_url | stylesheet_tag }}
   {{ 'component-accordion.css' | asset_url | stylesheet_tag }}
   {{ 'component-price.css' | asset_url | stylesheet_tag }}
@@ -37,6 +36,7 @@
     }
   {%- endstyle -%}
 
+  {{ 'war-days.js' | asset_url | script_tag }}
   <script src="{{ 'product-info.js' | asset_url }}" defer="defer"></script>
   <script src="{{ 'product-form.js' | asset_url }}" defer="defer"></script>
   {%- if product.quantity_price_breaks_configured? -%}
