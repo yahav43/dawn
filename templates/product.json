@@ -1,0 +1,563 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title_GVcL83": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "text_cLpfC8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>גלי את סודות האנרגיה והטרנספורמציה האישית בריטריט דיגיטלי מעמיק<\/p><p><\/p><p>הצטרפי למסע מרתק לחקר האנרגיה האנושית והקוסמית בהנחיית יעל מימון (סאד'וי), מורה ליוגה טנטרה עם נסיון עשיר ומגוון, פסיכותרפיסטית ומרצה למקצועות הטיפול.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "price_bRUV8E": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "buy_buttons_DhFQ8E": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": true
+          }
+        }
+      },
+      "block_order": [
+        "title_GVcL83",
+        "text_cLpfC8",
+        "price_bRUV8E",
+        "buy_buttons_DhFQ8E"
+      ],
+      "settings": {
+        "show_tax_notice": false,
+        "enable_sticky_info": true,
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "media_size": "large",
+        "constrain_to_viewport": false,
+        "media_fit": "cover",
+        "gallery_layout": "columns",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "hide",
+        "hide_variants": true,
+        "enable_video_looping": true,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/training-online-icon_528de975-6d4f-4bde-82ca-1d6a93864b06.svg",
+            "title": "<strong>ידע עמוק ומקיף<\/strong>",
+            "text": "<p>למידה על פראנה, יין ויאנג, הצ'אקרות, וחמשת האלמנטים<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bulb-icon.svg",
+            "title": "<strong>שילוב של מזרח ומערב<\/strong>",
+            "text": "<p>חוויה ייחודית המשלבת חכמת המזרח עם תובנות מודרניות<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Tgtwaa": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/360-degree-rotate-icon.svg",
+            "title": "<strong>טרנספורמציה אישית<\/strong>",
+            "text": "<p>כלים מעשיים לאיזון אנרגטי ושיפור איכות החיים<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_zAxyYT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/girl-exercise-workout-pose-icon.svg",
+            "title": "<strong>גמישות מלאה<\/strong>",
+            "text": "<p>חוויה בקצב שלך, מהנוחות של ביתך<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_yGG6PD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/instruction-manuals-book-icon.svg",
+            "title": "<strong>תוכן עשיר<\/strong>",
+            "text": "<p>שיעורים מוקלטים, תרגילים מעשיים, ומדיטציות מונחות<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column-0",
+        "column-1",
+        "column_Tgtwaa",
+        "column_zAxyYT",
+        "column_yGG6PD"
+      ],
+      "settings": {
+        "title": "למה להשתתף בריטריט הדיגיטלי שלנו?",
+        "title_direction": "rtl",
+        "title_alignment": "center",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "show_image_after_effect": true,
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 52,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_J8dJaF": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_CA3tUM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/yoga-exercise-icon.svg",
+            "title": "<strong>פראנה ופראניאמה<\/strong>",
+            "text": "<ul><li>מהי אנרגיית החיים ואיך לשלוט בה<\/li><li>טכניקות נשימה לאיזון אנרגטי<\/li><\/ul>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_9fDaxp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/taoism-icon.svg",
+            "title": "<strong>יין ויאנג<\/strong>",
+            "text": "<ul><li>הבנת האיזון הקוסמי<\/li><li>יישום עקרונות היין והיאנג בחיי היומיום<\/li><\/ul>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_R38JXD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/flame-icon.svg",
+            "title": "<strong>חמשת האלמנטים<\/strong>",
+            "text": "<ul><li>  הכרת האלמנטים: אדמה, מים, אש, אוויר וחלל<\/li><li>איך לאזן את האלמנטים בגופך ובחייך<\/li><\/ul>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_7FKB3H": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lotus-icon.svg",
+            "title": "<strong>הצ'אקרות<\/strong>",
+            "text": "<ul><li>מסע עמוק דרך שבע הצ'אקרות<\/li><li>טכניקות לפתיחה ואיזון הצ'אקרות<\/li><\/ul>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_CA3tUM",
+        "column_9fDaxp",
+        "column_R38JXD",
+        "column_7FKB3H"
+      ],
+      "settings": {
+        "title": "מה תלמדי בריטריט?",
+        "title_direction": "rtl",
+        "title_alignment": "center",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "show_image_after_effect": false,
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-3",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 52,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_EJJeFK": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_tVCQrz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/24-hour-icon_e0c625f3-8aec-4536-b582-acddb79cb364.svg",
+            "title": "<strong>גישה לכל החיים<\/strong>",
+            "text": "<p>לאחר הרכישה תקבלי גישה לכל החיים לתוכן הריטריט<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Bpt7Nz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/desktop-mobile-icon.svg",
+            "title": "<strong>שיעורים מוקלטים בוידאו<\/strong>",
+            "text": "<p>5 שיעורים מוקלטים בוידאו כך שתוכלי לצפות בהם מכל מקום ובכל מצב!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_XzEMjE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/syllabus-icon.svg",
+            "title": "<strong>חוברת דיגיטלית מפורטת<\/strong>",
+            "text": "<p>חוברת דיגיטלית מקיפה עם כל תכני הריטריט, ועוד כמה בונוסים קטנים<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_tVCQrz",
+        "column_Bpt7Nz",
+        "column_XzEMjE"
+      ],
+      "settings": {
+        "title": "ריטריט דיגיטלי? איך זה עובד?",
+        "title_direction": "rtl",
+        "title_alignment": "center",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "show_image_after_effect": false,
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 52,
+        "padding_bottom": 52
+      }
+    },
+    "secondary_product_EtVzUj": {
+      "type": "secondary-product",
+      "blocks": {
+        "text_zMz6KM": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>הצעה מיוחדת - לזמן מוגבל<\/strong>",
+            "text_style": "body"
+          }
+        },
+        "price_he9Yhk": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "buy_buttons_QzzfXG": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": true
+          }
+        },
+        "icon_with_text_UWNrE9": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "none",
+            "image_1": "shopify:\/\/shop_images\/recurring-subscription-icon.svg",
+            "heading_1": "זיכוי כספי עד 30 יום",
+            "icon_2": "none",
+            "image_2": "shopify:\/\/shop_images\/secure-payment-icon.svg",
+            "heading_2": "תשלום מאובטח",
+            "icon_3": "none",
+            "image_3": "shopify:\/\/shop_images\/legal-agreement-contract-paper-icon.svg",
+            "heading_3": "תוצאות מוכחות",
+            "icon_4": "none",
+            "image_4": "shopify:\/\/shop_images\/pos-swipe-icon.svg",
+            "heading_4": "פריסה לתשלומים"
+          }
+        }
+      },
+      "block_order": [
+        "text_zMz6KM",
+        "price_he9Yhk",
+        "buy_buttons_QzzfXG",
+        "icon_with_text_UWNrE9"
+      ],
+      "settings": {
+        "product": "{{ product }}",
+        "color_scheme": "scheme-5",
+        "secondary_background": false,
+        "constrain_to_viewport": false,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_x8bVDk": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Wwr7Wk": {
+          "type": "heading",
+          "settings": {
+            "heading": "לקוחות מספרות",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Wwr7Wk"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "17211428891945090f": {
+      "type": "apps",
+      "blocks": {
+        "stamped_product_reviews_ugc_main_widget_iqETUF": {
+          "type": "shopify:\/\/apps\/stamped-reviews\/blocks\/main-widget\/a103faaf-2125-4b0e-89fa-de5149736723",
+          "settings": {
+            "animation": true,
+            "tags_exclude": "",
+            "tags_include": "",
+            "search": "",
+            "linkify": true,
+            "use_metafields": false,
+            "sku_tagtype": "sku"
+          }
+        }
+      },
+      "block_order": [
+        "stamped_product_reviews_ugc_main_widget_iqETUF"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "multirow_Cy7zp8": {
+      "type": "multirow",
+      "blocks": {
+        "row_FEBtAG": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/spa-candles-and-decor-near-window.jpg",
+            "caption": "",
+            "heading": "<strong>על המנחה<\/strong>",
+            "text": "<p>יעל היא מורה מוסמכת ליוגה וטנטרה עם ניסיון של למעלה מ-20 שנים.<\/p><p>היא למדה עם מורים בכירים בהודו ומשלבת את החכמה העתיקה עם גישות מודרניות לרווחה גופנית ונפשית.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_FEBtAG"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "row_color_scheme": "scheme-3",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "disabled": true,
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "collapsible_content_BhkJmX": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_h8MBix": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "האם צריך ניסיון קודם ביוגה או מדיטציה?",
+            "icon": "none",
+            "row_content": "<p>לא, הריטריט מתאים לכל הרמות, ממתחילים ועד מתקדמים.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_mADL4C": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "איך אני ניגשת לתכנים?",
+            "icon": "none",
+            "row_content": "<p>לאחר הרכישה, תקבלי מאיתנו מייל עם פרטי ההתחברות האישיים שלך לתכנים של הסדנה.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Fkb8Jh": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "כמה זמן יש לי גישה לתכנים?",
+            "icon": "none",
+            "row_content": "<p>התכנים זמינים לתמיד.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_tR8DGP": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "האם יש תמיכה טכנית?",
+            "icon": "none",
+            "row_content": "<p>כן. ניתן לפנות אלינו בטופס <a href=\"\/pages\/contact\" target=\"_blank\" title=\"Contact\">יצירת הקשר<\/a> ואנו נעזור בהקדם.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_UnXJRb": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "האם התכנים מתאימים גם לבני נוער?",
+            "icon": "none",
+            "row_content": "<p>התכנים מתאימים לכל הגילאים.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_jVgC6d": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "מה קורה אם אני לא מרוצה מהקורס?",
+            "icon": "none",
+            "row_content": "<p>במידה ואינך מרוצה מהתכנים ניתן לבקש זיכוי וביטול, ואנו נדאג לבצע זיכוי לאמצעי התשלום איתו שילמת.<\/p><p>עם ביצוע הבקשה, הגישה לתכני הקורס תוסר.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_h8MBix",
+        "collapsible_row_mADL4C",
+        "collapsible_row_Fkb8Jh",
+        "collapsible_row_tR8DGP",
+        "collapsible_row_UnXJRb",
+        "collapsible_row_jVgC6d"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "שאלות נפוצות",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "scheme-3",
+        "container_color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "secondary_product_GxN9ta": {
+      "type": "secondary-product",
+      "blocks": {
+        "text_WzR4QV": {
+          "type": "text",
+          "settings": {
+            "text": "גלי את הכוח האנרגטי שבתוכך והתחילי במסע של טרנספורמציה אישית עוד היום!",
+            "text_style": "body"
+          }
+        },
+        "price_KDHhth": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_c8iEUf": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "buy_buttons_rrqHNe": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": true
+          }
+        }
+      },
+      "block_order": [
+        "text_WzR4QV",
+        "price_KDHhth",
+        "variant_picker_c8iEUf",
+        "buy_buttons_rrqHNe"
+      ],
+      "settings": {
+        "product": "{{ product }}",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "secondary_background": false,
+        "constrain_to_viewport": false,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "multicolumn",
+    "multicolumn_J8dJaF",
+    "multicolumn_EJJeFK",
+    "secondary_product_EtVzUj",
+    "rich_text_x8bVDk",
+    "17211428891945090f",
+    "multirow_Cy7zp8",
+    "related-products",
+    "collapsible_content_BhkJmX",
+    "secondary_product_GxN9ta"
+  ]
+}
