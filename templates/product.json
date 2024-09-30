@@ -193,18 +193,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/flame-icon.svg",
-            "title": "<strong>חמשת האלמנטים</strong>",
-            "text": "<ul><li>  הכרת האלמנטים: אדמה, מים, אש, אוויר וחלל</li><li>איך לאזן את האלמנטים בגופך ובחייך</li></ul>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_7FKB3H": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/lotus-icon.svg",
-            "title": "<strong>הצ'אקרות</strong>",
-            "text": "<ul><li>מסע עמוק דרך שבע הצ'אקרות</li><li>טכניקות לפתיחה ואיזון הצ'אקרות</li></ul>",
+            "title": "<strong>נוכחות עמוקה</strong>",
+            "text": "<p>לחיות את הרגע, להיות מודעים לתודעה שלכם, לגוף ולנשימה.</p>",
             "link_label": "",
             "link": ""
           }
@@ -213,8 +203,7 @@
       "block_order": [
         "column_CA3tUM",
         "column_9fDaxp",
-        "column_R38JXD",
-        "column_7FKB3H"
+        "column_R38JXD"
       ],
       "settings": {
         "title": "למי הריטריט מתאים?",
