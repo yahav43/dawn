@@ -59,6 +59,43 @@
         "padding_bottom": 12
       }
     },
+    "image_banner_dN7ahN": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_PENWBV": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>תיאור המסע</strong>",
+            "heading_size": "h0",
+            "title_direction": "rtl"
+          }
+        },
+        "text_jq4Xjq": {
+          "type": "text",
+          "settings": {
+            "text": "המסע הרוחני הוא מסע פנימה. דרך היוגה השלמה מזמינה אותך להיכנס אל המרחב הפנימי שלך, להתרחב מעבר לכיווצים ולשחרר את מה שמגביל אותך.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_PENWBV",
+        "text_jq4Xjq"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/1_73ec957f-4c6f-48b2-93ba-4a2944c734d6.jpg",
+        "image_overlay_opacity": 50,
+        "image_height": "large",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-4",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
@@ -121,7 +158,7 @@
         "column_yGG6PD"
       ],
       "settings": {
-        "title": "<strong>תיאור המסע</strong>",
+        "title": "",
         "title_direction": "rtl",
         "title_alignment": "center",
         "heading_size": "h1",
@@ -557,6 +594,7 @@
   },
   "order": [
     "main",
+    "image_banner_dN7ahN",
     "multicolumn",
     "multicolumn_J8dJaF",
     "multicolumn_EJJeFK",
