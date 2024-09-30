@@ -112,7 +112,7 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/bulb-icon.svg",
+            "image": "shopify://shop_images/girl-exercise-pose-icon.svg",
             "title": "<strong>שלושת הגונות</strong>",
             "text": "<p>נבין את שלושת מצבי ההכרה ונגלה כיצד לאזן את התודעה.</p>",
             "link_label": "",
@@ -122,7 +122,7 @@
         "column_Tgtwaa": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/360-degree-rotate-icon.svg",
+            "image": "shopify://shop_images/number-four-icon.svg",
             "title": "<strong>ארבעת ענפי היוגה</strong>",
             "text": "<p>חקר היוגה דרך האטה, קארמה, ניאנה ובהקטי – היוגה של האיחוד וההתמסרות.</p>",
             "link_label": "",
