@@ -133,18 +133,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/girl-exercise-workout-pose-icon.svg",
-            "title": "<strong>גמישות מלאה</strong>",
-            "text": "<p>חוויה בקצב שלך, מהנוחות של ביתך</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_yGG6PD": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/instruction-manuals-book-icon.svg",
-            "title": "<strong>תוכן עשיר</strong>",
-            "text": "<p>שיעורים מוקלטים, תרגילים מעשיים, ומדיטציות מונחות</p>",
+            "title": "<strong>שמונת אברי היוגה</strong>",
+            "text": "<p>כלים מעשיים להגשמה עצמית, יציבות פנימית ושליטה בהכרה לפי תורת פטנג'לי.</p>",
             "link_label": "",
             "link": ""
           }
@@ -154,8 +144,7 @@
         "column-0",
         "column-1",
         "column_Tgtwaa",
-        "column_zAxyYT",
-        "column_yGG6PD"
+        "column_zAxyYT"
       ],
       "settings": {
         "title": "",
