@@ -172,7 +172,7 @@
         "column_CA3tUM": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/yoga-exercise-icon.svg",
+            "image": "shopify://shop_images/scale-icon.svg",
             "title": "<strong>שקט פנימי ואיזון</strong>",
             "text": "<p>לרצות להפסיק לרדוף אחרי המטרות החיצוניות ולהתחבר למהות האמיתית שבתוכך.</p>",
             "link_label": "",
@@ -182,7 +182,7 @@
         "column_9fDaxp": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/taoism-icon.svg",
+            "image": "shopify://shop_images/full-moon-icon.svg",
             "title": "<strong>הגשמה עצמית</strong>",
             "text": "<p>להביא את עצמך לחיים של יוגה, אמת והשתחררות מהסבל הקיומי.</p>",
             "link_label": "",
@@ -192,7 +192,7 @@
         "column_R38JXD": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/flame-icon.svg",
+            "image": "shopify://shop_images/yoga-exercise-icon.svg",
             "title": "<strong>נוכחות עמוקה</strong>",
             "text": "<p>לחיות את הרגע, להיות מודעים לתודעה שלכם, לגוף ולנשימה.</p>",
             "link_label": "",
