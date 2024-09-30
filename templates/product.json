@@ -173,8 +173,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/yoga-exercise-icon.svg",
-            "title": "<strong>פראנה ופראניאמה</strong>",
-            "text": "<ul><li>מהי אנרגיית החיים ואיך לשלוט בה</li><li>טכניקות נשימה לאיזון אנרגטי</li></ul>",
+            "title": "<strong>שקט פנימי ואיזון</strong>",
+            "text": "<p>לרצות להפסיק לרדוף אחרי המטרות החיצוניות ולהתחבר למהות האמיתית שבתוכך.</p>",
             "link_label": "",
             "link": ""
           }
