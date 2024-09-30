@@ -103,8 +103,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/training-online-icon_528de975-6d4f-4bde-82ca-1d6a93864b06.svg",
-            "title": "<strong>ידע עמוק ומקיף</strong>",
-            "text": "<p>למידה על פראנה, יין ויאנג, הצ'אקרות, וחמשת האלמנטים</p>",
+            "title": "<strong>שחרור מסבל</strong>",
+            "text": "<p>דרך תרגול היוגה, הנשימות והחוכמה העתיקה, נלמד כיצד לחיות ללא סבל ולהשתחרר מהכבלים הפנימיים.</p>",
             "link_label": "",
             "link": ""
           }
@@ -113,8 +113,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/bulb-icon.svg",
-            "title": "<strong>שילוב של מזרח ומערב</strong>",
-            "text": "<p>חוויה ייחודית המשלבת חכמת המזרח עם תובנות מודרניות</p>",
+            "title": "<strong>שלושת הגונות</strong>",
+            "text": "<p>נבין את שלושת מצבי ההכרה ונגלה כיצד לאזן את התודעה.</p>",
             "link_label": "",
             "link": ""
           }
