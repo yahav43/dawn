@@ -23,7 +23,9 @@ div.main-blog,
 .cart__login-paragraph,
 .shopify-section cart-items,
 .rte ul,
-.footer__copyright {
+.footer__copyright,
+.collection__title.title-wrapper,
+slider-component .card-information {
   direction: rtl;
 }
 
