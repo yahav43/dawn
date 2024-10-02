@@ -1,12 +1,3 @@
-/*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
 {
   "sections": {
     "main": {
@@ -65,7 +56,7 @@
         "heading_PENWBV": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>תיאור המסע</strong>",
+            "heading": "<strong>תיאור המסע<\/strong>",
             "heading_size": "h0",
             "title_direction": "rtl"
           }
@@ -83,7 +74,7 @@
         "text_jq4Xjq"
       ],
       "settings": {
-        "image": "shopify://shop_images/1_73ec957f-4c6f-48b2-93ba-4a2944c734d6.jpg",
+        "image": "shopify:\/\/shop_images\/1_73ec957f-4c6f-48b2-93ba-4a2944c734d6.jpg",
         "image_overlay_opacity": 50,
         "image_height": "large",
         "desktop_content_position": "middle-center",
@@ -102,9 +93,9 @@
         "column-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/pigeon-dove-icon.svg",
-            "title": "<strong>שחרור מסבל</strong>",
-            "text": "<p>דרך תרגול היוגה, הנשימות והחוכמה העתיקה, נלמד כיצד לחיות ללא סבל ולהשתחרר מהכבלים הפנימיים.</p>",
+            "image": "shopify:\/\/shop_images\/pigeon-dove-icon.svg",
+            "title": "<strong>שחרור מסבל<\/strong>",
+            "text": "<p>דרך תרגול היוגה, הנשימות והחוכמה העתיקה, נלמד כיצד לחיות ללא סבל ולהשתחרר מהכבלים הפנימיים.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -112,9 +103,9 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/girl-exercise-pose-icon.svg",
-            "title": "<strong>שלושת הגונות</strong>",
-            "text": "<p>נבין את שלושת מצבי ההכרה ונגלה כיצד לאזן את התודעה.</p>",
+            "image": "shopify:\/\/shop_images\/girl-exercise-pose-icon.svg",
+            "title": "<strong>שלושת הגונות<\/strong>",
+            "text": "<p>נבין את שלושת מצבי ההכרה ונגלה כיצד לאזן את התודעה.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -122,9 +113,9 @@
         "column_Tgtwaa": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/number-four-icon.svg",
-            "title": "<strong>ארבעת ענפי היוגה</strong>",
-            "text": "<p>חקר היוגה דרך האטה, קארמה, ניאנה ובהקטי – היוגה של האיחוד וההתמסרות.</p>",
+            "image": "shopify:\/\/shop_images\/number-four-icon.svg",
+            "title": "<strong>ארבעת ענפי היוגה<\/strong>",
+            "text": "<p>חקר היוגה דרך האטה, קארמה, ניאנה ובהקטי – היוגה של האיחוד וההתמסרות.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -132,9 +123,9 @@
         "column_zAxyYT": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/girl-exercise-workout-pose-icon.svg",
-            "title": "<strong>שמונת אברי היוגה</strong>",
-            "text": "<p>כלים מעשיים להגשמה עצמית, יציבות פנימית ושליטה בהכרה לפי תורת פטנג'לי.</p>",
+            "image": "shopify:\/\/shop_images\/girl-exercise-workout-pose-icon.svg",
+            "title": "<strong>שמונת אברי היוגה<\/strong>",
+            "text": "<p>כלים מעשיים להגשמה עצמית, יציבות פנימית ושליטה בהכרה לפי תורת פטנג'לי.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -172,9 +163,9 @@
         "column_CA3tUM": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/scale-icon.svg",
-            "title": "<strong>שקט פנימי ואיזון</strong>",
-            "text": "<p>לרצות להפסיק לרדוף אחרי המטרות החיצוניות ולהתחבר למהות האמיתית שבתוכך.</p>",
+            "image": "shopify:\/\/shop_images\/scale-icon.svg",
+            "title": "<strong>שקט פנימי ואיזון<\/strong>",
+            "text": "<p>לרצות להפסיק לרדוף אחרי המטרות החיצוניות ולהתחבר למהות האמיתית שבתוכך.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -182,9 +173,9 @@
         "column_9fDaxp": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/full-moon-icon.svg",
-            "title": "<strong>הגשמה עצמית</strong>",
-            "text": "<p>להביא את עצמך לחיים של יוגה, אמת והשתחררות מהסבל הקיומי.</p>",
+            "image": "shopify:\/\/shop_images\/full-moon-icon.svg",
+            "title": "<strong>הגשמה עצמית<\/strong>",
+            "text": "<p>להביא את עצמך לחיים של יוגה, אמת והשתחררות מהסבל הקיומי.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -192,9 +183,9 @@
         "column_R38JXD": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/yoga-exercise-icon.svg",
-            "title": "<strong>נוכחות עמוקה</strong>",
-            "text": "<p>לחיות את הרגע, להיות מודעים לתודעה שלכם, לגוף ולנשימה.</p>",
+            "image": "shopify:\/\/shop_images\/yoga-exercise-icon.svg",
+            "title": "<strong>נוכחות עמוקה<\/strong>",
+            "text": "<p>לחיות את הרגע, להיות מודעים לתודעה שלכם, לגוף ולנשימה.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -231,9 +222,9 @@
         "column_tVCQrz": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/24-hour-icon_e0c625f3-8aec-4536-b582-acddb79cb364.svg",
-            "title": "<strong>גישה לכל החיים</strong>",
-            "text": "<p>לאחר הרכישה תקבלי גישה לכל החיים לתוכן הריטריט</p>",
+            "image": "shopify:\/\/shop_images\/24-hour-icon_e0c625f3-8aec-4536-b582-acddb79cb364.svg",
+            "title": "<strong>גישה לכל החיים<\/strong>",
+            "text": "<p>לאחר הרכישה תקבלי גישה לכל החיים לתוכן הריטריט<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -241,9 +232,9 @@
         "column_Bpt7Nz": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/desktop-mobile-icon.svg",
-            "title": "<strong>שיעורים מוקלטים בוידאו</strong>",
-            "text": "<p>שיעורים מוקלטים בוידאו כך שתוכלי לצפות בהם מכל מקום ובכל מצב!</p>",
+            "image": "shopify:\/\/shop_images\/desktop-mobile-icon.svg",
+            "title": "<strong>שיעורים מוקלטים בוידאו<\/strong>",
+            "text": "<p>שיעורים מוקלטים בוידאו כך שתוכלי לצפות בהם מכל מקום ובכל מצב!<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -251,9 +242,9 @@
         "column_XzEMjE": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/syllabus-icon.svg",
-            "title": "<strong>חוברת דיגיטלית מפורטת</strong>",
-            "text": "<p>חוברת דיגיטלית מקיפה עם כל תכני הריטריט, ועוד כמה בונוסים קטנים</p>",
+            "image": "shopify:\/\/shop_images\/syllabus-icon.svg",
+            "title": "<strong>חוברת דיגיטלית מפורטת<\/strong>",
+            "text": "<p>חוברת דיגיטלית מקיפה עם כל תכני הריטריט, ועוד כמה בונוסים קטנים<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -290,7 +281,7 @@
         "text_zMz6KM": {
           "type": "text",
           "settings": {
-            "text": "<strong>הצעה מיוחדת - לזמן מוגבל</strong>",
+            "text": "<strong>הצעה מיוחדת - לזמן מוגבל<\/strong>",
             "text_style": "body"
           }
         },
@@ -311,16 +302,16 @@
           "settings": {
             "layout": "horizontal",
             "icon_1": "none",
-            "image_1": "shopify://shop_images/recurring-subscription-icon.svg",
+            "image_1": "shopify:\/\/shop_images\/recurring-subscription-icon.svg",
             "heading_1": "זיכוי כספי עד 30 יום",
             "icon_2": "none",
-            "image_2": "shopify://shop_images/secure-payment-icon.svg",
+            "image_2": "shopify:\/\/shop_images\/secure-payment-icon.svg",
             "heading_2": "תשלום מאובטח",
             "icon_3": "none",
-            "image_3": "shopify://shop_images/legal-agreement-contract-paper-icon.svg",
+            "image_3": "shopify:\/\/shop_images\/legal-agreement-contract-paper-icon.svg",
             "heading_3": "תוצאות מוכחות",
             "icon_4": "none",
-            "image_4": "shopify://shop_images/pos-swipe-icon.svg",
+            "image_4": "shopify:\/\/shop_images\/pos-swipe-icon.svg",
             "heading_4": "פריסה לתשלומים"
           }
         }
@@ -369,7 +360,7 @@
       "type": "apps",
       "blocks": {
         "stamped_product_reviews_ugc_main_widget_iqETUF": {
-          "type": "shopify://apps/stamped-reviews/blocks/main-widget/a103faaf-2125-4b0e-89fa-de5149736723",
+          "type": "shopify:\/\/apps\/stamped-reviews\/blocks\/main-widget\/a103faaf-2125-4b0e-89fa-de5149736723",
           "settings": {
             "animation": true,
             "tags_exclude": "",
@@ -394,10 +385,10 @@
         "row_FEBtAG": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/spa-candles-and-decor-near-window.jpg",
+            "image": "shopify:\/\/shop_images\/spa-candles-and-decor-near-window.jpg",
             "caption": "",
-            "heading": "<strong>על המנחה</strong>",
-            "text": "<p>יעל היא מורה מוסמכת ליוגה וטנטרה עם ניסיון של למעלה מ-20 שנים.</p><p>היא למדה עם מורים בכירים בהודו ומשלבת את החכמה העתיקה עם גישות מודרניות לרווחה גופנית ונפשית.</p>",
+            "heading": "<strong>על המנחה<\/strong>",
+            "text": "<p>יעל היא מורה מוסמכת ליוגה וטנטרה עם ניסיון של למעלה מ-20 שנים.<\/p><p>היא למדה עם מורים בכירים בהודו ומשלבת את החכמה העתיקה עם גישות מודרניות לרווחה גופנית ונפשית.<\/p>",
             "button_label": "",
             "button_link": ""
           }
@@ -449,7 +440,7 @@
           "settings": {
             "heading": "האם צריך ניסיון קודם ביוגה או מדיטציה?",
             "icon": "none",
-            "row_content": "<p>לא, הריטריט מתאים לכל הרמות, ממתחילים ועד מתקדמים.</p>",
+            "row_content": "<p>לא, הריטריט מתאים לכל הרמות, ממתחילים ועד מתקדמים.<\/p>",
             "page": ""
           }
         },
@@ -458,7 +449,7 @@
           "settings": {
             "heading": "איך אני ניגשת לתכנים?",
             "icon": "none",
-            "row_content": "<p>לאחר הרכישה, תקבלי מאיתנו מייל עם פרטי ההתחברות האישיים שלך לתכנים של הסדנה.</p>",
+            "row_content": "<p>לאחר הרכישה, תקבלי מאיתנו מייל עם פרטי ההתחברות האישיים שלך לתכנים של הסדנה.<\/p>",
             "page": ""
           }
         },
@@ -467,7 +458,7 @@
           "settings": {
             "heading": "כמה זמן יש לי גישה לתכנים?",
             "icon": "none",
-            "row_content": "<p>התכנים זמינים לתמיד.</p>",
+            "row_content": "<p>התכנים זמינים לתמיד.<\/p>",
             "page": ""
           }
         },
@@ -476,7 +467,7 @@
           "settings": {
             "heading": "האם יש תמיכה טכנית?",
             "icon": "none",
-            "row_content": "<p>כן. ניתן לפנות אלינו בטופס <a href=\"/pages/contact\" target=\"_blank\" title=\"Contact\">יצירת הקשר</a> ואנו נעזור בהקדם.</p>",
+            "row_content": "<p>כן. ניתן לפנות אלינו בטופס <a href=\"\/pages\/contact\" target=\"_blank\" title=\"Contact\">יצירת הקשר<\/a> ואנו נעזור בהקדם.<\/p>",
             "page": ""
           }
         },
@@ -485,7 +476,7 @@
           "settings": {
             "heading": "האם התכנים מתאימים גם לבני נוער?",
             "icon": "none",
-            "row_content": "<p>התכנים מתאימים לכל הגילאים.</p>",
+            "row_content": "<p>התכנים מתאימים לכל הגילאים.<\/p>",
             "page": ""
           }
         },
@@ -494,7 +485,7 @@
           "settings": {
             "heading": "מה קורה אם אני לא מרוצה מהריטריט?",
             "icon": "none",
-            "row_content": "<p>במידה ואינך מרוצה מהתכנים ניתן לבקש זיכוי וביטול, ואנו נדאג לבצע זיכוי לאמצעי התשלום איתו שילמת.</p><p>עם ביצוע הבקשה, הגישה לתכני הריטריט תוסר.</p>",
+            "row_content": "<p>במידה ואינך מרוצה מהתכנים ניתן לבקש זיכוי וביטול, ואנו נדאג לבצע זיכוי לאמצעי התשלום איתו שילמת.<\/p><p>עם ביצוע הבקשה, הגישה לתכני הריטריט תוסר.<\/p>",
             "page": ""
           }
         }

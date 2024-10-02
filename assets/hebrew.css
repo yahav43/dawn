@@ -25,7 +25,8 @@ div.main-blog,
 .rte ul,
 .footer__copyright,
 .collection__title.title-wrapper,
-slider-component .card-information {
+slider-component .card-information,
+.template-404 {
   direction: rtl;
 }
 

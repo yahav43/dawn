@@ -1,12 +1,3 @@
-/*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
 {
   "sections": {
     "image_banner_CQJiFm": {
@@ -15,7 +6,7 @@
         "richtext_mfyL3g": {
           "type": "richtext",
           "settings": {
-            "higher_heading": "<strong>StressLess</strong>",
+            "higher_heading": "<strong>StressLess<\/strong>",
             "higher_heading_size": "h0",
             "higher_title_direction": "rtl"
           }
@@ -34,7 +25,7 @@
         "heading_EYKCLg"
       ],
       "settings": {
-        "image": "shopify://shop_images/person-cross-legged-on-a-yoga-mat-at-the-beach.jpg",
+        "image": "shopify:\/\/shop_images\/person-cross-legged-on-a-yoga-mat-at-the-beach.jpg",
         "image_overlay_opacity": 30,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -53,28 +44,28 @@
         "text_7M4Adb": {
           "type": "text",
           "settings": {
-            "text": "<h2><strong>{{ product.metafields.custom.date_since_war | metafield_tag }}</strong> ימים.</h2>",
+            "text": "<h2><strong>{{ product.metafields.custom.date_since_war | metafield_tag }}<\/strong> ימים.<\/h2>",
             "text_style": "body"
           }
         },
         "text_HiP7Xq": {
           "type": "text",
           "settings": {
-            "text": "<h2><strong>{{ product.metafields.custom.date_since_war | metafield_tag }}</strong> ימים של חדשות בלתי פוסקות.</h2>",
+            "text": "<h2><strong>{{ product.metafields.custom.date_since_war | metafield_tag }}<\/strong> ימים של חדשות בלתי פוסקות.<\/h2>",
             "text_style": "body"
           }
         },
         "text_YtkGFN": {
           "type": "text",
           "settings": {
-            "text": "<h2><strong>{{ product.metafields.custom.date_since_war | metafield_tag }}</strong> ימים של דאגה מתמדת.</h2>",
+            "text": "<h2><strong>{{ product.metafields.custom.date_since_war | metafield_tag }}<\/strong> ימים של דאגה מתמדת.<\/h2>",
             "text_style": "body"
           }
         },
         "text_BJLEYm": {
           "type": "text",
           "settings": {
-            "text": "<h2><strong>{{ product.metafields.custom.date_since_war | metafield_tag }}</strong> ימים שבהם השקט הפנימי שלנו נשחק, טיפה אחר טיפה.</h2>",
+            "text": "<h2><strong>{{ product.metafields.custom.date_since_war | metafield_tag }}<\/strong> ימים שבהם השקט הפנימי שלנו נשחק, טיפה אחר טיפה.<\/h2>",
             "text_style": "body"
           }
         }
@@ -115,7 +106,7 @@
         "text_DnCB6R": {
           "type": "text",
           "settings": {
-            "text": "<p>דנה, אמא לשניים מתל אביב, מצאה את עצמה מתעוררת כל בוקר עם תחושת כבדות בחזה.</p><p>\"הדבר הראשון שעשיתי כל בוקר היה לבדוק חדשות,\" היא מספרת. \"הפחד מפני מה שעלול לקרות השתלט על חיי. לא הצלחתי להתרכז בעבודה, לא נהניתי מזמן עם הילדים. הרגשתי שאני מאבדת את עצמי.\"</p><h3><strong>נשמע מוכר?</strong></h3>"
+            "text": "<p>דנה, אמא לשניים מתל אביב, מצאה את עצמה מתעוררת כל בוקר עם תחושת כבדות בחזה.<\/p><p>\"הדבר הראשון שעשיתי כל בוקר היה לבדוק חדשות,\" היא מספרת. \"הפחד מפני מה שעלול לקרות השתלט על חיי. לא הצלחתי להתרכז בעבודה, לא נהניתי מזמן עם הילדים. הרגשתי שאני מאבדת את עצמי.\"<\/p><h3><strong>נשמע מוכר?<\/strong><\/h3>"
           }
         }
       },
@@ -138,14 +129,14 @@
         "heading_Rg4Jnj": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>המחיר הכבד של חיים בצל הפחד</strong>",
+            "heading": "<strong>המחיר הכבד של חיים בצל הפחד<\/strong>",
             "heading_size": "h1"
           }
         },
         "text_UqDq6P": {
           "type": "text",
           "settings": {
-            "text": "<ul><li>האם את מוצאת את עצמך בודקת חדשות בכפייתיות?</li><li>האם הדאגה לעתיד מונעת ממך ליהנות מהרגע?</li><li>האם את מרגישה שאיכות החיים שלך נפגעת?</li><li>האם את חשה חסרי אונים מול המציאות?</li></ul><h3><strong>אם ענית 'כן' לאחת השאלות הללו, את לא לבד.</strong></h3><h3><strong>אבל יש דרך אחרת.</strong></h3>",
+            "text": "<ul><li>האם את מוצאת את עצמך בודקת חדשות בכפייתיות?<\/li><li>האם הדאגה לעתיד מונעת ממך ליהנות מהרגע?<\/li><li>האם את מרגישה שאיכות החיים שלך נפגעת?<\/li><li>האם את חשה חסרי אונים מול המציאות?<\/li><\/ul><h3><strong>אם ענית 'כן' לאחת השאלות הללו, את לא לבד.<\/strong><\/h3><h3><strong>אבל יש דרך אחרת.<\/strong><\/h3>",
             "text_style": "body"
           }
         }
@@ -155,7 +146,7 @@
         "text_UqDq6P"
       ],
       "settings": {
-        "image": "shopify://shop_images/spa-flatlay.jpg",
+        "image": "shopify:\/\/shop_images\/spa-flatlay.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -176,7 +167,7 @@
         "heading_rrrfbb": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>הכירי את StressLess</strong>",
+            "heading": "<strong>הכירי את StressLess<\/strong>",
             "heading_size": "h1",
             "title_direction": "rtl"
           }
@@ -184,7 +175,7 @@
         "text_bQAgrd": {
           "type": "text",
           "settings": {
-            "text": "<strong>StressLess נוצר במיוחד עבורך, במציאות מורכבת ומאתגרת. אי אפשר לשנות את המציאות סביבנו, אבל אפשר לשנות את הדרך שבה אנחנו מגיבים אליה.</strong>",
+            "text": "<strong>StressLess נוצר במיוחד עבורך, במציאות מורכבת ומאתגרת. אי אפשר לשנות את המציאות סביבנו, אבל אפשר לשנות את הדרך שבה אנחנו מגיבים אליה.<\/strong>",
             "text_style": "body"
           }
         }
@@ -194,7 +185,7 @@
         "text_bQAgrd"
       ],
       "settings": {
-        "image": "shopify://shop_images/candle-in-natural-stone-holder.jpg",
+        "image": "shopify:\/\/shop_images\/candle-in-natural-stone-holder.jpg",
         "image_overlay_opacity": 60,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -213,9 +204,9 @@
         "column-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/training-online-icon_528de975-6d4f-4bde-82ca-1d6a93864b06.svg",
+            "image": "shopify:\/\/shop_images\/training-online-icon_528de975-6d4f-4bde-82ca-1d6a93864b06.svg",
             "title": "{{ product.metafields.custom.product_explanation_first.value }}",
-            "text": "<p>{{ product.metafields.custom.product_explanation_description_first | metafield_tag }}</p>",
+            "text": "<p>{{ product.metafields.custom.product_explanation_description_first | metafield_tag }}<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -223,9 +214,9 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/check-mark-box-icon.svg",
+            "image": "shopify:\/\/shop_images\/check-mark-box-icon.svg",
             "title": "{{ product.metafields.custom.product_explanation_second.value }}",
-            "text": "<p>{{ product.metafields.custom.product_explanation_description_second | metafield_tag }}</p>",
+            "text": "<p>{{ product.metafields.custom.product_explanation_description_second | metafield_tag }}<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -233,7 +224,7 @@
         "column_Tgtwaa": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/document-application-woman-icon.svg",
+            "image": "shopify:\/\/shop_images\/document-application-woman-icon.svg",
             "title": "{{ product.metafields.custom.product_explanation_third.value }}",
             "text": "",
             "link_label": "",
@@ -243,9 +234,9 @@
         "column_zAxyYT": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/calendar-checkmark-line-icon_a87e400a-41a3-45dc-a581-a4fc9fa98a8f.svg",
+            "image": "shopify:\/\/shop_images\/calendar-checkmark-line-icon_a87e400a-41a3-45dc-a581-a4fc9fa98a8f.svg",
             "title": "{{ product.metafields.custom.product_explanation_fourth.value }}",
-            "text": "<p>{{ product.metafields.custom.product_explanation_description_fourth | metafield_tag }}</p>",
+            "text": "<p>{{ product.metafields.custom.product_explanation_description_fourth | metafield_tag }}<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -258,7 +249,7 @@
         "column_zAxyYT"
       ],
       "settings": {
-        "title": "<strong>מה תקבלי ב StressLess?</strong>",
+        "title": "<strong>מה תקבלי ב StressLess?<\/strong>",
         "title_direction": "rtl",
         "title_alignment": "center",
         "heading_size": "h0",
@@ -290,7 +281,7 @@
         "text_Rxf7rW": {
           "type": "text",
           "settings": {
-            "text": "<p>\"אחרי חודש של שימוש בטכניקות של StressLess, הרגשתי כאילו קיבלתי את החיים שלי בחזרה,\" מספרת דנה.</p><p>\"אני עדיין מודעת למתרחש, אבל יש לי כלים להתמודד. אני ישנה טוב יותר, מצליחה ליהנות מרגעים קטנים, ומרגישה שיש לי שליטה על הרגשות שלי.\"</p>"
+            "text": "<p>\"אחרי חודש של שימוש בטכניקות של StressLess, הרגשתי כאילו קיבלתי את החיים שלי בחזרה,\" מספרת דנה.<\/p><p>\"אני עדיין מודעת למתרחש, אבל יש לי כלים להתמודד. אני ישנה טוב יותר, מצליחה ליהנות מרגעים קטנים, ומרגישה שיש לי שליטה על הרגשות שלי.\"<\/p>"
           }
         }
       },
@@ -313,7 +304,7 @@
         "column_CA3tUM": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/israel-flag-icon.svg",
+            "image": "shopify:\/\/shop_images\/israel-flag-icon.svg",
             "title": "{{ product.metafields.custom.landing_secondary_title_one.value }}",
             "text": "",
             "link_label": "",
@@ -323,7 +314,7 @@
         "column_9fDaxp": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/yoga-exercise-icon.svg",
+            "image": "shopify:\/\/shop_images\/yoga-exercise-icon.svg",
             "title": "{{ product.metafields.custom.landing_secondary_title_two.value }}",
             "text": "",
             "link_label": "",
@@ -333,7 +324,7 @@
         "column_7FKB3H": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/24-hour-icon.svg",
+            "image": "shopify:\/\/shop_images\/24-hour-icon.svg",
             "title": "{{ product.metafields.custom.landing_secondary_title_three.value }}",
             "text": "",
             "link_label": "",
@@ -347,7 +338,7 @@
         "column_7FKB3H"
       ],
       "settings": {
-        "title": "<strong>למה StressLess?</strong>",
+        "title": "<strong>למה StressLess?<\/strong>",
         "title_direction": "rtl",
         "title_alignment": "center",
         "heading_size": "h0",
@@ -372,14 +363,14 @@
         "heading_6UeTCW": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>לא נמאס לך?</strong>",
+            "heading": "<strong>לא נמאס לך?<\/strong>",
             "heading_size": "h1"
           }
         },
         "text_hbLJLg": {
           "type": "text",
           "settings": {
-            "text": "<p>כל יום שעובר הוא עוד יום של:</p><ul><li>הפסד רגעים יקרים עם המשפחה</li><li>ירידה בפרודוקטיביות בעבודה</li><li>פגיעה באיכות השינה</li><li>הצטברות מתח שעלול להוביל לבעיות בריאות</li></ul>"
+            "text": "<p>כל יום שעובר הוא עוד יום של:<\/p><ul><li>הפסד רגעים יקרים עם המשפחה<\/li><li>ירידה בפרודוקטיביות בעבודה<\/li><li>פגיעה באיכות השינה<\/li><li>הצטברות מתח שעלול להוביל לבעיות בריאות<\/li><\/ul>"
           }
         }
       },
@@ -402,7 +393,7 @@
         "text_zMz6KM": {
           "type": "text",
           "settings": {
-            "text": "<strong>הצעה מיוחדת - לזמן מוגבל</strong>",
+            "text": "<strong>הצעה מיוחדת - לזמן מוגבל<\/strong>",
             "text_style": "body"
           }
         },
@@ -430,16 +421,16 @@
           "settings": {
             "layout": "horizontal",
             "icon_1": "none",
-            "image_1": "shopify://shop_images/recurring-subscription-icon.svg",
+            "image_1": "shopify:\/\/shop_images\/recurring-subscription-icon.svg",
             "heading_1": "זיכוי כספי עד 30 יום",
             "icon_2": "none",
-            "image_2": "shopify://shop_images/secure-payment-icon.svg",
+            "image_2": "shopify:\/\/shop_images\/secure-payment-icon.svg",
             "heading_2": "תשלום מאובטח",
             "icon_3": "none",
-            "image_3": "shopify://shop_images/legal-agreement-contract-paper-icon.svg",
+            "image_3": "shopify:\/\/shop_images\/legal-agreement-contract-paper-icon.svg",
             "heading_3": "תוצאות מוכחות",
             "icon_4": "none",
-            "image_4": "shopify://shop_images/pos-swipe-icon.svg",
+            "image_4": "shopify:\/\/shop_images\/pos-swipe-icon.svg",
             "heading_4": "פריסה לתשלומים"
           }
         }
@@ -489,7 +480,7 @@
       "type": "apps",
       "blocks": {
         "stamped_product_reviews_ugc_main_widget_iqETUF": {
-          "type": "shopify://apps/stamped-reviews/blocks/main-widget/a103faaf-2125-4b0e-89fa-de5149736723",
+          "type": "shopify:\/\/apps\/stamped-reviews\/blocks\/main-widget\/a103faaf-2125-4b0e-89fa-de5149736723",
           "settings": {
             "animation": true,
             "tags_exclude": "",
@@ -514,10 +505,10 @@
         "row_FEBtAG": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/spa-candles-and-decor-near-window.jpg",
+            "image": "shopify:\/\/shop_images\/spa-candles-and-decor-near-window.jpg",
             "caption": "",
-            "heading": "<strong>מי אנחנו?</strong>",
-            "text": "<p>אנחנו עסק משפחתי שמחבר בין עולמות הרוח והטיפול לבין עולמות הטכנולוגיה המגוונים.<br/>המטרה העיקרית שלנו היא להנגיש את הידע לקהל הרחב בצורה פשוטה, בהירה ונוחה.<br/>לא לפני הרבה שנים , אנשים היו צריכים לנדוד בעולם בחיפוש אחר מורה מתאים ואחר ידע נכון.<br/>מסעות שלפעמים היו נגמרים גם באכזבה ואו בכישלון והחיפוש נמשך...<br/>אחרי כמעט שלושה עשורים של חיפוש - חיפוש רוחבי עם העמקה אל תכנים רלוונטים .<br/>אחרי התנסות אישית ארוכת שנים בתירגול הידע ובהעברתו לתלמידים.<br/>יש לנו בשורה משמחת!<br/>אנחנו יכולים לקצר לך משמעותית את החיפוש ולהגיש לך בצורה ממוקדת ושלמה רק את מה שעובד!<br/>ועכשיו כשהטכנולוגיה המתאימה עומדת לרשותינו - אנחנו מביאים לך את זה מזוקק ובהיר אלייך לסלון.<br/>ברוכה הבאה אל מרכז המעגל.<br/>בטוחים שתוכלי למצוא פה אותך.</p>",
+            "heading": "<strong>מי אנחנו?<\/strong>",
+            "text": "<p>אנחנו עסק משפחתי שמחבר בין עולמות הרוח והטיפול לבין עולמות הטכנולוגיה המגוונים.<br\/>המטרה העיקרית שלנו היא להנגיש את הידע לקהל הרחב בצורה פשוטה, בהירה ונוחה.<br\/>לא לפני הרבה שנים , אנשים היו צריכים לנדוד בעולם בחיפוש אחר מורה מתאים ואחר ידע נכון.<br\/>מסעות שלפעמים היו נגמרים גם באכזבה ואו בכישלון והחיפוש נמשך...<br\/>אחרי כמעט שלושה עשורים של חיפוש - חיפוש רוחבי עם העמקה אל תכנים רלוונטים .<br\/>אחרי התנסות אישית ארוכת שנים בתירגול הידע ובהעברתו לתלמידים.<br\/>יש לנו בשורה משמחת!<br\/>אנחנו יכולים לקצר לך משמעותית את החיפוש ולהגיש לך בצורה ממוקדת ושלמה רק את מה שעובד!<br\/>ועכשיו כשהטכנולוגיה המתאימה עומדת לרשותינו - אנחנו מביאים לך את זה מזוקק ובהיר אלייך לסלון.<br\/>ברוכה הבאה אל מרכז המעגל.<br\/>בטוחים שתוכלי למצוא פה אותך.<\/p>",
             "button_label": "",
             "button_link": ""
           }
@@ -525,10 +516,10 @@
         "row_KpnjKQ": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/all-natural-spa-decorations.jpg",
+            "image": "shopify:\/\/shop_images\/all-natural-spa-decorations.jpg",
             "caption": "",
-            "heading": "<strong>המשימה שלנו</strong>",
-            "text": "<p>החזון העיקרי שלנו הוא להחזיר את הסמכות הפנימית אל בני האדם.<br/>למה זה חשוב לנו?<br/>בעשורים האחרונים אנחנו עדים לתהליך הפוך - תהליך של \"אילוף\" הפרט למצב של תלות ושיעבוד על ידי הרחקתו מעצמו וריבוי גירויים חיצוניים של \" אנחנו יודעים מה טוב ונכון עבורך\".<br/>בלי לשים לב נתת את הסמכות לגורמים חיצוניים ובדרך לשם שכחת איך להקשיב לך. איך נשמע הקול שלך. מהם הרצונות שלך ומהו סדר העדיפות הנכון עבורך.<br/>במקום לשאול שאלה ולחכות לקול שלך (שברור שיענה וברור שיודע) התרגלת להפנות שאלות החוצה ולפעול לפי סמכות חיצונית ש\"יודעת\".<br/>המקום הטבעי עבורך להיות הינו- מרכז המעגל. </p>",
+            "heading": "<strong>המשימה שלנו<\/strong>",
+            "text": "<p>החזון העיקרי שלנו הוא להחזיר את הסמכות הפנימית אל בני האדם.<br\/>למה זה חשוב לנו?<br\/>בעשורים האחרונים אנחנו עדים לתהליך הפוך - תהליך של \"אילוף\" הפרט למצב של תלות ושיעבוד על ידי הרחקתו מעצמו וריבוי גירויים חיצוניים של \" אנחנו יודעים מה טוב ונכון עבורך\".<br\/>בלי לשים לב נתת את הסמכות לגורמים חיצוניים ובדרך לשם שכחת איך להקשיב לך. איך נשמע הקול שלך. מהם הרצונות שלך ומהו סדר העדיפות הנכון עבורך.<br\/>במקום לשאול שאלה ולחכות לקול שלך (שברור שיענה וברור שיודע) התרגלת להפנות שאלות החוצה ולפעול לפי סמכות חיצונית ש\"יודעת\".<br\/>המקום הטבעי עבורך להיות הינו- מרכז המעגל. <\/p>",
             "button_label": "",
             "button_link": ""
           }
@@ -536,10 +527,10 @@
         "row_y6WFWX": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/spa-tools-and-decorations.jpg",
+            "image": "shopify:\/\/shop_images\/spa-tools-and-decorations.jpg",
             "caption": "",
             "heading": "למה הכוונה?",
-            "text": "<p>מרכז המעגל הוא בעצם מרכז העולם שלך.<br/>החזון שלנו הוא לראות אותך ניצבת במרכז עולמך!<br/>בכל מקרה , את היא שבוראת את מציאות חייך, את עולמך.<br/>בדיוק מהסיבה הזו בני האדם חווים עולמות שונים ומגוונים.<br/>כשאת נוכחת במרכז המעגל שלך, זה מספר על שאת מקבלת אותך, זה מספר שאת באהבה עצמית.<br/>מהנוכחות שלך במרכז המעגל, ינבעו ללא מאמץ מערכות יחסים הרמוניות עם מעגלים חיצוניים לך, עולמות אחרים: למשל , מערכת יחסים זוגית, מערכת יחסים עם בני משפחה, עם כסף ועוד...<br/>To make long story short<br/>אנחנו מאמינים בך!<br/>אנחנו רוצים אותך במרכז המעגל!<br/>אנחנו יודעים שרק את יכולה לרפא את חייך!</p>",
+            "text": "<p>מרכז המעגל הוא בעצם מרכז העולם שלך.<br\/>החזון שלנו הוא לראות אותך ניצבת במרכז עולמך!<br\/>בכל מקרה , את היא שבוראת את מציאות חייך, את עולמך.<br\/>בדיוק מהסיבה הזו בני האדם חווים עולמות שונים ומגוונים.<br\/>כשאת נוכחת במרכז המעגל שלך, זה מספר על שאת מקבלת אותך, זה מספר שאת באהבה עצמית.<br\/>מהנוכחות שלך במרכז המעגל, ינבעו ללא מאמץ מערכות יחסים הרמוניות עם מעגלים חיצוניים לך, עולמות אחרים: למשל , מערכת יחסים זוגית, מערכת יחסים עם בני משפחה, עם כסף ועוד...<br\/>To make long story short<br\/>אנחנו מאמינים בך!<br\/>אנחנו רוצים אותך במרכז המעגל!<br\/>אנחנו יודעים שרק את יכולה לרפא את חייך!<\/p>",
             "button_label": "",
             "button_link": ""
           }
@@ -593,7 +584,7 @@
           "settings": {
             "heading": "כמה זמן לוקח להרגיש שיפור בהתמודדות עם מתח?",
             "icon": "none",
-            "row_content": "<p>ברוב המקרים ניתן לראות שינוי תוך 24 שעות, אך לבסוף זה אינדיבידואלי, ואצל כל אחת ואחד ניתן יהיה לראות שינוי בפרקי זמן שונים.</p><p>חשוב לזכור שאנחנו לא בתחרות עם אף אחד, ושכל שינוי לטובה יקרה בקצב שלו, ובקצב שמתאים לך.</p>",
+            "row_content": "<p>ברוב המקרים ניתן לראות שינוי תוך 24 שעות, אך לבסוף זה אינדיבידואלי, ואצל כל אחת ואחד ניתן יהיה לראות שינוי בפרקי זמן שונים.<\/p><p>חשוב לזכור שאנחנו לא בתחרות עם אף אחד, ושכל שינוי לטובה יקרה בקצב שלו, ובקצב שמתאים לך.<\/p>",
             "page": ""
           }
         },
@@ -602,7 +593,7 @@
           "settings": {
             "heading": "איך אני ניגשת לתכנים?",
             "icon": "none",
-            "row_content": "<p>לאחר הרכישה, תקבלי מאיתנו מייל עם פרטי ההתחברות האישיים שלך לתכנים של הסדנה.</p>",
+            "row_content": "<p>לאחר הרכישה, תקבלי מאיתנו מייל עם פרטי ההתחברות האישיים שלך לתכנים של הסדנה.<\/p>",
             "page": ""
           }
         },
@@ -611,7 +602,7 @@
           "settings": {
             "heading": "כמה זמן יש לי גישה לתכנים?",
             "icon": "none",
-            "row_content": "<p>התכנים זמינים לתמיד.</p>",
+            "row_content": "<p>התכנים זמינים לתמיד.<\/p>",
             "page": ""
           }
         },
@@ -620,7 +611,7 @@
           "settings": {
             "heading": "האם יש תמיכה טכנית?",
             "icon": "none",
-            "row_content": "<p>כן. ניתן לפנות אלינו בטופס <a href=\"/pages/contact\" target=\"_blank\" title=\"Contact\">יצירת הקשר</a> ואנו נעזור בהקדם.</p>",
+            "row_content": "<p>כן. ניתן לפנות אלינו בטופס <a href=\"\/pages\/contact\" target=\"_blank\" title=\"Contact\">יצירת הקשר<\/a> ואנו נעזור בהקדם.<\/p>",
             "page": ""
           }
         },
@@ -629,7 +620,7 @@
           "settings": {
             "heading": "מה ההבדל בין StressLess לבין אפליקציות מדיטציה חינמיות?",
             "icon": "none",
-            "row_content": "<p>רוב האפליקציות אינן חינמיות לחלוטין, ולרוב דורשות מנוי חודשי.</p><p>אצלינו תקבלי יותר ערך תמורת מה ששילמת, ולא תצטרכי לשלם מספר פעמים, אלא רק פעם אחת.</p>",
+            "row_content": "<p>רוב האפליקציות אינן חינמיות לחלוטין, ולרוב דורשות מנוי חודשי.<\/p><p>אצלינו תקבלי יותר ערך תמורת מה ששילמת, ולא תצטרכי לשלם מספר פעמים, אלא רק פעם אחת.<\/p>",
             "page": ""
           }
         },
@@ -638,7 +629,7 @@
           "settings": {
             "heading": "האם התכנים מתאימים גם לבני נוער?",
             "icon": "none",
-            "row_content": "<p>התכנים מתאימים לכל הגילאים.</p>",
+            "row_content": "<p>התכנים מתאימים לכל הגילאים.<\/p>",
             "page": ""
           }
         },
@@ -647,7 +638,7 @@
           "settings": {
             "heading": "מה קורה אם אני לא מרוצה מהקורס?",
             "icon": "none",
-            "row_content": "<p>במידה ואינך מרוצה מהתכנים ניתן לבקש זיכוי וביטול, ואנו נדאג לבצע זיכוי לאמצעי התשלום איתו שילמת.</p><p>עם ביצוע הבקשה, הגישה לתכני הקורס תוסר.</p>",
+            "row_content": "<p>במידה ואינך מרוצה מהתכנים ניתן לבקש זיכוי וביטול, ואנו נדאג לבצע זיכוי לאמצעי התשלום איתו שילמת.<\/p><p>עם ביצוע הבקשה, הגישה לתכני הקורס תוסר.<\/p>",
             "page": ""
           }
         }

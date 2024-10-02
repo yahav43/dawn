@@ -10,14 +10,35 @@
   }
 </style>
 
-<div class="template-404 page-width page-margin center">
-  <p>
-    {{ 'templates.404.subtext' | t }}
-  </p>
+<div class="template-404 page-width page-margin center color-{{ section.settings.color_scheme }}">
   <h1 class="title">
     {{ 'templates.404.title' | t }}
   </h1>
+  <p>
+    {{ 'templates.404.subtext' | t }}
+  </p>
   <a href="{{ routes.all_products_collection_url }}" class="button">
     {{ 'general.continue_shopping' | t }}
   </a>
 </div>
+
+{% schema %}
+{
+  "name": "404",
+  "tag": "section",
+  "class": "four-o-four",
+  "settings": [
+    {
+      "type": "color_scheme",
+      "id": "color_scheme",
+      "label": "t:sections.all.colors.label",
+      "default": "scheme-1"
+    }
+  ],
+  "presets": [
+    {
+      "name": "404"
+    }
+  ]
+}
+{% endschema %}
