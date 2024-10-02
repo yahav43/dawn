@@ -22,7 +22,8 @@ div.main-blog,
 .cart__login-title,
 .cart__login-paragraph,
 .shopify-section cart-items,
-.rte ul {
+.rte ul,
+.footer__copyright {
   direction: rtl;
 }
 
@@ -129,6 +130,11 @@ table.cart-items .right.caption-with-letter-spacing {
 
 .rte strong {
   direction: rtl;
+  display: block;
+}
+
+.footer__copyright.caption .copyright__content:first-child {
+  direction: ltr;
   display: block;
 }
 
