@@ -68,7 +68,13 @@
           {% if request.path contains 'pages' %}
             {% assign new_page_title = page.url | replace: '/pages/', '' %}
           {% else %}
-            {% if request.path == '/account' %}
+            {% if request.path contains '/policies' %}
+              {% assign new_page_title = request.path
+                | replace: 'policies', ''
+                | replace: '/', ''
+                | replace: '-', '_'
+              %}
+            {% elsif request.path == '/account' %}
               {% assign new_page_title = request.path | replace: '/', '' %}
             {% elsif request.path contains '/account/order' %}
               {% assign new_page_title = 'order' %}

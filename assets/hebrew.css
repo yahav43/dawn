@@ -133,6 +133,18 @@ table.cart-items .right.caption-with-letter-spacing {
   display: block;
 }
 
+.shopify-policy__body {
+  padding-bottom: 3rem;
+}
+
+.shopify-policy__container .rte strong {
+  display: inline;
+}
+
+.shopify-policy__container .rte img {
+  border: none;
+}
+
 .footer__copyright.caption .copyright__content:first-child {
   direction: ltr;
   display: block;

@@ -149,7 +149,12 @@
       "addresses": "הכתובות שלי",
       "order": "ההזמנה שלי",
       "invalid_token": "דף שגיאה",
-      "reset": "איפוס סיסמא"
+      "reset": "איפוס סיסמא",
+      "terms_of_service": "תנאי השימוש",
+      "shipping_policy": "מדיניות משלוחים",
+      "contact_information": "פרטי התקשרות",
+      "refund_policy": "זיכויים וביטולים",
+      "privacy_policy": "מדיניות הפרטיות"
     },
     "password_page": {
       "login_form_heading": "כניסת בעלים",
