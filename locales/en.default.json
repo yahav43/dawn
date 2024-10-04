@@ -9,6 +9,9 @@
 */
 {
   "general": {
+    "shop": {
+      "name": "יעל מימון"
+    },
     "breadcrumbs": {
       "homepage": "Home"
     },
