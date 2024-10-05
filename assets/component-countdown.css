@@ -1,3 +1,7 @@
+.flex {
+	display: flex;
+}
+
 .countdown-section {
 	position: sticky;
 	top: 61px;
@@ -6,15 +10,14 @@
 
 .announce-countdown {
 	column-gap: var(--grid-mobile-vertical-spacing);
-	/*border: 1px solid var(--gradient-background);*/
 }
 
 .countdown {
 	display: block;
 	width: 100%;
 	padding: 0.6em 0;
-	background: var(--gradient-base-accent-1);
-	color: rgb(var(--color-base-text));
+	background: #9b585a;
+	color: #9b585a;
 }
 
 .headerLink-countdown {
@@ -34,7 +37,7 @@
 }
 
 .countdown-sale-description-ctn p {
-	color: rgb(var(--color-base-background-1));
+	color: #fff;
 	font-weight: 600;
 	margin: 0;
 	font-size: .9em;
@@ -52,20 +55,21 @@
 }
 
 .countdown #tiles {
+	display: flex;
 	position: relative;
 	justify-content: center;
 	align-items: center;
 	z-index: 1;
 	height: 100%;
-	font-size: .9em;
-	padding: var(--grid-mobile-vertical-spacing);
+	padding: calc(var(--grid-mobile-vertical-spacing) * .5);
 }
 
-.countdown #tiles>span, .tiles-time {
+.countdown #tiles>span,
+.tiles-time {
 	text-align: center;
-	color: var(--gradient-base-background-1);
+	color: #fff;
 	position: relative;
-	font-size: calc(var(--font-body-size-large) * .8);
+	font-size: calc(var(--font-body-scale) * 2rem);
 	margin: 0;
 	font-weight: 600;
 	/*box-shadow: 0px 0px 6px 0px rgb(255 255 255 / 30%);*/
