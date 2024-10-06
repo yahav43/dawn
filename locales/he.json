@@ -150,13 +150,13 @@
       "privacy_policy": "מדיניות הפרטיות"
     },
     "password_page": {
-      "login_form_heading": "כניסת בעלים",
-      "login_password_button": "כניסת בעלים",
-      "login_form_password_label": "כניסת בעלים",
+      "login_form_heading": "כניסת הנהלת האתר",
+      "login_password_button": "כניסת הנהלת האתר",
+      "login_form_password_label": "כניסת הנהלת האתר",
       "login_form_password_placeholder": "סיסמא",
       "login_form_error": "אירעה שגיאה",
       "login_form_submit": "כניסה",
-      "admin_link_html": "<a href=\"\/admin\" class=\"link underlined-link\">כניסת בעלים<\/a>",
+      "admin_link_html": "<a href=\"\/admin\" class=\"link underlined-link\">כניסת הנהלת האתר<\/a>",
       "powered_by_shopify_html": ""
     },
     "social": {
