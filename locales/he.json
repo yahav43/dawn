@@ -157,7 +157,8 @@
       "login_form_error": "אירעה שגיאה",
       "login_form_submit": "כניסה",
       "admin_link_html": "<a href=\"\/admin\" class=\"link underlined-link\">כניסת הנהלת האתר<\/a>",
-      "powered_by_shopify_html": ""
+      "powered_by_shopify_html": "",
+      "copyright_html": "כל הזכויות שמורות ליעל מימון &copy;"
     },
     "social": {
       "alt_text": {
