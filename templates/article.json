@@ -47,16 +47,28 @@
           "settings": {
             "text": "<p>{{ article.metafields.custom.form_subtitle | metafield_tag }}</p>"
           }
+        },
+        "button_pgCYEj": {
+          "type": "button",
+          "settings": {
+            "button_label": "אני רוצה שינוי",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
         }
       },
       "block_order": [
         "heading_cjr9i7",
-        "text_jhawhV"
+        "text_jhawhV",
+        "button_pgCYEj"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "",
+        "color_scheme": "scheme-5",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
