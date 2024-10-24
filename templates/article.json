@@ -38,14 +38,14 @@
         "heading_cjr9i7": {
           "type": "heading",
           "settings": {
-            "heading": "",
+            "heading": "{{ article.metafields.custom.form_title.value }}",
             "heading_size": "h1"
           }
         },
         "text_jhawhV": {
           "type": "text",
           "settings": {
-            "text": ""
+            "text": "<p>{{ article.metafields.custom.form_subtitle | metafield_tag }}</p>"
           }
         }
       },
