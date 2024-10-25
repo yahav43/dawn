@@ -26,7 +26,9 @@ div.main-blog,
 .footer__copyright,
 .collection__title.title-wrapper,
 slider-component .card-information,
-.template-404 {
+.template-404,
+.rich-text__blocks,
+div[class*="kl-private-reset-css"] {
   direction: rtl;
 }
 
