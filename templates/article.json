@@ -59,7 +59,7 @@
         "color_scheme": "scheme-5",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 36
       }
     },
     "1729861268343e58e3": {
@@ -78,11 +78,21 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "custom_liquid_D7tFCQ": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
     "rich_text_epR7B7",
-    "1729861268343e58e3"
+    "1729861268343e58e3",
+    "custom_liquid_D7tFCQ"
   ]
 }
