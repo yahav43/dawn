@@ -135,7 +135,9 @@
             </h2>
           {%- when 'text' -%}
             <div class="banner__text rte {{ block.settings.text_style }}" {{ block.shopify_attributes }}>
-              {{ block.settings.text }}
+              <p>
+                {{ block.settings.text }}
+              </p>
             </div>
           {%- when 'buttons' -%}
             <div
