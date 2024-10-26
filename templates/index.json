@@ -99,7 +99,7 @@
       ],
       "settings": {
         "image": "shopify://shop_images/woman-does-yoga-by-the-water.jpg",
-        "image_overlay_opacity": 30,
+        "image_overlay_opacity": 40,
         "image_height": "small",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
@@ -278,6 +278,35 @@
         "padding_bottom": 36
       }
     },
+    "image_banner_jFwcht": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_aC7Rf4": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>חדשה לעולם היוגה?</strong>",
+            "heading_size": "h0",
+            "title_direction": "rtl"
+          }
+        }
+      },
+      "block_order": [
+        "heading_aC7Rf4"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/IMG_2362.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "large",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-4",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
     "multirow_RkqD97": {
       "type": "multirow",
       "blocks": {
@@ -357,6 +386,7 @@
     "multicolumn_PXpiCA",
     "multicolumn_FFmiYB",
     "featured_blog_Qz8A6d",
+    "image_banner_jFwcht",
     "multirow_RkqD97",
     "contact_form_MDwcX6"
   ]
