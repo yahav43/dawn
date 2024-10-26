@@ -1,20 +1,21 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "image_banner": {
       "type": "image-banner",
       "blocks": {
-        "richtext_a8UX6k": {
-          "type": "richtext",
-          "settings": {
-            "higher_heading": "C.o.C",
-            "higher_heading_size": "h0",
-            "higher_title_direction": "rtl"
-          }
-        },
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "The Center Of The Circle",
+            "heading": "<strong>לחץ לא חייב להיות חלק מהחיים שלך</strong>",
             "heading_size": "h1",
             "title_direction": "rtl"
           }
@@ -22,16 +23,16 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "מרחב להיזכרות וחזרה הביתה , אלייך, אל עצמך, אל <strong>מרכז המעגל.<\/strong>",
+            "text": "הצטרפי ל +4,000 משתתפות שלמדו בשנה האחרונה לחיות ללא לחץ וחרדה מיותרים, עם כלים פרקטיים לכל מצב.",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "לחצי כאן",
+            "button_label_1": "התחילי כאן",
             "button_weight_1": "bold",
-            "button_link_1": "shopify:\/\/collections\/כל-המוצרים",
+            "button_link_1": "shopify://collections/כל-המוצרים",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -40,16 +41,15 @@
         }
       },
       "block_order": [
-        "richtext_a8UX6k",
         "heading",
         "text",
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/meditation-and-yoga-in-nature.jpg",
+        "image": "shopify://shop_images/meditation-and-yoga-in-nature.jpg",
         "image_overlay_opacity": 40,
         "image_height": "large",
-        "desktop_content_position": "middle-left",
+        "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "scheme-4",
@@ -65,10 +65,10 @@
         "row_BBLraR": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_1494.jpg",
+            "image": "shopify://shop_images/IMG_1494.jpg",
             "caption": "",
-            "heading": "<strong>מי אנחנו?<\/strong>",
-            "text": "<p>אנחנו עסק משפחתי שמחבר בין עולמות הרוח והטיפול לבין עולמות הטכנולוגיה המגוונים.<br\/>המטרה העיקרית שלנו היא להנגיש את הידע לקהל הרחב בצורה פשוטה, בהירה ונוחה.<br\/>לא לפני הרבה שנים , אנשים היו צריכים לנדוד בעולם בחיפוש אחר מורה מתאים ואחר ידע נכון.<br\/>מסעות שלפעמים היו נגמרים גם באכזבה ואו בכישלון והחיפוש נמשך...<br\/>אחרי כמעט שלושה עשורים של חיפוש - חיפוש רוחבי עם העמקה אל תכנים רלוונטים .<br\/>אחרי התנסות אישית ארוכת שנים בתירגול הידע ובהעברתו לתלמידים.<br\/>יש לנו בשורה משמחת!<br\/>אנחנו יכולים לקצר לך משמעותית את החיפוש ולהגיש לך בצורה ממוקדת ושלמה רק את מה שעובד!<br\/>ועכשיו כשהטכנולוגיה המתאימה עומדת לרשותינו - אנחנו מביאים לך את זה מזוקק ובהיר אלייך לסלון.<br\/>ברוכה הבאה אל מרכז המעגל.<br\/>בטוחים שתוכלי למצוא פה אותך.<\/p>",
+            "heading": "<strong>מי אנחנו?</strong>",
+            "text": "<p>אנחנו עסק משפחתי שמחבר בין עולמות הרוח והטיפול לבין עולמות הטכנולוגיה המגוונים.<br/>המטרה העיקרית שלנו היא להנגיש את הידע לקהל הרחב בצורה פשוטה, בהירה ונוחה.<br/>לא לפני הרבה שנים , אנשים היו צריכים לנדוד בעולם בחיפוש אחר מורה מתאים ואחר ידע נכון.<br/>מסעות שלפעמים היו נגמרים גם באכזבה ואו בכישלון והחיפוש נמשך...<br/>אחרי כמעט שלושה עשורים של חיפוש - חיפוש רוחבי עם העמקה אל תכנים רלוונטים .<br/>אחרי התנסות אישית ארוכת שנים בתירגול הידע ובהעברתו לתלמידים.<br/>יש לנו בשורה משמחת!<br/>אנחנו יכולים לקצר לך משמעותית את החיפוש ולהגיש לך בצורה ממוקדת ושלמה רק את מה שעובד!<br/>ועכשיו כשהטכנולוגיה המתאימה עומדת לרשותינו - אנחנו מביאים לך את זה מזוקק ובהיר אלייך לסלון.<br/>ברוכה הבאה אל מרכז המעגל.<br/>בטוחים שתוכלי למצוא פה אותך.</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -76,10 +76,10 @@
         "row_4Nt7Q7": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_1535.jpg",
+            "image": "shopify://shop_images/IMG_1535.jpg",
             "caption": "",
-            "heading": "<strong>המשימה שלנו<\/strong>",
-            "text": "<p>החזון העיקרי שלנו הוא להחזיר את הסמכות הפנימית אל בני האדם.<br\/>למה זה חשוב לנו?<br\/>בעשורים האחרונים אנחנו עדים לתהליך הפוך - תהליך של \"אילוף\" הפרט למצב של תלות ושיעבוד על ידי הרחקתו מעצמו וריבוי גירויים חיצוניים של \" אנחנו יודעים מה טוב ונכון עבורך\".<br\/>בלי לשים לב נתת את הסמכות לגורמים חיצוניים ובדרך לשם שכחת איך להקשיב לך. איך נשמע הקול שלך. מהם הרצונות שלך ומהו סדר העדיפות הנכון עבורך.<br\/>במקום לשאול שאלה ולחכות לקול שלך (שברור שיענה וברור שיודע) התרגלת להפנות שאלות החוצה ולפעול לפי סמכות חיצונית ש\"יודעת\".<br\/>המקום הטבעי עבורך להיות הינו- מרכז המעגל. <\/p>",
+            "heading": "<strong>המשימה שלנו</strong>",
+            "text": "<p>החזון העיקרי שלנו הוא להחזיר את הסמכות הפנימית אל בני האדם.<br/>למה זה חשוב לנו?<br/>בעשורים האחרונים אנחנו עדים לתהליך הפוך - תהליך של \"אילוף\" הפרט למצב של תלות ושיעבוד על ידי הרחקתו מעצמו וריבוי גירויים חיצוניים של \" אנחנו יודעים מה טוב ונכון עבורך\".<br/>בלי לשים לב נתת את הסמכות לגורמים חיצוניים ובדרך לשם שכחת איך להקשיב לך. איך נשמע הקול שלך. מהם הרצונות שלך ומהו סדר העדיפות הנכון עבורך.<br/>במקום לשאול שאלה ולחכות לקול שלך (שברור שיענה וברור שיודע) התרגלת להפנות שאלות החוצה ולפעול לפי סמכות חיצונית ש\"יודעת\".<br/>המקום הטבעי עבורך להיות הינו- מרכז המעגל. </p>",
             "button_label": "",
             "button_link": ""
           }
@@ -87,10 +87,10 @@
         "row_ddJKFQ": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_1493.jpg",
+            "image": "shopify://shop_images/IMG_1493.jpg",
             "caption": "",
             "heading": "למה הכוונה?",
-            "text": "<p>מרכז המעגל הוא בעצם מרכז העולם שלך.<br\/>החזון שלנו הוא לראות אותך ניצבת במרכז עולמך!<br\/>בכל מקרה , את היא שבוראת את מציאות חייך, את עולמך.<br\/>בדיוק מהסיבה הזו בני האדם חווים עולמות שונים ומגוונים.<br\/>כשאת נוכחת במרכז המעגל שלך, זה מספר על שאת מקבלת אותך, זה מספר שאת באהבה עצמית.<br\/>מהנוכחות שלך במרכז המעגל, ינבעו ללא מאמץ מערכות יחסים הרמוניות עם מעגלים חיצוניים לך, עולמות אחרים: למשל , מערכת יחסים זוגית, מערכת יחסים עם בני משפחה, עם כסף ועוד...<br\/>To make long story short<br\/>אנחנו מאמינים בך!<br\/>אנחנו רוצים אותך במרכז המעגל!<br\/>אנחנו יודעים שרק את יכולה לרפא את חייך!<\/p>",
+            "text": "<p>מרכז המעגל הוא בעצם מרכז העולם שלך.<br/>החזון שלנו הוא לראות אותך ניצבת במרכז עולמך!<br/>בכל מקרה , את היא שבוראת את מציאות חייך, את עולמך.<br/>בדיוק מהסיבה הזו בני האדם חווים עולמות שונים ומגוונים.<br/>כשאת נוכחת במרכז המעגל שלך, זה מספר על שאת מקבלת אותך, זה מספר שאת באהבה עצמית.<br/>מהנוכחות שלך במרכז המעגל, ינבעו ללא מאמץ מערכות יחסים הרמוניות עם מעגלים חיצוניים לך, עולמות אחרים: למשל , מערכת יחסים זוגית, מערכת יחסים עם בני משפחה, עם כסף ועוד...<br/>To make long story short<br/>אנחנו מאמינים בך!<br/>אנחנו רוצים אותך במרכז המעגל!<br/>אנחנו יודעים שרק את יכולה לרפא את חייך!</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -123,9 +123,9 @@
         "column_DtVENE": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/iconmonstr-heart-thin-240.png",
+            "image": "shopify://shop_images/iconmonstr-heart-thin-240.png",
             "title": "אהבה",
-            "text": "<p>אנחנו ממש , אבל ממש אוהבים את מה שאנחנו עושים.<\/p>",
+            "text": "<p>אנחנו ממש , אבל ממש אוהבים את מה שאנחנו עושים.</p>",
             "link_label": "",
             "link": ""
           }
@@ -133,9 +133,9 @@
         "column_WCGCKg": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/iconmonstr-friend-6-240.png",
+            "image": "shopify://shop_images/iconmonstr-friend-6-240.png",
             "title": "800+ מטופלים. 20 שנות ניסיון",
-            "text": "<p>כל מה שבחרנו להגיש לך עבר תהליך קפדני של מחקר אמפירי על מאות מטופלים ותלמידים , לאורך יותר משני עשורים.<br\/>אנחנו מגישים לך פה רק את מה שבוודאות עובד.<\/p>",
+            "text": "<p>כל מה שבחרנו להגיש לך עבר תהליך קפדני של מחקר אמפירי על מאות מטופלים ותלמידים , לאורך יותר משני עשורים.<br/>אנחנו מגישים לך פה רק את מה שבוודאות עובד.</p>",
             "link_label": "",
             "link": ""
           }
@@ -143,9 +143,9 @@
         "column_qr3dJj": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/iconmonstr-process-2-240.png",
+            "image": "shopify://shop_images/iconmonstr-process-2-240.png",
             "title": "אנחנו איתך",
-            "text": "<p>אנחנו מאמינים שרק את יכולה לרפא אותך.<br\/>כי רק את באמת יודעת מה הכי נכון וטוב בשבילך.<br\/>לכן, כל הכלים פה , מטרתם לספק לך מפתחות רבים ומגוונים כדי שתוכלי לפתוח את דלתות ביתך ולחזור אלייך.<br\/>כל הכלים פה תומכים בסמכותך הפנימית!<\/p>",
+            "text": "<p>אנחנו מאמינים שרק את יכולה לרפא אותך.<br/>כי רק את באמת יודעת מה הכי נכון וטוב בשבילך.<br/>לכן, כל הכלים פה , מטרתם לספק לך מפתחות רבים ומגוונים כדי שתוכלי לפתוח את דלתות ביתך ולחזור אלייך.<br/>כל הכלים פה תומכים בסמכותך הפנימית!</p>",
             "link_label": "",
             "link": ""
           }
@@ -153,9 +153,9 @@
         "column_ncPBLY": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/iconmonstr-key-thin-240.png",
+            "image": "shopify://shop_images/iconmonstr-key-thin-240.png",
             "title": "פשטות",
-            "text": "<p>אנחנו מאמינים שבסוף הכל פשוט! ברור לנו שאמת נאמרת במשפט קצר אחד.<br\/>לכן, הכלים המוגשים פה הינם כלים פשוטים וקלים לשימוש איפה שאת נמצאת.<\/p>",
+            "text": "<p>אנחנו מאמינים שבסוף הכל פשוט! ברור לנו שאמת נאמרת במשפט קצר אחד.<br/>לכן, הכלים המוגשים פה הינם כלים פשוטים וקלים לשימוש איפה שאת נמצאת.</p>",
             "link_label": "",
             "link": ""
           }
@@ -163,9 +163,9 @@
         "column_XtQMVy": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/iconmonstr-clock-thin-240.png",
+            "image": "shopify://shop_images/iconmonstr-clock-thin-240.png",
             "title": "בזמן ובמקום שלך",
-            "text": "<p>אנחנו מבינים שאת סופרוומן ושאת מנהלת שגרת חיים גדושה ומלאה.<br\/>לכן, הכלים שתמצאי פה יכולים כולם להצטרף אלייך לשגרת יומך , כך שלא תזדקקי לשינוי גדול כדי להכניסם.<\/p>",
+            "text": "<p>אנחנו מבינים שאת סופרוומן ושאת מנהלת שגרת חיים גדושה ומלאה.<br/>לכן, הכלים שתמצאי פה יכולים כולם להצטרף אלייך לשגרת יומך , כך שלא תזדקקי לשינוי גדול כדי להכניסם.</p>",
             "link_label": "",
             "link": ""
           }
@@ -173,9 +173,9 @@
         "column_jg9NH7": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/iconmonstr-user-circle-thin-240.png",
+            "image": "shopify://shop_images/iconmonstr-user-circle-thin-240.png",
             "title": "המקום שלך",
-            "text": "<p>ברור לנו שמקומך הטבעי הוא במרכז המעגל - כאשר תתפסי את מקומך, שגרת יומך (גם אם לא חל בה שינוי) תקרה ללא מאמץ.<\/p>",
+            "text": "<p>ברור לנו שמקומך הטבעי הוא במרכז המעגל - כאשר תתפסי את מקומך, שגרת יומך (גם אם לא חל בה שינוי) תקרה ללא מאמץ.</p>",
             "link_label": "",
             "link": ""
           }
@@ -190,7 +190,7 @@
         "column_jg9NH7"
       ],
       "settings": {
-        "title": "<strong>למה לבחור ב C.o.C?<\/strong>",
+        "title": "<strong>למה לבחור ב C.o.C?</strong>",
         "title_direction": "rtl",
         "title_alignment": "center",
         "heading_size": "h1",
@@ -215,7 +215,7 @@
         "heading_BcT6tA": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>חדשה בעולם היוגה?<\/strong>",
+            "heading": "<strong>חדשה בעולם היוגה?</strong>",
             "heading_size": "h1",
             "title_direction": "rtl"
           }
@@ -225,7 +225,7 @@
           "settings": {
             "button_label_1": "לחצי כאן",
             "button_weight_1": "bold",
-            "button_link_1": "shopify:\/\/products\/yoga-path",
+            "button_link_1": "shopify://products/yoga-path",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -238,7 +238,7 @@
         "buttons_Y7LM7T"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/leaning-into-yoga-on-the-rocks.jpg",
+        "image": "shopify://shop_images/leaning-into-yoga-on-the-rocks.jpg",
         "image_overlay_opacity": 30,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -299,7 +299,7 @@
         "heading": "נשמח לשמוע ממך",
         "heading_size": "h1",
         "heading_alignment": "center",
-        "sub_heading": "<p>ניתן ליצור איתנו קשר בכל שאלה בוואטסאפ, או למלא את טופס יצירת הקשר ואנו נחזור אליך בהקדם!<\/p>",
+        "sub_heading": "<p>ניתן ליצור איתנו קשר בכל שאלה בוואטסאפ, או למלא את טופס יצירת הקשר ואנו נחזור אליך בהקדם!</p>",
         "color_scheme": "scheme-5",
         "padding_top": 36,
         "padding_bottom": 36
@@ -311,7 +311,7 @@
         "heading_kjr7r3": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>הגיע הזמן להפחית סטרס<\/strong>",
+            "heading": "<strong>הגיע הזמן להפחית סטרס</strong>",
             "heading_size": "h1",
             "title_direction": "rtl"
           }
@@ -328,7 +328,7 @@
           "settings": {
             "button_label_1": "לחצי כאן",
             "button_weight_1": "bold",
-            "button_link_1": "shopify:\/\/collections\/כל-המוצרים",
+            "button_link_1": "shopify://collections/כל-המוצרים",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -342,7 +342,7 @@
         "buttons_Ndhcmz"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/woman-does-yoga-by-the-water.jpg",
+        "image": "shopify://shop_images/woman-does-yoga-by-the-water.jpg",
         "image_overlay_opacity": 30,
         "image_height": "small",
         "desktop_content_position": "middle-center",
