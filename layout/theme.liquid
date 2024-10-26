@@ -303,7 +303,12 @@
 
     {% sections 'header-group' %}
 
-    <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
+    <main
+      id="MainContent"
+      class="content-for-layout focus-none template--{{ template.suffix }}"
+      role="main"
+      tabindex="-1"
+    >
       {% unless template.suffix == 'index' or template.suffix == 'landing' %}
         {% render 'breadcrumbs' %}
       {% endunless %}

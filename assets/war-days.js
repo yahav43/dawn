@@ -2,11 +2,13 @@ document.addEventListener('DOMContentLoaded', function(e) {
 
   // Get the current date
   const currentDate = new Date();
-  let warDateTextElements = document.querySelectorAll('.product__info-container .product__text.inline-richtext');
+  let warDateTextElements = document.querySelectorAll('.template--landing .shopify-section:nth-child(2) .rich-text__blocks time');
+
+  console.log(warDateTextElements);
   
   for (let i = 0; i < warDateTextElements.length; i++) {
-    let warDateElement = warDateTextElements[i].querySelector('.metafield-date');
-    let warDate = warDateTextElements[i].querySelector('.metafield-date').getAttribute('datetime');
+    let warDate = warDateTextElements[i].getAttribute('datetime');
+    let warDateElement = warDateTextElements[i].parentElement;
 
     // The given date
     let givenDate = new Date(warDate);
