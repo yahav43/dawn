@@ -301,7 +301,7 @@
           "settings": {
             "button_label_1": "לחצי כאן",
             "button_weight_1": "bold",
-            "button_link_1": "",
+            "button_link_1": "shopify://products/yoga-path",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
