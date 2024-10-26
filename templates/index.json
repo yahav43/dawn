@@ -101,6 +101,13 @@
             "higher_title_direction": "rtl"
           }
         },
+        "text_EJAVNf": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li> 4 שעות בלבד</li><li>8 מפגשים אונליין</li><li>תוצאות מיידיות</li><li>תמיכה מלאה</li></ul>",
+            "text_style": "body"
+          }
+        },
         "buttons_Ndhcmz": {
           "type": "buttons",
           "settings": {
@@ -117,6 +124,7 @@
       "block_order": [
         "heading_kjr7r3",
         "richtext_YpRQTg",
+        "text_EJAVNf",
         "buttons_Ndhcmz"
       ],
       "settings": {
