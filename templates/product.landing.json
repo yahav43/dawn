@@ -34,14 +34,14 @@
         "heading_EYKCLg"
       ],
       "settings": {
-        "image": "shopify://shop_images/person-cross-legged-on-a-yoga-mat-at-the-beach.jpg",
+        "image": "{{ product.featured_image }}",
         "image_overlay_opacity": 30,
-        "image_height": "medium",
+        "image_height": "adapt",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "scheme-4",
-        "image_behavior": "ambient",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
