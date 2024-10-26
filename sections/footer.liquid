@@ -83,9 +83,9 @@
                   {%- when '@app' -%}
                     {% render block %}
                   {%- when 'text' -%}
-                    <div class="footer-block__details-content rte">
+                    <p class="footer-block__details-content rte">
                       {{ block.settings.subtext }}
-                    </div>
+                    </p>
                   {%- when 'link_list' -%}
                     {%- if block.settings.menu != blank -%}
                       <ul class="footer-block__details-content list-unstyled">
