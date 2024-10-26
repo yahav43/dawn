@@ -47,61 +47,6 @@
         "show_text_below": false
       }
     },
-    "main": {
-      "type": "main-product",
-      "blocks": {
-        "text_7M4Adb": {
-          "type": "text",
-          "settings": {
-            "text": "<h2><strong>{{ product.metafields.custom.date_since_war | metafield_tag }}</strong> ימים.</h2>",
-            "text_style": "body"
-          }
-        },
-        "text_HiP7Xq": {
-          "type": "text",
-          "settings": {
-            "text": "<h2><strong>{{ product.metafields.custom.date_since_war | metafield_tag }}</strong> ימים של חדשות בלתי פוסקות.</h2>",
-            "text_style": "body"
-          }
-        },
-        "text_YtkGFN": {
-          "type": "text",
-          "settings": {
-            "text": "<h2><strong>{{ product.metafields.custom.date_since_war | metafield_tag }}</strong> ימים של דאגה מתמדת.</h2>",
-            "text_style": "body"
-          }
-        },
-        "text_BJLEYm": {
-          "type": "text",
-          "settings": {
-            "text": "<h2><strong>{{ product.metafields.custom.date_since_war | metafield_tag }}</strong> ימים שבהם השקט הפנימי שלנו נשחק, טיפה אחר טיפה.</h2>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "text_7M4Adb",
-        "text_HiP7Xq",
-        "text_YtkGFN",
-        "text_BJLEYm"
-      ],
-      "settings": {
-        "show_tax_notice": false,
-        "enable_sticky_info": false,
-        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
-        "media_size": "large",
-        "constrain_to_viewport": false,
-        "media_fit": "cover",
-        "gallery_layout": "columns",
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "mobile_thumbnails": "hide",
-        "hide_variants": true,
-        "enable_video_looping": true,
-        "padding_top": 36,
-        "padding_bottom": 12
-      }
-    },
     "rich_text_TFyPLC": {
       "type": "rich-text",
       "blocks": {
@@ -184,7 +129,7 @@
         "text_bQAgrd": {
           "type": "text",
           "settings": {
-            "text": "<strong>StressLess נוצר במיוחד עבורך, במציאות מורכבת ומאתגרת. אי אפשר לשנות את המציאות סביבנו, אבל אפשר לשנות את הדרך שבה אנחנו מגיבים אליה.</strong>",
+            "text": "<h2><strong>StressLess נוצר במיוחד עבורך, במציאות מורכבת ומאתגרת. אי אפשר לשנות את המציאות סביבנו, אבל אפשר לשנות את הדרך שבה אנחנו מגיבים אליה.</strong><h2>",
             "text_style": "body"
           }
         }
@@ -741,7 +686,6 @@
   },
   "order": [
     "image_banner_CQJiFm",
-    "main",
     "rich_text_TFyPLC",
     "image_with_text_7K4ARw",
     "image_banner_ffEqdk",
