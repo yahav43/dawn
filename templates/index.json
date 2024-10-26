@@ -288,10 +288,31 @@
             "heading_size": "h0",
             "title_direction": "rtl"
           }
+        },
+        "text_RwLMf4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>גלי את עולם היוגה דרך הריטריט הדיגיטלי שלנו</p>",
+            "text_style": "body"
+          }
+        },
+        "buttons_KJxcFU": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "לחצי כאן",
+            "button_weight_1": "bold",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
         }
       },
       "block_order": [
-        "heading_aC7Rf4"
+        "heading_aC7Rf4",
+        "text_RwLMf4",
+        "buttons_KJxcFU"
       ],
       "settings": {
         "image": "shopify://shop_images/IMG_2362.jpg",
