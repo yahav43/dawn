@@ -141,47 +141,60 @@
         "show_text_below": false
       }
     },
-    "image_banner_imkE4Q": {
-      "type": "image-banner",
+    "multicolumn_PXpiCA": {
+      "type": "multicolumn",
       "blocks": {
-        "heading_BcT6tA": {
-          "type": "heading",
+        "column_TWAzqi": {
+          "type": "column",
           "settings": {
-            "heading": "<strong>חדשה בעולם היוגה?</strong>",
-            "heading_size": "h1",
-            "title_direction": "rtl"
+            "title": "שליטה בלחץ ובחרדה",
+            "text": "<p>למדי טכניקות מעשיות להרגעה מיידית שיעזרו לך לשלוט בחרדה במקום שהיא תשלוט בך</p>",
+            "link_label": "",
+            "link": ""
           }
         },
-        "buttons_Y7LM7T": {
-          "type": "buttons",
+        "column_BTzMda": {
+          "type": "column",
           "settings": {
-            "button_label_1": "לחצי כאן",
-            "button_weight_1": "bold",
-            "button_link_1": "shopify://products/yoga-path",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "title": "לישון בשקט",
+            "text": "<p>תחזרי להירדם בקלות ולהתעורר רעננה - בלי כדורים ובלי תופעות לוואי</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_GtCaUb": {
+          "type": "column",
+          "settings": {
+            "title": "החזירי את השליטה לחיים שלך",
+            "text": "<p>תפסיקי לאבד שליטה ברגעי לחץ - תלמדי איך להישאר רגועה גם במצבים מאתגרים, כך שהילדים והסובבים אותך יראו אותך תמיד במיטבך</p>",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "heading_BcT6tA",
-        "buttons_Y7LM7T"
+        "column_TWAzqi",
+        "column_BTzMda",
+        "column_GtCaUb"
       ],
-      "disabled": true,
       "settings": {
-        "image": "shopify://shop_images/leaning-into-yoga-on-the-rocks.jpg",
-        "image_overlay_opacity": 30,
-        "image_height": "small",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-4",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": false
+        "title": "",
+        "title_direction": "rtl",
+        "title_alignment": "center",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "show_image_after_effect": true,
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "multirow_RkqD97": {
@@ -371,7 +384,7 @@
     "image_banner",
     "multicolumn_metaobject_D7Dgxt",
     "image_banner_TDHjac",
-    "image_banner_imkE4Q",
+    "multicolumn_PXpiCA",
     "multirow_RkqD97",
     "multicolumn_FFmiYB",
     "featured_blog_Qz8A6d",
