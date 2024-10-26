@@ -92,10 +92,18 @@
             "title_direction": "rtl"
           }
         },
+        "richtext_YpRQTg": {
+          "type": "richtext",
+          "settings": {
+            "higher_heading": "<strong>כלים מעשיים לשליטה בלחץ וחרדה בכל מצב</strong>",
+            "higher_heading_size": "h2",
+            "higher_title_direction": "rtl"
+          }
+        },
         "buttons_Ndhcmz": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "לחצי כאן",
+            "button_label_1": "לצאת מהלחץ",
             "button_weight_1": "bold",
             "button_link_1": "shopify://products/stress-less",
             "button_style_secondary_1": false,
@@ -107,6 +115,7 @@
       },
       "block_order": [
         "heading_kjr7r3",
+        "richtext_YpRQTg",
         "buttons_Ndhcmz"
       ],
       "settings": {
