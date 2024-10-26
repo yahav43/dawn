@@ -20,11 +20,12 @@
             "title_direction": "rtl"
           }
         },
-        "text": {
-          "type": "text",
+        "richtext_xWUt6q": {
+          "type": "richtext",
           "settings": {
-            "text": "הצטרפי ל +4,000 משתתפות שלמדו בשנה האחרונה לחיות ללא לחץ וחרדה מיותרים, עם כלים פרקטיים לכל מצב.",
-            "text_style": "body"
+            "higher_heading": "הצטרפי ל +4,000 משתתפות שלמדו בשנה האחרונה לחיות ללא לחץ וחרדה מיותרים, עם כלים פרקטיים לכל מצב.",
+            "higher_heading_size": "h2",
+            "higher_title_direction": "rtl"
           }
         },
         "button": {
@@ -42,7 +43,7 @@
       },
       "block_order": [
         "heading",
-        "text",
+        "richtext_xWUt6q",
         "button"
       ],
       "settings": {
