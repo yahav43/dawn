@@ -47,6 +47,28 @@
         "show_text_below": false
       }
     },
+    "rich_text_JqGEWK": {
+      "type": "rich-text",
+      "blocks": {
+        "text_TyHyUw": {
+          "type": "text",
+          "settings": {
+            "text": "<p>{{ product.metafields.custom.date_since_war | metafield_tag }} ימים</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_TyHyUw"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "rich_text_TFyPLC": {
       "type": "rich-text",
       "blocks": {
@@ -686,6 +708,7 @@
   },
   "order": [
     "image_banner_CQJiFm",
+    "rich_text_JqGEWK",
     "rich_text_TFyPLC",
     "image_with_text_7K4ARw",
     "image_banner_ffEqdk",
