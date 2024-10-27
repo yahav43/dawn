@@ -155,12 +155,12 @@
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
-        "column-0": {
+        "column_Tgtwaa": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/training-online-icon_528de975-6d4f-4bde-82ca-1d6a93864b06.svg",
-            "title": "<strong>8 שיעורים של 20 דקות בלבד</strong>",
-            "text": "<p>תכנית גמישה, מחולקת, וקלה לעיכול - שמותאמת לכל זמן ומקום.</p>",
+            "image": "shopify://shop_images/document-application-woman-icon.svg",
+            "title": "<strong>20 שנות ניסיון מזוקקות</strong>",
+            "text": "<p>מנחת הקורס, יעל מימון (סאדו׳י), מדריכת יוגה, רייקי, פסיכוטרפיה הוליסטית, תנחה אותך עם ניסיון רב מאוד.</p>",
             "link_label": "",
             "link": ""
           }
@@ -170,37 +170,46 @@
           "settings": {
             "image": "shopify://shop_images/check-mark-box-icon.svg",
             "title": "<strong>שיעור פתיחה שמסביר מהו לחץ</strong>",
-            "text": "<ul><li>תלמדי מה הוא לחץ וממה הוא נובע?</li><li><strong>מודל ה F.F.F</strong> - איך את מגיבה בלחץ?</li><li>גלי את הגורם מספר 1 למחלות בעולם המערבי</li></ul>",
+            "text": "<ul><li>תלמדי מה הוא לחץ וממה הוא נובע?</li><li>מודל ה F.F.F - איך את מגיבה בלחץ?</li><li>גלי את הגורם מספר 1 למחלות בעולם המערבי</li></ul>",
             "link_label": "",
             "link": ""
           }
         },
-        "column_Tgtwaa": {
+        "column_UaXeyC": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/document-application-woman-icon.svg",
-            "title": "{{ product.metafields.custom.product_explanation_third.value }}",
-            "text": "",
+            "title": "<strong>ניהול לחץ דרך תזונה וצמחים</strong>",
+            "text": "<p>למדי איך התזונה השוטפת שלך עלולה לפגוע באיכות החיים שלך, ולהעלות את הסיכויים לחרדות ולחצים.</p>",
             "link_label": "",
             "link": ""
           }
         },
-        "column_zAxyYT": {
+        "column_j9XKqF": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/calendar-checkmark-line-icon_a87e400a-41a3-45dc-a581-a4fc9fa98a8f.svg",
-            "title": "{{ product.metafields.custom.product_explanation_fourth.value }}",
-            "text": "<p>{{ product.metafields.custom.product_explanation_description_fourth | metafield_tag }}</p>",
+            "title": "<strong>״3 הנשימות״</strong>",
+            "text": "<p>את כנראה לא נושמת נכון, או לא מודעת לנשימה שלך ולכח שלה.</p><p>גלי את שיטות הנשימה המוכחות שירגיעו אותך בדקות ספורות, בכל מצב.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/training-online-icon_528de975-6d4f-4bde-82ca-1d6a93864b06.svg",
+            "title": "<strong>8 שיעורים של 20 דקות בלבד</strong>",
+            "text": "<p>תכנית גמישה, מחולקת, וקלה לעיכול, עם מגוון פתרונות לכל סיטואציה.</p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "column-0",
-        "column-1",
         "column_Tgtwaa",
-        "column_zAxyYT"
+        "column-1",
+        "column_UaXeyC",
+        "column_j9XKqF",
+        "column-0"
       ],
       "settings": {
         "title": "<strong>מה תקבלי ב StressLess?</strong>",
