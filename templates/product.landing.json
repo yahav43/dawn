@@ -155,6 +155,16 @@
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
+        "column_XxnP9r": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/scale-icon.svg",
+            "title": "<strong>חזרי לאיזון תוך 8 דקות</strong>",
+            "text": "<p>עם ״מדיטציית המפל״ ו״מדיטציית ההשתרשות״ שלנו.</p><p>המדיטציות מודרכות, קצרות ומעשיות, שתוכלי לעשות בכל מקום ובכל זמן, והן מובטחות להחזיר אותך למרכז שלך.</p><p><strong>במהירות.</strong></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_Tgtwaa": {
           "type": "column",
           "settings": {
@@ -168,9 +178,19 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/check-mark-box-icon.svg",
-            "title": "<strong>שיעור פתיחה שמסביר מהו לחץ</strong>",
+            "image": "shopify://shop_images/conclusion-icon.svg",
+            "title": "<strong>נבין מה הוא בכלל לחץ?</strong>",
             "text": "<ul><li>תלמדי מה הוא לחץ וממה הוא נובע?</li><li>מודל ה F.F.F - איך את מגיבה בלחץ?</li><li>גלי את הגורם מספר 1 למחלות בעולם המערבי</li></ul>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/training-online-icon_528de975-6d4f-4bde-82ca-1d6a93864b06.svg",
+            "title": "<strong>8 שיעורים של 20 דקות בלבד</strong>",
+            "text": "<p>תכנית גמישה, מחולקת, וקלה לעיכול, עם מגוון פתרונות לכל סיטואציה.</p>",
             "link_label": "",
             "link": ""
           }
@@ -178,6 +198,7 @@
         "column_UaXeyC": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/apple-fruit-icon.svg",
             "title": "<strong>ניהול לחץ דרך תזונה וצמחים</strong>",
             "text": "<p>למדי איך התזונה השוטפת שלך עלולה לפגוע באיכות החיים שלך, ולהעלות את הסיכויים לחרדות ולחצים.</p>",
             "link_label": "",
@@ -193,30 +214,12 @@
             "link": ""
           }
         },
-        "column-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/training-online-icon_528de975-6d4f-4bde-82ca-1d6a93864b06.svg",
-            "title": "<strong>8 שיעורים של 20 דקות בלבד</strong>",
-            "text": "<p>תכנית גמישה, מחולקת, וקלה לעיכול, עם מגוון פתרונות לכל סיטואציה.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_FCQVmc": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/head-idea-icon.svg",
             "title": "<strong>״3 מצבי הכרה ותודעה״</strong>",
             "text": "<p>תביני את סוגי התודעה השונים, איפה את נמצאת היום, וכיצד להשתמש בהם כדי להשתחרר מהלחץ.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_XxnP9r": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>מדיטציות מודרכות</strong>",
-            "text": "<p>כבונוס לסדנה החלטנו לכלול מדיטציות מודרכות, קצרות ומעשיות, שתוכלי לעשות בכל מקום ובכל זמן, והן מובטחות להחזיר אותך למרכז שלך.</p>",
             "link_label": "",
             "link": ""
           }
@@ -224,6 +227,7 @@
         "column_9jXE8w": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/referral-customer-icon.svg",
             "title": "<strong>ריפוי מערכות יחסים</strong>",
             "text": "<p>הלחץ והחרדה פוגעים במערכות היחסים החשובות עם האנשים שקרובים אליך.</p><p>תתכונני לשפר את התקשורת, להסביר את עצמך, ולהתקרב ליקירים שלך.</p>",
             "link_label": "",
@@ -232,13 +236,13 @@
         }
       },
       "block_order": [
+        "column_XxnP9r",
         "column_Tgtwaa",
         "column-1",
+        "column-0",
         "column_UaXeyC",
         "column_j9XKqF",
-        "column-0",
         "column_FCQVmc",
-        "column_XxnP9r",
         "column_9jXE8w"
       ],
       "settings": {
@@ -250,7 +254,7 @@
         "image_ratio": "adapt",
         "show_image_after_effect": true,
         "columns_desktop": 4,
-        "column_alignment": "right",
+        "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
