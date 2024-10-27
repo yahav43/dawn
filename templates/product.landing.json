@@ -613,7 +613,7 @@
           "settings": {
             "heading": "האם יש תמיכה טכנית?",
             "icon": "none",
-            "row_content": "<p>כן. ניתן לפנות אלינו בטופס <a href=\"/pages/contact\" target=\"_blank\" title=\"Contact\">יצירת הקשר</a> ואנו נעזור בהקדם.</p>",
+            "row_content": "<p>כן. ניתן לפנות אלינו בטופס <a href=\"/pages/contact\" target=\"_blank\" title=\"Contact\">יצירת הקשר</a> ואנו נעזור בהקדם.</p><p>התמיכה שלנו גם תמיד זמינה לך בכתובת:</p><p><a href=\"mailto:support@thecenterofthecircle.com\" target=\"_blank\" title=\"שליחת מייל לשירות הלקוחות של מרכז המעגל\">support@thecenterofthecircle.com</a></p>",
             "page": ""
           }
         },
@@ -640,7 +640,7 @@
           "settings": {
             "heading": "מה קורה אם אני לא מרוצה מהקורס?",
             "icon": "none",
-            "row_content": "<p>במידה ואינך מרוצה מהתכנים ניתן לבקש זיכוי וביטול, ואנו נדאג לבצע זיכוי לאמצעי התשלום איתו שילמת.</p><p>עם ביצוע הבקשה, הגישה לתכני הקורס תוסר.</p>",
+            "row_content": "<p>במידה ואינך מרוצה מהתכנים, ובכפוף <a href=\"/policies/terms-of-service\" target=\"_blank\" title=\"Terms of Service\">לתקנון האתר</a>, ניתן לבקש זיכוי וביטול, ואנו נדאג לבצע זיכוי לאמצעי התשלום איתו שילמת.</p><p>עם ביצוע הבקשה, הגישה לתכני הקורס תוסר.</p>",
             "page": ""
           }
         }
