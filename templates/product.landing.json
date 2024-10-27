@@ -303,7 +303,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/israel-flag-icon.svg",
-            "title": "{{ product.metafields.custom.landing_secondary_title_one.value }}",
+            "title": "נוצר במיוחד בהתאמה למציאות המורכבת שאנו חיים בה כיום",
             "text": "",
             "link_label": "",
             "link": ""
@@ -336,7 +336,7 @@
         "column_7FKB3H"
       ],
       "settings": {
-        "title": "<strong>למה StressLess?</strong>",
+        "title": "<strong>מותאם למצב</strong>",
         "title_direction": "rtl",
         "title_alignment": "center",
         "heading_size": "h0",
@@ -368,7 +368,7 @@
         "text_hbLJLg": {
           "type": "text",
           "settings": {
-            "text": "<p>כל יום שעובר הוא עוד יום של:</p><ul><li>הפסד רגעים יקרים עם המשפחה</li><li>ירידה בפרודוקטיביות בעבודה</li><li>פגיעה באיכות השינה</li><li>הצטברות מתח שעלול להוביל לבעיות בריאות</li></ul>"
+            "text": "<p>כל יום שעובר הוא עוד יום של:</p><ul><li>הפסד רגעים יקרים עם המשפחה</li><li>הצטברות מתח שעלול לפגוע לך בריאות</li><li>פגיעה באיכות השינה</li><li>ירידה בפרודוקטיביות בעבודה</li></ul>"
           }
         }
       },
