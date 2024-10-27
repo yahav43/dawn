@@ -220,6 +220,15 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_9jXE8w": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>ריפוי מערכות יחסים</strong>",
+            "text": "<p>הלחץ והחרדה פוגעים במערכות היחסים החשובות עם האנשים שקרובים אליך.</p><p>תתכונני לשפר את התקשורת, להסביר את עצמך, ולהתקרב ליקירים שלך.</p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -229,7 +238,8 @@
         "column_j9XKqF",
         "column-0",
         "column_FCQVmc",
-        "column_XxnP9r"
+        "column_XxnP9r",
+        "column_9jXE8w"
       ],
       "settings": {
         "title": "<strong>מה תקבלי ב StressLess?</strong>",
