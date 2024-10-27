@@ -187,7 +187,7 @@
         "column_j9XKqF": {
           "type": "column",
           "settings": {
-            "title": "<strong>״3 הנשימות״</strong>",
+            "title": "<strong>הזכרי איך לנשום</strong>",
             "text": "<p>את כנראה לא נושמת נכון, או לא מודעת לנשימה שלך ולכח שלה.</p><p>גלי את שיטות הנשימה המוכחות שירגיעו אותך בדקות ספורות, בכל מצב.</p>",
             "link_label": "",
             "link": ""
@@ -202,6 +202,24 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_FCQVmc": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>״3 מצבי הכרה ותודעה״</strong>",
+            "text": "<p>תביני את סוגי התודעה השונים, איפה את נמצאת היום, וכיצד להשתמש בהם כדי להשתחרר מהלחץ.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_XxnP9r": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>מדיטציות מודרכות</strong>",
+            "text": "<p>כבונוס לסדנה החלטנו לכלול מדיטציות מודרכות, קצרות ומעשיות, שתוכלי לעשות בכל מקום ובכל זמן, והן מובטחות להחזיר אותך למרכז שלך.</p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -209,7 +227,9 @@
         "column-1",
         "column_UaXeyC",
         "column_j9XKqF",
-        "column-0"
+        "column-0",
+        "column_FCQVmc",
+        "column_XxnP9r"
       ],
       "settings": {
         "title": "<strong>מה תקבלי ב StressLess?</strong>",
