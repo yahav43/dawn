@@ -211,7 +211,7 @@
         "image_ratio": "adapt",
         "show_image_after_effect": true,
         "columns_desktop": 4,
-        "column_alignment": "center",
+        "column_alignment": "right",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
