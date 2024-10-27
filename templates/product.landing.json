@@ -127,7 +127,7 @@
         "text_UqDq6P": {
           "type": "text",
           "settings": {
-            "text": "<ul><li>האם את מוצאת את עצמך בודקת חדשות בכפייתיות?</li><li>האם הדאגה לעתיד מונעת ממך ליהנות מהרגע?</li><li>האם את מרגישה שאיכות החיים שלך נפגעת?</li><li>האם את חשה חסרי אונים מול המציאות?</li></ul><h2><strong>אם ענית 'כן' לאחת השאלות הללו, את לא לבד.</strong></h2>",
+            "text": "<ul><li>האם את מוצאת את עצמך בודקת חדשות בצורה אובססיבית?</li><li>האם הדאגה הבלתי פוסקת מונעת ממך ליהנות מהרגע?</li><li>האם את מרגישה שאיכות החיים שלך נפגעת?</li><li>האם את חשה חוסר אונים מול המציאות?</li></ul><h2><strong>אם ענית 'כן' לאחת השאלות הללו, את לא לבד.</strong></h2>",
             "text_style": "body"
           }
         }
@@ -152,43 +152,6 @@
         "padding_bottom": 36
       }
     },
-    "image_banner_ffEqdk": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_rrrfbb": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>הכירי את StressLess</strong>",
-            "heading_size": "h1",
-            "title_direction": "rtl"
-          }
-        },
-        "text_bQAgrd": {
-          "type": "text",
-          "settings": {
-            "text": "<h2><strong>StressLess נוצר במיוחד עבורך, במציאות מורכבת ומאתגרת. אי אפשר לשנות את המציאות סביבנו, אבל אפשר לשנות את הדרך שבה אנחנו מגיבים אליה.</strong><h2>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_rrrfbb",
-        "text_bQAgrd"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/candle-in-natural-stone-holder.jpg",
-        "image_overlay_opacity": 60,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-4",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
@@ -196,8 +159,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/training-online-icon_528de975-6d4f-4bde-82ca-1d6a93864b06.svg",
-            "title": "{{ product.metafields.custom.product_explanation_first.value }}",
-            "text": "<p>{{ product.metafields.custom.product_explanation_description_first | metafield_tag }}</p>",
+            "title": "<strong>8 שיעורים של 20 דקות בלבד</strong>",
+            "text": "<p>תכנית גמישה, מחולקת, וקלה לעיכול - שמותאמת לכל זמן ומקום.</p>",
             "link_label": "",
             "link": ""
           }
@@ -206,8 +169,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/check-mark-box-icon.svg",
-            "title": "{{ product.metafields.custom.product_explanation_second.value }}",
-            "text": "<p>{{ product.metafields.custom.product_explanation_description_second | metafield_tag }}</p>",
+            "title": "<strong>שיעור פתיחה שמסביר מהו לחץ</strong>",
+            "text": "<ul><li>תלמדי מה הוא לחץ וממה הוא נובע?</li><li><strong>מודל ה F.F.F</strong> - איך את מגיבה בלחץ?</li><li>גלי את הגורם מספר 1 למחלות בעולם המערבי</li></ul>",
             "link_label": "",
             "link": ""
           }
@@ -725,7 +688,6 @@
     "main_product_G9DUDg",
     "rich_text_TFyPLC",
     "image_with_text_7K4ARw",
-    "image_banner_ffEqdk",
     "multicolumn",
     "rich_text_nce7nq",
     "multicolumn_J8dJaF",
