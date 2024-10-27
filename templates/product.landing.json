@@ -44,7 +44,7 @@
             "layout": "horizontal",
             "icon_1": "none",
             "image_1": "shopify://shop_images/recurring-subscription-icon.svg",
-            "heading_1": "זיכוי כספי מלא",
+            "heading_1": "זיכוי כספי בקלות",
             "icon_2": "none",
             "image_2": "shopify://shop_images/secure-payment-icon.svg",
             "heading_2": "תשלום מאובטח",
@@ -424,7 +424,7 @@
             "layout": "horizontal",
             "icon_1": "none",
             "image_1": "shopify://shop_images/recurring-subscription-icon.svg",
-            "heading_1": "זיכוי כספי עד 30 יום",
+            "heading_1": "זיכוי כספי בקלות",
             "icon_2": "none",
             "image_2": "shopify://shop_images/secure-payment-icon.svg",
             "heading_2": "תשלום מאובטח",
@@ -433,7 +433,7 @@
             "heading_3": "תוצאות מוכחות",
             "icon_4": "none",
             "image_4": "shopify://shop_images/pos-swipe-icon.svg",
-            "heading_4": "פריסה לתשלומים"
+            "heading_4": "חלוקה לתשלומים"
           }
         }
       },
