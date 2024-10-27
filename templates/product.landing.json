@@ -195,25 +195,6 @@
             "link": ""
           }
         },
-        "column_UaXeyC": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/apple-fruit-icon.svg",
-            "title": "<strong>ניהול לחץ דרך תזונה וצמחים</strong>",
-            "text": "<p>למדי איך התזונה השוטפת שלך עלולה לפגוע באיכות החיים שלך, ולהעלות את הסיכויים לחרדות ולחצים.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_j9XKqF": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>הזכרי איך לנשום</strong>",
-            "text": "<p>את כנראה לא נושמת נכון, או לא מודעת לנשימה שלך ולכח שלה.</p><p>גלי את שיטות הנשימה המוכחות שירגיעו אותך בדקות ספורות, בכל מצב.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_FCQVmc": {
           "type": "column",
           "settings": {
@@ -233,6 +214,26 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_j9XKqF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/good-breathing-icon.svg",
+            "title": "<strong>הזכרי איך לנשום</strong>",
+            "text": "<p>את כנראה לא נושמת נכון, או לא מודעת לנשימה שלך, ולכח שלה.</p><p>גלי את שיטות הנשימה המוכחות שירגיעו אותך בדקות ספורות, בכל מצב.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_UaXeyC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/apple-fruit-icon.svg",
+            "title": "<strong>ניהול לחץ דרך תזונה וצמחים</strong>",
+            "text": "<p>למדי איך התזונה השוטפת שלך עלולה לפגוע באיכות החיים שלך, ולהעלות את הסיכויים לחרדות ולחצים.</p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -240,10 +241,10 @@
         "column_Tgtwaa",
         "column-1",
         "column-0",
-        "column_UaXeyC",
-        "column_j9XKqF",
         "column_FCQVmc",
-        "column_9jXE8w"
+        "column_9jXE8w",
+        "column_j9XKqF",
+        "column_UaXeyC"
       ],
       "settings": {
         "title": "<strong>מה תקבלי ב StressLess?</strong>",
