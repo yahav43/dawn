@@ -216,13 +216,63 @@
         "text_style": "body",
         "button_style": "secondary",
         "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
+        "desktop_content_alignment": "right",
         "image_layout": "alternate-left",
         "section_color_scheme": "",
         "row_color_scheme": "",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "image_banner_jFwcht": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_aC7Rf4": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>חדשה לעולם היוגה?</strong>",
+            "heading_size": "h0",
+            "title_direction": "rtl"
+          }
+        },
+        "text_RwLMf4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>גלי את עולם היוגה דרך הריטריט הדיגיטלי שלנו</p>",
+            "text_style": "body"
+          }
+        },
+        "buttons_KJxcFU": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "לחצי כאן",
+            "button_weight_1": "bold",
+            "button_link_1": "shopify://products/yoga-path",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_aC7Rf4",
+        "text_RwLMf4",
+        "buttons_KJxcFU"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/IMG_2362.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "large",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-4",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
       }
     },
     "multicolumn_FFmiYB": {
@@ -298,7 +348,7 @@
         "column_jg9NH7"
       ],
       "settings": {
-        "title": "<strong>למה לבחור ב C.o.C?</strong>",
+        "title": "<strong>למה לבחור במרכז המעגל?</strong>",
         "title_direction": "rtl",
         "title_alignment": "center",
         "heading_size": "h1",
@@ -336,56 +386,6 @@
         "padding_bottom": 36
       }
     },
-    "image_banner_jFwcht": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_aC7Rf4": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>חדשה לעולם היוגה?</strong>",
-            "heading_size": "h0",
-            "title_direction": "rtl"
-          }
-        },
-        "text_RwLMf4": {
-          "type": "text",
-          "settings": {
-            "text": "<p>גלי את עולם היוגה דרך הריטריט הדיגיטלי שלנו</p>",
-            "text_style": "body"
-          }
-        },
-        "buttons_KJxcFU": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "לחצי כאן",
-            "button_weight_1": "bold",
-            "button_link_1": "shopify://products/yoga-path",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_aC7Rf4",
-        "text_RwLMf4",
-        "buttons_KJxcFU"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/IMG_2362.jpg",
-        "image_overlay_opacity": 40,
-        "image_height": "large",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-4",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
     "172994437329c3323e": {
       "type": "apps",
       "blocks": {
@@ -410,9 +410,9 @@
     "image_banner_TDHjac",
     "multicolumn_PXpiCA",
     "multirow_RkqD97",
+    "image_banner_jFwcht",
     "multicolumn_FFmiYB",
     "featured_blog_Qz8A6d",
-    "image_banner_jFwcht",
     "172994437329c3323e"
   ]
 }
