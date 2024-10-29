@@ -250,12 +250,23 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_TcUgem": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/male-services-support-icon.svg",
+            "title": "<strong>תמיכה מלאה</strong>",
+            "text": "<p>צוות התמיכה הטכנית שלנו יהיה זמין לך לכל שאלה.</p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "column_tVCQrz",
         "column_Bpt7Nz",
-        "column_XzEMjE"
+        "column_XzEMjE",
+        "column_TcUgem"
       ],
       "settings": {
         "title": "ריטריט דיגיטלי? איך זה עובד?",
@@ -265,7 +276,7 @@
         "image_width": "third",
         "image_ratio": "adapt",
         "show_image_after_effect": false,
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
