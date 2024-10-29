@@ -65,7 +65,7 @@
         "heading_PENWBV": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>תיאור המסע</strong>",
+            "heading": "<strong>למה להתחיל דווקא מכאן?</strong>",
             "heading_size": "h0",
             "title_direction": "rtl"
           }
@@ -73,7 +73,7 @@
         "text_jq4Xjq": {
           "type": "text",
           "settings": {
-            "text": "<p>המסע הרוחני הוא מסע פנימה. דרך היוגה השלמה מזמינה אותך להיכנס אל המרחב הפנימי שלך, להתרחב מעבר לכיווצים ולשחרר את מה שמגביל אותך.</p>",
+            "text": "<p>היוגה היא דרך חיים, ולא רק תרגול על המזרן.</p><p><em>דרך היוגה השלמה</em> נבנה במיוחד כדי להוביל אותך דרך שלבי הבסיס של היוגה, צעד אחר צעד, באופן מדויק ותומך, שמותאם במיוחד גם למי שחדשה לגמרי בעולם הזה.</p><p>כל אחד מהשיעורים מתמקד בהיבט אחר של היוגה ומשלב תרגולי נשימה, מדיטציה ותנוחות עדינות – כך שכל שלב במסע שלך יאפשר לך להעמיק ולהכיר את עצמך טוב יותר.</p>",
             "text_style": "body"
           }
         }
@@ -84,7 +84,7 @@
       ],
       "settings": {
         "image": "shopify://shop_images/1_73ec957f-4c6f-48b2-93ba-4a2944c734d6.jpg",
-        "image_overlay_opacity": 50,
+        "image_overlay_opacity": 60,
         "image_height": "large",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
