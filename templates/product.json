@@ -96,6 +96,65 @@
         "show_text_below": false
       }
     },
+    "multicolumn_J8dJaF": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_CA3tUM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/scale-icon.svg",
+            "title": "<strong>שקט פנימי ואיזון</strong>",
+            "text": "<p>לרצות להפסיק לרדוף אחרי המטרות החיצוניות ולהתחבר למהות האמיתית שבתוכך.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_9fDaxp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/full-moon-icon.svg",
+            "title": "<strong>הגשמה עצמית</strong>",
+            "text": "<p>להביא את עצמך לחיים של יוגה, אמת והשתחררות מהסבל הקיומי.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_R38JXD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/yoga-exercise-icon.svg",
+            "title": "<strong>נוכחות עמוקה</strong>",
+            "text": "<p>לחיות את הרגע, להיות מודעים לתודעה שלכם, לגוף ולנשימה.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_CA3tUM",
+        "column_9fDaxp",
+        "column_R38JXD"
+      ],
+      "settings": {
+        "title": "<strong>מה את מקבלת</strong>",
+        "title_direction": "rtl",
+        "title_alignment": "center",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "show_image_after_effect": false,
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-3",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 52,
+        "padding_bottom": 52
+      }
+    },
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
@@ -103,8 +162,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/pigeon-dove-icon.svg",
-            "title": "<strong>שחרור מסבל</strong>",
-            "text": "<p>דרך תרגול היוגה, הנשימות והחוכמה העתיקה, נלמד כיצד לחיות ללא סבל ולהשתחרר מהכבלים הפנימיים.</p>",
+            "title": "<strong>תנוחות יוגה (אסאנות) מעצימות</strong>",
+            "text": "<p>מותאמות למתחילים (וגם למתקדמים), אשר יובילו אותך לאיזון פנימי ולתחושת שלווה כללית.</p>",
             "link_label": "",
             "link": ""
           }
@@ -147,7 +206,7 @@
         "column_zAxyYT"
       ],
       "settings": {
-        "title": "",
+        "title": "<strong>מה כלול בריטריט?</strong>",
         "title_direction": "rtl",
         "title_alignment": "center",
         "heading_size": "h1",
@@ -160,65 +219,6 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 52,
-        "padding_bottom": 52
-      }
-    },
-    "multicolumn_J8dJaF": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_CA3tUM": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/scale-icon.svg",
-            "title": "<strong>שקט פנימי ואיזון</strong>",
-            "text": "<p>לרצות להפסיק לרדוף אחרי המטרות החיצוניות ולהתחבר למהות האמיתית שבתוכך.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_9fDaxp": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/full-moon-icon.svg",
-            "title": "<strong>הגשמה עצמית</strong>",
-            "text": "<p>להביא את עצמך לחיים של יוגה, אמת והשתחררות מהסבל הקיומי.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_R38JXD": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/yoga-exercise-icon.svg",
-            "title": "<strong>נוכחות עמוקה</strong>",
-            "text": "<p>לחיות את הרגע, להיות מודעים לתודעה שלכם, לגוף ולנשימה.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_CA3tUM",
-        "column_9fDaxp",
-        "column_R38JXD"
-      ],
-      "settings": {
-        "title": "למי הריטריט מתאים?",
-        "title_direction": "rtl",
-        "title_alignment": "center",
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "show_image_after_effect": false,
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-3",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 52,
@@ -573,8 +573,8 @@
   "order": [
     "main",
     "image_banner_dN7ahN",
-    "multicolumn",
     "multicolumn_J8dJaF",
+    "multicolumn",
     "multicolumn_EJJeFK",
     "secondary_product_EtVzUj",
     "rich_text_x8bVDk",
