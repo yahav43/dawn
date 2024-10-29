@@ -387,21 +387,34 @@
         "padding_bottom": 36
       }
     },
-    "172994437329c3323e": {
-      "type": "apps",
+    "rich_text_cXhPqB": {
+      "type": "rich-text",
       "blocks": {
-        "klaviyo_email_marketing_sms_form_embed_block_j43fPr": {
-          "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/form-embed-block/2632fe16-c075-4321-a88b-50b567f42507",
+        "heading_zMRYRj": {
+          "type": "heading",
           "settings": {
-            "formId": ""
+            "heading": "<strong>מרכז המעגל – היוגה, המדיטציה והריפוי העצמי במקום אחד</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_qp6Ly7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>במרכז המעגל אנחנו מאמינים בכוחם של יוגה, מדיטציה וריפוי עצמי להוביל לאיזון אמיתי ולשקט פנימי.</p><p>אצלנו תמצאי סדנאות ותרגולים ייחודיים המעודדים צמיחה והתחברות פנימית, לצד כלים ותכנים לחיים של בריאות ושלווה.</p><p>הצטרפי אלינו למסע המשלב ידע עתיק עם גישות מודרניות, לחיים בריאים, מאוזנים ומלאי משמעות.</p>"
           }
         }
       },
       "block_order": [
-        "klaviyo_email_marketing_sms_form_embed_block_j43fPr"
+        "heading_zMRYRj",
+        "text_qp6Ly7"
       ],
       "settings": {
-        "include_margins": true
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
@@ -414,6 +427,6 @@
     "image_banner_jFwcht",
     "multicolumn_FFmiYB",
     "featured_blog_Qz8A6d",
-    "172994437329c3323e"
+    "rich_text_cXhPqB"
   ]
 }
