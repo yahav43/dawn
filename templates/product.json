@@ -73,7 +73,7 @@
         "text_jq4Xjq": {
           "type": "text",
           "settings": {
-            "text": "<p>היוגה היא דרך חיים, ולא רק תרגול על המזרן.</p><p><em>דרך היוגה השלמה</em> נבנה במיוחד כדי להוביל אותך דרך שלבי הבסיס של היוגה, צעד אחר צעד, באופן מדויק ותומך, שמותאם במיוחד גם למי שחדשה לגמרי בעולם הזה.</p><p>כל אחד מהשיעורים מתמקד בהיבט אחר של היוגה ומשלב תרגולי נשימה, מדיטציה ותנוחות עדינות – כך שכל שלב במסע שלך יאפשר לך להעמיק ולהכיר את עצמך טוב יותר.</p>",
+            "text": "<h3>היוגה היא דרך חיים, ולא רק תרגול על המזרן.</h3><h3><em>דרך היוגה השלמה</em> נבנה במיוחד כדי להוביל אותך דרך שלבי הבסיס של היוגה, צעד אחר צעד, באופן מדויק ותומך, שמותאם במיוחד גם למי שחדשה לגמרי בעולם הזה.</h3><h3>כל אחד מהשיעורים מתמקד בהיבט אחר של היוגה ומשלב תרגולי נשימה, מדיטציה ותנוחות עדינות – כך שכל שלב במסע שלך יאפשר לך להעמיק ולהכיר את עצמך טוב יותר.</h3>",
             "text_style": "body"
           }
         }
@@ -173,7 +173,7 @@
           "settings": {
             "image": "shopify://shop_images/girl-exercise-pose-icon.svg",
             "title": "<strong>שלושת הגונות</strong>",
-            "text": "<p>נבין את שלושת מצבי ההכרה ונגלה כיצד לאזן את התודעה.</p>",
+            "text": "<p>הכירי את שלושת מצבי ההכרה - סאדווה, תמאס ורג׳אס, וגלי כיצד לאזן את התודעה.</p>",
             "link_label": "",
             "link": ""
           }
@@ -422,25 +422,6 @@
         "padding_bottom": 36
       }
     },
-    "related-products": {
-      "type": "related-products",
-      "disabled": true,
-      "settings": {
-        "heading": "You may also like",
-        "heading_size": "h2",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "color_scheme": "scheme-1",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "columns_mobile": "2",
-        "padding_top": 36,
-        "padding_bottom": 28
-      }
-    },
     "collapsible_content_BhkJmX": {
       "type": "collapsible-content",
       "blocks": {
@@ -525,11 +506,10 @@
     "secondary_product_GxN9ta": {
       "type": "secondary-product",
       "blocks": {
-        "text_WzR4QV": {
-          "type": "text",
+        "title_xHUgrd": {
+          "type": "title",
           "settings": {
-            "text": "העולם החיצוני רועש, אבל השקט האמיתי נמצא בתוכך. הצטרפי לריטריט הדיגיטלי והעניקי לעצמך את החופש לחיות חיים שלווים ומלאי משמעות.",
-            "text_style": "body"
+            "heading_size": "h1"
           }
         },
         "price_KDHhth": {
@@ -553,7 +533,7 @@
         }
       },
       "block_order": [
-        "text_WzR4QV",
+        "title_xHUgrd",
         "price_KDHhth",
         "variant_picker_c8iEUf",
         "buy_buttons_rrqHNe"
@@ -580,7 +560,6 @@
     "rich_text_x8bVDk",
     "17211428891945090f",
     "multirow_Cy7zp8",
-    "related-products",
     "collapsible_content_BhkJmX",
     "secondary_product_GxN9ta"
   ]
