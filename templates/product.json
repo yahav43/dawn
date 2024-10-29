@@ -59,41 +59,34 @@
         "padding_bottom": 12
       }
     },
-    "image_banner_dN7ahN": {
-      "type": "image-banner",
+    "rich_text_9fKHgT": {
+      "type": "rich-text",
       "blocks": {
-        "heading_PENWBV": {
+        "heading_TLi9jA": {
           "type": "heading",
           "settings": {
             "heading": "<strong>למה להתחיל דווקא מכאן?</strong>",
-            "heading_size": "h0",
-            "title_direction": "rtl"
+            "heading_size": "h1"
           }
         },
-        "text_jq4Xjq": {
+        "text_BqLwTk": {
           "type": "text",
           "settings": {
-            "text": "<h3>היוגה היא דרך חיים, ולא רק תרגול על המזרן.</h3><h3><em>דרך היוגה השלמה</em> נבנה במיוחד כדי להוביל אותך דרך שלבי הבסיס של היוגה, צעד אחר צעד, באופן מדויק ותומך, שמותאם במיוחד גם למי שחדשה לגמרי בעולם הזה.</h3><h3>כל אחד מהשיעורים מתמקד בהיבט אחר של היוגה ומשלב תרגולי נשימה, מדיטציה ותנוחות עדינות – כך שכל שלב במסע שלך יאפשר לך להעמיק ולהכיר את עצמך טוב יותר.</h3>",
-            "text_style": "body"
+            "text": "<p>היוגה היא דרך חיים, ולא רק תרגול על המזרן.</p><p><em>דרך היוגה השלמה</em> נבנה במיוחד כדי להוביל אותך דרך שלבי הבסיס של היוגה, צעד אחר צעד, באופן מדויק ותומך, אשר מותאם במיוחד גם למי שחדשה לגמרי בעולם הזה.</p><p>כל אחד מהשיעורים מתמקד בהיבט אחר של היוגה ומשלב תרגולי נשימה, מדיטציה ותנוחות עדינות – כך שכל שלב במסע שלך יאפשר לך להעמיק ולהכיר את עצמך טוב יותר.</p>"
           }
         }
       },
       "block_order": [
-        "heading_PENWBV",
-        "text_jq4Xjq"
+        "heading_TLi9jA",
+        "text_BqLwTk"
       ],
       "settings": {
-        "image": "shopify://shop_images/1_73ec957f-4c6f-48b2-93ba-4a2944c734d6.jpg",
-        "image_overlay_opacity": 60,
-        "image_height": "large",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-4",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": false
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "full_width": true,
+        "padding_top": 52,
+        "padding_bottom": 52
       }
     },
     "multicolumn_J8dJaF": {
@@ -552,7 +545,7 @@
   },
   "order": [
     "main",
-    "image_banner_dN7ahN",
+    "rich_text_9fKHgT",
     "multicolumn_J8dJaF",
     "multicolumn",
     "multicolumn_EJJeFK",
