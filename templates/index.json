@@ -236,11 +236,12 @@
             "title_direction": "rtl"
           }
         },
-        "text_RwLMf4": {
-          "type": "text",
+        "richtext_83WUBz": {
+          "type": "richtext",
           "settings": {
-            "text": "<p>גלי את עולם היוגה דרך הריטריט הדיגיטלי שלנו</p>",
-            "text_style": "body"
+            "higher_heading": "גלי את עולם היוגה דרך הריטריט הדיגיטלי שלנו",
+            "higher_heading_size": "h1",
+            "higher_title_direction": "rtl"
           }
         },
         "buttons_KJxcFU": {
@@ -258,7 +259,7 @@
       },
       "block_order": [
         "heading_aC7Rf4",
-        "text_RwLMf4",
+        "richtext_83WUBz",
         "buttons_KJxcFU"
       ],
       "settings": {
