@@ -17,7 +17,7 @@
   transform: rotate(180deg);
 }
 
-.breadcrumbs__link {
+.breadcrumbs__item a {
   color: rgb(var(--color-foreground));
   font-size: var(--font-body-scale-small);
 }
