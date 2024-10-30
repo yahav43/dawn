@@ -331,7 +331,7 @@
       "from": "מ",
       "filter_and_sort": "פילטר",
       "filter_by_label": "פילטור לפי:",
-      "filter_button": "החל",
+      "filter_button": "פילטר",
       "filters_selected": {
         "one": "פילטר {{ count }} פעיל",
         "other": "{{ count }} פילטרים פעילים"
