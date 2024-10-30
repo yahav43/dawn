@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "t:sections.header.name",
   "type": "header",
@@ -33,9 +33,42 @@
         "padding_top": 8,
         "padding_bottom": 12
       }
+    },
+    "announcement_bar_Wc3pW4": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement_6gWrKC": {
+          "type": "announcement",
+          "settings": {
+            "text": "מבצע השקה - 25% הנחה על כל האתר",
+            "link": "shopify://collections/כל-המוצרים"
+          }
+        },
+        "announcement_hanYbi": {
+          "type": "announcement",
+          "settings": {
+            "text": "ברוכה הבאה אל מרכז המעגל",
+            "link": "/"
+          }
+        }
+      },
+      "block_order": [
+        "announcement_6gWrKC",
+        "announcement_hanYbi"
+      ],
+      "settings": {
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "show_line_separator": true,
+        "show_social": false,
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "enable_country_selector": false,
+        "enable_language_selector": false
+      }
     }
   },
   "order": [
-    "header"
+    "header",
+    "announcement_bar_Wc3pW4"
   ]
 }
