@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "accessibility": {
     "skip_to_text": "דילוג לתוכן",
@@ -62,13 +71,11 @@
       "update": "עדכון",
       "login": {
         "title": "יש לך משתמש?",
-        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">התחברי<\/a> לתהליך רכישה מהיר ונח."
+        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">התחברי</a> לתהליך רכישה מהיר ונח."
       }
     },
     "footer": {
-      "payment": "אמצעי תשלום",
-      "policies": {
-      }
+      "payment": "אמצעי תשלום"
     },
     "featured_blog": {
       "view_all": "מאמרים נוספים",
@@ -156,7 +163,7 @@
       "login_form_password_placeholder": "סיסמא",
       "login_form_error": "אירעה שגיאה",
       "login_form_submit": "כניסה",
-      "admin_link_html": "<a href=\"\/admin\" class=\"link underlined-link\">כניסת הנהלת האתר<\/a>",
+      "admin_link_html": "<a href=\"/admin\" class=\"link underlined-link\">כניסת הנהלת האתר</a>",
       "powered_by_shopify_html": "",
       "copyright_html": "כל הזכויות שמורות ליעל מימון &copy;"
     },
@@ -273,7 +280,7 @@
         "multiples_of": "",
         "min_of": "",
         "max_of": "",
-        "in_cart_html": "<span class=\"quantity-car\"״>{{ quantity }}<\/span> בסל",
+        "in_cart_html": "<span class=\"quantity-car\"״>{{ quantity }}</span> בסל",
         "note": ""
       },
       "volume_pricing": {
@@ -311,7 +318,7 @@
       "taxes_included": "כולל מע״מ",
       "duties_included": "",
       "duties_and_taxes_included": "כולל מע״מ",
-      "shipping_policy_html": "<a href=\"{{ link }}\">משלוח<\/a> יחושב בשלב התשלום."
+      "shipping_policy_html": "<a href=\"{{ link }}\">משלוח</a> יחושב בשלב התשלום."
     },
     "modal": {
       "label": ""
@@ -496,7 +503,7 @@
         "Refunded": "בוטלה ובוצע זיכוי",
         "Paid": "שולם"
       },
-      "qr_code_password_html": "סיסמת ברקוד החבילה - <b>{{ password }}<\/b>"
+      "qr_code_password_html": "סיסמת ברקוד החבילה - <b>{{ password }}</b>"
     },
     "orders": {
       "title": "הסטוריית הזמנות",
@@ -523,9 +530,9 @@
       "form_errors": {
         "email": "יש להזין כתובת מייל תקינה.",
         "password": "יש להזין סיסמה הכוללת לפחות 5 תווים.",
-        "email_taken_html": "זיהינו כי כבר קיים משתמש עם המייל שניסית להירשם איתו. אם כבר נרשמת לאתר, ניתן <a href='\/account\/login#recover'>לאפס סיסמא כאן<\/a>."
+        "email_taken_html": "זיהינו כי כבר קיים משתמש עם המייל שניסית להירשם איתו. אם כבר נרשמת לאתר, ניתן <a href='/account/login#recover'>לאפס סיסמא כאן</a>."
       },
-      "marketing_consent_html": "הרשמה לאתר מהווה את <a href='#' class='inline link-underline'>תקנון האתר ומדיניות הפרטיות,<\/a> וקבלת מיילים שיווקיים."
+      "marketing_consent_html": "הרשמה לאתר מהווה את <a href='#' class='inline link-underline'>תקנון האתר ומדיניות הפרטיות,</a> וקבלת מיילים שיווקיים."
     },
     "reset_password": {
       "title": "איפוס סיסמא",
@@ -607,7 +614,7 @@
         "different_shipping_address_label": "משלוח לכתובת שונה"
       },
       "marketing": {
-        "accept_marketing_checkbox_label": "אני מאשר\/ת קבלת מסרים שיווקיים."
+        "accept_marketing_checkbox_label": "אני מאשר/ת קבלת מסרים שיווקיים."
       },
       "payment": {
         "payment_method": "אמצעי תשלום",
@@ -617,7 +624,7 @@
           "payment_tag": "גיפט קארד",
           "add_label": "הוספת גיפט קארד",
           "apply_gift_card_label": "מימוש גיפט קארד",
-          "apply_another_gift_card_label": "מימוש גיפט קארד אחר\/נוסף"
+          "apply_another_gift_card_label": "מימוש גיפט קארד אחר/נוסף"
         },
         "payment_method_saved": "אמצעי התשלום נשמר",
         "amount_left_to_pay_label": "תשלום עד:",
@@ -658,8 +665,8 @@
         "name_on_card_placeholder": "שם בעל הכרטיס",
         "card_number_label": "מספר כרטיס",
         "card_number_placeholder": "מספר כרטיס",
-        "card_expiry_label": "תוקף (MM\/YY)",
-        "card_expiry_placeholder": "תוקף (MM\/YY)",
+        "card_expiry_label": "תוקף (MM/YY)",
+        "card_expiry_placeholder": "תוקף (MM/YY)",
         "card_expiry_date_explanation": "תוקף הכרטיס - חודשים ושנים",
         "card_expiration_month_label": "תוקף (חודש)",
         "card_expiration_year_label": "תוקף (שנה)",
@@ -679,7 +686,9 @@
         },
         "delete_credit_card_modal": {
           "cancel": "ביטול"
-        }
+        },
+        "offsite_gateway_redirect_hint": "המשיכי למעבר לתשלום בדף המאובטח",
+        "offsite_gateway_review_page_redirect_hint": "המשיכי למעבר לתשלום בדף המאובטח"
       },
       "failed_payment": {
         "page_title": "אירעה שגיאה. התשלום לא עבר.",
@@ -753,7 +762,7 @@
         "gift_card_and_discount_title": "קוד קופון או גיפט קארד",
         "gift_card_and_discount_label": "קוד קופון או גיפט קארד",
         "gift_card_and_discount_placeholder": "כאן מכניסים קוד קופון או קוד גיפט קארד",
-        "cart_does_not_meet_discount_requirements_notice": "קוד הקופון <strong style=\"text-transform:uppercase\">{{ code }}<\/strong>אינו תקף על הפריטים שבסל הקניות שלך.",
+        "cart_does_not_meet_discount_requirements_notice": "קוד הקופון <strong style=\"text-transform:uppercase\">{{ code }}</strong>אינו תקף על הפריטים שבסל הקניות שלך.",
         "customer_already_used_once_per_customer_discount_notice": "קוד הקופון שניסית להזין כבר מומש יותר מכמות הפעמים המקסימלית.",
         "apply_discount_button_label": "מימוש",
         "gift_card_subscriptions_notice": "גיפט קארד תקף רק למחזור התשלום הראשון.",
@@ -920,7 +929,7 @@
   },
   "customer_accounts": {
     "order_details": {
-      "marketing_checkbox_label": "אני מאשר\/ת קבלת מסרים שיווקיים.",
+      "marketing_checkbox_label": "אני מאשר/ת קבלת מסרים שיווקיים.",
       "subtotal": "סיכום ביניים",
       "log_in": "כניסה למשתמש",
       "total": "סך הכל",
@@ -958,8 +967,8 @@
         "name_on_card_placeholder": "שם בעל הכרטיס",
         "card_number_label": "מספר כרטיס",
         "card_number_placeholder": "מספר כרטיס",
-        "card_expiry_label": "תוקף (MM\/YY)",
-        "card_expiry_placeholder": "תוקף (MM\/YY)"
+        "card_expiry_label": "תוקף (MM/YY)",
+        "card_expiry_placeholder": "תוקף (MM/YY)"
       },
       "store_credit": {
         "details_modal": {
