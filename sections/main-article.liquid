@@ -52,6 +52,11 @@
             {{ article.title | escape }}
           </h1>
           <div class="article-template__back center{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}">
+            {%- if block.settings.blog_show_author -%}
+              <span class="caption-with-letter-spacing">
+                <h3>{{ article.author }}</h3>
+              </span>
+            {%- endif -%}
             {%- if block.settings.blog_show_date -%}
               <span class="circle-divider caption-with-letter-spacing">
                 {{- article.published_at | time_tag: format: 'date' -}}
@@ -62,11 +67,6 @@
               {{ 'blogs.article.back_to_blog' | t: title: blog.title }}
             </a>
           </div>
-          {%- if block.settings.blog_show_author -%}
-            <span class="caption-with-letter-spacing">
-              <span>{{ article.author }}</span>
-            </span>
-          {%- endif -%}
         </header>
 
       {%- when 'content' -%}
