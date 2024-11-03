@@ -327,13 +327,21 @@
             "image_4": "shopify://shop_images/pos-swipe-icon.svg",
             "heading_4": "פריסה לתשלומים"
           }
+        },
+        "text_AzrrD7": {
+          "type": "text",
+          "settings": {
+            "text": "*בכפוף לתקנון",
+            "text_style": "subtitle"
+          }
         }
       },
       "block_order": [
         "text_zMz6KM",
         "price_he9Yhk",
         "buy_buttons_QzzfXG",
-        "icon_with_text_UWNrE9"
+        "icon_with_text_UWNrE9",
+        "text_AzrrD7"
       ],
       "settings": {
         "product": "{{ product }}",
