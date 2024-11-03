@@ -138,6 +138,10 @@ table.cart-items .right.caption-with-letter-spacing {
   display: block;
 }
 
+li.whitespace-normal strong {
+  display: inline;
+}
+
 .shopify-policy__body {
   padding-bottom: 3rem;
 }
