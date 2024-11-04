@@ -445,6 +445,15 @@
             "row_content": "<p>ריטריט זה הוא האחרון שלנו לפני הפסקה ארוכה.</p><p>לא מתוכננים ריטריטים נוספים בזמן הקרוב, ולכן זו הזדמנות ייחודית שלא תחזור בקרוב.</p>",
             "page": ""
           }
+        },
+        "collapsible_row_PAQkkb": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "מה יקרה אם אבטל את השתתפותי?",
+            "icon": "none",
+            "row_content": "<p>המקדמה מהווה ״דמי רצינות״ שלך מול עצמך בלבד.</p><p>היא בסך 100 ש\"ח והיא <strong>ללא החזר</strong>.</p><p>במקרה של ביטול, סכום זה לא יוחזר.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -455,7 +464,8 @@
         "collapsible_row_UnXJRb",
         "collapsible_row_kcwqwE",
         "collapsible_row_RkXzaE",
-        "collapsible_row_h6F73J"
+        "collapsible_row_h6F73J",
+        "collapsible_row_PAQkkb"
       ],
       "settings": {
         "caption": "",
