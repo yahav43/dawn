@@ -404,9 +404,9 @@
         "collapsible_row_tR8DGP": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "האם יש תמיכה טכנית?",
+            "heading": "מהו סכום המקדמה ומה מטרתו?",
             "icon": "none",
-            "row_content": "<p>כמובן!</p><p>ניתן לפנות אלינו לתמיכה טכנית בכל שאלה בכתובת המיל שלנו:</p><p>support@thecenterofthecircle.com</p>",
+            "row_content": "<p>סכום המקדמה הוא 100 ש\"ח, והוא נדרש כדי לשריין את מקומכם בריטריט. שימו לב: המקדמה אינה ניתנת להחזר.</p>",
             "page": ""
           }
         },
@@ -422,9 +422,18 @@
         "collapsible_row_kcwqwE": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "מה ניתן לעשות במידה ואני לא מרוצה?",
+            "heading": "האם המקדמה כוללת את מלוא עלות הריטריט?",
             "icon": "none",
-            "row_content": "<p>במידה ולא צפית בתכנים של הקורס בכלל, תוכלי לבקש זיכוי ואנו נדאג לזכות אותך לאמצעי התשלום שדרכו שילמת.</p><p>במידה וכבר צפית בתכנים של המוצר - אין באפשרותינו להציע זיכוי.</p><p>במידה ושאלתך לא נענתה נשמח שתפני אל שירות הלקוחות שלנו במייל ואנו נדאג לעזור.</p>",
+            "row_content": "<p>לא. המקדמה היא רק חלק מהתשלום. יתרת התשלום בסך 251 ש\"ח תשולם ביום הריטריט עצמו.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_RkXzaE": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "האם יש הנחה לנרשמים מוקדם?",
+            "icon": "none",
+            "row_content": "<p>כן! מי שמשלימים את <strong>התשלום המלא</strong> עד ה 20 בנובמבר יקבלו <strong>10% הנחה</strong> על מלוא סכום הריטריט.</p>",
             "page": ""
           }
         }
@@ -435,7 +444,8 @@
         "collapsible_row_Fkb8Jh",
         "collapsible_row_tR8DGP",
         "collapsible_row_UnXJRb",
-        "collapsible_row_kcwqwE"
+        "collapsible_row_kcwqwE",
+        "collapsible_row_RkXzaE"
       ],
       "settings": {
         "caption": "",
