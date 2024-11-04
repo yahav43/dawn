@@ -17,12 +17,6 @@
           "settings": {
           }
         },
-        "description_MpRTJa": {
-          "type": "description",
-          "settings": {
-            "description_alignment": "right"
-          }
-        },
         "price_bRUV8E": {
           "type": "price",
           "settings": {
@@ -34,13 +28,19 @@
             "show_dynamic_checkout": false,
             "show_gift_card_recipient": true
           }
+        },
+        "description_MpRTJa": {
+          "type": "description",
+          "settings": {
+            "description_alignment": "right"
+          }
         }
       },
       "block_order": [
         "title_GVcL83",
-        "description_MpRTJa",
         "price_bRUV8E",
-        "buy_buttons_DhFQ8E"
+        "buy_buttons_DhFQ8E",
+        "description_MpRTJa"
       ],
       "settings": {
         "show_tax_notice": false,
