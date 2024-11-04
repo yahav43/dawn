@@ -17,16 +17,22 @@
           "settings": {
           }
         },
-        "text_PHwhT7": {
-          "type": "text",
+        "description_ynG8QW": {
+          "type": "description",
           "settings": {
-            "text": "<p>שמרו את המקום שלכם עכשיו!</p>",
-            "text_style": "body"
+            "description_alignment": "right"
           }
         },
         "price_bRUV8E": {
           "type": "price",
           "settings": {
+          }
+        },
+        "text_zn3Rwp": {
+          "type": "text",
+          "settings": {
+            "text": "<p>תשלום מקדמה בלבד. אין החזר כספי.</p>",
+            "text_style": "uppercase"
           }
         },
         "buy_buttons_DhFQ8E": {
@@ -35,20 +41,14 @@
             "show_dynamic_checkout": false,
             "show_gift_card_recipient": true
           }
-        },
-        "description_ynG8QW": {
-          "type": "description",
-          "settings": {
-            "description_alignment": "right"
-          }
         }
       },
       "block_order": [
         "title_GVcL83",
-        "text_PHwhT7",
+        "description_ynG8QW",
         "price_bRUV8E",
-        "buy_buttons_DhFQ8E",
-        "description_ynG8QW"
+        "text_zn3Rwp",
+        "buy_buttons_DhFQ8E"
       ],
       "settings": {
         "show_tax_notice": false,
