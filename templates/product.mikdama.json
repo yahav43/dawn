@@ -170,7 +170,7 @@
         "column_tVCQrz": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/24-hour-icon_e0c625f3-8aec-4536-b582-acddb79cb364.svg",
+            "image": "shopify://shop_images/calendar-checkmark-line-icon_a87e400a-41a3-45dc-a581-a4fc9fa98a8f.svg",
             "title": "<strong>יום שבת, 23/11/2024</strong>",
             "text": "",
             "link_label": "",
@@ -180,7 +180,7 @@
         "column_Bpt7Nz": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/desktop-mobile-icon.svg",
+            "image": "shopify://shop_images/clock-line-icon.svg",
             "title": "<strong>09:30 - 17:00</strong>",
             "text": "",
             "link_label": "",
@@ -190,7 +190,7 @@
         "column_XzEMjE": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/syllabus-icon.svg",
+            "image": "shopify://shop_images/address-location-icon.svg",
             "title": "<strong>יוגודה, פרדס חנה-כרכור</strong>",
             "text": "",
             "link_label": "",
