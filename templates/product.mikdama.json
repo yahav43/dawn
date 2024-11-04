@@ -41,6 +41,13 @@
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": false
           }
+        },
+        "text_3mkNdL": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>בונוס מיוחד למשריינים:</strong> כל משתתף יקבל לאחר הריטריט גישה דיגיטלית לכל תכני הריטריט לצפייה חוזרת, זמינה לכל החיים!</p>",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
@@ -48,7 +55,8 @@
         "description_ynG8QW",
         "price_bRUV8E",
         "text_zn3Rwp",
-        "buy_buttons_DhFQ8E"
+        "buy_buttons_DhFQ8E",
+        "text_3mkNdL"
       ],
       "settings": {
         "show_tax_notice": false,
@@ -387,9 +395,9 @@
         "collapsible_row_Fkb8Jh": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "כמה זמן יש לי גישה לתכנים?",
+            "heading": "מהו התאריך והמיקום של הריטריט?",
             "icon": "none",
-            "row_content": "<p>התכנים זמינים לתמיד.</p>",
+            "row_content": "<p>הריטריט יתקיים ביום שבת, בתאריך 23/11/2024, בין השעות 9:30 ל-17:00 במתחם יוגודה בפרדס חנה.</p>",
             "page": ""
           }
         },
