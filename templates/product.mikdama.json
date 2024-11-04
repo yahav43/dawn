@@ -374,6 +374,15 @@
     "collapsible_content_BhkJmX": {
       "type": "collapsible-content",
       "blocks": {
+        "collapsible_row_Xd3ynH": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "האם אפשר לצפות בתכני הריטריט לאחר שהוא מסתיים?",
+            "icon": "none",
+            "row_content": "<p>כן! משתתפי הריטריט יקבלו גישה דיגיטלית לכל תכני הריטריט לצפייה בכל עת – לכל החיים.</p><p>כך שתוכלו לחזור ולתרגל גם לאחר שהריטריט יסתיים.</p>",
+            "page": ""
+          }
+        },
         "collapsible_row_h8MBix": {
           "type": "collapsible_row",
           "settings": {
@@ -457,6 +466,7 @@
         }
       },
       "block_order": [
+        "collapsible_row_Xd3ynH",
         "collapsible_row_h8MBix",
         "collapsible_row_mADL4C",
         "collapsible_row_Fkb8Jh",
