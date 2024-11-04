@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -11,7 +20,7 @@
         "text_cLpfC8": {
           "type": "text",
           "settings": {
-            "text": "<p>גלי את סודות האנרגיה והטרנספורמציה האישית בריטריט דיגיטלי מעמיק<\/p><p><\/p><p>הצטרפי למסע מרתק לחקר האנרגיה האנושית והקוסמית בהנחיית יעל מימון (סאד'וי), מורה ליוגה טנטרה עם נסיון עשיר ומגוון, פסיכותרפיסטית ומרצה למקצועות הטיפול.<\/p>",
+            "text": "<p>גלי את סודות האנרגיה והטרנספורמציה האישית בריטריט דיגיטלי מעמיק</p><p></p><p>הצטרפי למסע מרתק לחקר האנרגיה האנושית והקוסמית בהנחיית יעל מימון (סאד'וי), מורה ליוגה טנטרה עם נסיון עשיר ומגוון, פסיכותרפיסטית ומרצה למקצועות הטיפול.</p>",
             "text_style": "body"
           }
         },
@@ -57,9 +66,9 @@
         "column-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/training-online-icon_528de975-6d4f-4bde-82ca-1d6a93864b06.svg",
-            "title": "<strong>ידע עמוק ומקיף<\/strong>",
-            "text": "<p>למידה על פראנה, יין ויאנג, הצ'אקרות, וחמשת האלמנטים<\/p>",
+            "image": "shopify://shop_images/training-online-icon_528de975-6d4f-4bde-82ca-1d6a93864b06.svg",
+            "title": "<strong>ידע עמוק ומקיף</strong>",
+            "text": "<p>למידה על פראנה, יין ויאנג, הצ'אקרות, וחמשת האלמנטים</p>",
             "link_label": "",
             "link": ""
           }
@@ -67,9 +76,9 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/bulb-icon.svg",
-            "title": "<strong>שילוב של מזרח ומערב<\/strong>",
-            "text": "<p>חוויה ייחודית המשלבת חכמת המזרח עם תובנות מודרניות<\/p>",
+            "image": "shopify://shop_images/bulb-icon.svg",
+            "title": "<strong>שילוב של מזרח ומערב</strong>",
+            "text": "<p>חוויה ייחודית המשלבת חכמת המזרח עם תובנות מודרניות</p>",
             "link_label": "",
             "link": ""
           }
@@ -77,9 +86,9 @@
         "column_Tgtwaa": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/360-degree-rotate-icon.svg",
-            "title": "<strong>טרנספורמציה אישית<\/strong>",
-            "text": "<p>כלים מעשיים לאיזון אנרגטי ושיפור איכות החיים<\/p>",
+            "image": "shopify://shop_images/360-degree-rotate-icon.svg",
+            "title": "<strong>טרנספורמציה אישית</strong>",
+            "text": "<p>כלים מעשיים לאיזון אנרגטי ושיפור איכות החיים</p>",
             "link_label": "",
             "link": ""
           }
@@ -87,9 +96,9 @@
         "column_zAxyYT": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/girl-exercise-workout-pose-icon.svg",
-            "title": "<strong>גמישות מלאה<\/strong>",
-            "text": "<p>חוויה בקצב שלך, מהנוחות של ביתך<\/p>",
+            "image": "shopify://shop_images/girl-exercise-workout-pose-icon.svg",
+            "title": "<strong>גמישות מלאה</strong>",
+            "text": "<p>חוויה בקצב שלך, מהנוחות של ביתך</p>",
             "link_label": "",
             "link": ""
           }
@@ -97,9 +106,9 @@
         "column_yGG6PD": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/instruction-manuals-book-icon.svg",
-            "title": "<strong>תוכן עשיר<\/strong>",
-            "text": "<p>שיעורים מוקלטים, תרגילים מעשיים, ומדיטציות מונחות<\/p>",
+            "image": "shopify://shop_images/instruction-manuals-book-icon.svg",
+            "title": "<strong>תוכן עשיר</strong>",
+            "text": "<p>שיעורים מוקלטים, תרגילים מעשיים, ומדיטציות מונחות</p>",
             "link_label": "",
             "link": ""
           }
@@ -138,9 +147,9 @@
         "column_CA3tUM": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/yoga-exercise-icon.svg",
-            "title": "<strong>פראנה ופראניאמה<\/strong>",
-            "text": "<ul><li>מהי אנרגיית החיים ואיך לשלוט בה<\/li><li>טכניקות נשימה לאיזון אנרגטי<\/li><\/ul>",
+            "image": "shopify://shop_images/yoga-exercise-icon.svg",
+            "title": "<strong>פראנה ופראניאמה</strong>",
+            "text": "<ul><li>מהי אנרגיית החיים ואיך לשלוט בה</li><li>טכניקות נשימה לאיזון אנרגטי</li></ul>",
             "link_label": "",
             "link": ""
           }
@@ -148,9 +157,9 @@
         "column_9fDaxp": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/taoism-icon.svg",
-            "title": "<strong>יין ויאנג<\/strong>",
-            "text": "<ul><li>הבנת האיזון הקוסמי<\/li><li>יישום עקרונות היין והיאנג בחיי היומיום<\/li><\/ul>",
+            "image": "shopify://shop_images/taoism-icon.svg",
+            "title": "<strong>יין ויאנג</strong>",
+            "text": "<ul><li>הבנת האיזון הקוסמי</li><li>יישום עקרונות היין והיאנג בחיי היומיום</li></ul>",
             "link_label": "",
             "link": ""
           }
@@ -158,9 +167,9 @@
         "column_R38JXD": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/flame-icon.svg",
-            "title": "<strong>חמשת האלמנטים<\/strong>",
-            "text": "<ul><li>  הכרת האלמנטים: אדמה, מים, אש, אוויר וחלל<\/li><li>איך לאזן את האלמנטים בגופך ובחייך<\/li><\/ul>",
+            "image": "shopify://shop_images/flame-icon.svg",
+            "title": "<strong>חמשת האלמנטים</strong>",
+            "text": "<ul><li>  הכרת האלמנטים: אדמה, מים, אש, אוויר וחלל</li><li>איך לאזן את האלמנטים בגופך ובחייך</li></ul>",
             "link_label": "",
             "link": ""
           }
@@ -168,9 +177,9 @@
         "column_7FKB3H": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/lotus-icon.svg",
-            "title": "<strong>הצ'אקרות<\/strong>",
-            "text": "<ul><li>מסע עמוק דרך שבע הצ'אקרות<\/li><li>טכניקות לפתיחה ואיזון הצ'אקרות<\/li><\/ul>",
+            "image": "shopify://shop_images/lotus-icon.svg",
+            "title": "<strong>הצ'אקרות</strong>",
+            "text": "<ul><li>מסע עמוק דרך שבע הצ'אקרות</li><li>טכניקות לפתיחה ואיזון הצ'אקרות</li></ul>",
             "link_label": "",
             "link": ""
           }
@@ -208,9 +217,9 @@
         "column_tVCQrz": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/24-hour-icon_e0c625f3-8aec-4536-b582-acddb79cb364.svg",
-            "title": "<strong>גישה לכל החיים<\/strong>",
-            "text": "<p>לאחר הרכישה תקבלי גישה לכל החיים לתוכן הריטריט<\/p>",
+            "image": "shopify://shop_images/24-hour-icon_e0c625f3-8aec-4536-b582-acddb79cb364.svg",
+            "title": "<strong>גישה לכל החיים</strong>",
+            "text": "<p>לאחר הרכישה תקבלי גישה לכל החיים לתוכן הריטריט</p>",
             "link_label": "",
             "link": ""
           }
@@ -218,9 +227,9 @@
         "column_Bpt7Nz": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/desktop-mobile-icon.svg",
-            "title": "<strong>שיעורים מוקלטים בוידאו<\/strong>",
-            "text": "<p>5 שיעורים מוקלטים בוידאו כך שתוכלי לצפות בהם מכל מקום ובכל מצב!<\/p>",
+            "image": "shopify://shop_images/desktop-mobile-icon.svg",
+            "title": "<strong>שיעורים מוקלטים בוידאו</strong>",
+            "text": "<p>5 שיעורים מוקלטים בוידאו כך שתוכלי לצפות בהם מכל מקום ובכל מצב!</p>",
             "link_label": "",
             "link": ""
           }
@@ -228,9 +237,9 @@
         "column_XzEMjE": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/syllabus-icon.svg",
-            "title": "<strong>חוברת דיגיטלית מפורטת<\/strong>",
-            "text": "<p>חוברת דיגיטלית מקיפה עם כל תכני הריטריט, ועוד כמה בונוסים קטנים<\/p>",
+            "image": "shopify://shop_images/syllabus-icon.svg",
+            "title": "<strong>חוברת דיגיטלית מפורטת</strong>",
+            "text": "<p>חוברת דיגיטלית מקיפה עם כל תכני הריטריט, ועוד כמה בונוסים קטנים</p>",
             "link_label": "",
             "link": ""
           }
@@ -267,7 +276,7 @@
         "text_zMz6KM": {
           "type": "text",
           "settings": {
-            "text": "<strong>הצעה מיוחדת - לזמן מוגבל<\/strong>",
+            "text": "<strong>הצעה מיוחדת - לזמן מוגבל</strong>",
             "text_style": "body"
           }
         },
@@ -288,17 +297,24 @@
           "settings": {
             "layout": "horizontal",
             "icon_1": "none",
-            "image_1": "shopify:\/\/shop_images\/recurring-subscription-icon.svg",
+            "image_1": "shopify://shop_images/recurring-subscription-icon.svg",
             "heading_1": "זיכוי כספי עד 30 יום",
             "icon_2": "none",
-            "image_2": "shopify:\/\/shop_images\/secure-payment-icon.svg",
+            "image_2": "shopify://shop_images/secure-payment-icon.svg",
             "heading_2": "תשלום מאובטח",
             "icon_3": "none",
-            "image_3": "shopify:\/\/shop_images\/legal-agreement-contract-paper-icon.svg",
+            "image_3": "shopify://shop_images/legal-agreement-contract-paper-icon.svg",
             "heading_3": "תוצאות מוכחות",
             "icon_4": "none",
-            "image_4": "shopify:\/\/shop_images\/pos-swipe-icon.svg",
+            "image_4": "shopify://shop_images/pos-swipe-icon.svg",
             "heading_4": "פריסה לתשלומים"
+          }
+        },
+        "text_Tx9t6E": {
+          "type": "text",
+          "settings": {
+            "text": "*בכפוף לתקנון",
+            "text_style": "subtitle"
           }
         }
       },
@@ -306,7 +322,8 @@
         "text_zMz6KM",
         "price_he9Yhk",
         "buy_buttons_QzzfXG",
-        "icon_with_text_UWNrE9"
+        "icon_with_text_UWNrE9",
+        "text_Tx9t6E"
       ],
       "settings": {
         "product": "{{ product }}",
@@ -346,7 +363,7 @@
       "type": "apps",
       "blocks": {
         "stamped_product_reviews_ugc_main_widget_iqETUF": {
-          "type": "shopify:\/\/apps\/stamped-reviews\/blocks\/main-widget\/a103faaf-2125-4b0e-89fa-de5149736723",
+          "type": "shopify://apps/stamped-reviews/blocks/main-widget/a103faaf-2125-4b0e-89fa-de5149736723",
           "settings": {
             "animation": true,
             "tags_exclude": "",
@@ -371,10 +388,10 @@
         "row_FEBtAG": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/spa-candles-and-decor-near-window.jpg",
+            "image": "shopify://shop_images/spa-candles-and-decor-near-window.jpg",
             "caption": "",
-            "heading": "<strong>על המנחה<\/strong>",
-            "text": "<p>יעל היא מורה מוסמכת ליוגה וטנטרה עם ניסיון של למעלה מ-20 שנים.<\/p><p>היא למדה עם מורים בכירים בהודו ומשלבת את החכמה העתיקה עם גישות מודרניות לרווחה גופנית ונפשית.<\/p>",
+            "heading": "<strong>על המנחה</strong>",
+            "text": "<p>יעל היא מורה מוסמכת ליוגה וטנטרה עם ניסיון של למעלה מ-20 שנים.</p><p>היא למדה עם מורים בכירים בהודו ומשלבת את החכמה העתיקה עם גישות מודרניות לרווחה גופנית ונפשית.</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -426,7 +443,7 @@
           "settings": {
             "heading": "האם צריך ניסיון קודם ביוגה או מדיטציה?",
             "icon": "none",
-            "row_content": "<p>לא, הריטריט מתאים לכל הרמות, ממתחילים ועד מתקדמים.<\/p>",
+            "row_content": "<p>לא, הריטריט מתאים לכל הרמות, ממתחילים ועד מתקדמים.</p>",
             "page": ""
           }
         },
@@ -435,7 +452,7 @@
           "settings": {
             "heading": "איך אני ניגשת לתכנים?",
             "icon": "none",
-            "row_content": "<p>לאחר הרכישה, תקבלי מאיתנו מייל עם פרטי ההתחברות האישיים שלך לתכנים של הסדנה.<\/p>",
+            "row_content": "<p>לאחר הרכישה, תקבלי מאיתנו מייל עם פרטי ההתחברות האישיים שלך לתכנים של הסדנה.</p>",
             "page": ""
           }
         },
@@ -444,7 +461,7 @@
           "settings": {
             "heading": "כמה זמן יש לי גישה לתכנים?",
             "icon": "none",
-            "row_content": "<p>התכנים זמינים לתמיד.<\/p>",
+            "row_content": "<p>התכנים זמינים לתמיד.</p>",
             "page": ""
           }
         },
@@ -453,7 +470,7 @@
           "settings": {
             "heading": "האם יש תמיכה טכנית?",
             "icon": "none",
-            "row_content": "<p>כן. ניתן לפנות אלינו בטופס <a href=\"\/pages\/contact\" target=\"_blank\" title=\"Contact\">יצירת הקשר<\/a> ואנו נעזור בהקדם.<\/p>",
+            "row_content": "<p>כן. ניתן לפנות אלינו בטופס <a href=\"/pages/contact\" target=\"_blank\" title=\"Contact\">יצירת הקשר</a> ואנו נעזור בהקדם.</p>",
             "page": ""
           }
         },
@@ -462,7 +479,7 @@
           "settings": {
             "heading": "האם התכנים מתאימים גם לבני נוער?",
             "icon": "none",
-            "row_content": "<p>התכנים מתאימים לכל הגילאים.<\/p>",
+            "row_content": "<p>התכנים מתאימים לכל הגילאים.</p>",
             "page": ""
           }
         },
@@ -471,7 +488,7 @@
           "settings": {
             "heading": "מה קורה אם אני לא מרוצה מהקורס?",
             "icon": "none",
-            "row_content": "<p>במידה ואינך מרוצה מהתכנים ניתן לבקש זיכוי וביטול, ואנו נדאג לבצע זיכוי לאמצעי התשלום איתו שילמת.<\/p><p>עם ביצוע הבקשה, הגישה לתכני הקורס תוסר.<\/p>",
+            "row_content": "<p>במידה ואינך מרוצה מהתכנים ניתן לבקש זיכוי וביטול, ואנו נדאג לבצע זיכוי לאמצעי התשלום איתו שילמת.</p><p>עם ביצוע הבקשה, הגישה לתכני הקורס תוסר.</p>",
             "page": ""
           }
         }
