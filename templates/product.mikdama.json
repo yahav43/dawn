@@ -111,7 +111,7 @@
         "column_CA3tUM": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/scale-icon.svg",
+            "image": "shopify://shop_images/girl-exercise-pose-icon.svg",
             "title": "<strong>יוגה ואלכימיה</strong>",
             "text": "<p>נלמד כיצד תרגילי יוגה יכולים לטפח נפש וגוף יציבים וגמישים.</p>",
             "link_label": "",
@@ -121,7 +121,7 @@
         "column_9fDaxp": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/full-moon-icon.svg",
+            "image": "shopify://shop_images/iconmonstr-key-thin-240.png",
             "title": "<strong>לחץ וחוסר וודאות</strong>",
             "text": "<p>נבין ביחד את שורשי הלחץ ונגלה כלים לנהל ולהפחית את השפעתו.</p>",
             "link_label": "",
@@ -131,7 +131,7 @@
         "column_R38JXD": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/yoga-exercise-icon.svg",
+            "image": "shopify://shop_images/anchor-icon.svg",
             "title": "<strong>עוגנים מעשיים</strong>",
             "text": "<p>קחו הביתה טכניקות מעשיות ועוגנים מנטליים כדי לשמור על יציבות בעולם מלא בחוסר וודאות.</p>",
             "link_label": "",
