@@ -39,12 +39,20 @@
             "button_link_2": "",
             "button_style_secondary_2": false
           }
+        },
+        "text_pBH7mW": {
+          "type": "text",
+          "settings": {
+            "text": "<p>*האתר נכתב בלשון נקבה אך פונה לכל המינים.</p>",
+            "text_style": "caption-with-letter-spacing"
+          }
         }
       },
       "block_order": [
         "heading",
         "richtext_xWUt6q",
-        "button"
+        "button",
+        "text_pBH7mW"
       ],
       "settings": {
         "image": "shopify://shop_images/meditation-and-yoga-in-nature.jpg",
