@@ -491,6 +491,79 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "secondary_product_xC7yxG": {
+      "type": "secondary-product",
+      "blocks": {
+        "text_mKBrJa": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>שמרו את מקומכם עכשיו</strong>",
+            "text_style": "body"
+          }
+        },
+        "text_3eBUK8": {
+          "type": "text",
+          "settings": {
+            "text": "משלמים עכשיו ₪100 בלבד ומשלימים את השאר ביום הריטריט.",
+            "text_style": "subtitle"
+          }
+        },
+        "price_KcY4Bf": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "buy_buttons_3w7YwE": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "icon_with_text_iP6mmW": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "none",
+            "image_1": "shopify://shop_images/recurring-subscription-icon.svg",
+            "heading_1": "10% הנחה!",
+            "icon_2": "none",
+            "image_2": "shopify://shop_images/secure-payment-icon.svg",
+            "heading_2": "תשלום מאובטח",
+            "icon_3": "none",
+            "heading_3": "",
+            "icon_4": "none",
+            "image_4": "shopify://shop_images/pos-swipe-icon.svg",
+            "heading_4": "פריסה לתשלומים"
+          }
+        },
+        "text_cy34jP": {
+          "type": "text",
+          "settings": {
+            "text": "*בכפוף לתקנון",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": [
+        "text_mKBrJa",
+        "text_3eBUK8",
+        "price_KcY4Bf",
+        "buy_buttons_3w7YwE",
+        "icon_with_text_iP6mmW",
+        "text_cy34jP"
+      ],
+      "settings": {
+        "product": "{{ product }}",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "secondary_background": false,
+        "constrain_to_viewport": false,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -501,6 +574,7 @@
     "rich_text_fejAnm",
     "secondary_product_EtVzUj",
     "multirow_Cy7zp8",
-    "collapsible_content_BhkJmX"
+    "collapsible_content_BhkJmX",
+    "secondary_product_xC7yxG"
   ]
 }
