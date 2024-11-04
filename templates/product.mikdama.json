@@ -436,6 +436,15 @@
             "row_content": "<p>כן! מי שמשלימים את <strong>התשלום המלא</strong> עד ה 20 בנובמבר יקבלו <strong>10% הנחה</strong> על מלוא סכום הריטריט.</p>",
             "page": ""
           }
+        },
+        "collapsible_row_h6F73J": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "האם יהיו ריטריטים נוספים בקרוב?",
+            "icon": "none",
+            "row_content": "<p>ריטריט זה הוא האחרון שלנו לפני הפסקה ארוכה.</p><p>לא מתוכננים ריטריטים נוספים בזמן הקרוב, ולכן זו הזדמנות ייחודית שלא תחזור בקרוב.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -445,7 +454,8 @@
         "collapsible_row_tR8DGP",
         "collapsible_row_UnXJRb",
         "collapsible_row_kcwqwE",
-        "collapsible_row_RkXzaE"
+        "collapsible_row_RkXzaE",
+        "collapsible_row_h6F73J"
       ],
       "settings": {
         "caption": "",
