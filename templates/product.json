@@ -469,7 +469,7 @@
           "settings": {
             "heading": "האם יש תמיכה טכנית?",
             "icon": "none",
-            "row_content": "<p>כמובן!</p><p>ניתן לפנות אלינו לתמיכה טכנית בכל שאלה בכתובת המיל שלנו:</p><p><a href=\"mailto:support@thecenterofthecircle.com\" target=\"_blank\" title=\"mailto:support@thecenterofthecircle.com\">support@thecenterofthecircle.com</a></p>",
+            "row_content": "<p>כמובן!</p><p>ניתן לפנות אלינו לתמיכה טכנית בכל שאלה בכתובת המיל שלנו:</p><p>support@thecenterofthecircle.com</p>",
             "page": ""
           }
         },
