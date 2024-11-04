@@ -104,8 +104,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/scale-icon.svg",
-            "title": "כלים לבניית חיים מאוזנים ומודעים יותר",
-            "text": "<p>למדי כיצד לאזן בין הגוף לנפש, ליצור שגרות תומכות, ולחיות מתוך נוכחות ומודעות עצמית גבוהה.</p>",
+            "title": "<strong>יוגה ואלכימיה</strong>",
+            "text": "<p>נלמד כיצד תרגילי יוגה יכולים לטפח נפש וגוף יציבים וגמישים.</p>",
             "link_label": "",
             "link": ""
           }
@@ -114,8 +114,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/full-moon-icon.svg",
-            "title": "<strong>חיבור פנימי ושקט נפשי</strong>",
-            "text": "<p>בעזרת הכלים שתלמדי, תוכלי למצוא בתוכך מקום של שקט ורוגע שתמיד זמין עבורך, גם כשבחוץ יש כאוס.</p>",
+            "title": "<strong>לחץ וחוסר וודאות</strong>",
+            "text": "<p>נבין ביחד את שורשי הלחץ ונגלה כלים לנהל ולהפחית את השפעתו.</p>",
             "link_label": "",
             "link": ""
           }
@@ -124,7 +124,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/yoga-exercise-icon.svg",
-            "title": "<strong>שחרור מתח וביטול עומס</strong>",
+            "title": "<strong>עוגנים מעשיים</strong>",
             "text": "<p>השיעורים כוללים תרגולי נשימה (פראניאמה) ומדיטציות מרגיעות המפחיתות את רמות החרדה ועוזרות לשחרר מתח מיותר.</p>",
             "link_label": "",
             "link": ""
@@ -137,7 +137,7 @@
         "column_R38JXD"
       ],
       "settings": {
-        "title": "<strong>מה את מקבלת</strong>",
+        "title": "<strong>ביחד נצלול אל:</strong>",
         "title_direction": "rtl",
         "title_alignment": "center",
         "heading_size": "h1",
