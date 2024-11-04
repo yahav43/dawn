@@ -31,7 +31,7 @@
         "text_zn3Rwp": {
           "type": "text",
           "settings": {
-            "text": "<p>תשלום מקדמה בלבד. אין החזר כספי.</p>",
+            "text": "<h5>תשלום מקדמה בלבד. אין החזר כספי.</h5>",
             "text_style": "uppercase"
           }
         },
