@@ -481,6 +481,15 @@
             "row_content": "<p>התכנים מתאימים לכל הגילאים.</p>",
             "page": ""
           }
+        },
+        "collapsible_row_kcwqwE": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "מה ניתן לעשות במידה ואני לא מרוצה?",
+            "icon": "none",
+            "row_content": "<p>במידה וכבר צפית בתכנים של המוצר - אין באפשרותינו להציע זיכוי.</p><p>במידה ושאלתך לא נענתה נשמח שתפני אל שירות הלקוחות שלנו במייל.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -488,7 +497,8 @@
         "collapsible_row_mADL4C",
         "collapsible_row_Fkb8Jh",
         "collapsible_row_tR8DGP",
-        "collapsible_row_UnXJRb"
+        "collapsible_row_UnXJRb",
+        "collapsible_row_kcwqwE"
       ],
       "settings": {
         "caption": "",
