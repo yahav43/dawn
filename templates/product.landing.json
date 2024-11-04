@@ -435,6 +435,13 @@
             "image_4": "shopify://shop_images/pos-swipe-icon.svg",
             "heading_4": "חלוקה לתשלומים"
           }
+        },
+        "text_pALmzH": {
+          "type": "text",
+          "settings": {
+            "text": "*בכפוף לתקנון",
+            "text_style": "subtitle"
+          }
         }
       },
       "block_order": [
@@ -442,7 +449,8 @@
         "text_dpBLrk",
         "price_he9Yhk",
         "buy_buttons_QzzfXG",
-        "icon_with_text_UWNrE9"
+        "icon_with_text_UWNrE9",
+        "text_pALmzH"
       ],
       "settings": {
         "product": "{{ product }}",
