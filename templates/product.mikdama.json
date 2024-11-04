@@ -17,6 +17,13 @@
           "settings": {
           }
         },
+        "text_PHwhT7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>שמרו את המקום שלכם עכשיו!</p>",
+            "text_style": "body"
+          }
+        },
         "price_bRUV8E": {
           "type": "price",
           "settings": {
@@ -38,6 +45,7 @@
       },
       "block_order": [
         "title_GVcL83",
+        "text_PHwhT7",
         "price_bRUV8E",
         "buy_buttons_DhFQ8E",
         "description_ynG8QW"
