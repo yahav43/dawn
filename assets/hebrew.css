@@ -28,7 +28,9 @@ div.main-blog,
 slider-component .card-information,
 .template-404,
 .rich-text__blocks,
-div[class*="kl-private-reset-css"] {
+div[class*="kl-private-reset-css"],
+.banner__box p,
+product-recommendations {
   direction: rtl;
 }
 
