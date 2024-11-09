@@ -21,16 +21,14 @@
         },
         "content": {
           "type": "content",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
         "title",
         "content"
       ],
-      "settings": {
-      }
+      "settings": {}
     },
     "rich_text_epR7B7": {
       "type": "rich-text",
@@ -88,6 +86,65 @@
         "padding_bottom": 52
       }
     },
+    "featured_product_UWXBh9": {
+      "type": "featured-product",
+      "blocks": {
+        "text_HYKfMj": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_PhRPHz": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_FBUaVj": {
+          "type": "price",
+          "settings": {
+            "show_badges": true
+          }
+        },
+        "variant_picker_zC4j9w": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "buy_buttons_bTqxfG": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        }
+      },
+      "block_order": [
+        "text_HYKfMj",
+        "title_PhRPHz",
+        "price_FBUaVj",
+        "variant_picker_zC4j9w",
+        "buy_buttons_bTqxfG"
+      ],
+      "settings": {
+        "product": "{{ article.metafields.custom.blog_article_featured_product.value }}",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "featured_blog_zW6zki": {
       "type": "featured-blog",
       "settings": {
@@ -113,6 +170,7 @@
     "rich_text_epR7B7",
     "1729861268343e58e3",
     "custom_liquid_D7tFCQ",
+    "featured_product_UWXBh9",
     "featured_blog_zW6zki"
   ]
 }
