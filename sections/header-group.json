@@ -57,12 +57,20 @@
             "text": "האתר נכתב בלשון נקבה אך פונה לכל המינים",
             "link": ""
           }
+        },
+        "announcement_iFPtN7": {
+          "type": "announcement",
+          "settings": {
+            "text": "ריטריט יום - לחצי כאן לשריין מקום",
+            "link": "shopify://products/day-retreat"
+          }
         }
       },
       "block_order": [
         "announcement_6gWrKC",
         "announcement_hanYbi",
-        "announcement_jcBVHc"
+        "announcement_jcBVHc",
+        "announcement_iFPtN7"
       ],
       "settings": {
         "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
