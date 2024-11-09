@@ -270,6 +270,10 @@ form.klaviyo-form label {
   text-align: right !important;
 }
 
+div.klaviyo-countdown {
+  direction: ltr !important;
+}
+
 @media screen and (min-width: 750px) {
 
   div.summary-overview,
