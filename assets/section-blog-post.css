@@ -101,6 +101,10 @@
   margin-top: 1.5rem;
 }
 
+.article-template__content h3 {
+  font-weight: var(--font-body-weight-bold);
+}
+
 .article-template__comment-wrapper {
   margin-top: 5rem;
   padding: 2.7rem 0;
