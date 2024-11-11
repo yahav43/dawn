@@ -14,22 +14,11 @@
       "blocks": {
         "title_d7xVcW": {
           "type": "title",
-          "settings": {
-          }
-        },
-        "stamped_reviews_star_rating_badge_gfMVit": {
-          "type": "shopify://apps/stamped-reviews/blocks/star-rating-badge/a103faaf-2125-4b0e-89fa-de5149736723",
-          "settings": {
-            "use_metafields": false,
-            "sku_tagtype": "sku",
-            "is_featured_product": false,
-            "featured_product_handle": ""
-          }
+          "settings": {}
         },
         "price_4mY4Gy": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "buy_buttons_QUjnFk": {
           "type": "buy_buttons",
@@ -65,7 +54,6 @@
       },
       "block_order": [
         "title_d7xVcW",
-        "stamped_reviews_star_rating_badge_gfMVit",
         "price_4mY4Gy",
         "buy_buttons_QUjnFk",
         "icon_with_text_qaccqp",
@@ -408,8 +396,7 @@
         },
         "price_he9Yhk": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "buy_buttons_QzzfXG": {
           "type": "buy_buttons",
@@ -695,8 +682,7 @@
         },
         "price_KDHhth": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "variant_picker_c8iEUf": {
           "type": "variant_picker",
