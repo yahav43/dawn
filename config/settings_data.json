@@ -134,23 +134,18 @@
       },
       "main-password-footer": {
         "type": "main-password-footer",
-        "custom_css": [
-
-        ],
+        "custom_css": [],
         "settings": {
           "color_scheme": "scheme-1"
         }
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "blocks": {
       "855628211100114053": {
         "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "1575957009345749421": {
         "type": "shopify://apps/stamped-product-reviews-ugc/blocks/side-drawer/a103faaf-2125-4b0e-89fa-de5149736723",
@@ -176,6 +171,20 @@
           "fill_empty": false,
           "random": false,
           "with_photos": false
+        }
+      },
+      "15683396631634586217": {
+        "type": "shopify://apps/inbox/blocks/chat/841fc607-4181-4ad1-842d-e24d7f8bad6b",
+        "disabled": false,
+        "settings": {
+          "button_color": "#9e6b6b",
+          "secondary_color": "#FFFFFF",
+          "ternary_color": "#6A6A6A",
+          "button_icon": "chat_bubble",
+          "button_text": "no_text",
+          "button_horizontal_position": "bottom_right",
+          "button_vertical_position": "lowest",
+          "greeting_message": "ברוכה הבאה למרכז המעגל! נשמח לעזור בכל שאלה"
         }
       }
     },
@@ -435,8 +444,6 @@
     }
   },
   "platform_customizations": {
-    "custom_css": [
-
-    ]
+    "custom_css": []
   }
 }
