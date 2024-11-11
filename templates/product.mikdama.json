@@ -44,7 +44,7 @@
         "buy_buttons_DhFQ8E": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true,
+            "show_dynamic_checkout": false,
             "show_gift_card_recipient": false
           }
         },
@@ -291,8 +291,8 @@
         "buy_buttons_QzzfXG": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false
           }
         },
         "icon_with_text_UWNrE9": {
@@ -513,8 +513,8 @@
         "buy_buttons_3w7YwE": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false
           }
         },
         "icon_with_text_iP6mmW": {
