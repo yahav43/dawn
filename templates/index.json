@@ -15,7 +15,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>לחץ לא חייב להיות חלק מהחיים שלך</strong>",
+            "heading": "<strong>ShoppingIL - 25% OFF</strong>",
             "heading_size": "h1",
             "title_direction": "rtl"
           }
@@ -23,7 +23,7 @@
         "richtext_xWUt6q": {
           "type": "richtext",
           "settings": {
-            "higher_heading": "הצטרפי ל +4,000 משתתפות שלמדו  לחיות ללא לחץ וחרדה, עם כלים פרקטיים לכל מצב.",
+            "higher_heading": "<strong>מבצע השקה חגיגי על כל המוצרים הדיגיטליים באתר</strong>",
             "higher_heading_size": "h2",
             "higher_title_direction": "rtl"
           }
@@ -31,7 +31,7 @@
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "התחילי כאן",
+            "button_label_1": "SHOP NOW",
             "button_weight_1": "bold",
             "button_link_1": "shopify://collections/כל-המוצרים",
             "button_style_secondary_1": false,
