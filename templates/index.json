@@ -90,6 +90,29 @@
         "show_text_below": false
       }
     },
+    "rich_text_feMzQg": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_iVwaLx": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>הכירי את StressLess</strong>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_iVwaLx"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
     "multicolumn_PXpiCA": {
       "type": "multicolumn",
       "blocks": {
@@ -518,6 +541,7 @@
   "order": [
     "image_banner",
     "image_banner_TDHjac",
+    "rich_text_feMzQg",
     "multicolumn_PXpiCA",
     "rich_text_ikiexW",
     "173141633272d68dcf",
