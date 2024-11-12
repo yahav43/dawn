@@ -75,6 +75,7 @@
       "block_order": [
         "heading_kjr7r3"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/woman-does-yoga-by-the-water.jpg",
         "image_overlay_opacity": 40,
