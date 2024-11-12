@@ -60,28 +60,6 @@
         "show_text_below": false
       }
     },
-    "multicolumn_metaobject_D7Dgxt": {
-      "type": "multicolumn-metaobject",
-      "settings": {
-        "title": "לקוחות מספרות",
-        "list_item_direction": "rtl",
-        "heading_size": "h1",
-        "title_alignment": "center",
-        "list_item_text_alignment": "right",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "image_banner_TDHjac": {
       "type": "image-banner",
       "blocks": {
@@ -165,6 +143,52 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "rich_text_ikiexW": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_iFAJPz": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>לקוחות שהשתלטו על החרדה משתפות</strong>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_iFAJPz"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "173141633272d68dcf": {
+      "type": "apps",
+      "blocks": {
+        "stamped_reviews_main_widget_TbB8wJ": {
+          "type": "shopify://apps/stamped-reviews/blocks/main-widget/a103faaf-2125-4b0e-89fa-de5149736723",
+          "settings": {
+            "animation": true,
+            "tags_exclude": "",
+            "tags_include": "",
+            "search": "",
+            "linkify": true,
+            "use_metafields": false,
+            "sku_tagtype": "sku"
+          }
+        }
+      },
+      "block_order": [
+        "stamped_reviews_main_widget_TbB8wJ"
+      ],
+      "settings": {
+        "include_margins": true
       }
     },
     "multirow_RkqD97": {
@@ -274,6 +298,28 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
+      }
+    },
+    "multicolumn_metaobject_D7Dgxt": {
+      "type": "multicolumn-metaobject",
+      "settings": {
+        "title": "לקוחות מספרות",
+        "list_item_direction": "rtl",
+        "heading_size": "h1",
+        "title_alignment": "center",
+        "list_item_text_alignment": "right",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "multicolumn_FFmiYB": {
@@ -470,11 +516,13 @@
   },
   "order": [
     "image_banner",
-    "multicolumn_metaobject_D7Dgxt",
     "image_banner_TDHjac",
     "multicolumn_PXpiCA",
+    "rich_text_ikiexW",
+    "173141633272d68dcf",
     "multirow_RkqD97",
     "image_banner_jFwcht",
+    "multicolumn_metaobject_D7Dgxt",
     "multicolumn_FFmiYB",
     "featured_blog_Qz8A6d",
     "image_banner_GmnkEE",
