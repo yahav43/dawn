@@ -60,36 +60,6 @@
         "show_text_below": false
       }
     },
-    "image_banner_TDHjac": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_kjr7r3": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>הכירי את ״StressLess״</strong>",
-            "heading_size": "h0",
-            "title_direction": "rtl"
-          }
-        }
-      },
-      "block_order": [
-        "heading_kjr7r3"
-      ],
-      "disabled": true,
-      "settings": {
-        "image": "shopify://shop_images/woman-does-yoga-by-the-water.jpg",
-        "image_overlay_opacity": 40,
-        "image_height": "small",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-4",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": false
-      }
-    },
     "rich_text_feMzQg": {
       "type": "rich-text",
       "blocks": {
@@ -160,8 +130,8 @@
         "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "none",
-        "button_label": "אני רוצה להפסיק לחיות בחרדות",
-        "button_link": "shopify://products/stress-less",
+        "button_label": "",
+        "button_link": "",
         "color_scheme": "scheme-5",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
@@ -213,6 +183,33 @@
       ],
       "settings": {
         "include_margins": true
+      }
+    },
+    "rich_text_LpxHfN": {
+      "type": "rich-text",
+      "blocks": {
+        "button_LbjkDL": {
+          "type": "button",
+          "settings": {
+            "button_label": "למידע נוסף",
+            "button_link": "shopify://products/stress-less",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button_LbjkDL"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-5",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 52
       }
     },
     "multirow_RkqD97": {
@@ -540,11 +537,11 @@
   },
   "order": [
     "image_banner",
-    "image_banner_TDHjac",
     "rich_text_feMzQg",
     "multicolumn_PXpiCA",
     "rich_text_ikiexW",
     "173141633272d68dcf",
+    "rich_text_LpxHfN",
     "multirow_RkqD97",
     "image_banner_jFwcht",
     "multicolumn_metaobject_D7Dgxt",
