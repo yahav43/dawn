@@ -9,20 +9,6 @@
  */
 {
   "sections": {
-    "component_countdown_VNBaXX": {
-      "type": "component-countdown",
-      "settings": {
-        "show_days": false,
-        "countdown_date": "Tue Dec 3 2024 23:59:59 GMT+0300 (שעון ישראל (קיץ))",
-        "countdown_url": "shopify://products/reflectionship",
-        "left_text": true,
-        "left_copy": "<p>זמן שנותר</p>",
-        "right_text_direction": "ltr",
-        "left_text_direction": "ltr",
-        "right_text": false,
-        "right_copy": ""
-      }
-    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -47,14 +33,22 @@
         "buy_buttons_DhFQ8E": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": true
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false
           }
         },
-        "description_ynG8QW": {
-          "type": "description",
+        "text_LiTWgJ": {
+          "type": "text",
           "settings": {
-            "description_alignment": "right"
+            "text": "<h3><strong>מרגישים תקועים שוב ושוב באותם דפוסים? מחפשים להתחבר מחדש אל עצמכם ולהתחיל לחיות בהרמוניה?</strong></h3>",
+            "text_style": "body"
+          }
+        },
+        "text_cPKahw": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Reflectionship - הספר שיעזור לכם לגלות את עצמכם, לשחרר את מה שמעכב אתכם ולהוביל שינוי אמיתי במערכות היחסים ובחיים האישיים.</p>",
+            "text_style": "body"
           }
         }
       },
@@ -63,13 +57,14 @@
         "text_zrpB6e",
         "price_bRUV8E",
         "buy_buttons_DhFQ8E",
-        "description_ynG8QW"
+        "text_LiTWgJ",
+        "text_cPKahw"
       ],
       "settings": {
         "show_tax_notice": false,
         "enable_sticky_info": true,
         "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
-        "media_size": "large",
+        "media_size": "small",
         "constrain_to_viewport": false,
         "media_fit": "cover",
         "gallery_layout": "columns",
@@ -80,6 +75,20 @@
         "enable_video_looping": true,
         "padding_top": 36,
         "padding_bottom": 12
+      }
+    },
+    "component_countdown_VNBaXX": {
+      "type": "component-countdown",
+      "settings": {
+        "show_days": false,
+        "countdown_date": "Tue Dec 3 2024 23:59:59 GMT+0300 (שעון ישראל (קיץ))",
+        "countdown_url": "shopify://products/reflectionship",
+        "left_text": true,
+        "left_copy": "<p>זמן שנותר</p>",
+        "right_text_direction": "ltr",
+        "left_text_direction": "ltr",
+        "right_text": false,
+        "right_copy": ""
       }
     },
     "rich_text_9fKHgT": {
@@ -602,8 +611,8 @@
     }
   },
   "order": [
-    "component_countdown_VNBaXX",
     "main",
+    "component_countdown_VNBaXX",
     "rich_text_9fKHgT",
     "multicolumn_J8dJaF",
     "multicolumn",
