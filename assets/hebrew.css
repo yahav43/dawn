@@ -139,16 +139,14 @@ table.cart-items .right.caption-with-letter-spacing {
   direction: rtl;
 }
 
-li.whitespace-normal strong {
+li.whitespace-normal strong,
+.shopify-policy__container .rte strong,
+.rte li p {
   display: inline;
 }
 
 .shopify-policy__body {
   padding-bottom: 3rem;
-}
-
-.shopify-policy__container .rte strong {
-  display: inline;
 }
 
 .shopify-policy__container .rte img {
