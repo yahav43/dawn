@@ -556,52 +556,28 @@
         "padding_bottom": 36
       }
     },
-    "multirow_Cy7zp8": {
-      "type": "multirow",
-      "blocks": {
-        "row_FEBtAG": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/spa-candles-and-decor-near-window.jpg",
-            "caption": "",
-            "heading": "<strong>על המנחה</strong>",
-            "text": "<p>יעל היא מורה מוסמכת ליוגה וטנטרה עם ניסיון של למעלה מ-20 שנים.</p><p>היא למדה עם מורים בכירים בהודו ומשלבת את החכמה העתיקה עם גישות מודרניות לרווחה גופנית ונפשית.</p><p>עוסקת בפסיכוטרפיה הוליסטית גופנית כ 3 עשורים ומרצה למקצועות הטיפול.</p><p>מומחית להפחתת לחצים וחרדות, והעלאת חוסן.</p><p>עובדת עם צוותים רפואיים בבתי חולים באיזור מגוריה.</p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "row_FEBtAG"
-      ],
-      "settings": {
-        "image_height": "medium",
-        "desktop_image_width": "medium",
-        "heading_size": "h1",
-        "text_style": "body",
-        "button_style": "secondary",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
-        "section_color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
-        "row_color_scheme": "scheme-3",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "secondary_product_GxN9ta": {
       "type": "secondary-product",
       "blocks": {
-        "title_xHUgrd": {
+        "text_7Tcr6j": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>הספר במחיר חסר תקדים של 9.90 ₪ בלבד במקום 79 ₪!</strong>",
+            "text_style": "body"
+          }
+        },
+        "text_TbDw7m": {
+          "type": "text",
+          "settings": {
+            "text": "הזדמנות נדירה להתחיל את המסע שלך עכשיו.",
+            "text_style": "body"
+          }
+        },
+        "title_VKhwxa": {
           "type": "title",
           "settings": {
             "heading_size": "h1"
           }
-        },
-        "price_KDHhth": {
-          "type": "price",
-          "settings": {}
         },
         "variant_picker_c8iEUf": {
           "type": "variant_picker",
@@ -613,14 +589,15 @@
         "buy_buttons_rrqHNe": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": true
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false
           }
         }
       },
       "block_order": [
-        "title_xHUgrd",
-        "price_KDHhth",
+        "text_7Tcr6j",
+        "text_TbDw7m",
+        "title_VKhwxa",
         "variant_picker_c8iEUf",
         "buy_buttons_rrqHNe"
       ],
@@ -648,7 +625,6 @@
     "rich_text_tBM7yA",
     "collapsible_content_BhkJmX",
     "multicolumn_myUUVh",
-    "multirow_Cy7zp8",
     "secondary_product_GxN9ta"
   ]
 }
