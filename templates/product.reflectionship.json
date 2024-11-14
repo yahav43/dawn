@@ -490,6 +490,72 @@
         "padding_bottom": 36
       }
     },
+    "multicolumn_myUUVh": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_VCbBfL": {
+          "type": "column",
+          "settings": {
+            "title": "איתן מ., ירושלים",
+            "text": "<p><em>״הספר עזר לי להבין למה אני תקוע שנים באותן מערכות יחסים קשות.</em></p><p><em>בזכותו אני לומד להיות נאמן לעצמי ולא לפחד משינויים.\"</em></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_3rr7hd": {
+          "type": "column",
+          "settings": {
+            "title": "דפנה א., רמת השרון",
+            "text": "<p><em>״ידעתי שמשהו חסר לי, אבל לא הבנתי מה בדיוק.</em></p><p><em>הספר הזה הוא פשוט מראה לנפש שלי.\"</em></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_dHKc8m": {
+          "type": "column",
+          "settings": {
+            "title": "מאיה צ., אשדוד",
+            "text": "<p><em>״עבורי, זהו ספר חובה.</em></p><p><em>כל מי שרוצה שינוי אמיתי צריך לקרוא אותו.\"</em></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_haN4YX": {
+          "type": "column",
+          "settings": {
+            "title": "אמילי מ., תל אביב",
+            "text": "<p><em>״אני מסתובבת עם הספר הזה בתיק קבוע.</em></p><p><em>זה מסוג הספרים שהם כמו מדריך רב-פעמי, ומצאתי את עצמי קוראת בו בכל מיני מקומות וזמנים שונים, ומפיקה תובנות חדשות.״</em></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_VCbBfL",
+        "column_3rr7hd",
+        "column_dHKc8m",
+        "column_haN4YX"
+      ],
+      "settings": {
+        "title": "<strong>עוד אנשים שכבר עשו שינוי בחייהם</strong>",
+        "title_direction": "rtl",
+        "title_alignment": "center",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "show_image_after_effect": false,
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multirow_Cy7zp8": {
       "type": "multirow",
       "blocks": {
@@ -581,6 +647,7 @@
     "rich_text_jqFQ8N",
     "rich_text_tBM7yA",
     "collapsible_content_BhkJmX",
+    "multicolumn_myUUVh",
     "multirow_Cy7zp8",
     "secondary_product_GxN9ta"
   ]
