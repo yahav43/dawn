@@ -113,212 +113,13 @@
         "padding_bottom": 52
       }
     },
-    "multicolumn_J8dJaF": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_CA3tUM": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/scale-icon.svg",
-            "title": "כלים לבניית חיים מאוזנים ומודעים יותר",
-            "text": "<p>למדי כיצד לאזן בין הגוף לנפש, ליצור שגרות תומכות, ולחיות מתוך נוכחות ומודעות עצמית גבוהה.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_9fDaxp": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/full-moon-icon.svg",
-            "title": "<strong>חיבור פנימי ושקט נפשי</strong>",
-            "text": "<p>בעזרת הכלים שתלמדי, תוכלי למצוא בתוכך מקום של שקט ורוגע שתמיד זמין עבורך, גם כשבחוץ יש כאוס.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_R38JXD": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/yoga-exercise-icon.svg",
-            "title": "<strong>שחרור מתח וביטול עומס</strong>",
-            "text": "<p>השיעורים כוללים תרגולי נשימה (פראניאמה) ומדיטציות מרגיעות המפחיתות את רמות החרדה ועוזרות לשחרר מתח מיותר.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_CA3tUM",
-        "column_9fDaxp",
-        "column_R38JXD"
-      ],
-      "settings": {
-        "title": "<strong>מה את מקבלת</strong>",
-        "title_direction": "rtl",
-        "title_alignment": "center",
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "show_image_after_effect": false,
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-3",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 52,
-        "padding_bottom": 52
-      }
-    },
-    "multicolumn": {
-      "type": "multicolumn",
-      "blocks": {
-        "column-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/pigeon-dove-icon.svg",
-            "title": "<strong>תנוחות יוגה (אסאנות) מעצימות</strong>",
-            "text": "<p>מותאמות למתחילים (וגם למתקדמים), אשר יובילו אותך לאיזון פנימי ולתחושת שלווה כללית.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/girl-exercise-pose-icon.svg",
-            "title": "<strong>שלושת הגונות</strong>",
-            "text": "<p>הכירי את שלושת מצבי ההכרה - סאטווה, תמאס ורג׳אס, וגלי כיצד לאזן את התודעה.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_Tgtwaa": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/number-four-icon.svg",
-            "title": "<strong>ארבעת ענפי היוגה</strong>",
-            "text": "<p>חקר היוגה דרך האטה, קארמה, ניאנה ובהקטי – היוגה של האיחוד וההתמסרות.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_zAxyYT": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/girl-exercise-workout-pose-icon.svg",
-            "title": "<strong>שמונת אברי היוגה</strong>",
-            "text": "<p>כלים מעשיים להגשמה עצמית, יציבות פנימית ושליטה בהכרה לפי תורת פטנג'לי.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column-0",
-        "column-1",
-        "column_Tgtwaa",
-        "column_zAxyYT"
-      ],
-      "settings": {
-        "title": "<strong>מה כלול בריטריט?</strong>",
-        "title_direction": "rtl",
-        "title_alignment": "center",
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "show_image_after_effect": true,
-        "columns_desktop": 4,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 52,
-        "padding_bottom": 52
-      }
-    },
-    "multicolumn_EJJeFK": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_tVCQrz": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/24-hour-icon_e0c625f3-8aec-4536-b582-acddb79cb364.svg",
-            "title": "<strong>גישה לכל החיים</strong>",
-            "text": "<p>לאחר הרכישה תקבלי גישה לכל החיים לתוכן הריטריט</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_Bpt7Nz": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/desktop-mobile-icon.svg",
-            "title": "<strong>שיעורים מוקלטים בוידאו</strong>",
-            "text": "<p>שיעורים מוקלטים בוידאו כך שתוכלי לצפות בהם מכל מקום ובכל מצב!</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_XzEMjE": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/syllabus-icon.svg",
-            "title": "<strong>חוברת דיגיטלית מפורטת</strong>",
-            "text": "<p>חוברת דיגיטלית מקיפה עם כל תכני הריטריט, ועוד כמה בונוסים קטנים</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_TcUgem": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/male-services-support-icon.svg",
-            "title": "<strong>תמיכה מלאה</strong>",
-            "text": "<p>צוות התמיכה הטכנית שלנו יהיה זמין לך לכל שאלה.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_tVCQrz",
-        "column_Bpt7Nz",
-        "column_XzEMjE",
-        "column_TcUgem"
-      ],
-      "settings": {
-        "title": "ריטריט דיגיטלי? איך זה עובד?",
-        "title_direction": "rtl",
-        "title_alignment": "center",
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "show_image_after_effect": false,
-        "columns_desktop": 4,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 52,
-        "padding_bottom": 52
-      }
-    },
     "secondary_product_EtVzUj": {
       "type": "secondary-product",
       "blocks": {
         "text_zMz6KM": {
           "type": "text",
           "settings": {
-            "text": "<strong>מוכנה להתחיל במסע?</strong>",
+            "text": "<strong>הנחה מיוחדת - מבצע לזמן מוגבל</strong>",
             "text_style": "body"
           }
         },
@@ -347,15 +148,7 @@
             "image_3": "shopify://shop_images/legal-agreement-contract-paper-icon.svg",
             "heading_3": "תוצאות מוכחות",
             "icon_4": "none",
-            "image_4": "shopify://shop_images/pos-swipe-icon.svg",
-            "heading_4": "פריסה לתשלומים"
-          }
-        },
-        "text_AzrrD7": {
-          "type": "text",
-          "settings": {
-            "text": "*בכפוף לתקנון",
-            "text_style": "subtitle"
+            "heading_4": ""
           }
         }
       },
@@ -363,8 +156,7 @@
         "text_zMz6KM",
         "price_he9Yhk",
         "buy_buttons_QzzfXG",
-        "icon_with_text_UWNrE9",
-        "text_AzrrD7"
+        "icon_with_text_UWNrE9"
       ],
       "settings": {
         "product": "{{ product }}",
@@ -606,9 +398,6 @@
     "main",
     "component_countdown_VNBaXX",
     "rich_text_9fKHgT",
-    "multicolumn_J8dJaF",
-    "multicolumn",
-    "multicolumn_EJJeFK",
     "secondary_product_EtVzUj",
     "rich_text_x8bVDk",
     "17211428891945090f",
