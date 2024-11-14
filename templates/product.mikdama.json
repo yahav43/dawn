@@ -372,20 +372,6 @@
         "right_copy": ""
       }
     },
-    "component_countdown_HDhfE7": {
-      "type": "component-countdown",
-      "settings": {
-        "show_days": true,
-        "countdown_date": "Tue Nov 19 2024 23:59:59 GMT+0300 (שעון ישראל (קיץ))",
-        "countdown_url": "/",
-        "left_text": false,
-        "left_copy": "",
-        "right_text_direction": "ltr",
-        "left_text_direction": "ltr",
-        "right_text": false,
-        "right_copy": ""
-      }
-    },
     "multirow_Cy7zp8": {
       "type": "multirow",
       "blocks": {
@@ -576,7 +562,8 @@
             "image_2": "shopify://shop_images/secure-payment-icon.svg",
             "heading_2": "תשלום מאובטח",
             "icon_3": "none",
-            "heading_3": "",
+            "image_3": "shopify://shop_images/iconmonstr-heart-thin-240.png",
+            "heading_3": "סדנה מתנה",
             "icon_4": "none",
             "image_4": "shopify://shop_images/pos-swipe-icon.svg",
             "heading_4": "פריסה לתשלומים"
@@ -619,7 +606,6 @@
     "component_countdown_qF7MKe",
     "multirow_Cy7zp8",
     "collapsible_content_BhkJmX",
-    "secondary_product_xC7yxG",
-    "component_countdown_HDhfE7"
+    "secondary_product_xC7yxG"
   ]
 }
