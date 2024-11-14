@@ -364,12 +364,12 @@
         "show_days": true,
         "countdown_date": "Tue Nov 19 2024 23:59:59 GMT+0300 (שעון ישראל (קיץ))",
         "countdown_url": "/",
-        "left_text": false,
-        "left_copy": "",
+        "left_text": true,
+        "left_copy": "<p>המכירה המוקדמת נגמרת עוד</p>",
         "right_text_direction": "ltr",
         "left_text_direction": "ltr",
-        "right_text": false,
-        "right_copy": ""
+        "right_text": true,
+        "right_copy": "<p>המכירה המוקדמת נגמרת עוד</p>"
       }
     },
     "multirow_Cy7zp8": {
