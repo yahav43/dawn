@@ -12,9 +12,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "title_GVcL83": {
-          "type": "title",
-          "settings": {}
+        "text_kYHxtz": {
+          "type": "text",
+          "settings": {
+            "text": "<h1>נרשמים לריטריט ״אדמה והשתרשות״ ומקבלים את סדנת StressLess מתנה</h1>",
+            "text_style": "body"
+          }
         },
         "inventory_ct6hUd": {
           "type": "inventory",
@@ -57,7 +60,7 @@
         }
       },
       "block_order": [
-        "title_GVcL83",
+        "text_kYHxtz",
         "inventory_ct6hUd",
         "description_ynG8QW",
         "price_bRUV8E",
