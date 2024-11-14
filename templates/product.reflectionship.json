@@ -169,50 +169,60 @@
         "padding_bottom": 36
       }
     },
-    "rich_text_x8bVDk": {
-      "type": "rich-text",
+    "multicolumn_bCxNaU": {
+      "type": "multicolumn",
       "blocks": {
-        "heading_Wwr7Wk": {
-          "type": "heading",
+        "column_wTPRG6": {
+          "type": "column",
           "settings": {
-            "heading": "לקוחות מספרות",
-            "heading_size": "h1"
+            "title": "יונתן ש., חיפה",
+            "text": "<p><em>\"תהליך של ריפוי פנימי שלא חוויתי בשום מקום אחר.</em></p><p><em>סוף סוף הבנתי מה מנהל אותי ומצאתי את הדרך לשנות.\"</em></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_bDibM7": {
+          "type": "column",
+          "settings": {
+            "title": "נועה ל., תל אביב",
+            "text": "<p><em>\"ספר חובה לכל מי שמרגיש שיש בו יותר, אבל משהו עוצר אותו.\"</em></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_a34njW": {
+          "type": "column",
+          "settings": {
+            "title": "תמר ג., גבעתיים",
+            "text": "<p><em>\"Reflectionship חשף בפניי את הסיבות לתקיעות שלי.</em></p><p><em>היום אני יודעת איך לשחרר כעסים ופחדים שהרסו את חיי.\"</em></p>",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "heading_Wwr7Wk"
+        "column_wTPRG6",
+        "column_bDibM7",
+        "column_a34njW"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 40
-      }
-    },
-    "17211428891945090f": {
-      "type": "apps",
-      "blocks": {
-        "stamped_product_reviews_ugc_main_widget_iqETUF": {
-          "type": "shopify://apps/stamped-reviews/blocks/main-widget/a103faaf-2125-4b0e-89fa-de5149736723",
-          "settings": {
-            "animation": true,
-            "tags_exclude": "",
-            "tags_include": "",
-            "search": "",
-            "linkify": true,
-            "use_metafields": false,
-            "sku_tagtype": "sku"
-          }
-        }
-      },
-      "block_order": [
-        "stamped_product_reviews_ugc_main_widget_iqETUF"
-      ],
-      "settings": {
-        "include_margins": true
+        "title": "<strong>הנה מה שלקוחות מספרים</strong>",
+        "title_direction": "rtl",
+        "title_alignment": "center",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "show_image_after_effect": false,
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "multirow_Cy7zp8": {
@@ -399,8 +409,7 @@
     "component_countdown_VNBaXX",
     "rich_text_9fKHgT",
     "secondary_product_EtVzUj",
-    "rich_text_x8bVDk",
-    "17211428891945090f",
+    "multicolumn_bCxNaU",
     "multirow_Cy7zp8",
     "collapsible_content_BhkJmX",
     "secondary_product_GxN9ta",
