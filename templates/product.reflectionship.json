@@ -324,11 +324,41 @@
           "settings": {
             "text": "<p>הספר הזה הוא לא ״כפתור הצלה״ והופ עשיתם שינוי, אלא תהליך מעמיק, מחבר ומרגש שנועד לסייע לך במסע האמיתי להיכרות עם עצמך.</p><p>אם אתם מחפשים פתרון קל ומהיר - תצאו מהדף הזה עכשיו - הוא לא בשבילכם.</p>"
           }
+        },
+        "heading_3B6xat": {
+          "type": "heading",
+          "settings": {
+            "heading": "כדאי להמשיך לקרוא!",
+            "heading_size": "h1"
+          }
+        },
+        "text_4hCVbX": {
+          "type": "text",
+          "settings": {
+            "text": "<p>בהמשך הדף תמצאו סיפור אישי מרגש של המחברת - אנחנו רק מתחילים.</p>"
+          }
+        },
+        "heading_DcwAHd": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>מה עוד תלמדו בספר</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_F4AFVJ": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li><strong>כלים לתרגול יומיומי</strong> שמביאים שינוי מעשי.<br/><br/></li><li><strong>שחרור ממחסומים רגשיים</strong> ומדפוסים שמנהלים אותנו מבלי שנהיה מודעים לכך.<br/><br/></li><li><strong>סיפורי מקרה רגישים</strong> על מערכות יחסים שבורים ותהליכי ריפוי עוצמתיים.<br/><br/></li><li><strong>לגלות את השורשים האישיים שלך</strong> – הבנת דפוסים שנרכשו ויוצרים את התגובות הרגשיות שלנו.<br/><br/></li><li><strong>להבין את הפחדים</strong> – להבין מה דוחף אותנו לפחדים שמציפים אותנו ואיך לשחרר אותם.<br/><br/></li><li><strong>ללמוד אהבה עצמית</strong> – איך להפסיק לרצות ולהתחיל לאהוב את עצמנו באמת.<br/><br/></li></ul><p><strong>להחזיר את השליטה לחיינו</strong> – לפתח נוכחות ולקחת אחריות מחודשת על חיינו.</p>"
+          }
         }
       },
       "block_order": [
         "heading_76UHLM",
-        "text_P7F6G9"
+        "text_P7F6G9",
+        "heading_3B6xat",
+        "text_4hCVbX",
+        "heading_DcwAHd",
+        "text_F4AFVJ"
       ],
       "settings": {
         "desktop_content_position": "center",
