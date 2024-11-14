@@ -9,12 +9,36 @@
  */
 {
   "sections": {
+    "component_countdown_VNBaXX": {
+      "type": "component-countdown",
+      "settings": {
+        "show_days": false,
+        "countdown_date": "Tue Dec 3 2024 23:59:59 GMT+0300 (שעון ישראל (קיץ))",
+        "countdown_url": "shopify://products/reflectionship",
+        "left_text": true,
+        "left_copy": "<p>זמן שנותר</p>",
+        "right_text_direction": "ltr",
+        "left_text_direction": "ltr",
+        "right_text": false,
+        "right_copy": ""
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
-        "title_GVcL83": {
-          "type": "title",
-          "settings": {}
+        "text_Tt8jTn": {
+          "type": "text",
+          "settings": {
+            "text": "<h1><strong>Reflectionship - ספר משנה חיים מבית מרכז המעגל</strong></h1>",
+            "text_style": "body"
+          }
+        },
+        "text_zrpB6e": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>הצטרפו למאות הקוראים שכבר יצאו למסע של צמיחה והתחדשות, במחיר השקה חד-פעמי לכבוד הבלאק פריידי!</h2>",
+            "text_style": "body"
+          }
         },
         "price_bRUV8E": {
           "type": "price",
@@ -35,7 +59,8 @@
         }
       },
       "block_order": [
-        "title_GVcL83",
+        "text_Tt8jTn",
+        "text_zrpB6e",
         "price_bRUV8E",
         "buy_buttons_DhFQ8E",
         "description_ynG8QW"
@@ -577,6 +602,7 @@
     }
   },
   "order": [
+    "component_countdown_VNBaXX",
     "main",
     "rich_text_9fKHgT",
     "multicolumn_J8dJaF",
