@@ -255,6 +255,60 @@
         "padding_bottom": 52
       }
     },
+    "secondary_product_y7HGgK": {
+      "type": "secondary-product",
+      "blocks": {
+        "text_7VBYyQ": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>שינוי, או חבילת מסטיקים?</strong>",
+            "text_style": "body"
+          }
+        },
+        "text_8Jqmbw": {
+          "type": "text",
+          "settings": {
+            "text": "הזדמנות חד-פעמית לרכוש את הספר במחיר מצחיק של 9.90 ₪ בלבד, בבלאק פריידי בלבד.",
+            "text_style": "subtitle"
+          }
+        },
+        "price_wQ7bUx": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_wVPpyA": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "buy_buttons_G8rbRP": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        }
+      },
+      "block_order": [
+        "text_7VBYyQ",
+        "text_8Jqmbw",
+        "price_wQ7bUx",
+        "variant_picker_wVPpyA",
+        "buy_buttons_G8rbRP"
+      ],
+      "settings": {
+        "product": "reflectionship",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "secondary_background": false,
+        "constrain_to_viewport": true,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "collapsible_content_BhkJmX": {
       "type": "collapsible-content",
       "blocks": {
@@ -423,6 +477,7 @@
     "secondary_product_EtVzUj",
     "multicolumn_bCxNaU",
     "rich_text_j4WfKB",
+    "secondary_product_y7HGgK",
     "collapsible_content_BhkJmX",
     "multirow_Cy7zp8",
     "secondary_product_GxN9ta"
