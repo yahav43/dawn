@@ -284,6 +284,20 @@
             "text_style": "body"
           }
         },
+        "text_JyaHxV": {
+          "type": "text",
+          "settings": {
+            "text": "8 מפגשים דיגיטליים פרקטיים להפחתת לחץ",
+            "text_style": "body"
+          }
+        },
+        "text_FMzAaB": {
+          "type": "text",
+          "settings": {
+            "text": "<a href=\"/products/stress-less\" target=\"_blank\" title=\"StressLess\">למידע נוסף</a>",
+            "text_style": "body"
+          }
+        },
         "text_fRtmYC": {
           "type": "text",
           "settings": {
@@ -326,6 +340,8 @@
       },
       "block_order": [
         "text_zMz6KM",
+        "text_JyaHxV",
+        "text_FMzAaB",
         "text_fRtmYC",
         "buy_buttons_QzzfXG",
         "icon_with_text_UWNrE9",
