@@ -592,6 +592,13 @@
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": false
           }
+        },
+        "text_NhMfcx": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>הזדמנות של פעם בחיים – הצטרפו עכשיו וקחו צעד ראשון לקראת השינוי.</strong>",
+            "text_style": "subtitle"
+          }
         }
       },
       "block_order": [
@@ -599,7 +606,8 @@
         "text_TbDw7m",
         "title_VKhwxa",
         "variant_picker_c8iEUf",
-        "buy_buttons_rrqHNe"
+        "buy_buttons_rrqHNe",
+        "text_NhMfcx"
       ],
       "settings": {
         "product": "{{ product }}",
@@ -609,7 +617,7 @@
         "hide_variants": false,
         "enable_video_looping": false,
         "padding_top": 36,
-        "padding_bottom": 0
+        "padding_bottom": 24
       }
     }
   },
