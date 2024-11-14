@@ -309,7 +309,8 @@
             "image_2": "shopify://shop_images/secure-payment-icon.svg",
             "heading_2": "תשלום מאובטח",
             "icon_3": "none",
-            "heading_3": "",
+            "image_3": "shopify://shop_images/iconmonstr-heart-thin-240.png",
+            "heading_3": "סדנה מתנה",
             "icon_4": "none",
             "image_4": "shopify://shop_images/pos-swipe-icon.svg",
             "heading_4": "פריסה לתשלומים"
