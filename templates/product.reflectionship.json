@@ -50,6 +50,13 @@
             "text": "<p>Reflectionship - הספר שיעזור לכם לגלות את עצמכם, לשחרר את מה שמעכב אתכם ולהוביל שינוי אמיתי במערכות היחסים ובחיים האישיים.</p>",
             "text_style": "body"
           }
+        },
+        "text_xT6jtz": {
+          "type": "text",
+          "settings": {
+            "text": "<p>הצטרפו למאות הנפשות שכבר החלו להניע שינוי חיובי בחיים שלהן.</p>",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
@@ -58,7 +65,8 @@
         "price_bRUV8E",
         "buy_buttons_DhFQ8E",
         "text_LiTWgJ",
-        "text_cPKahw"
+        "text_cPKahw",
+        "text_xT6jtz"
       ],
       "settings": {
         "show_tax_notice": false,
