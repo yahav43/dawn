@@ -1,0 +1,116 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": true,
+            "blog_show_author": true
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title",
+        "content"
+      ],
+      "settings": {}
+    },
+    "rich_text_epR7B7": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_cjr9i7": {
+          "type": "heading",
+          "settings": {
+            "heading": "{{ article.metafields.custom.form_title.value }}",
+            "heading_size": "h1"
+          }
+        },
+        "text_jhawhV": {
+          "type": "text",
+          "settings": {
+            "text": "<p>{{ article.metafields.custom.form_subtitle | metafield_tag }}</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_cjr9i7",
+        "text_jhawhV"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-5",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "1729861268343e58e3": {
+      "type": "apps",
+      "blocks": {
+        "klaviyo_email_marketing_sms_form_embed_block_cTGfD4": {
+          "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/form-embed-block/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "{{ article.metafields.custom.form_id.value }}"
+          }
+        }
+      },
+      "block_order": [
+        "klaviyo_email_marketing_sms_form_embed_block_cTGfD4"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "custom_liquid_D7tFCQ": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "featured_blog_zW6zki": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "אולי יעניין אותך גם",
+        "heading_size": "h1",
+        "title_alignment": "right",
+        "blog": "blog",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "info_direction": "rtl",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_epR7B7",
+    "1729861268343e58e3",
+    "custom_liquid_D7tFCQ",
+    "featured_blog_zW6zki"
+  ]
+}
