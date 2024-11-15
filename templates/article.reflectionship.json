@@ -60,30 +60,55 @@
         "padding_bottom": 0
       }
     },
-    "1729861268343e58e3": {
-      "type": "apps",
+    "featured_product_DHJhCm": {
+      "type": "featured-product",
       "blocks": {
-        "klaviyo_email_marketing_sms_form_embed_block_cTGfD4": {
-          "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/form-embed-block/2632fe16-c075-4321-a88b-50b567f42507",
+        "title_tXVmrh": {
+          "type": "title",
           "settings": {
-            "formId": "{{ article.metafields.custom.form_id.value }}"
+            "heading_size": "h1"
+          }
+        },
+        "buy_buttons_TpccHH": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "price_tEKGJ8": {
+          "type": "price",
+          "settings": {
+            "show_badges": true
+          }
+        },
+        "variant_picker_6MazrH": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
           }
         }
       },
       "block_order": [
-        "klaviyo_email_marketing_sms_form_embed_block_cTGfD4"
+        "title_tXVmrh",
+        "buy_buttons_TpccHH",
+        "price_tEKGJ8",
+        "variant_picker_6MazrH"
       ],
       "settings": {
-        "include_margins": true
-      }
-    },
-    "custom_liquid_D7tFCQ": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "",
+        "product": "reflectionship",
         "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "secondary_background": false,
+        "media_size": "small",
+        "constrain_to_viewport": false,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "featured_blog_zW6zki": {
@@ -109,8 +134,7 @@
   "order": [
     "main",
     "rich_text_epR7B7",
-    "1729861268343e58e3",
-    "custom_liquid_D7tFCQ",
+    "featured_product_DHJhCm",
     "featured_blog_zW6zki"
   ]
 }
