@@ -97,7 +97,7 @@
         "variant_picker_6MazrH"
       ],
       "settings": {
-        "product": "reflectionship",
+        "product": "{{ article.metafields.custom.blog_article_featured_product.value }}",
         "color_scheme": "",
         "secondary_background": false,
         "media_size": "small",
