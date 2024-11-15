@@ -26,6 +26,14 @@
             "text_style": "body"
           }
         },
+        "inventory_gdehpW": {
+          "type": "inventory",
+          "settings": {
+            "text_style": "body",
+            "inventory_threshold": 50,
+            "show_inventory_quantity": true
+          }
+        },
         "price_bRUV8E": {
           "type": "price",
           "settings": {}
@@ -62,6 +70,7 @@
       "block_order": [
         "text_Tt8jTn",
         "text_zrpB6e",
+        "inventory_gdehpW",
         "price_bRUV8E",
         "buy_buttons_DhFQ8E",
         "text_LiTWgJ",
