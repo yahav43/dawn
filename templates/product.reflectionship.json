@@ -101,7 +101,7 @@
         "countdown_date": "Tue Dec 3 2024 23:59:59 GMT+0300 (שעון ישראל (קיץ))",
         "countdown_url": "shopify://products/reflectionship",
         "left_text": true,
-        "left_copy": "<p>זמן שנותר</p>",
+        "left_copy": "<p>מחיר הספר יעלה בעוד</p>",
         "right_text_direction": "ltr",
         "left_text_direction": "ltr",
         "right_text": false,
