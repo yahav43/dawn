@@ -15,14 +15,21 @@
         "text_Tt8jTn": {
           "type": "text",
           "settings": {
-            "text": "<h1><strong>Reflectionship - ספר משנה חיים מבית מרכז המעגל</strong></h1>",
+            "text": "<h1><strong>Reflectionship - שיקוף וריפוי מערכות יחסים</strong></h1>",
+            "text_style": "body"
+          }
+        },
+        "text_cPKahw": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Reflectionship - הספר שיעזור לכם לגלות את עצמכם, לשחרר את מה שמעכב אתכם ולהוביל שינוי אמיתי במערכות היחסים ובחיים האישיים.</h3>",
             "text_style": "body"
           }
         },
         "text_zrpB6e": {
           "type": "text",
           "settings": {
-            "text": "<h2>בעקבות המצב - אנחנו מחלקות 300 עותקים מהספר במחיר בדיחה!</h2>",
+            "text": "<h2>בעקבות המצב - אנחנו מחלקות 300 עותקים דיגיטליים מהספר במחיר בדיחה!</h2>",
             "text_style": "body"
           }
         },
@@ -52,13 +59,6 @@
             "text_style": "body"
           }
         },
-        "text_cPKahw": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Reflectionship - הספר שיעזור לכם לגלות את עצמכם, לשחרר את מה שמעכב אתכם ולהוביל שינוי אמיתי במערכות היחסים ובחיים האישיים.</p>",
-            "text_style": "body"
-          }
-        },
         "text_xT6jtz": {
           "type": "text",
           "settings": {
@@ -69,12 +69,12 @@
       },
       "block_order": [
         "text_Tt8jTn",
+        "text_cPKahw",
         "text_zrpB6e",
         "inventory_gdehpW",
         "price_bRUV8E",
         "buy_buttons_DhFQ8E",
         "text_LiTWgJ",
-        "text_cPKahw",
         "text_xT6jtz"
       ],
       "settings": {
