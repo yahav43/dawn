@@ -481,6 +481,15 @@
             "row_content": "<p>לא, אין צורך ללכת יחף או ללבוש שרוואל כדי להפיק תועלת מהספר ולהניע שינוי.</p><p>הספר מתאים לכל אחד שמרגיש מוכן להכיר את עצמו טוב יותר.</p><p>הוא לא מתמקד ב\"עולם רוחני\" אלא בתהליכים רגשיים עמוקים שכל אחד חווה.</p><p>הכלים הם אוניברסליים ונגישים, ומכוונים לכל מי שמעוניין בתהליך של צמיחה והתחדשות אישית.</p>",
             "page": ""
           }
+        },
+        "collapsible_row_LjLLHk": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "זה ספר פיזי?",
+            "icon": "none",
+            "row_content": "<p>לא, הספר הוא ספר דיגיטלי אשר יישלח אלייך למייל בתור קובץ PDF להורדה, כך שתוכלי להשתמש בו בכל מכשיר שתרצי, מכל מקום ובכל זמן.</p><p>אפילו ללא צורך בקליטה או חיבור לאינטרנט!</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -490,7 +499,8 @@
         "collapsible_row_tR8DGP",
         "collapsible_row_UnXJRb",
         "collapsible_row_kcwqwE",
-        "collapsible_row_TbfJmC"
+        "collapsible_row_TbfJmC",
+        "collapsible_row_LjLLHk"
       ],
       "settings": {
         "caption": "",
