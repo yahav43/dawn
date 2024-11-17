@@ -161,8 +161,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/document-application-woman-icon.svg",
-            "title": "<strong>20 שנות ניסיון מזוקקות</strong>",
-            "text": "<p>מנחת הקורס, יעל מימון (סאדו׳י), מדריכת יוגה, רייקי, פסיכוטרפיה הוליסטית, תנחה אותך עם ניסיון רב מאוד.</p>",
+            "title": "<strong>30 שנות ניסיון מזוקקות</strong>",
+            "text": "<p>מנחת הקורס, ד״ר יעל מימון (סאדו׳י), מורה בכירה ליוגה, רייקי, פסיכוטרפיה הוליסטית, תנחה אותך עם ניסיון של יותר מ 30 שנה.</p>",
             "link_label": "",
             "link": ""
           }
@@ -246,7 +246,7 @@
         "image_width": "third",
         "image_ratio": "adapt",
         "show_image_after_effect": true,
-        "columns_desktop": 4,
+        "columns_desktop": 1,
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
