@@ -285,7 +285,14 @@
         "text_8Jqmbw": {
           "type": "text",
           "settings": {
-            "text": "הזדמנות חד-פעמית לרכוש את הספר במחיר מצחיק של 9.90 ₪ בלבד, בבלאק פריידי בלבד.",
+            "text": "הזדמנות חד-פעמית לרכוש את הספר במחיר מצחיק של 9.90 ₪ בלבד.",
+            "text_style": "subtitle"
+          }
+        },
+        "text_kAic7T": {
+          "type": "text",
+          "settings": {
+            "text": "עד גמר המלאי.",
             "text_style": "subtitle"
           }
         },
@@ -311,6 +318,7 @@
       "block_order": [
         "text_7VBYyQ",
         "text_8Jqmbw",
+        "text_kAic7T",
         "price_wQ7bUx",
         "variant_picker_wVPpyA",
         "buy_buttons_G8rbRP"
