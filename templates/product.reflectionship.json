@@ -223,7 +223,7 @@
         "column_a34njW"
       ],
       "settings": {
-        "title": "<strong>הנה מה שלקוחות מספרים</strong>",
+        "title": "<strong>הנה מה שלקוחות מספרות/ים</strong>",
         "title_direction": "rtl",
         "title_alignment": "center",
         "heading_size": "h1",
@@ -436,6 +436,15 @@
             "page": ""
           }
         },
+        "collapsible_row_tFhBV6": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "הספר כתוב בעברית או אנגלית?",
+            "icon": "none",
+            "row_content": "<p>הספר כתוב בשפה העברית, ואולי יתורגם בהמשך לשפות נוספות.</p>",
+            "page": ""
+          }
+        },
         "collapsible_row_mADL4C": {
           "type": "collapsible_row",
           "settings": {
@@ -502,6 +511,7 @@
       },
       "block_order": [
         "collapsible_row_h8MBix",
+        "collapsible_row_tFhBV6",
         "collapsible_row_mADL4C",
         "collapsible_row_Fkb8Jh",
         "collapsible_row_tR8DGP",
