@@ -1,0 +1,683 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "text_Tt8jTn": {
+          "type": "text",
+          "settings": {
+            "text": "<h1><strong>Reflectionship - שיקוף וריפוי מערכות יחסים</strong></h1>",
+            "text_style": "body"
+          }
+        },
+        "text_cPKahw": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Reflectionship - הספר שיעזור לך לגלות את עצמך, לשחרר את מה שמעכב אותך ולהוביל שינוי אמיתי במערכות היחסים ובחיים האישיים.</h3>",
+            "text_style": "body"
+          }
+        },
+        "text_zrpB6e": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>בעקבות המצב - אנחנו מחלקות 300 עותקים דיגיטליים מהספר במחיר בדיחה!</h2>",
+            "text_style": "body"
+          }
+        },
+        "inventory_gdehpW": {
+          "type": "inventory",
+          "settings": {
+            "text_style": "body",
+            "inventory_threshold": 50,
+            "show_inventory_quantity": true
+          }
+        },
+        "price_bRUV8E": {
+          "type": "price",
+          "settings": {}
+        },
+        "buy_buttons_DhFQ8E": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "text_LiTWgJ": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>מרגישה תקועה שוב ושוב באותם דפוסים? מחפשת להתחבר מחדש אל עצמך ולהתחיל לחיות בהרמוניה?</strong></h3>",
+            "text_style": "body"
+          }
+        },
+        "text_xT6jtz": {
+          "type": "text",
+          "settings": {
+            "text": "<p>הצטרפי למאות הנפשות שכבר החלו להניע שינוי חיובי בחיים שלהן.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "text_Tt8jTn",
+        "text_cPKahw",
+        "text_zrpB6e",
+        "inventory_gdehpW",
+        "price_bRUV8E",
+        "buy_buttons_DhFQ8E",
+        "text_LiTWgJ",
+        "text_xT6jtz"
+      ],
+      "settings": {
+        "show_tax_notice": false,
+        "enable_sticky_info": true,
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "media_size": "small",
+        "constrain_to_viewport": false,
+        "media_fit": "cover",
+        "gallery_layout": "columns",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "hide",
+        "hide_variants": true,
+        "enable_video_looping": true,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "component_countdown_VNBaXX": {
+      "type": "component-countdown",
+      "settings": {
+        "show_days": false,
+        "countdown_date": "Tue Dec 3 2024 16:59:59 GMT+0300 (שעון ישראל (קיץ))",
+        "countdown_url": "shopify://products/reflectionship",
+        "left_text": true,
+        "left_copy": "<p>מחיר הספר יעלה בעוד</p>",
+        "right_text_direction": "ltr",
+        "left_text_direction": "ltr",
+        "right_text": false,
+        "right_copy": ""
+      }
+    },
+    "rich_text_9fKHgT": {
+      "type": "rich-text",
+      "blocks": {
+        "text_BqLwTk": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>\"לקח לי מעל 15 שנים, יותר מ 50 ספרים, ויותר מ 1,000 מטופלים להבין איך להשתחרר מהשרשראות שמנהלות את חיינו.</em></p><p><em>כעת, כל התובנות מרוכזות עבורכם בספר אחד קצר ומעשי - </em><em><strong>74 עמודים בלבד</strong></em><em> שילווה אתכם שלב אחר שלב במסע הפנימי שלכם.\"</em></p><p>ד״ר יעל מימון, מחברת הספר, פסיכותרפיסטית בכירה ויועצת צמיחה רגשית.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_BqLwTk"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "full_width": true,
+        "padding_top": 52,
+        "padding_bottom": 52
+      }
+    },
+    "secondary_product_EtVzUj": {
+      "type": "secondary-product",
+      "blocks": {
+        "text_zMz6KM": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>הנחה מיוחדת - מבצע לזמן מוגבל</strong>",
+            "text_style": "body"
+          }
+        },
+        "price_he9Yhk": {
+          "type": "price",
+          "settings": {}
+        },
+        "buy_buttons_QzzfXG": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": true
+          }
+        },
+        "icon_with_text_UWNrE9": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "none",
+            "image_1": "shopify://shop_images/recurring-subscription-icon.svg",
+            "heading_1": "זיכוי כספי עד 30 יום",
+            "icon_2": "none",
+            "image_2": "shopify://shop_images/secure-payment-icon.svg",
+            "heading_2": "תשלום מאובטח",
+            "icon_3": "none",
+            "image_3": "shopify://shop_images/legal-agreement-contract-paper-icon.svg",
+            "heading_3": "תוצאות מוכחות",
+            "icon_4": "none",
+            "heading_4": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_zMz6KM",
+        "price_he9Yhk",
+        "buy_buttons_QzzfXG",
+        "icon_with_text_UWNrE9"
+      ],
+      "settings": {
+        "product": "{{ product }}",
+        "color_scheme": "scheme-5",
+        "secondary_background": false,
+        "constrain_to_viewport": false,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_bCxNaU": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_wTPRG6": {
+          "type": "column",
+          "settings": {
+            "title": "יונתן ש., חיפה",
+            "text": "<p><em>\"תהליך של ריפוי פנימי שלא חוויתי בשום מקום אחר.</em></p><p><em>סוף סוף הבנתי מה מנהל אותי ומצאתי את הדרך לשנות.\"</em></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_bDibM7": {
+          "type": "column",
+          "settings": {
+            "title": "נועה ל., תל אביב",
+            "text": "<p><em>\"ספר חובה לכל מי שמרגיש שיש בו יותר, אבל משהו עוצר אותו.\"</em></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_a34njW": {
+          "type": "column",
+          "settings": {
+            "title": "תמר ג., גבעתיים",
+            "text": "<p><em>\"Reflectionship חשף בפניי את הסיבות לתקיעות שלי.</em></p><p><em>היום אני יודעת איך לשחרר כעסים ופחדים שהרסו את חיי.\"</em></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_wTPRG6",
+        "column_bDibM7",
+        "column_a34njW"
+      ],
+      "settings": {
+        "title": "<strong>הנה מה שלקוחות מספרות/ים</strong>",
+        "title_direction": "rtl",
+        "title_alignment": "center",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "show_image_after_effect": false,
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_j4WfKB": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_4ED3LU": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>מה תלמדי ותקבלי ב Reflectionship</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_T7EJzP": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li><strong>הסודות הנסתרים להצלחה במערכות יחסים – כך תבני קשרים שמחזיקים מעמד - Reflectionship </strong>מגלה את הגישה שתעזור לך לבנות מערכות יחסים הרמוניות ומאושרות – קודם כל עם עצמך, ואז עם אחרים: בני זוג, משפחה, חברים וגם בעבודה.<br/>בעזרת כלים מוכחים, תוכלי ליצור קשרים בריאים שבהם תרגישי מוערכת ואהובה בדיוק כפי שאת.<br/><br/></li><li><strong>איך לזהות את הדפוסים שמעכבים אותך ולחיות באותנטיות מלאה - </strong>רובנו לא יודעים עד כמה הדפוסים שנרכשו במהלך החיים שולטים בנו – וכמה חופש מחכה לנו אם רק נשתחרר מהם.<br/>Reflectionship יעזור לך לזהות את הדפוסים האלה, להשתחרר מהם, ולהתחיל לחיות כפי שתמיד רצית.<br/><br/></li><li><strong>הדרך המוכחת לשחרור מכל פחד – כך תצעדי קדימה ללא מעצורים - </strong>אם פחדים עוצרים אותך מלהתקדם, את לא לבד.<br/>הספר מציע כלים עוצמתיים ופשוטים שיאפשרו לך לשחרר את הפחדים שמונעים ממך להיות האדם שאת יודעת שאת יכולה להיות.<br/>זה הזמן לעבור מעבר לפחדים ולהתחיל לפעול בביטחון.<br/><br/></li><li><strong>לפרק קונפליקטים פנימיים ולהכניס רוגע לחיים – השיטה שכל אחת צריכה - </strong>רוצה להפחית מתחים ולהכניס רוגע ושקט פנימי?<br/>Reflectionship יעזור לך לגלות את הקונפליקטים הפנימיים שמנהלים אותך ואפילו לגרום לך לקבל אותם, ולהתנהל בחיי היומיום עם קלות אמיתית ובטחון עצמי.<br/><br/></li><li><strong>הסוד להתחבר מחדש לחזון ולמשמעות שלך – כך תמצאי את הדרך שלך - </strong>אם את מרגישה תקועה או בין אם את מחפשת את המקום שלך בעולם, הספר הזה הוא עבורך.<br/>כאן תמצאי את הכלים לזהות את הכוחות הפנימיים שלך ואת החזון האישי שמחכה לך – כך שתוכלי להרגיש מסופקת, מלאת אנרגיה, ועם מטרה שמניעה אותך קדימה.<br/><br/></li><li><strong>ניקוי הרגשות השליליים שמונעים ממך לחיות באושר – איך לשחרר אשמה ובושה ולהיות חופשיה - </strong>אשמה ובושה הם הרגשות האפלים שמחבלים בשקט הנפשי שלנו מבלי שנשים לב.<br/>בעזרת תרגילים פשוטים אך יעילים, תלמדי לשחרר את עצמך מהכבלים הללו, לחוות חמלה וקבלה עצמית, ולחיות חיים שלוים ונטולי מעצורים רגשיים.<br/><br/></li><li><strong>כך תשברי את מעגל הדרמה והכאב במערכות יחסים ותכניסי הנאה לקרבה אמיתית - </strong>מערכות יחסים רבות נראות לנו הרבה יותר מסובכות ממה שהן באמת, ומנוהלות על ידי דפוסים מוכרים של כאב ודרמה.<br/>כאן תלמדי איך להפחית מתח ולעורר קרבה אמיתית.<br/>כך, קשרים ירגישו קלים ומהנים ולא ידרשו מאמץ אינסופי.<br/><br/></li></ul><p><strong>להפוך כל אתגר לצמיחה – איך לרתום את הקשיים ולהפוך אותם למנוע ההצלחה שלך - </strong>במקום לשקוע בקשיים ולוותר – Reflectionship מציע כלים איך למנף כל אתגר להזדמנות להתפתחות.<br/>תלמדי איך לפעול מתוך עוצמה ולהפוך מכשולים לאבני דרך שיעזרו לך לצמוח. <br/>זאת הדרך להצלחה פנימית וחיצונית בכל תחום.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_4ED3LU",
+        "text_T7EJzP"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "secondary_product_y7HGgK": {
+      "type": "secondary-product",
+      "blocks": {
+        "text_7VBYyQ": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>שינוי, או חבילת מסטיקים?</strong>",
+            "text_style": "body"
+          }
+        },
+        "text_8Jqmbw": {
+          "type": "text",
+          "settings": {
+            "text": "הזדמנות חד-פעמית לרכוש את הספר במחיר מצחיק של 9.90 ₪ בלבד.",
+            "text_style": "subtitle"
+          }
+        },
+        "text_kAic7T": {
+          "type": "text",
+          "settings": {
+            "text": "עד גמר המלאי.",
+            "text_style": "subtitle"
+          }
+        },
+        "price_wQ7bUx": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_wVPpyA": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "buy_buttons_G8rbRP": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        }
+      },
+      "block_order": [
+        "text_7VBYyQ",
+        "text_8Jqmbw",
+        "text_kAic7T",
+        "price_wQ7bUx",
+        "variant_picker_wVPpyA",
+        "buy_buttons_G8rbRP"
+      ],
+      "settings": {
+        "product": "reflectionship",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "secondary_background": false,
+        "constrain_to_viewport": true,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_jqFQ8N": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_76UHLM": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>לא מדובר בפתרון קסם, אלא תהליך אמיתי</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_P7F6G9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>הספר הזה הוא לא ״כפתור הצלה״ והופ עשיתם שינוי, אלא תהליך מעמיק, מחבר ומרגש שנועד לסייע לך במסע האמיתי להיכרות עם עצמך.</p><p>אם אתם מחפשים פתרון קל ומהיר - תצאו מהדף הזה עכשיו - הוא לא בשבילכם.</p>"
+          }
+        },
+        "heading_3B6xat": {
+          "type": "heading",
+          "settings": {
+            "heading": "כדאי להמשיך לקרוא!",
+            "heading_size": "h1"
+          }
+        },
+        "text_4hCVbX": {
+          "type": "text",
+          "settings": {
+            "text": "<p>בהמשך הדף תמצאו סיפור אישי מרגש של המחברת - אנחנו רק מתחילים.</p>"
+          }
+        },
+        "heading_DcwAHd": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>מה עוד תלמדו בספר</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_F4AFVJ": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li><strong>כלים לתרגול יומיומי</strong> שמביאים שינוי מעשי.<br/><br/></li><li><strong>שחרור ממחסומים רגשיים</strong> ומדפוסים שמנהלים אותנו מבלי שנהיה מודעים לכך.<br/><br/></li><li><strong>סיפורי מקרה רגישים</strong> על מערכות יחסים שבורים ותהליכי ריפוי עוצמתיים.<br/><br/></li><li><strong>לגלות את השורשים האישיים שלך</strong> – הבנת דפוסים שנרכשו ויוצרים את התגובות הרגשיות שלנו.<br/><br/></li><li><strong>להבין את הפחדים</strong> – להבין מה דוחף אותנו לפחדים שמציפים אותנו ואיך לשחרר אותם.<br/><br/></li><li><strong>ללמוד אהבה עצמית</strong> – איך להפסיק לרצות ולהתחיל לאהוב את עצמנו.<br/><br/></li><li><strong>להחזיר את השליטה לחיינו - </strong>לפתח נוכחות ולקחת אחריות מחודשת על חיינו.</li></ul>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_76UHLM",
+        "text_P7F6G9",
+        "heading_3B6xat",
+        "text_4hCVbX",
+        "heading_DcwAHd",
+        "text_F4AFVJ"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_tBM7yA": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_xcz94b": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>ה״חיפוש״ אחר עצמי</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_DVjfK6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>נולדתי ברמת גן ב 1970.</p><p>עברתי ילדות מורכבת כבת בכורה להורים גרושים, ילדה ונערה בסיכון.</p><p>מיום שאני זוכרת את עצמי חיפשתי אמת, תכלית ומשמעות.</p><p>החיפוש שלי הוביל אותי לשנים רבות של לימודים בכל מיני מסגרות ובעיקר לחקירה נוקבת וחסרת פשרות של עצמי.</p><p>לימים , נישאתי והבאתי לעולם ארבעה ילדים נפלאים שלימדו אותי המון על עצמי ובכלל.</p><p>הכלים שרכשתי הובילו אותי לטיפול ולהוראה של מקצועות הטיפול.</p><p>אני עוסקת בטיפול כ 25 שנים, מלמדת כעשרים שנים.</p><p>ב 12 השנים האחרונות אני מרצה ומרכזת את המגמה לפסיכותרפיה הוליסטית מכללת הנות בחדרה.</p><p>בשנתיים האחרונות יועצת בצוות חוסן לעובדים בבית החולים הילל יפה. מעבירה סדנאות בנושא שחיקה וסטרס לעובדים ועוזרת בבניית תכנים וכלים.</p><p>הדרך הרוחנית שלי היא יוגה.</p><p>אני מורה ותלמידה ליוגה כעשרים שנה.</p><p>מלמדת יוגה בבית החולים הלל יפה משנת 2019.</p><p>אני מאמינה שכדי להגיע להחלמה והרמוניה צריך לטפל באדם ולא במחלה.</p><p><em>\"כמו רבים מאיתנו, גם אני חיפשתי את עצמי, שאלתי מה באמת עושה אותי מאושרת, ואיך אפשר להשתחרר מתחושת הכעס והפחד שמלווים אותנו.</em></p><p><em>Reflectionship הוא התשובה שלי לתהליכי החיים המורכבים הללו.</em></p><p><em>כל התובנות שלי נאספו כאן, בספר הזה, כדי שגם אתה תוכל לעבור את המסע המופלא הזה ולגלות מי אתה באמת.\"</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_xcz94b",
+        "text_DVjfK6"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "collapsible_content_BhkJmX": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_h8MBix": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "מה תכל׳ס יש בספר?",
+            "icon": "none",
+            "row_content": "<p>הספר מכיל תכנים מעשיים, סיפורי מקרה ותרגילים שיסייעו לכם לחקור את עצמכם ולבצע שינוי אישי עמוק.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_tFhBV6": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "הספר כתוב בעברית או אנגלית?",
+            "icon": "none",
+            "row_content": "<p>הספר כתוב בשפה העברית, ואולי יתורגם בהמשך לשפות נוספות.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_mADL4C": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "למי הספר מיועד?",
+            "icon": "none",
+            "row_content": "<p>לכל מי שמחפש שינוי אמיתי במערכות היחסים שלו ובחיים האישיים, למי שמרגיש חסום בדפוסים רגשיים ולא מצליח לפרוץ קדימה.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Fkb8Jh": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "האם הספר מתאים לכל גיל?",
+            "icon": "none",
+            "row_content": "<p>כמעט! היינו ממליצים לקרוא אותו לאחר גיל 18, למרות שתכל׳ס כל מי שמרגיש מוכן, ולא מפחד מעצמו.</p><p>הספר \"Reflectionship\" מתאים לכל מי שמרגיש מוכן לצלול פנימה ולהבין את הדפוסים שמנהלים אותו.</p><p>בין אם אתם בתחילת הדרך, מתמודדים עם אתגרים רגשיים או פשוט רוצים שקט פנימי והרמוניה – הספר יכול להעניק לכם תובנות וכלים שיעזרו לכם.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_tR8DGP": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "ניסיתי כבר הכל ושום דבר לא באמת עובד לי",
+            "icon": "none",
+            "row_content": "<p>זו שאלה מצוינת, ורבים מהקוראים שלנו חשו כך בעבר.</p><p>\"Reflectionship\" שונה מספרים אחרים בזכות הגישה המעמיקה שלו – הוא לא עוסק בטכניקות שטחיות אלא נותן כלים פרקטיים המובילים לשינוי אמיתי ועמוק.</p><p>כלים אלו עובדים באופן אישי, בקצב שמתאים לך.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_UnXJRb": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "אני לא ממש אוהבת לקרוא ספרים - האם זה בשבילי?",
+            "icon": "none",
+            "row_content": "<p>בהחלט!</p><p>לא מדובר בספר חדש בסדרת הארי פוטר או משחקי הכס - אלא בספר בן 74 עמודים בלבד.</p><p>\"Reflectionship\" נכתב בצורה פשוטה, בגובה העיניים, עם הרבה דוגמאות, סיפורים מהחיים ותרגילים מעשיים.</p><p>הספר גם מחולק לפרקים קצרים, כך שאפשר לקרוא בכל פעם קצת ולהשאיר זמן לחשוב ולהפנים.</p><p>אנחנו בטוחות שהספר ייגע בך ויגרום לך להמשיך לקרוא!</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_kcwqwE": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "מה אם אקרא את הספר ולא ארגיש שינוי?",
+            "icon": "none",
+            "row_content": "<p><em>אנחנו כל כך מאמינות בערך של הספר ובכוח השינוי שבו, שאנו מציעות לך החזר כספי מלא אם לא תחושי שום שינוי!</em></p><p><em>כך תוכל לנסות ללא כל סיכון.</em></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_TbfJmC": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "האם אני צריך להיות אדם רוחני כדי להתחבר לתכנים בספר?",
+            "icon": "none",
+            "row_content": "<p>לא, אין צורך ללכת יחף או ללבוש שרוואל כדי להפיק תועלת מהספר ולהניע שינוי.</p><p>הספר מתאים לכל אחד שמרגיש מוכן להכיר את עצמו טוב יותר.</p><p>הוא לא מתמקד ב\"עולם רוחני\" אלא בתהליכים רגשיים עמוקים שכל אחד חווה.</p><p>הכלים הם אוניברסליים ונגישים, ומכוונים לכל מי שמעוניין בתהליך של צמיחה והתחדשות אישית.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_LjLLHk": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "זה ספר פיזי?",
+            "icon": "none",
+            "row_content": "<p>לא, הספר הוא ספר דיגיטלי אשר יישלח אלייך למייל בתור קובץ PDF להורדה, כך שתוכלי להשתמש בו בכל מכשיר שתרצי, מכל מקום ובכל זמן.</p><p>אפילו ללא צורך בקליטה או חיבור לאינטרנט!</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_h8MBix",
+        "collapsible_row_tFhBV6",
+        "collapsible_row_mADL4C",
+        "collapsible_row_Fkb8Jh",
+        "collapsible_row_tR8DGP",
+        "collapsible_row_UnXJRb",
+        "collapsible_row_kcwqwE",
+        "collapsible_row_TbfJmC",
+        "collapsible_row_LjLLHk"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "שאלות נפוצות",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "scheme-3",
+        "container_color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_myUUVh": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_VCbBfL": {
+          "type": "column",
+          "settings": {
+            "title": "איתן מ., ירושלים",
+            "text": "<p><em>״הספר עזר לי להבין למה אני תקוע שנים באותן מערכות יחסים קשות.</em></p><p><em>בזכותו אני לומד להיות נאמן לעצמי ולא לפחד משינויים.\"</em></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_3rr7hd": {
+          "type": "column",
+          "settings": {
+            "title": "דפנה א., רמת השרון",
+            "text": "<p><em>״ידעתי שמשהו חסר לי, אבל לא הבנתי מה בדיוק.</em></p><p><em>הספר הזה הוא פשוט מראה לנפש שלי.\"</em></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_dHKc8m": {
+          "type": "column",
+          "settings": {
+            "title": "מאיה צ., אשדוד",
+            "text": "<p><em>״עבורי, זהו ספר חובה.</em></p><p><em>כל מי שרוצה שינוי אמיתי צריך לקרוא אותו.\"</em></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_haN4YX": {
+          "type": "column",
+          "settings": {
+            "title": "אמילי מ., תל אביב",
+            "text": "<p><em>״אני מסתובבת עם הספר הזה בתיק קבוע.</em></p><p><em>זה מסוג הספרים שהם כמו מדריך רב-פעמי, ומצאתי את עצמי קוראת בו בכל מיני מקומות וזמנים שונים, ומפיקה תובנות חדשות.״</em></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_VCbBfL",
+        "column_3rr7hd",
+        "column_dHKc8m",
+        "column_haN4YX"
+      ],
+      "settings": {
+        "title": "<strong>עוד אנשים שכבר עשו שינוי בחייהם</strong>",
+        "title_direction": "rtl",
+        "title_alignment": "center",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "show_image_after_effect": false,
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "secondary_product_GxN9ta": {
+      "type": "secondary-product",
+      "blocks": {
+        "text_7Tcr6j": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>הספר במחיר חסר תקדים של 9.90 ₪ בלבד במקום 79 ₪!</strong>",
+            "text_style": "body"
+          }
+        },
+        "text_TbDw7m": {
+          "type": "text",
+          "settings": {
+            "text": "הזדמנות נדירה להתחיל את המסע שלך עכשיו.",
+            "text_style": "body"
+          }
+        },
+        "title_VKhwxa": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "variant_picker_c8iEUf": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "buy_buttons_rrqHNe": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "text_NhMfcx": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>הזדמנות של פעם בחיים – הצטרפו עכשיו וקחו צעד ראשון לקראת השינוי.</strong>",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": [
+        "text_7Tcr6j",
+        "text_TbDw7m",
+        "title_VKhwxa",
+        "variant_picker_c8iEUf",
+        "buy_buttons_rrqHNe",
+        "text_NhMfcx"
+      ],
+      "settings": {
+        "product": "{{ product }}",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "secondary_background": false,
+        "constrain_to_viewport": false,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 24
+      }
+    }
+  },
+  "order": [
+    "main",
+    "component_countdown_VNBaXX",
+    "rich_text_9fKHgT",
+    "secondary_product_EtVzUj",
+    "multicolumn_bCxNaU",
+    "rich_text_j4WfKB",
+    "secondary_product_y7HGgK",
+    "rich_text_jqFQ8N",
+    "rich_text_tBM7yA",
+    "collapsible_content_BhkJmX",
+    "multicolumn_myUUVh",
+    "secondary_product_GxN9ta"
+  ]
+}

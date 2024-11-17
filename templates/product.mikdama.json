@@ -12,9 +12,19 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "title_GVcL83": {
-          "type": "title",
-          "settings": {}
+        "text_kYHxtz": {
+          "type": "text",
+          "settings": {
+            "text": "<h1>סדנת StressLess מתנה</h1>",
+            "text_style": "body"
+          }
+        },
+        "text_dhJ3ab": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><strong>שרייני מקום עכשיו לריטריט היוגה שלנו </strong>וקבלי קורס דיגיטלי קצר ומעשי על הפחתת לחצים וטיפול טבעי בחרדה בעולם המורדני - בחינם!</h2>",
+            "text_style": "body"
+          }
         },
         "inventory_ct6hUd": {
           "type": "inventory",
@@ -51,13 +61,14 @@
         "text_3mkNdL": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>בונוס מיוחד למשריינים:</strong> כל משתתף יקבל לאחר הריטריט גישה דיגיטלית לכל תכני הריטריט לצפייה חוזרת, זמינה לכל החיים!</p>",
+            "text": "<p><strong>השתגענו!</strong></p><p><strong>בונוס מיוחד למשריינים דרך האתר -</strong> כל משתתפת תקבל לאחר הריטריט גישה דיגיטלית לכל תכני הריטריט לצפייה חוזרת, זמינה לכל החיים!</p>",
             "text_style": "body"
           }
         }
       },
       "block_order": [
-        "title_GVcL83",
+        "text_kYHxtz",
+        "text_dhJ3ab",
         "inventory_ct6hUd",
         "description_ynG8QW",
         "price_bRUV8E",
@@ -69,7 +80,7 @@
         "show_tax_notice": false,
         "enable_sticky_info": true,
         "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
-        "media_size": "large",
+        "media_size": "medium",
         "constrain_to_viewport": false,
         "media_fit": "cover",
         "gallery_layout": "columns",
@@ -80,6 +91,20 @@
         "enable_video_looping": true,
         "padding_top": 36,
         "padding_bottom": 12
+      }
+    },
+    "component_countdown_qF7MKe": {
+      "type": "component-countdown",
+      "settings": {
+        "show_days": false,
+        "countdown_date": "Tue Nov 19 2024 23:59:59 GMT+0300 (שעון ישראל (קיץ))",
+        "countdown_url": "/",
+        "left_text": true,
+        "left_copy": "<p>המכירה המוקדמת נגמרת עוד</p>",
+        "right_text_direction": "ltr",
+        "left_text_direction": "ltr",
+        "right_text": false,
+        "right_copy": "<p>המכירה המוקדמת נגמרת עוד</p>"
       }
     },
     "rich_text_9fKHgT": {
@@ -95,7 +120,7 @@
         "text_BqLwTk": {
           "type": "text",
           "settings": {
-            "text": "<p>במשך יותר משנה, אנחנו מנווטים בקרקע לא יציבה.</p><p>היציבות החיצונית עליה הסתמכנו פעם נראית חמקמקה, מביאה תחושות של חוסר ודאות וחוסר שליטה.</p><p>נסיגת יוגה ייחודית זו מתמקדת בנושא כדור הארץ והקרקע - ומעצימה אותך למצוא את היציבות הזו בתוכך באמצעות האלכימיה הטרנספורמטיבית של היוגה.<br/><br/>בהנחייתה של המורה המנוסה יעל מימון ( סאד׳וי), ריטריט בן היום הזה עוצב בקפידה כדי להדריך אותך דרך שיטות עבודה וידע שמביאים בסיס לחיים שלך.</p>"
+            "text": "<p>במשך יותר משנה, אנחנו מנווטות בקרקע לא יציבה.</p><p>היציבות החיצונית עליה הסתמכנו פעם נראית חמקמקה, מביאה תחושות של חוסר ודאות וחוסר שליטה.</p><p>ריטריט היוגה הייחודי - ״אדמה והשתרשות״ - מתמקד בנושא כדור הארץ והקרקע - ומעצים אותך למצוא את היציבות הזו בתוכך באמצעות האלכימיה הטרנספורמטיבית של היוגה.<br/><br/>בהנחייתה של המורה המנוסה יעל מימון (סאד׳וי), ריטריט בן היום הזה עוצב בקפידה כדי להדריך אותך דרך שיטות עבודה וידע שמביאים בסיס לחיים שלך.</p>"
           }
         }
       },
@@ -140,7 +165,7 @@
           "settings": {
             "image": "shopify://shop_images/anchor-icon.svg",
             "title": "<strong>עוגנים מעשיים</strong>",
-            "text": "<p>קחו הביתה טכניקות מעשיות ועוגנים מנטליים כדי לשמור על יציבות בעולם מלא בחוסר וודאות.</p>",
+            "text": "<p>ניקח איתנו הביתה טכניקות מעשיות ועוגנים מנטליים כדי לשמור על יציבות בעולם מלא בחוסר וודאות.</p>",
             "link_label": "",
             "link": ""
           }
@@ -209,7 +234,7 @@
           "settings": {
             "image": "shopify://shop_images/fast-internet-speed-icon.svg",
             "title": "<strong>מחיר חד פעמי!</strong>",
-            "text": "<p>שמרו את מקומכם היום עם מקדמה בסך 100 ש\"ח. 10% הנחה למזמינים מקום מראש - 351₪ במקום 390₪!</p>",
+            "text": "<p>שרייני את מקומך היום עם מקדמה בסך 100 ש\"ח. 10% הנחה למזמינות מקום מראש - 351₪ במקום 390₪!</p>",
             "link_label": "",
             "link": ""
           }
@@ -254,7 +279,7 @@
         "text_Ge9Hif": {
           "type": "text",
           "settings": {
-            "text": "<p>הריטריט הזה מושלם לכל מי שמבקש להתחבר מחדש עם עצמו, למצוא שלווה פנימית בתוך חוסר וודאות, וללמוד שיטות מעשיות כדי להישאר מקורקע.</p><p>בין אם אתם חדשים ביוגה או שיש לכם שנים של תרגול, ריטריט זה יפגוש אתכם בדיוק היכן שאתם נמצאים.</p>"
+            "text": "<p>הריטריט הזה מושלם לכל מי שמבקשת להתחבר מחדש עם עצמה, למצוא שלווה פנימית בתוך חוסר וודאות, וללמוד שיטות מעשיות כדי להישאר מקורקעת.</p><p>בין אם את חדשה ביוגה או שיש לך שנים של תרגול וניסיון, ריטריט זה יפגוש אותך בדיוק היכן שאת נמצאת.</p>"
           }
         }
       },
@@ -277,7 +302,21 @@
         "text_zMz6KM": {
           "type": "text",
           "settings": {
-            "text": "<strong>שמרו את מקומכם עכשיו</strong>",
+            "text": "<strong>הטבה בלעדית לנרשמות עכשיו - מקבלים את סדנת StressLess מתנה</strong>",
+            "text_style": "body"
+          }
+        },
+        "text_JyaHxV": {
+          "type": "text",
+          "settings": {
+            "text": "8 מפגשים דיגיטליים פרקטיים להפחתת לחץ",
+            "text_style": "body"
+          }
+        },
+        "text_FMzAaB": {
+          "type": "text",
+          "settings": {
+            "text": "<a href=\"/products/stress-less\" target=\"_blank\" title=\"StressLess\">למידע נוסף</a>",
             "text_style": "body"
           }
         },
@@ -306,7 +345,8 @@
             "image_2": "shopify://shop_images/secure-payment-icon.svg",
             "heading_2": "תשלום מאובטח",
             "icon_3": "none",
-            "heading_3": "",
+            "image_3": "shopify://shop_images/iconmonstr-heart-thin-240.png",
+            "heading_3": "סדנה מתנה",
             "icon_4": "none",
             "image_4": "shopify://shop_images/pos-swipe-icon.svg",
             "heading_4": "פריסה לתשלומים"
@@ -322,6 +362,8 @@
       },
       "block_order": [
         "text_zMz6KM",
+        "text_JyaHxV",
+        "text_FMzAaB",
         "text_fRtmYC",
         "buy_buttons_QzzfXG",
         "icon_with_text_UWNrE9",
@@ -499,7 +541,7 @@
         "text_mKBrJa": {
           "type": "text",
           "settings": {
-            "text": "<strong>שמרו את מקומכם עכשיו</strong>",
+            "text": "<strong>שרייני את מקומך עכשיו!</strong>",
             "text_style": "body"
           }
         },
@@ -528,7 +570,8 @@
             "image_2": "shopify://shop_images/secure-payment-icon.svg",
             "heading_2": "תשלום מאובטח",
             "icon_3": "none",
-            "heading_3": "",
+            "image_3": "shopify://shop_images/iconmonstr-heart-thin-240.png",
+            "heading_3": "סדנה מתנה",
             "icon_4": "none",
             "image_4": "shopify://shop_images/pos-swipe-icon.svg",
             "heading_4": "פריסה לתשלומים"
@@ -563,6 +606,7 @@
   },
   "order": [
     "main",
+    "component_countdown_qF7MKe",
     "rich_text_9fKHgT",
     "multicolumn_J8dJaF",
     "multicolumn_EJJeFK",
