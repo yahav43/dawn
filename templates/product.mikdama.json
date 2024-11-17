@@ -15,7 +15,14 @@
         "text_kYHxtz": {
           "type": "text",
           "settings": {
-            "text": "<h1>נרשמים לריטריט ״אדמה והשתרשות״ ומקבלים את סדנת StressLess מתנה</h1>",
+            "text": "<h1>סדנת StressLess מתנה</h1>",
+            "text_style": "body"
+          }
+        },
+        "text_dhJ3ab": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><strong>שרייני מקום עכשיו לריטריט היוגה שלנו </strong>וקבלי קורס דיגיטלי קצר ומעשי על הפחתת לחצים וטיפול טבעי בחרדה בעולם המורדני - בחינם!</h2>",
             "text_style": "body"
           }
         },
@@ -54,13 +61,14 @@
         "text_3mkNdL": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>בונוס מיוחד למשריינים:</strong> כל משתתף יקבל לאחר הריטריט גישה דיגיטלית לכל תכני הריטריט לצפייה חוזרת, זמינה לכל החיים!</p>",
+            "text": "<p><strong>השתגענו!</strong></p><p><strong>בונוס מיוחד למשריינים דרך האתר -</strong> כל משתתפת תקבל לאחר הריטריט גישה דיגיטלית לכל תכני הריטריט לצפייה חוזרת, זמינה לכל החיים!</p>",
             "text_style": "body"
           }
         }
       },
       "block_order": [
         "text_kYHxtz",
+        "text_dhJ3ab",
         "inventory_ct6hUd",
         "description_ynG8QW",
         "price_bRUV8E",
