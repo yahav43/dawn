@@ -98,7 +98,7 @@
       "type": "component-countdown",
       "settings": {
         "show_days": false,
-        "countdown_date": "Tue Dec 3 2024 11:59:59 GMT+0300 (שעון ישראל (קיץ))",
+        "countdown_date": "Tue Dec 3 2024 16:59:59 GMT+0300 (שעון ישראל (קיץ))",
         "countdown_url": "shopify://products/reflectionship",
         "left_text": true,
         "left_copy": "<p>מחיר הספר יעלה בעוד</p>",
