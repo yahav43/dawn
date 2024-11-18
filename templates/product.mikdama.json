@@ -226,7 +226,7 @@
           "settings": {
             "image": "shopify://shop_images/fast-internet-speed-icon.svg",
             "title": "<strong>מחיר חד פעמי!</strong>",
-            "text": "<p>שרייני את מקומך היום עם מקדמה בסך 100 ש\"ח. 10% הנחה למזמינות מקום מראש - 351₪ במקום 390₪!</p>",
+            "text": "<p>שרייני את מקומך היום עם מקדמה בסך 100₪ בלבד!</p>",
             "link_label": "",
             "link": ""
           }
@@ -294,21 +294,21 @@
         "text_zMz6KM": {
           "type": "text",
           "settings": {
-            "text": "<strong>הטבה בלעדית לנרשמות עכשיו - מקבלים את סדנת StressLess מתנה</strong>",
+            "text": "✨ <strong>הטבה מיוחדת - גם לך וגם לחברה!</strong>",
             "text_style": "body"
           }
         },
         "text_JyaHxV": {
           "type": "text",
           "settings": {
-            "text": "8 מפגשים דיגיטליים פרקטיים להפחתת לחץ",
+            "text": "כל משתתפת שמביאה חברה תהנה מ-50 ש\"ח הנחה (או זיכוי אם כבר שילמתם).",
             "text_style": "body"
           }
         },
         "text_FMzAaB": {
           "type": "text",
           "settings": {
-            "text": "<a href=\"/products/stress-less\" target=\"_blank\" title=\"StressLess\">למידע נוסף</a>",
+            "text": "החברה תצטרף במחיר הרשמה מוקדמת (10% הנחה).",
             "text_style": "body"
           }
         },
