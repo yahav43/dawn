@@ -15,14 +15,7 @@
         "text_kYHxtz": {
           "type": "text",
           "settings": {
-            "text": "<h1>סדנת StressLess מתנה</h1>",
-            "text_style": "body"
-          }
-        },
-        "text_dhJ3ab": {
-          "type": "text",
-          "settings": {
-            "text": "<h2><strong>שרייני מקום עכשיו לריטריט היוגה שלנו </strong>וקבלי קורס דיגיטלי קצר ומעשי על הפחתת לחצים וטיפול טבעי בחרדה בעולם המורדני - בחינם!</h2>",
+            "text": "<h1><strong>שרייני מקום עכשיו לאירוע היוגה - ״אדמה והשתרשות״</strong>!</h1>",
             "text_style": "body"
           }
         },
@@ -68,7 +61,6 @@
       },
       "block_order": [
         "text_kYHxtz",
-        "text_dhJ3ab",
         "inventory_ct6hUd",
         "description_ynG8QW",
         "price_bRUV8E",
@@ -100,7 +92,7 @@
         "countdown_date": "Tue Nov 19 2024 23:59:59 GMT+0300 (שעון ישראל (קיץ))",
         "countdown_url": "/",
         "left_text": true,
-        "left_copy": "<p>המכירה המוקדמת נגמרת עוד</p>",
+        "left_copy": "<p>מבצע ״חברה מביאה חברה״ נגמר בעוד</p>",
         "right_text_direction": "ltr",
         "left_text_direction": "ltr",
         "right_text": false,
