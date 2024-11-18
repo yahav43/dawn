@@ -409,6 +409,15 @@
     "collapsible_content_BhkJmX": {
       "type": "collapsible-content",
       "blocks": {
+        "collapsible_row_yQHyth": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "חברה מביאה חברה? איך זה עובד?",
+            "icon": "none",
+            "row_content": "<p>אם נרשמת לריטריט, קודם כל אנחנו מברכות אותך ומודות לך ובטוחות שהוא יהיה חוויה משמעותית עבורך.</p><p>אם תרצי לא לבוא לבד, ולהביא איתך חברה - כל חברה שתבוא דרכך תקנה לך 50₪ הנחה מעלות הריטריט שתשלמי.</p><p>החברה תקבל את הריטריט במחיר מוזל (מחיר מכירה מוקדמת)</p>",
+            "page": ""
+          }
+        },
         "collapsible_row_Xd3ynH": {
           "type": "collapsible_row",
           "settings": {
@@ -501,6 +510,7 @@
         }
       },
       "block_order": [
+        "collapsible_row_yQHyth",
         "collapsible_row_Xd3ynH",
         "collapsible_row_h8MBix",
         "collapsible_row_mADL4C",
@@ -520,7 +530,7 @@
         "layout": "none",
         "color_scheme": "scheme-3",
         "container_color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
-        "open_first_collapsible_row": false,
+        "open_first_collapsible_row": true,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
         "padding_top": 36,
