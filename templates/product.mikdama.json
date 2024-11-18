@@ -15,14 +15,7 @@
         "text_kYHxtz": {
           "type": "text",
           "settings": {
-            "text": "<h1>סדנת StressLess מתנה</h1>",
-            "text_style": "body"
-          }
-        },
-        "text_dhJ3ab": {
-          "type": "text",
-          "settings": {
-            "text": "<h2><strong>שרייני מקום עכשיו לריטריט היוגה שלנו </strong>וקבלי קורס דיגיטלי קצר ומעשי על הפחתת לחצים וטיפול טבעי בחרדה בעולם המורדני - בחינם!</h2>",
+            "text": "<h1><strong>שרייני מקום עכשיו לאירוע היוגה - ״אדמה והשתרשות״</strong>!</h1>",
             "text_style": "body"
           }
         },
@@ -68,7 +61,6 @@
       },
       "block_order": [
         "text_kYHxtz",
-        "text_dhJ3ab",
         "inventory_ct6hUd",
         "description_ynG8QW",
         "price_bRUV8E",
@@ -100,7 +92,7 @@
         "countdown_date": "Tue Nov 19 2024 23:59:59 GMT+0300 (שעון ישראל (קיץ))",
         "countdown_url": "/",
         "left_text": true,
-        "left_copy": "<p>המכירה המוקדמת נגמרת עוד</p>",
+        "left_copy": "<p>המבצע נגמר בעוד</p>",
         "right_text_direction": "ltr",
         "left_text_direction": "ltr",
         "right_text": false,
@@ -234,7 +226,7 @@
           "settings": {
             "image": "shopify://shop_images/fast-internet-speed-icon.svg",
             "title": "<strong>מחיר חד פעמי!</strong>",
-            "text": "<p>שרייני את מקומך היום עם מקדמה בסך 100 ש\"ח. 10% הנחה למזמינות מקום מראש - 351₪ במקום 390₪!</p>",
+            "text": "<p>שרייני את מקומך היום עם מקדמה בסך 100₪ בלבד!</p>",
             "link_label": "",
             "link": ""
           }
@@ -302,28 +294,28 @@
         "text_zMz6KM": {
           "type": "text",
           "settings": {
-            "text": "<strong>הטבה בלעדית לנרשמות עכשיו - מקבלים את סדנת StressLess מתנה</strong>",
+            "text": "✨ <strong>הטבה מיוחדת - גם לך וגם לחברה!</strong>",
             "text_style": "body"
           }
         },
         "text_JyaHxV": {
           "type": "text",
           "settings": {
-            "text": "8 מפגשים דיגיטליים פרקטיים להפחתת לחץ",
+            "text": "כל משתתפת שמביאה חברה תהנה מ-50 ש\"ח הנחה (או זיכוי אם כבר שילמת).",
             "text_style": "body"
           }
         },
         "text_FMzAaB": {
           "type": "text",
           "settings": {
-            "text": "<a href=\"/products/stress-less\" target=\"_blank\" title=\"StressLess\">למידע נוסף</a>",
+            "text": "החברה תצטרף במחיר הרשמה מוקדמת (10% הנחה).",
             "text_style": "body"
           }
         },
         "text_fRtmYC": {
           "type": "text",
           "settings": {
-            "text": "משלמים עכשיו ₪100 בלבד ומשלימים את השאר ביום הריטריט.",
+            "text": "שלמי עכשיו ₪100 בלבד והשלימי את השאר ביום הריטריט.",
             "text_style": "subtitle"
           }
         },
@@ -417,6 +409,15 @@
     "collapsible_content_BhkJmX": {
       "type": "collapsible-content",
       "blocks": {
+        "collapsible_row_yQHyth": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "חברה מביאה חברה? איך זה עובד?",
+            "icon": "none",
+            "row_content": "<p>אם נרשמת לריטריט, קודם כל אנחנו מברכות אותך ומודות לך ובטוחות שהוא יהיה חוויה משמעותית עבורך.</p><p>אם תרצי לא לבוא לבד, ולהביא איתך חברה - כל חברה שתבוא דרכך תקנה לך 50₪ הנחה מעלות הריטריט שתשלמי.</p><p>החברה תקבל את הריטריט במחיר מוזל (מחיר מכירה מוקדמת)</p>",
+            "page": ""
+          }
+        },
         "collapsible_row_Xd3ynH": {
           "type": "collapsible_row",
           "settings": {
@@ -509,6 +510,7 @@
         }
       },
       "block_order": [
+        "collapsible_row_yQHyth",
         "collapsible_row_Xd3ynH",
         "collapsible_row_h8MBix",
         "collapsible_row_mADL4C",
@@ -528,9 +530,9 @@
         "layout": "none",
         "color_scheme": "scheme-3",
         "container_color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
-        "open_first_collapsible_row": false,
+        "open_first_collapsible_row": true,
         "image_ratio": "adapt",
-        "desktop_layout": "image_second",
+        "desktop_layout": "image_first",
         "padding_top": 36,
         "padding_bottom": 36
       }
