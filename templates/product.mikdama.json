@@ -532,7 +532,7 @@
         "container_color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
         "open_first_collapsible_row": true,
         "image_ratio": "adapt",
-        "desktop_layout": "image_second",
+        "desktop_layout": "image_first",
         "padding_top": 36,
         "padding_bottom": 36
       }
