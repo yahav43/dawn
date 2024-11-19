@@ -352,6 +352,35 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_banner_eh9w93": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_Fpg8Tg": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>זה יכול להיות שלך</strong>",
+            "heading_size": "h1",
+            "title_direction": "rtl"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Fpg8Tg"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/family-playing-cards.jpg",
+        "image_overlay_opacity": 50,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-4",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
     }
   },
   "order": [
@@ -362,6 +391,7 @@
     "rich_text_x8bVDk",
     "17211428891945090f",
     "main_product_G9DUDg",
-    "collapsible_content_BhkJmX"
+    "collapsible_content_BhkJmX",
+    "image_banner_eh9w93"
   ]
 }
