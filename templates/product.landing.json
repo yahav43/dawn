@@ -78,6 +78,77 @@
         "padding_bottom": 36
       }
     },
+    "rich_text_tMrrnp": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_dPN4kT": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "text_RY8c3X": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "button_xGErVj": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_dPN4kT",
+        "text_RY8c3X",
+        "button_xGErVj"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_banner_7q8QEU": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_zdEBqR": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>לדמיין חיים ללא סטרס</strong>",
+            "heading_size": "h1",
+            "title_direction": "rtl"
+          }
+        }
+      },
+      "block_order": [
+        "heading_zdEBqR"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/1_07f39fa8-77ae-4065-9ae7-1c53f161de70.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-4",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
     "rich_text_x8bVDk": {
       "type": "rich-text",
       "blocks": {
@@ -286,6 +357,8 @@
   "order": [
     "rich_text_aMnwQy",
     "image_with_text_dGbAmG",
+    "rich_text_tMrrnp",
+    "image_banner_7q8QEU",
     "rich_text_x8bVDk",
     "17211428891945090f",
     "main_product_G9DUDg",
