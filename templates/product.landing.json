@@ -185,6 +185,43 @@
         "padding_bottom": 52
       }
     },
+    "rich_text_TUPMUW": {
+      "type": "rich-text",
+      "blocks": {
+        "text_icaBjy": {
+          "type": "text",
+          "settings": {
+            "text": "<p>איפשהו בעשור האחרון למדתי והגעתי לתובנה שהחרידה אותי:</p>"
+          }
+        },
+        "heading_EgjJNU": {
+          "type": "heading",
+          "settings": {
+            "heading": "״לחץ, חרדה וסטרס הם הגורם <strong>מספר 1 </strong>למחלות <strong>פיזיות״</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_qeG69K": {
+          "type": "text",
+          "settings": {
+            "text": "<p>כן כן - קראת נכון - <strong>פיזיות.</strong></p><p>אפילו הרפואה המערבית מכירה בזה.</p><p>אבל הבעיה עם לחץ מתמשך, בשונה מלשבור יד או לפתוח את המצח (חלילה, לא עלינו) - זה שהוא <strong>שקוף.</strong></p><p>אנחנו לא יכולות לראות לחץ.</p><p>זו אחת הסיבות העיקריות שבגללה רציתי לעבוד דווקא בבתי חולים כדי לעזור גם לצוות העובדים וגם למטופלים של בית החולים (שאני בכלל לא פוגשת אותם/ן) באותה הנשימה.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_icaBjy",
+        "heading_EgjJNU",
+        "text_qeG69K"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "rich_text_ctY8UH": {
       "type": "rich-text",
       "blocks": {
@@ -213,6 +250,91 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "rich_text_dq4i4Q": {
+      "type": "rich-text",
+      "blocks": {
+        "text_KqaRDK": {
+          "type": "text",
+          "settings": {
+            "text": "<p>אז בלי להתעכב עוד - אני מתרגשת להציג:</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_KqaRDK"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "main_product_G9DUDg": {
+      "type": "main-product",
+      "blocks": {
+        "title_d7xVcW": {
+          "type": "title",
+          "settings": {}
+        },
+        "text_bTMBWC": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><strong>הדרך שלך להחזיר את השקט שלך</strong></h2>",
+            "text_style": "body"
+          }
+        },
+        "buy_buttons_QUjnFk": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "icon_with_text_qaccqp": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "none",
+            "image_1": "shopify://shop_images/recurring-subscription-icon.svg",
+            "heading_1": "זיכוי כספי בקלות",
+            "icon_2": "none",
+            "image_2": "shopify://shop_images/secure-payment-icon.svg",
+            "heading_2": "תשלום מאובטח",
+            "icon_3": "none",
+            "image_3": "shopify://shop_images/legal-agreement-contract-paper-icon.svg",
+            "heading_3": "תוצאות מובטחות",
+            "icon_4": "none",
+            "image_4": "shopify://shop_images/pos-swipe-icon.svg",
+            "heading_4": "חלוקה לתשלומים"
+          }
+        }
+      },
+      "block_order": [
+        "title_d7xVcW",
+        "text_bTMBWC",
+        "buy_buttons_QUjnFk",
+        "icon_with_text_qaccqp"
+      ],
+      "settings": {
+        "show_tax_notice": false,
+        "enable_sticky_info": true,
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "media_size": "large",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "stacked",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "hide",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "rich_text_x8bVDk": {
@@ -259,73 +381,6 @@
       ],
       "settings": {
         "include_margins": true
-      }
-    },
-    "main_product_G9DUDg": {
-      "type": "main-product",
-      "blocks": {
-        "title_d7xVcW": {
-          "type": "title",
-          "settings": {}
-        },
-        "description_zcBYUf": {
-          "type": "description",
-          "settings": {
-            "description_alignment": "right"
-          }
-        },
-        "price_4mY4Gy": {
-          "type": "price",
-          "settings": {}
-        },
-        "buy_buttons_QUjnFk": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": false
-          }
-        },
-        "icon_with_text_qaccqp": {
-          "type": "icon-with-text",
-          "settings": {
-            "layout": "horizontal",
-            "icon_1": "none",
-            "image_1": "shopify://shop_images/recurring-subscription-icon.svg",
-            "heading_1": "זיכוי כספי בקלות",
-            "icon_2": "none",
-            "image_2": "shopify://shop_images/secure-payment-icon.svg",
-            "heading_2": "תשלום מאובטח",
-            "icon_3": "none",
-            "image_3": "shopify://shop_images/legal-agreement-contract-paper-icon.svg",
-            "heading_3": "תוצאות מובטחות",
-            "icon_4": "none",
-            "image_4": "shopify://shop_images/pos-swipe-icon.svg",
-            "heading_4": "חלוקה לתשלומים"
-          }
-        }
-      },
-      "block_order": [
-        "title_d7xVcW",
-        "description_zcBYUf",
-        "price_4mY4Gy",
-        "buy_buttons_QUjnFk",
-        "icon_with_text_qaccqp"
-      ],
-      "settings": {
-        "show_tax_notice": false,
-        "enable_sticky_info": true,
-        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
-        "media_size": "large",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "gallery_layout": "stacked",
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "mobile_thumbnails": "hide",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "collapsible_content_BhkJmX": {
@@ -456,10 +511,12 @@
     "rich_text_jPcDFh",
     "rich_text_kz3cXM",
     "rich_text_cGJR6f",
+    "rich_text_TUPMUW",
     "rich_text_ctY8UH",
+    "rich_text_dq4i4Q",
+    "main_product_G9DUDg",
     "rich_text_x8bVDk",
     "17211428891945090f",
-    "main_product_G9DUDg",
     "collapsible_content_BhkJmX",
     "image_banner_eh9w93"
   ]
