@@ -476,6 +476,52 @@
         "padding_bottom": 52
       }
     },
+    "rich_text_x8bVDk": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Wwr7Wk": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>הנה כמה דברים שחלק מהמטופלות שעברו את הסדנה היו מוכנות לשתף</strong>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Wwr7Wk"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "17211428891945090f": {
+      "type": "apps",
+      "blocks": {
+        "stamped_product_reviews_ugc_main_widget_iqETUF": {
+          "type": "shopify://apps/stamped-reviews/blocks/main-widget/a103faaf-2125-4b0e-89fa-de5149736723",
+          "settings": {
+            "animation": true,
+            "tags_exclude": "",
+            "tags_include": "",
+            "search": "",
+            "linkify": true,
+            "use_metafields": false,
+            "sku_tagtype": "sku"
+          }
+        }
+      },
+      "block_order": [
+        "stamped_product_reviews_ugc_main_widget_iqETUF"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "main_product_G9DUDg": {
       "type": "main-product",
       "blocks": {
@@ -532,12 +578,11 @@
         "buy_buttons_QUjnFk",
         "icon_with_text_qaccqp"
       ],
-      "disabled": true,
       "settings": {
         "show_tax_notice": false,
-        "enable_sticky_info": false,
+        "enable_sticky_info": true,
         "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
-        "media_size": "medium",
+        "media_size": "small",
         "constrain_to_viewport": true,
         "media_fit": "contain",
         "gallery_layout": "stacked",
@@ -548,52 +593,6 @@
         "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "rich_text_x8bVDk": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_Wwr7Wk": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>הנה כמה דברים שחלק מהמטופלות שעברו את הסדנה היו מוכנות לשתף</strong>",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_Wwr7Wk"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
-      }
-    },
-    "17211428891945090f": {
-      "type": "apps",
-      "blocks": {
-        "stamped_product_reviews_ugc_main_widget_iqETUF": {
-          "type": "shopify://apps/stamped-reviews/blocks/main-widget/a103faaf-2125-4b0e-89fa-de5149736723",
-          "settings": {
-            "animation": true,
-            "tags_exclude": "",
-            "tags_include": "",
-            "search": "",
-            "linkify": true,
-            "use_metafields": false,
-            "sku_tagtype": "sku"
-          }
-        }
-      },
-      "block_order": [
-        "stamped_product_reviews_ugc_main_widget_iqETUF"
-      ],
-      "settings": {
-        "include_margins": true
       }
     },
     "collapsible_content_BhkJmX": {
@@ -732,9 +731,9 @@
     "rich_text_zHiKUV",
     "image_banner_BFhtgC",
     "rich_text_Fgn4CV",
-    "main_product_G9DUDg",
     "rich_text_x8bVDk",
     "17211428891945090f",
+    "main_product_G9DUDg",
     "collapsible_content_BhkJmX",
     "image_banner_eh9w93"
   ]
