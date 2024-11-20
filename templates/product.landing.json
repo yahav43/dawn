@@ -629,7 +629,9 @@
     "custom_liquid_34dL9n": {
       "type": "custom-liquid",
       "custom_css": [
-        "strong {font-size: 5rem;}"
+        ".center {margin: auto;}",
+        "strong {font-size: 5rem;}",
+        "@media (min-width: 990px) {strong {font-size: 8rem; }}"
       ],
       "settings": {
         "custom_liquid": "<div class=\"rich-text__blocks center\">\n<h2 class=\"rich-text__heading rte inline-richtext h1 scroll-trigger animate--slide-in price--on-sale\" data-cascade=\"\" style=\"--animation-order: 0;\">\n                <strong class=\"price-item price-item--regular\">{{ product.compare_at_price | money_with_currency }}</strong>\n              </h2>\n</div>",
@@ -701,7 +703,9 @@
     "custom_liquid_KkHaUK": {
       "type": "custom-liquid",
       "custom_css": [
-        "strong {font-size: 4rem;}"
+        ".center {margin: auto;}",
+        "strong {font-size: 5rem;}",
+        "@media (min-width: 990px) {strong {font-size: 8rem; }}"
       ],
       "settings": {
         "custom_liquid": "<div class=\"rich-text__blocks center\">\n<h2 class=\"rich-text__heading rte inline-richtext h1 scroll-trigger animate--slide-in price--on-sale\" data-cascade=\"\" style=\"--animation-order: 0;\">\n                <strong class=\"price-item price-item--sale price-item--last\">{{ product.price | money_with_currency }} בלבד</strong>\n              </h2>\n</div>",
