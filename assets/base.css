@@ -3630,8 +3630,9 @@ div#stamped-main-widget {
   margin-left: 0;
 }
 
-.review-location {
-  display: none;
+.review-location,
+.stamped-header-title {
+  display: none !important;
 }
 
 .stamped-review-content {
