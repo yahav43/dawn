@@ -55,7 +55,7 @@
         "text_bC9Qni": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>חלאס.</strong></p><p>מישהו צריך להגיד את זה.</p><p>הלחץ היומיומי שאנחנו מתמודדות איתו כל יום כבר <strong>יותר מ - 400</strong> ימים הוא לא משהו שאפשר להמשיך לחיות איתו.</p><p>כל יום מחדש:</p><ul><li>לזגזג מהאינסטגרם למבזקים ב Ynet</li><li>לצפות בחדשות באובססיביות</li><li>להגיד אמירות מדכאות כמו ״עד כמה שאפשר״ או ״זה מה יש״ או ״בגלל המצב״</li></ul>",
+            "text": "<p><strong>חלאס.</strong></p><p>מישהו צריך להגיד את זה.</p><p>הלחץ היומיומי שאנחנו מתמודדות איתו כל יום כבר <strong>יותר מ - 400</strong> ימים הוא לא משהו שאפשר להמשיך לחיות איתו.</p><p>כל יום מחדש:</p><ul><li>לזגזג מהאינסטגרם למבזקים ב Ynet</li><li>לצפות בחדשות באובססיביות</li><li>להגיד אמירות מדכאות כמו ״עד כמה שאפשר״ או ״זה מה יש״ או ״בגלל המצב״</li><li>לדאוג מתי תהיה האזעקה הבאה...</li></ul>",
             "text_style": "body"
           }
         }
@@ -86,14 +86,14 @@
         "heading_dPN4kT": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "<strong>להיות חופשייה מחרדות - האם זה יותר מדי לבקש?</strong>",
             "heading_size": "h1"
           }
         },
         "text_RY8c3X": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>מישהי סיפרה לך פעם איך זה באמת מרגיש להיות חופשייה מלחץ?</strong></p><p><br/>לדמיין יום שבו את נושמת בקלות, בלי מועקה בחזה או דפיקות לב מואצות. יום שבו את יכולה פשוט <em>להיות</em>, ללא מתח, ללא מחשבות טורדניות – רק רוגע, קלילות ושלווה אמיתית.</p><p><strong>אם את מרגישה שאת רחוקה מזה – את במקום הנכון.</strong><br/>StressLess הוא הכלי שלך להחזיר את עצמך לידיים שלך.</p>"
+            "text": "<p><strong>לא.</strong></p><p><strong>ממש לא.</strong></p><p>לדמיין יום שבו את נושמת בקלות, בלי מועקה בחזה או דפיקות לב מואצות - <strong>זה לא יותר מדי לבקש.</strong></p><p>יום שבו את יכולה פשוט <em>להיות</em>, ללא מתח, ללא מחשבות טורדניות – רק רוגע, קלילות ושלווה אמיתית - <strong>זה לא יותר מדי לבקש.</strong></p><p>לעבור יום אחד בלי לדאוג אם מישהו שאת מכירה יחזור הביתה בשלום מהמילואים - <strong>זה לא יותר מדי לבקש.</strong></p><p>לחיות בלי חרדה <strong>זה לא יותר מדי לבקש.</strong></p>"
           }
         }
       },
@@ -110,33 +110,109 @@
         "padding_bottom": 52
       }
     },
-    "image_banner_7q8QEU": {
-      "type": "image-banner",
+    "rich_text_jPcDFh": {
+      "type": "rich-text",
       "blocks": {
-        "heading_zdEBqR": {
+        "heading_khF8JV": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>לדמיין חיים ללא סטרס</strong>",
-            "heading_size": "h1",
-            "title_direction": "rtl"
+            "heading": "<strong>זה צורך אנושי בסיסי ביותר והוא מגיע לך מעצם היותך.</strong>",
+            "heading_size": "h1"
           }
         }
       },
       "block_order": [
-        "heading_zdEBqR"
+        "heading_khF8JV"
       ],
       "settings": {
-        "image": "shopify://shop_images/1_07f39fa8-77ae-4065-9ae7-1c53f161de70.jpg",
-        "image_overlay_opacity": 40,
-        "image_height": "small",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-4",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_kz3cXM": {
+      "type": "rich-text",
+      "blocks": {
+        "text_7wamNy": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>אם את מרגישה שאת רחוקה מזה – את במקום הנכון.</strong></p><p><br/>StressLess הוא הכלי שלך להחזיר את עצמך לידיים שלך.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_7wamNy"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_cGJR6f": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_6WcHkx": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>אבל רגע לפני זה</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_aAHFRV": {
+          "type": "text",
+          "settings": {
+            "text": "<p>למקרה את תוהה - <strong>״מי אתם?״</strong></p><p>אז נמסטה 🪷🙏,</p><p>אני יעל מימון (סאד׳וי).</p><p>נולדתי ברמת גן ב 1970.</p><p>עברתי ילדות מורכבת כבת בכורה להורים גרושים, ילדה ונערה בסיכון.</p><p>מהיום שאני זוכרת את עצמי חיפשתי אמת, תכלית ומשמעות.</p><p>החיפוש שלי הוביל אותי לשנים רבות של לימודים בכל מיני מסגרות ובעיקר לחקירה נוקבת וחסרת פשרות של עצמי.</p><p>לימים, התחתנתי והבאתי לעולם ארבעה ילדים נפלאים שלימדו אותי המון על עצמי ובכלל.</p><p>הכלים שרכשתי הובילו אותי לטיפול ולהוראה של מקצועות הטיפול.</p><p>אני עוסקת בטיפול כ 25 שנים, מלמדת כ 20 שנים.</p><p>ב 12 השנים האחרונות אני מרצה ומרכזת את המגמה לפסיכותרפיה הוליסטית מכללת הנות בחדרה.</p><p>בשנתיים האחרונות, ובעקבות המצב, הפכתי ליועצת בצוות חוסן לעובדים בבית החולים הילל יפה, בה אני מעבירה סדנאות בנושא שחיקה וסטרס לעובדים ועוזרת בבניית תכנים וכלים.</p><p>הדרך הרוחנית שלי היא יוגה.</p><p>אני מורה ותלמידה ליוגה כ 20 שנה.</p><p>מלמדת יוגה בבית החולים הלל יפה משנת 2019.</p><p>אני מאמינה שכדי להגיע להחלמה והרמוניה צריך לטפל באדם ולא במחלה.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_6WcHkx",
+        "text_aAHFRV"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_ctY8UH": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_4bRzgH": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>⚡️ ואז זה הכה בי</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_rAwbnK": {
+          "type": "text",
+          "settings": {
+            "text": "<p>ראיתי את השינוי אצל הנשים שהדרכתי בבית החולים, ולא יכלתי להישאר אדישה אליו.</p><p><strong>רציתי להעביר עוד אנשים בתהליך.</strong></p><p>אבל נתקלתי במגבלות:</p><p>הרבה בנות לא רצו לצאת מהבית בגלל המצב (דאגו שתתפוס אותן אזעקה באמצע הנסיעה).</p><p>אני לא יכלתי לנסוע בכל הארץ ולהעביר סדנאות.</p><p>הבנתי שהפתרון הוא סדנה מוקלטת, דיגיטלית, אשר אפשר לחזור אל התכנים שלה שוב ושוב, כמה שאת רק צריכה.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_4bRzgH",
+        "text_rAwbnK"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "rich_text_x8bVDk": {
@@ -145,7 +221,7 @@
         "heading_Wwr7Wk": {
           "type": "heading",
           "settings": {
-            "heading": "לקוחות מספרות",
+            "heading": "<strong>הנה כמה דברים שחלק מהמטופלות שעברו את הסדנה היו מוכנות לשתף</strong>",
             "heading_size": "h1"
           }
         }
@@ -377,7 +453,10 @@
     "rich_text_R74eqT",
     "image_with_text_yJGfA4",
     "rich_text_tMrrnp",
-    "image_banner_7q8QEU",
+    "rich_text_jPcDFh",
+    "rich_text_kz3cXM",
+    "rich_text_cGJR6f",
+    "rich_text_ctY8UH",
     "rich_text_x8bVDk",
     "17211428891945090f",
     "main_product_G9DUDg",
