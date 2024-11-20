@@ -12,14 +12,22 @@
     "rich_text_aMnwQy": {
       "type": "rich-text",
       "blocks": {
+        "heading_T47r3t": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>StressLess - הדרך שלך להחזיר את השקט שלך</strong>",
+            "heading_size": "h0"
+          }
+        },
         "text_QMRj9e": {
           "type": "text",
           "settings": {
-            "text": "<p>text</p>"
+            "text": "<p><strong>מישהי סיפרה לך פעם איך זה באמת מרגיש להיות חופשייה מלחץ?</strong></p><p>לדמיין יום שבו את נושמת בקלות, בלי מועקה בחזה או דפיקות לב מואצות. יום שבו את יכולה פשוט <em>להיות</em>, ללא מתח, ללא מחשבות טורדניות – רק רוגע, קלילות ושלווה אמיתית.</p><p><strong>אם את מרגישה שאת רחוקה מזה – את במקום הנכון.</strong><br/>StressLess הוא הכלי שלך להחזיר את עצמך לידיים שלך.</p>"
           }
         }
       },
       "block_order": [
+        "heading_T47r3t",
         "text_QMRj9e"
       ],
       "settings": {
@@ -27,53 +35,6 @@
         "content_alignment": "center",
         "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
         "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "image_with_text_dGbAmG": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_BMFLHf": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>Title</strong>",
-            "heading_size": "h1"
-          }
-        },
-        "text_n4LtWB": {
-          "type": "text",
-          "settings": {
-            "text": "<p>lorem ipsum</p>",
-            "text_style": "body"
-          }
-        },
-        "caption_Kazib9": {
-          "type": "caption",
-          "settings": {
-            "caption": "Add a tagline",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        }
-      },
-      "block_order": [
-        "heading_BMFLHf",
-        "text_n4LtWB",
-        "caption_Kazib9"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/11.jpg",
-        "height": "medium",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
-        "color_scheme": "scheme-3",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -385,7 +346,6 @@
   },
   "order": [
     "rich_text_aMnwQy",
-    "image_with_text_dGbAmG",
     "rich_text_tMrrnp",
     "image_banner_7q8QEU",
     "rich_text_x8bVDk",
