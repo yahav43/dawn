@@ -522,6 +522,95 @@
         "include_margins": true
       }
     },
+    "multicolumn_BxneJ4": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_gdGrQK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/24-hour-icon_e0c625f3-8aec-4536-b582-acddb79cb364.svg",
+            "title": "<strong>גישה לכל החיים</strong>",
+            "text": "<p>לאחר הרכישה תקבלי גישה לכל החיים לתכנים של הסדנה, ישירות למייל שאיתו רכשת.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_w6nmkM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/desktop-mobile-icon.svg",
+            "title": "<strong>שיעורים מוקלטים בוידאו</strong>",
+            "text": "<p>שיעורים מוקלטים כך שתוכלי לצפות בהם בכל מקום, ובכל זמן!</p><p>כל מה שצריך הוא חיבור לאינטרנט ומכשיר עם סוללה ;)</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_fkmDri": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/male-services-support-icon.svg",
+            "title": "<strong>תמיכה מלאה</strong>",
+            "text": "<p>צוות התמיכה הטכנית שלנו יהיה זמין לך לכל שאלה.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_gdGrQK",
+        "column_w6nmkM",
+        "column_fkmDri"
+      ],
+      "settings": {
+        "title": "<strong>סדנה דיגיטלית? איך זה עובד?</strong>",
+        "title_direction": "rtl",
+        "title_alignment": "center",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "show_image_after_effect": true,
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_CQJBaQ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_6Aa6R8": {
+          "type": "heading",
+          "settings": {
+            "heading": "המחיר המקורי",
+            "heading_size": "h1"
+          }
+        },
+        "text_qhAi3m": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_6Aa6R8",
+        "text_qhAi3m"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main_product_G9DUDg": {
       "type": "main-product",
       "blocks": {
@@ -733,6 +822,8 @@
     "rich_text_Fgn4CV",
     "rich_text_x8bVDk",
     "17211428891945090f",
+    "multicolumn_BxneJ4",
+    "rich_text_CQJBaQ",
     "main_product_G9DUDg",
     "collapsible_content_BhkJmX",
     "image_banner_eh9w93"
