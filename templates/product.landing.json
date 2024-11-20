@@ -9,32 +9,73 @@
  */
 {
   "sections": {
-    "rich_text_aMnwQy": {
+    "rich_text_R74eqT": {
       "type": "rich-text",
       "blocks": {
-        "heading_T47r3t": {
-          "type": "heading",
+        "caption_tF888j": {
+          "type": "caption",
           "settings": {
-            "heading": "<strong>StressLess - הדרך שלך להחזיר את השקט שלך</strong>",
-            "heading_size": "h0"
+            "caption": "לראשונה בישראל",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
           }
         },
-        "text_QMRj9e": {
-          "type": "text",
+        "caption_46LHEj": {
+          "type": "caption",
           "settings": {
-            "text": "<p><strong>מישהי סיפרה לך פעם איך זה באמת מרגיש להיות חופשייה מלחץ?</strong></p><p>לדמיין יום שבו את נושמת בקלות, בלי מועקה בחזה או דפיקות לב מואצות. יום שבו את יכולה פשוט <em>להיות</em>, ללא מתח, ללא מחשבות טורדניות – רק רוגע, קלילות ושלווה אמיתית.</p><p><strong>אם את מרגישה שאת רחוקה מזה – את במקום הנכון.</strong><br/>StressLess הוא הכלי שלך להחזיר את עצמך לידיים שלך.</p>"
+            "caption": "הפתרון המקיף להתמודד עם לחץ וחרדה",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
           }
         }
       },
       "block_order": [
-        "heading_T47r3t",
-        "text_QMRj9e"
+        "caption_tF888j",
+        "caption_46LHEj"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
         "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_yJGfA4": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_FAVbLf": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>StressLess - הדרך שלך להחזיר את השקט שלך</strong>",
+            "heading_size": "h0"
+          }
+        },
+        "text_bC9Qni": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>חלאס.</strong></p><p>מישהו צריך להגיד את זה.</p><p>הלחץ היומיומי שאנחנו מתמודדות איתו כל יום כבר <strong>יותר מ - 400</strong> ימים הוא לא משהו שאפשר להמשיך לחיות איתו.</p><p>כל יום מחדש:</p><ul><li>לזגזג מהאינסטגרם למבזקים ב Ynet</li><li>לצפות בחדשות באובססיביות</li><li>להגיד אמירות מדכאות כמו ״עד כמה שאפשר״ או ״זה מה יש״ או ״בגלל המצב״</li></ul>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_FAVbLf",
+        "text_bC9Qni"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/crashing-ocean-waves-in-distance-behind-silhouette-of-woman.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -52,25 +93,13 @@
         "text_RY8c3X": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
-          }
-        },
-        "button_xGErVj": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "text": "<p><strong>מישהי סיפרה לך פעם איך זה באמת מרגיש להיות חופשייה מלחץ?</strong></p><p><br/>לדמיין יום שבו את נושמת בקלות, בלי מועקה בחזה או דפיקות לב מואצות. יום שבו את יכולה פשוט <em>להיות</em>, ללא מתח, ללא מחשבות טורדניות – רק רוגע, קלילות ושלווה אמיתית.</p><p><strong>אם את מרגישה שאת רחוקה מזה – את במקום הנכון.</strong><br/>StressLess הוא הכלי שלך להחזיר את עצמך לידיים שלך.</p>"
           }
         }
       },
       "block_order": [
         "heading_dPN4kT",
-        "text_RY8c3X",
-        "button_xGErVj"
+        "text_RY8c3X"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -345,7 +374,8 @@
     }
   },
   "order": [
-    "rich_text_aMnwQy",
+    "rich_text_R74eqT",
+    "image_with_text_yJGfA4",
     "rich_text_tMrrnp",
     "image_banner_7q8QEU",
     "rich_text_x8bVDk",
