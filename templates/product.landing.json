@@ -677,7 +677,7 @@
         "text_3jVgBe": {
           "type": "text",
           "settings": {
-            "text": "<p>לא ב ₪1,000</p><p>לא ב ₪800</p><p>ואפילו לא ב ₪500.</p><p>אנחנו נותנות את הסדנה במחיר</p>"
+            "text": "<p>לא ב ₪1,000</p><p>לא ב ₪800</p><p><strong>ואפילו לא ב ₪500.</strong></p><p>אנחנו נותנות את הסדנה במחיר</p>"
           }
         }
       },
@@ -695,7 +695,7 @@
         "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 24
       }
     },
     "custom_liquid_KkHaUK": {
