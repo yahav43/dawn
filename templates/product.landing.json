@@ -258,12 +258,28 @@
         "text_KqaRDK": {
           "type": "text",
           "settings": {
-            "text": "<p>אז בלי להתעכב עוד - אני מתרגשת להציג:</p>"
+            "text": "<p>אז בלי להתעכב עוד - אני מתרגשת להציג לך:</p>"
+          }
+        },
+        "heading_FT6dxn": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>StressLess</strong>",
+            "heading_size": "h0"
+          }
+        },
+        "heading_NLz9eH": {
+          "type": "heading",
+          "settings": {
+            "heading": "סדנה דיגיטלית ומעשית להפחתת סטרס והעלאת חוסן",
+            "heading_size": "h1"
           }
         }
       },
       "block_order": [
-        "text_KqaRDK"
+        "text_KqaRDK",
+        "heading_FT6dxn",
+        "heading_NLz9eH"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -330,11 +346,12 @@
         "buy_buttons_QUjnFk",
         "icon_with_text_qaccqp"
       ],
+      "disabled": true,
       "settings": {
         "show_tax_notice": false,
-        "enable_sticky_info": true,
+        "enable_sticky_info": false,
         "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
-        "media_size": "large",
+        "media_size": "medium",
         "constrain_to_viewport": true,
         "media_fit": "contain",
         "gallery_layout": "stacked",
