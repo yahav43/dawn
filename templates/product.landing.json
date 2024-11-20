@@ -638,6 +638,78 @@
         "padding_bottom": 52
       }
     },
+    "rich_text_w4jBFj": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_X4hED8": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>אבל זה לא המחיר שאת הולכת לשלם היום!</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_QKDzKh": {
+          "type": "text",
+          "settings": {
+            "text": "<p>למרות שהסדנה הזאת שווה את זה ויותר - המשימה שלנו היא להגיע ולעזור לכמה שיותר נפשות.</p>"
+          }
+        },
+        "text_qeFLj4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>וגם, זה לא סוד שהכלכלה הישראלית במצב קשה.</p><p>היא הייתה במצב קשה עוד לפני המלחמה, ובינינו, את המחיר הכלכלי של המלחמה אנחנו עוד לא התחלנו אפילו להרגיש.</p>"
+          }
+        },
+        "heading_W7Jzkp": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>לאור המצב - החלטנו לעשות משהו מטורף</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "heading_xFhpJy": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>לאור המצב אנחנו נותנות את הסדנה במחיר בדיחה.</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_3jVgBe": {
+          "type": "text",
+          "settings": {
+            "text": "<p>לא ב ₪1,000</p><p>לא ב ₪800</p><p>ואפילו לא ב ₪500.</p><p>אנחנו נותנות את הסדנה במחיר</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_X4hED8",
+        "text_QKDzKh",
+        "text_qeFLj4",
+        "heading_W7Jzkp",
+        "heading_xFhpJy",
+        "text_3jVgBe"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "custom_liquid_KkHaUK": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "strong {font-size: 4rem;}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"rich-text__blocks center\">\n<h2 class=\"rich-text__heading rte inline-richtext h1 scroll-trigger animate--slide-in price--on-sale\" data-cascade=\"\" style=\"--animation-order: 0;\">\n                <strong class=\"price-item price-item--sale price-item--last\">{{ product.price | money_with_currency }} בלבד</strong>\n              </h2>\n</div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main_product_G9DUDg": {
       "type": "main-product",
       "blocks": {
@@ -852,6 +924,8 @@
     "multicolumn_BxneJ4",
     "rich_text_CQJBaQ",
     "custom_liquid_34dL9n",
+    "rich_text_w4jBFj",
+    "custom_liquid_KkHaUK",
     "main_product_G9DUDg",
     "collapsible_content_BhkJmX",
     "image_banner_eh9w93"
