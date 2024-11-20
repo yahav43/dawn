@@ -290,6 +290,110 @@
         "padding_bottom": 52
       }
     },
+    "rich_text_9TxGGr": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_kkgyhR": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>מה את מקבלת</strong>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_kkgyhR"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_bVeK8i": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_3UUcNN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/bulb-icon.svg",
+            "title": "<strong>מודל שלושת ה״F״</strong>",
+            "text": "<p>בשיעור הראשון נלמד מה הוא בכלל לחץ, ממה הוא נובע, למה הוא טוב, ומה ההשלכות שלו, ומה התגובה האישית <strong>שלך </strong>למצבי לחץ?</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_nDk4zx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/yoga-exercise-icon.svg",
+            "title": "<strong>נלמד לנשום</strong>",
+            "text": "<p>זה קצת מצחיק להגיד, אבל את כנראה לא יודעת לנשום.</p><p>או לפחות לא מקדישה לנשימה את תשומת הלב שהיא ראויה לה.</p><p>בשיעור השני נלמד על הקשר בין הנשימה שלנו ללחץ.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_dyQk6n": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/referral-customer-icon.svg",
+            "title": "<strong>דפוסים ומערכות יחסים</strong>",
+            "text": "<p>כמעט לכל אחת יש דפוס שהיא אימצה מילדות, והוא עלול להוות סיבה חוזרנית ללחץ בחיים.</p><p>נלמד אילו דפוסים יש, מה מאפיין אותך, ומה אפשר לעשות עם זה.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_3UUcNN",
+        "column_nDk4zx",
+        "column_dyQk6n"
+      ],
+      "settings": {
+        "title": "",
+        "title_direction": "rtl",
+        "title_alignment": "center",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "show_image_after_effect": true,
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_zHiKUV": {
+      "type": "rich-text",
+      "blocks": {
+        "text_q6A6gz": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>ועוד המון סיבות ופתרונות ללחץ בחיים שלנו.</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_q6A6gz"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
     "main_product_G9DUDg": {
       "type": "main-product",
       "blocks": {
@@ -541,6 +645,9 @@
     "rich_text_TUPMUW",
     "rich_text_ctY8UH",
     "rich_text_dq4i4Q",
+    "rich_text_9TxGGr",
+    "multicolumn_bVeK8i",
+    "rich_text_zHiKUV",
     "main_product_G9DUDg",
     "rich_text_x8bVDk",
     "17211428891945090f",
