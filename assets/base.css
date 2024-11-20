@@ -3629,3 +3629,11 @@ div#stamped-main-widget {
   margin-right: 0;
   margin-left: 0;
 }
+
+.review-location {
+  display: none;
+}
+
+.stamped-review-content {
+  margin-bottom: 0 !important;
+}
