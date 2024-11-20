@@ -734,12 +734,36 @@
         "padding_bottom": 40
       }
     },
+    "component_countdown_4VUEn6": {
+      "type": "component-countdown",
+      "settings": {
+        "show_days": false,
+        "countdown_date": "Wed Jan 01 2025 12:00:00 GMT+0300 (שעון ישראל (קיץ))",
+        "countdown_url": "",
+        "left_text": true,
+        "left_copy": "<p>המחיר יעלה בעוד</p>",
+        "right_text_direction": "ltr",
+        "left_text_direction": "ltr",
+        "right_text": false,
+        "right_copy": ""
+      }
+    },
     "main_product_G9DUDg": {
       "type": "main-product",
       "blocks": {
-        "title_d7xVcW": {
-          "type": "title",
-          "settings": {}
+        "text_9cUMUJ": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><strong>אז אחרי שהגענו עד לכאן...</strong></h2>",
+            "text_style": "body"
+          }
+        },
+        "text_3VTF9i": {
+          "type": "text",
+          "settings": {
+            "text": "<p>תלחצי על הכפתור ״הוספה לסל״,</p><p>תמלאי את הפרטים,</p><p>תאשרי את התשלום המאובטח,</p><p>ותתחילי לפתוח את הימים שלך</p><p>עם שלווה במקום עם סטרס.</p>",
+            "text_style": "body"
+          }
         },
         "stamped_reviews_star_rating_badge_MYbyAh": {
           "type": "shopify://apps/stamped-reviews/blocks/star-rating-badge/a103faaf-2125-4b0e-89fa-de5149736723",
@@ -753,7 +777,7 @@
         "text_bTMBWC": {
           "type": "text",
           "settings": {
-            "text": "<h2><strong>הדרך שלך להחזיר את השקט שלך</strong></h2>",
+            "text": "<h1><strong>StressLess - הדרך שלך להחזיר את השקט שלך</strong></h1>",
             "text_style": "body"
           }
         },
@@ -784,7 +808,8 @@
         }
       },
       "block_order": [
-        "title_d7xVcW",
+        "text_9cUMUJ",
+        "text_3VTF9i",
         "stamped_reviews_star_rating_badge_MYbyAh",
         "text_bTMBWC",
         "buy_buttons_QUjnFk",
@@ -889,42 +914,13 @@
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
-        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "color_scheme": "scheme-2",
         "container_color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "image_banner_eh9w93": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_Fpg8Tg": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>זה יכול להיות שלך</strong>",
-            "heading_size": "h1",
-            "title_direction": "rtl"
-          }
-        }
-      },
-      "block_order": [
-        "heading_Fpg8Tg"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/family-playing-cards.jpg",
-        "image_overlay_opacity": 50,
-        "image_height": "small",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-4",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
       }
     }
   },
@@ -951,8 +947,8 @@
     "rich_text_w4jBFj",
     "custom_liquid_KkHaUK",
     "rich_text_UDJK8Q",
+    "component_countdown_4VUEn6",
     "main_product_G9DUDg",
-    "collapsible_content_BhkJmX",
-    "image_banner_eh9w93"
+    "collapsible_content_BhkJmX"
   ]
 }
