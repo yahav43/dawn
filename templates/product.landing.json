@@ -584,29 +584,56 @@
     "rich_text_CQJBaQ": {
       "type": "rich-text",
       "blocks": {
-        "heading_6Aa6R8": {
+        "heading_XGbVV7": {
           "type": "heading",
           "settings": {
-            "heading": "המחיר המקורי",
+            "heading": "אוקיי הבנתי, זה מדבר אליי - כמה זה עולה?",
             "heading_size": "h1"
           }
         },
         "text_qhAi3m": {
           "type": "text",
           "settings": {
-            "text": ""
+            "text": "<p>הערך של התכנים הוא ערך שלא ניתן לכמת - ההשפעה של פתירת הלחצים שמעכבים אותך בחייך שווה לך סכומים שלא את ולא אני לא יכולות לדמיין כרגע בכלל.</p>"
+          }
+        },
+        "heading_RRP7BN": {
+          "type": "heading",
+          "settings": {
+            "heading": "ובכל זאת",
+            "heading_size": "h1"
+          }
+        },
+        "text_WRDGwY": {
+          "type": "text",
+          "settings": {
+            "text": "<p>המחיר המקורי של הסדנה, ולאור העובדה שהתכנים זמינים לך לנצח נצחים, היה במקור</p>"
           }
         }
       },
       "block_order": [
-        "heading_6Aa6R8",
-        "text_qhAi3m"
+        "heading_XGbVV7",
+        "text_qhAi3m",
+        "heading_RRP7BN",
+        "text_WRDGwY"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "custom_liquid_34dL9n": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "strong {font-size: 5rem;}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"rich-text__blocks center\">\n<h2 class=\"rich-text__heading rte inline-richtext h1 scroll-trigger animate--slide-in price--on-sale\" data-cascade=\"\" style=\"--animation-order: 0;\">\n                <strong class=\"price-item price-item--regular\">{{ product.compare_at_price | money_with_currency }}</strong>\n              </h2>\n</div>",
+        "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
       }
@@ -824,6 +851,7 @@
     "17211428891945090f",
     "multicolumn_BxneJ4",
     "rich_text_CQJBaQ",
+    "custom_liquid_34dL9n",
     "main_product_G9DUDg",
     "collapsible_content_BhkJmX",
     "image_banner_eh9w93"
