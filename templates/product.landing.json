@@ -743,7 +743,7 @@
       "settings": {
         "show_days": false,
         "countdown_date": "Wed Jan 01 2025 12:00:00 GMT+0300 (שעון ישראל (קיץ))",
-        "countdown_url": "{{ product.url }}",
+        "countdown_url": "/",
         "left_text": true,
         "left_copy": "<p>המחיר יעלה בעוד</p>",
         "right_text_direction": "ltr",
