@@ -123,15 +123,15 @@ details[open].menu-opening>.menu-drawer__submenu {
   background-color: rgba(var(--color-foreground), 0.04);
 }
 
-.day-retreat,
-.day-retreat span {
+.stress-less,
+.stress-less span {
   background: #9d5659;
   color: var(--gradient-background);
   border-radius: var(--buttons-radius-outset);
   font-weight: var(--font-body-weight-bold);
 }
 
-.day-retreat:hover {
+.stress-less:hover {
   color: rgba(var(--color-button), var(--alpha-button-background));
   border-color: rgb(var(--color-button-text));
 }
