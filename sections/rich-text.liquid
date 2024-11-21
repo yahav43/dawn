@@ -1,9 +1,5 @@
 {{ 'section-rich-text.css' | asset_url | stylesheet_tag }}
 
-{% if template.suffix == 'landing' %}
-  {{ 'war-days.js' | asset_url | script_tag }}
-{% endif %}
-
 {%- style -%}
   .section-{{ section.id }}-padding {
     padding-top: {{ section.settings.padding_top | times: 0.75 | round: 0 }}px;
