@@ -91,7 +91,7 @@
         "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
         "media_size": "medium",
         "constrain_to_viewport": false,
-        "media_fit": "cover",
+        "media_fit": "contain",
         "gallery_layout": "columns",
         "media_position": "left",
         "image_zoom": "lightbox",
@@ -106,7 +106,7 @@
       "type": "component-countdown",
       "settings": {
         "show_days": false,
-        "countdown_date": "Tue Dec 3 2024 16:59:59 GMT+0300 (שעון ישראל (קיץ))",
+        "countdown_date": "Tue Dec 3 2024 23:59:59 GMT+0300 (שעון ישראל (קיץ))",
         "countdown_url": "shopify://products/reflectionship",
         "left_text": true,
         "left_copy": "<p>מחיר הספר יעלה בעוד</p>",
