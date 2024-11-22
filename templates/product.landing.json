@@ -9,39 +9,6 @@
  */
 {
   "sections": {
-    "rich_text_R74eqT": {
-      "type": "rich-text",
-      "blocks": {
-        "caption_tF888j": {
-          "type": "caption",
-          "settings": {
-            "caption": "לראשונה בישראל",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        },
-        "caption_46LHEj": {
-          "type": "caption",
-          "settings": {
-            "caption": "הפתרון המקיף להתמודד עם לחץ וחרדה",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        }
-      },
-      "block_order": [
-        "caption_tF888j",
-        "caption_46LHEj"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
-        "full_width": true,
-        "padding_top": 16,
-        "padding_bottom": 0
-      }
-    },
     "image_with_text_yJGfA4": {
       "type": "image-with-text",
       "blocks": {
@@ -929,7 +896,6 @@
     }
   },
   "order": [
-    "rich_text_R74eqT",
     "image_with_text_yJGfA4",
     "rich_text_tMrrnp",
     "rich_text_jPcDFh",
