@@ -60,92 +60,13 @@
         "show_text_below": false
       }
     },
-    "rich_text_feMzQg": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_iVwaLx": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>הכירי את StressLess</strong>",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_iVwaLx"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 40
-      }
-    },
-    "multicolumn_PXpiCA": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_TWAzqi": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>שליטה בלחץ ובחרדה</strong>",
-            "text": "<p>למדי טכניקות מעשיות להרגעה מיידית, תוך 4 שעות או פחות, שיעזרו לך לשלוט בחרדה במקום שהיא תשלוט בך</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_BTzMda": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>לישון בשקט</strong>",
-            "text": "<p>תחזרי להירדם בקלות ולהתעורר רעננה - בלי כדורים ובלי תופעות לוואי</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_GtCaUb": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>קבלי את החיים שלך בחזרה</strong>",
-            "text": "<p>תפסיקי לאבד שליטה ברגעי לחץ - תלמדי איך להישאר רגועה גם במצבים מאתגרים, כך שהילדים והסובבים אותך יראו אותך תמיד במיטבך</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_TWAzqi",
-        "column_BTzMda",
-        "column_GtCaUb"
-      ],
-      "settings": {
-        "title": "<strong>מה את מקבלת</strong>",
-        "title_direction": "rtl",
-        "title_alignment": "center",
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "show_image_after_effect": true,
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-5",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "rich_text_ikiexW": {
       "type": "rich-text",
       "blocks": {
         "heading_iFAJPz": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>לקוחות שהפסיקו עם הלחץ משתפות</strong>",
+            "heading": "<strong>מטופלות שהפסיקו עם הלחץ משתפות</strong>",
             "heading_size": "h1"
           }
         }
@@ -158,7 +79,7 @@
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 0,
+        "padding_top": 36,
         "padding_bottom": 0
       }
     },
@@ -537,8 +458,6 @@
   },
   "order": [
     "image_banner",
-    "rich_text_feMzQg",
-    "multicolumn_PXpiCA",
     "rich_text_ikiexW",
     "173141633272d68dcf",
     "rich_text_LpxHfN",
