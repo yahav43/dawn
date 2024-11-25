@@ -15,14 +15,22 @@
         "heading_4XLrct": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>StressLess - הדרך שלך להחזיר את השקט שלך</strong>",
-            "heading_size": "h1",
+            "heading": "<strong>StressLess</strong>",
+            "heading_size": "h0",
             "title_direction": "rtl"
+          }
+        },
+        "text_Qn9dwt": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><strong>לנצח את החרדה,</strong></h2><h2><strong>להפסיק לדאוג, </strong></h2><h2><strong>ולחזור לחיות כמו שאנחנו אמורים</strong></h2>",
+            "text_style": "body"
           }
         }
       },
       "block_order": [
-        "heading_4XLrct"
+        "heading_4XLrct",
+        "text_Qn9dwt"
       ],
       "settings": {
         "image": "shopify://shop_images/create_relaxing_water_images_with_aesthetic_objects.jpg",
