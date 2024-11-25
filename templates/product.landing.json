@@ -9,42 +9,55 @@
  */
 {
   "sections": {
-    "image_with_text_yJGfA4": {
-      "type": "image-with-text",
+    "image_banner_yCGVAF": {
+      "type": "image-banner",
       "blocks": {
-        "heading_FAVbLf": {
+        "heading_4XLrct": {
           "type": "heading",
           "settings": {
             "heading": "<strong>StressLess - הדרך שלך להחזיר את השקט שלך</strong>",
-            "heading_size": "h1"
-          }
-        },
-        "text_bC9Qni": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>חלאס.</strong></p><p>מישהו צריך להגיד את זה.</p><p>הלחץ היומיומי שאנחנו מתמודדות איתו כל יום כבר <strong>יותר מ - 400</strong> ימים הוא לא משהו שאפשר להמשיך לחיות איתו.</p><p>כל יום מחדש:</p><ul><li>לזגזג מהאינסטגרם למבזקים ב Ynet</li><li>לצפות בחדשות באובססיביות</li><li>להגיד אמירות מדכאות כמו ״עד כמה שאפשר״ או ״זה מה יש״ או ״בגלל המצב״</li><li>לדאוג מתי תהיה האזעקה הבאה...</li></ul>",
-            "text_style": "body"
+            "heading_size": "h1",
+            "title_direction": "rtl"
           }
         }
       },
       "block_order": [
-        "heading_FAVbLf",
-        "text_bC9Qni"
+        "heading_4XLrct"
       ],
       "settings": {
-        "image": "shopify://shop_images/crashing-ocean-waves-in-distance-behind-silhouette-of-woman.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "middle",
+        "image": "shopify://shop_images/create_relaxing_water_images_with_aesthetic_objects.jpg",
+        "image_overlay_opacity": 50,
+        "image_height": "large",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
         "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
-        "color_scheme": "scheme-3",
+        "color_scheme": "scheme-4",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "rich_text_NpfGDf": {
+      "type": "rich-text",
+      "blocks": {
+        "text_YcwmaB": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>חלאס.</strong></p><p>מישהו צריך להגיד את זה.</p><p>הלחץ היומיומי שאנחנו מתמודדות איתו כל יום כבר <strong>יותר מ - 400</strong> ימים הוא לא משהו שאפשר להמשיך לחיות איתו.</p><p>כל יום מחדש:</p><ul><li>לזגזג מהאינסטגרם למבזקים ב Ynet</li><li>לצפות בחדשות באובססיביות</li><li>להגיד אמירות מדכאות כמו ״עד כמה שאפשר״ או ״זה מה יש״ או ״בגלל המצב״</li><li>לדאוג מתי תהיה האזעקה הבאה...</li></ul>"
+          }
+        }
+      },
+      "block_order": [
+        "text_YcwmaB"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "rich_text_tMrrnp": {
@@ -896,7 +909,8 @@
     }
   },
   "order": [
-    "image_with_text_yJGfA4",
+    "image_banner_yCGVAF",
+    "rich_text_NpfGDf",
     "rich_text_tMrrnp",
     "rich_text_jPcDFh",
     "rich_text_kz3cXM",
