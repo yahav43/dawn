@@ -106,30 +106,33 @@
         "include_margins": true
       }
     },
-    "rich_text_LpxHfN": {
+    "rich_text_dgWTdq": {
       "type": "rich-text",
       "blocks": {
-        "button_LbjkDL": {
-          "type": "button",
+        "heading_3Bz9Nw": {
+          "type": "heading",
           "settings": {
-            "button_label": "למידע נוסף",
-            "button_link": "shopify://products/stress-less",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "heading": "<strong>המייסדת</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_ELenAg": {
+          "type": "text",
+          "settings": {
+            "text": "<p>נמסטה 🪷🙏,</p><p>אני יעל מימון (סאד׳וי).</p><p>נולדתי ברמת גן ב 1970.</p><p>עברתי ילדות מורכבת כבת בכורה להורים גרושים, ילדה ונערה בסיכון.</p><p>מהיום שאני זוכרת את עצמי חיפשתי אמת, תכלית ומשמעות.</p><p>החיפוש שלי הוביל אותי לשנים רבות של לימודים בכל מיני מסגרות ובעיקר לחקירה נוקבת וחסרת פשרות של עצמי.</p><p>לימים, התחתנתי והבאתי לעולם ארבעה ילדים נפלאים שלימדו אותי המון על עצמי ובכלל.</p><p>הכלים שרכשתי הובילו אותי לטיפול ולהוראה של מקצועות הטיפול.</p><p>אני עוסקת בטיפול כ 25 שנים, מלמדת כ 20 שנים.</p><p>ב 12 השנים האחרונות אני מרצה ומרכזת את המגמה לפסיכותרפיה הוליסטית מכללת הנות בחדרה.</p><p>ב 4 שנים האחרונות, ובעקבות המצב, הפכתי ליועצת בצוות חוסן לעובדים בבית החולים הילל יפה, בה אני מעבירה סדנאות בנושא שחיקה וסטרס לעובדים ועוזרת בבניית תכנים וכלים.</p><p>הדרך הרוחנית שלי היא יוגה.</p><p>אני מורה ותלמידה ליוגה כ 20 שנה.</p><p>מלמדת יוגה בבית החולים הלל יפה משנת 2019.</p><p>אני מאמינה שכדי להגיע להחלמה והרמוניה צריך לטפל באדם ולא במחלה.</p>"
           }
         }
       },
       "block_order": [
-        "button_LbjkDL"
+        "heading_3Bz9Nw",
+        "text_ELenAg"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "scheme-5",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
         "full_width": true,
-        "padding_top": 0,
+        "padding_top": 40,
         "padding_bottom": 52
       }
     },
@@ -460,7 +463,7 @@
     "image_banner",
     "rich_text_ikiexW",
     "173141633272d68dcf",
-    "rich_text_LpxHfN",
+    "rich_text_dgWTdq",
     "multirow_RkqD97",
     "image_banner_jFwcht",
     "multicolumn_metaobject_D7Dgxt",
