@@ -67,12 +67,27 @@
           "settings": {
             "text": "<p>❌ <strong>העולם סביבך בלתי צפוי.</strong> חדשות קשות, מציאות מורכבת – ואת רק מנסה לשרוד.<br/><br/> ❌ אפילו בבית, המקום שאמור להיות הבטוח שלך, יש תחושת אי-שקט שמקשה לנשום.<br/><br/> ❌ את מרגישה מנותקת מעצמך, מהכוח שהיה לך פעם.<br/><br/> ❌ <strong>פחדים עולים</strong> – איך את יכולה לדאוג לאחרים כשאפילו לעצמך את מתקשה לדאוג?<br/><br/> ❌ הגוף שלך כואב, מתוח. השינה רדודה, הראש עובד כל הזמן, ואת מרגישה מותשת.</p>"
           }
+        },
+        "heading_aqCGKD": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>המענה שלך - לחזור לקרקע</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_Jamy84": {
+          "type": "text",
+          "settings": {
+            "text": "<p>החיבור לאדמה הוא לא רק מושג רוחני – הוא הצורך הבסיסי ביותר שלנו.</p><p> כשאת מאוזנת באדמה, את:</p><p>✔️ מרגישה יציבות וביטחון גם כשבחוץ יש סערה.</p><p>✔️ יכולה לעמוד מול כל אתגר – ולהרגיש חזקה.</p><p>✔️ משחררת את המתח בגוף ובנפש ומוצאת שקט אמיתי.</p><p>✔️ לומדת לקחת רגעים לעצמך ולהיטען באנרגיה חיובית.</p>"
+          }
         }
       },
       "block_order": [
         "text_dFieAz",
         "heading_FeQxkr",
-        "text_yVFYie"
+        "text_yVFYie",
+        "heading_aqCGKD",
+        "text_Jamy84"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -80,6 +95,66 @@
         "color_scheme": "scheme-3",
         "full_width": true,
         "padding_top": 52,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_qQ7BrA": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_PgRUTC": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>איפה את עכשיו – ואיפה את יכולה להיות?</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_aECWFU": {
+          "type": "text",
+          "settings": {
+            "text": "<p>בואי נעשה ביחד חצי דקה של דמיון מודרך:</p><p>את יושבת בנחת, נושמת עמוק, וכל תחושת הכובד מתפוגגת.</p><p>את יושבת במקום שעושה לך טוב בגוף - בבית בסלון בשבת בבוקר,<br/>בטבע בשעת זריחה,<br/>בים בשעת שקיעה,<br/>או כל מקום אחר שמסב לך אושר.</p><p>מה את מריחה?<br/>מה מזג האוויר?<br/>מה את שומעת?<br/><br/>דמייני שיש לך מרחב, שקט, ואפילו תחושה של קלילות.</p><h2><strong>איך זה מרגיש?</strong></h2><p>את מחוברת לקרקע, ליציבות, לעצמך.<br/><br/>זה בדיוק מה שתחווי כאשר תאזני את האדמה הפנימית שלך - ובשביל זה הקדשנו ריטריט יוגה שלם.</p>"
+          }
+        },
+        "heading_ew9bVc": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>חזרה ליסודות </strong>🌏",
+            "heading_size": "h1"
+          }
+        },
+        "text_GdpaTn": {
+          "type": "text",
+          "settings": {
+            "text": "<p>במשך יותר משנה, אנחנו מנווטות בקרקע לא יציבה.</p><p>היציבות החיצונית עליה הסתמכנו פעם נראית חמקמקה, מביאה תחושות של חוסר ודאות וחוסר שליטה.</p><p>ריטריט היוגה הייחודי - <em>״אדמה והשתרשות״</em> - מתמקד בנושא כדור הארץ והקרקע - ומעצים אותך למצוא את היציבות הזו בתוכך באמצעות האלכימיה הטרנספורמטיבית של היוגה.</p><p>בהנחייתה של המורה המנוסה יעל מימון (סאד׳וי), ריטריט בן היום הזה עוצב בקפידה כדי להדריך אותך דרך שיטות עבודה וידע שמביאים בסיס לחיים שלך.</p>"
+          }
+        },
+        "heading_peyCTX": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>אז איך זה עובד?</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_hUXg7n": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>ריטריט אדמה הוא מסע יסודי שמתאים לך בדיוק.</strong></p><p>1️⃣ <strong>סדנאות יוגה מותאמות</strong> – תרגילים שמחזקים את הגוף, את היציבות ואת השקט הפנימי.</p><p> 2️⃣ <strong>מדיטציות מוקלטות</strong> – שתוכלי להאזין להן בכל רגע שבו את מרגישה שאת צריכה הפסקה.</p><p> 3️⃣ <strong>הסברים מעמיקים על אנרגיית האדמה</strong> – תלמדי לזהות חוסרים או עודפים בתוכך, ולהחזיר איזון.</p><p> 4️⃣ <strong>תרגולים יום-יומיים פרקטיים</strong> – שמתאימים גם למי שמעולם לא עשתה יוגה.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_PgRUTC",
+        "text_aECWFU",
+        "heading_ew9bVc",
+        "text_GdpaTn",
+        "heading_peyCTX",
+        "text_hUXg7n"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "full_width": true,
+        "padding_top": 40,
         "padding_bottom": 52
       }
     },
@@ -255,6 +330,7 @@
   "order": [
     "image_banner_eyrDfn",
     "rich_text_9fKHgT",
+    "rich_text_qQ7BrA",
     "multicolumn_J8dJaF",
     "main",
     "collapsible_content_BhkJmX"
