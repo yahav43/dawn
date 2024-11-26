@@ -29,7 +29,7 @@ slider-component .card-information,
 .template-404,
 .rich-text__blocks,
 div[class*="kl-private-reset-css"],
-.banner__box,
+.banner__box *,
 product-recommendations {
   direction: rtl;
 }
