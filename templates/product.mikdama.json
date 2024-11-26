@@ -363,10 +363,11 @@
           "type": "title",
           "settings": {}
         },
-        "description_ynG8QW": {
-          "type": "description",
+        "text_zTzU3G": {
+          "type": "text",
           "settings": {
-            "description_alignment": "right"
+            "text": "<p>💌 <strong>לחצי כאן להבטיח את מקומך</strong></p><p> זה הזמן שלך לחזור לקרקע, לחזק את עצמך ולהתחבר לעוצמה שלך.</p>",
+            "text_style": "body"
           }
         },
         "price_bRUV8E": {
@@ -379,13 +380,21 @@
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": false
           }
+        },
+        "text_nakdgq": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>זכרי: את לא לבד. אנחנו כאן לצעוד איתך במסע הזה. ❤️</strong></p>",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
         "title_qcUKbE",
-        "description_ynG8QW",
+        "text_zTzU3G",
         "price_bRUV8E",
-        "buy_buttons_DhFQ8E"
+        "buy_buttons_DhFQ8E",
+        "text_nakdgq"
       ],
       "settings": {
         "show_tax_notice": false,
