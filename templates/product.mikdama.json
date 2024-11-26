@@ -158,6 +158,44 @@
         "padding_bottom": 52
       }
     },
+    "image_with_text_3teATm": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_8EWed4": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>למה דווקא עכשיו?</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_6dkKe3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>המצב בישראל מאז <strong>השביעי</strong> שינה הכול.<br/> אנחנו חוות פחדים קיומיים, דאגות עמוקות, וחוסר שליטה על המציאות שמסביבנו.<br/>זה טבעי להרגיש חסרות אונים.<br/>אבל מה אם תוכלי לקחת שליטה מחודשת על החיים שלך – מבפנים?</p><p><strong>ריטריט אדמה ייתן לך את הכלים להחזיר שליטה פנימית:</strong></p><p>🔹 להרגיש בטוחה בגוף שלך. <br/>🔹 להחזיר שקט פנימי – גם כשהכול סביבך רועש.<br/>🔹 להתמודד עם פחדים ודאגות, במקום לתת להם לנהל אותך.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_8EWed4",
+        "text_6dkKe3"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/ProductImage4.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "right",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multicolumn_J8dJaF": {
       "type": "multicolumn",
       "blocks": {
@@ -268,6 +306,15 @@
     "collapsible_content_BhkJmX": {
       "type": "collapsible-content",
       "blocks": {
+        "collapsible_row_tTQkfV": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "איך זה שונה מסדנה רגילה?",
+            "icon": "none",
+            "row_content": "<p> זה הרבה יותר מסדנה – זה מסע עמוק שמשלב גוף, נפש ורוח, עם ליווי צמוד.</p>",
+            "page": ""
+          }
+        },
         "collapsible_row_h8MBix": {
           "type": "collapsible_row",
           "settings": {
@@ -306,6 +353,7 @@
         }
       },
       "block_order": [
+        "collapsible_row_tTQkfV",
         "collapsible_row_h8MBix",
         "collapsible_row_mADL4C",
         "collapsible_row_UnXJRb",
@@ -313,7 +361,7 @@
       ],
       "settings": {
         "caption": "",
-        "heading": "<strong>שאלות ותשובות</strong>",
+        "heading": "<strong>שאלות שאולי עלו לך</strong>",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
@@ -331,6 +379,7 @@
     "image_banner_eyrDfn",
     "rich_text_9fKHgT",
     "rich_text_qQ7BrA",
+    "image_with_text_3teATm",
     "multicolumn_J8dJaF",
     "main",
     "collapsible_content_BhkJmX"
