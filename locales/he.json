@@ -1062,7 +1062,13 @@
       },
       "edit_summary": {
         "updated_at": "העדכון האחרון היה בתאריך {{ date }}"
-      }
+      },
+      "addresses_section_title": "משלוח וחיוב",
+      "order_details": "פרטי הזמנה",
+      "loading": "טוען פרטי הזמנה",
+      "loading_finished_accessibility_message": "פרטי ההזמנה נטענו בהצלחה",
+      "location": "מיקום",
+      "title": "הזמנה {{ name }}"
     },
     "payment_methods": {
       "add_payment_method": {
@@ -1110,7 +1116,17 @@
     "orders": {
       "order_list": {
         "filter": {
-          "apply": "מימוש"
+          "apply": "מימוש",
+          "clear_all": "איפוס",
+          "date": {
+            "title": "תאריך הזמנה",
+            "today": "היום",
+            "last_7_days": "7 ימים אחרונים",
+            "last_30_days": "30 יום אחרונים",
+            "last_90_days": "90 יום אחרונים",
+            "last_365_days": "12 חודשים אחרונים",
+            "custom": "מותאם אישית"
+          }
         },
         "column_headers": {
           "total": "סך הכל",
@@ -1138,7 +1154,19 @@
         "no_filtered_results_title": "אין תוצאות",
         "order_link": "הצגת הזמנה {{ name }}",
         "order_number": "הזמנה {{ name }}",
-        "orders_title": "מאושר"
+        "orders_title": "מאושר",
+        "pagination": {
+          "next_accessibility_label": "הבא",
+          "previous": "הקודם",
+          "previous_accessibility_label": "הזמנות קודמות",
+          "load_more": "טען עוד",
+          "load_more_accessibility_label": "טוען עוד הזמנות..."
+        },
+        "order_status_message": {
+          "list_view": {
+            "view_order_for_details": "הצגת פרטי הזמנה"
+          }
+        }
       },
       "order_status": {
         "confirmed_title": "הזמנתך אושרה",
@@ -1153,7 +1181,8 @@
           "other": "המוצרים האלו טופלו"
         },
         "status_timestamp": "עודכנה בתאריך {{ date }}",
-        "last_updated": "העדכון האחרון היה בתאריך {{ date }}"
+        "last_updated": "העדכון האחרון היה בתאריך {{ date }}",
+        "view_order_for_details": "הצגת פרטי הזמנה"
       },
       "list_title": "הזמנות",
       "list_title_with_pending_orders": "הזמנות:",
@@ -1272,6 +1301,12 @@
         "order_timeline": {
           "expand_events_label": "פרטים נוספים",
           "hide_events_label": "פחות פרטים"
+        },
+        "title": "הזמנה {{ name }}"
+      },
+      "payment_methods": {
+        "payment_details": {
+          "order_label": "הזמנה {{ name }}"
         }
       }
     },
