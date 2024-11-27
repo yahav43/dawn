@@ -1044,7 +1044,9 @@
         "confirmed_title": "הזמנתך אושרה",
         "canceled_description": "הזמנתך בוטלה בתאריך {{ date }}",
         "canceled_label": "בוטלה",
-        "canceled_title": "הזמנתך בוטלה"
+        "canceled_title": "הזמנתך בוטלה",
+        "confirmed_description": "קיבלנו את ההזמנה שלך.",
+        "confirmed_label": "מאושרת"
       },
       "list_title": "הזמנות",
       "list_title_with_pending_orders": "הזמנות:",
