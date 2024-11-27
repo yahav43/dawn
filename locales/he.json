@@ -988,7 +988,11 @@
           "apply": "מימוש"
         },
         "column_headers": {
-          "total": "סך הכל"
+          "total": "סך הכל",
+          "order": "הזמנה",
+          "items": "מוצרים",
+          "actions_accessibility_label": "פעולות",
+          "products_accessibility_label": "מוצרים"
         },
         "sort": {
           "order_total": {
@@ -998,14 +1002,40 @@
         },
         "carousel": {
           "view_order_details": "הצגת פרטי הזמנה"
-        }
+        },
+        "delivered": "טופל בתאריך {{ date }}",
+        "empty_state_order_source_description": "רק הזמנות המקושרות למייל {{ email }} יוצגו כאן.",
+        "empty_state_subtitle": "לביצוע הזמנה באתר.",
+        "empty_state_title": "אין פה הזמנות כרגע - יבש פה!",
+        "empty_state_title_for_pending_orders": "אין הזמנות ממתינות",
+        "list_view": "הצגת רשימה",
+        "no_filtered_results_description": "הסרה או עדכון סינון",
+        "no_filtered_results_title": "אין תוצאות",
+        "order_link": "הצגת הזמנה {{ name }}",
+        "order_number": "הזמנה {{ name }}",
+        "orders_title": "מאושר"
       },
       "order_status": {
         "confirmed_title": "הזמנתך אושרה",
         "canceled_description": "הזמנתך בוטלה בתאריך {{ date }}",
         "canceled_label": "בוטלה",
         "canceled_title": "הזמנתך בוטלה"
-      }
+      },
+      "list_title": "הזמנות",
+      "list_title_with_pending_orders": "הזמנות:",
+      "list_title_confirmed_orders_accessibility_label": "הזמנות: מאושרות",
+      "list_title_pending_orders_accessibility_label": "הזמנות: בהמתנה",
+      "status_mark_as_delivered": "סימון כהזמנה שהגיעה",
+      "fulfillment_status_title": "סטטוס טיפול: {{ status }}",
+      "buy_again": "לרכישה חוזרת / נוספת",
+      "buy_again_accessibility_label": "רכישה חוזרת / נוספת עבור {{ orderId }}",
+      "manage": "ניהול",
+      "manage_accessiblity_label": "ניהול הזמנה {{ orderId }}",
+      "havent_received_your_delivery": "עדיין לא קיבלת את ההזמנה שלך?",
+      "didnt_pick_up_order": "לא אספת את ההזמנה שלך?",
+      "if_you_didnt_receive_this": "אם לא קיבלת את זה,",
+      "let_us_know": "אנא הודיעי לנו",
+      "contact_us": "צרי קשר."
     },
     "errors": {
       "not_found": {
@@ -1034,8 +1064,32 @@
     "navigation_and_structure": {
       "contact_link": "פרטי התקשרות",
       "delete_confirmation": {
-        "cancel": "ביטול"
-      }
+        "cancel": "ביטול",
+        "delete": "מחיקה"
+      },
+      "account_menu": {
+        "hide_accessibility_label": "הסתרת תפריט",
+        "label": "איזור אישי",
+        "show_accessibility_label": "הצגת תפריט",
+        "nav_accessibility_label": "ניווט באיזור האישי",
+        "open_menu_accessibility_label": "פתיחת תפריט איזור אישי",
+        "close_menu_accessibility_label": "סגירת תפריט איזור אישי",
+        "loading_message": "טוען תפריט איזור אישי"
+      },
+      "action_menu_accessibility_label": "פעולות נוספות",
+      "close_menu_accessibility_label": "סגירת תפריט ראשי",
+      "dismiss_toast": "ביטול",
+      "go_to_store_link": "מעבר לאתר",
+      "loading_message": "טוען...",
+      "log_out_link": "יציאה",
+      "logout_overlay_label": "טוען...",
+      "nav_label_accessibility_label": "תפריט ראשי",
+      "navigation_accessibility_message": "הגעת אל {{ sectionName }}",
+      "open_menu_accessibility_label": "פתיחת תפריט ראשי",
+      "orders_link_label": "הזמנות",
+      "shop_logo_accessibility_label": "לוגו {{ shopName }}",
+      "subscriptions_link_label": "מנויים",
+      "settings_link": "הגדרות"
     },
     "address_form": {
       "section_title_accessibility_label": "הוספת כתובת",
@@ -1047,13 +1101,43 @@
       "profile_card": {
         "save": "שמירה",
         "cancel": "ביטול",
-        "cancel_accessibility_label": "ביטול עריכת פרופיל"
-      }
+        "cancel_accessibility_label": "ביטול עריכת פרופיל",
+        "edit": "עריכה",
+        "edit_accessibility_label": "עריכת פרופיל",
+        "email_help_text": "לצערינו לא ניתן לשנות כתובת מייל המשמשת להתחברות - יש לפנות לתמיכה הטכנית שלנו במייל.",
+        "first_name": "שם פרטי",
+        "last_name": "שם משפחה",
+        "no_name_provided_accessibility_label": "לא סופק שם",
+        "phone_number_help_text": "לצערינו לא ניתן לשנות מספר טלפון המשמש להתחברות - יש לפנות לתמיכה הטכנית שלנו במייל.",
+        "save_accessibility_label": "שמירת פרופיל",
+        "title": "פרופיל"
+      },
+      "loading_accessibility_message": "טוען מידע מהאיזור האישי",
+      "loading_finished_accessibility_message": "המידע נטען",
+      "profile_update_confirmation_message": "פרופיל עודכן בהצלחה",
+      "title": "פרופיל",
+      "people": {
+        "pagination": {
+          "load_more": "טעינת עוד",
+          "load_more_accessibility_label": "טעינת עוד אנשים",
+          "loading_accessibility_label": "טוען אנשים"
+        }
+      },
+      "add_button": "הוספה"
     },
     "B2B": {
       "location_selection": {
         "selection_cancel_button": "ביטול"
       }
-    }
+    },
+    "date": {
+      "humanize": {
+        "lessThanOneMinuteAgo": "ממש עכשיו",
+        "yesterday": "אתמול ב {{ time }}",
+        "today": "היום ב {{ time }}",
+        "tomorrow": "מחר ב {{ time }}"
+      }
+    },
+    "enable_javascript": "יש לאפשר Javascript בדפדפן."
   }
 }
