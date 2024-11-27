@@ -40,8 +40,8 @@
         "announcement_6gWrKC": {
           "type": "announcement",
           "settings": {
-            "text": "מבצע השקה - 25% הנחה על כל האתר",
-            "link": "shopify://collections/shop"
+            "text": "BLUE FRIDAY - עד 88% הנחה",
+            "link": ""
           }
         },
         "announcement_hanYbi": {
@@ -57,20 +57,12 @@
             "text": "האתר נכתב בלשון נקבה אך פונה לכל המינים",
             "link": ""
           }
-        },
-        "announcement_iFPtN7": {
-          "type": "announcement",
-          "settings": {
-            "text": "ריטריט יום - לחצי כאן לשריין מקום",
-            "link": "shopify://products/earth-retreat"
-          }
         }
       },
       "block_order": [
         "announcement_6gWrKC",
         "announcement_hanYbi",
-        "announcement_jcBVHc",
-        "announcement_iFPtN7"
+        "announcement_jcBVHc"
       ],
       "settings": {
         "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
