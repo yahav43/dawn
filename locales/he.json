@@ -990,7 +990,13 @@
       },
       "order_details_skeleton_accessibility_label": "התחברי לאיזור האישי כדי לראות את כל הפרטים.",
       "login_to_view_all_order_details": "התחברי לאיזור האישי כדי לראות את כל הפרטים.",
-      "subtitle": "ההזמנה אושרה בתאריך {{ date }}"
+      "subtitle": "ההזמנה אושרה בתאריך {{ date }}",
+      "shipment_timeline": {
+        "expand_events_label": "פרטים נוספים"
+      },
+      "returns": {
+        "expand_events_label": "פרטים נוספים"
+      }
     },
     "payment_methods": {
       "add_payment_method": {
@@ -1190,6 +1196,11 @@
     "B2B": {
       "location_selection": {
         "selection_cancel_button": "ביטול"
+      },
+      "draft_order_details": {
+        "order_timeline": {
+          "expand_events_label": "פרטים נוספים"
+        }
       }
     },
     "date": {
