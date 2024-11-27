@@ -688,7 +688,8 @@
           "cancel": "ביטול"
         },
         "offsite_gateway_redirect_hint": "המשיכי למעבר לתשלום בדף המאובטח",
-        "offsite_gateway_review_page_redirect_hint": "המשיכי למעבר לתשלום בדף המאובטח"
+        "offsite_gateway_review_page_redirect_hint": "המשיכי למעבר לתשלום בדף המאובטח",
+        "order_edit_banner_updated_order_label": "הזמנה מעודכנת"
       },
       "failed_payment": {
         "page_title": "אירעה שגיאה. התשלום לא עבר.",
@@ -736,7 +737,8 @@
         "thank_you_payments_app_pending_payment_description_default_with_missing": "אנא צרי איתנו קשר במייל לקבלת אישור הזמנה.",
         "thank_you_payments_app_pending_payment_description_default_with_missing_payment": "אנא צרי איתנו קשר במייל לקבלת אישור הזמנה.",
         "thank_you_payments_app_pending_payment_description_default_with_missing_pick_up": "אנא צרי איתנו קשר במייל לקבלת אישור הזמנה.",
-        "non_shippable_title": "ההזמנה שלך הושלמה."
+        "non_shippable_title": "ההזמנה שלך הושלמה.",
+        "updated_time": "ההזמנה עודכנה לפני {{ time_ago }}"
       },
       "review": {
         "blocks": {
@@ -874,7 +876,8 @@
         }
       },
       "order_payment_collection": {
-        "pay_now": "לתשלום"
+        "pay_now": "לתשלום",
+        "checkout_review_and_pay": "הזמנה מספר {{ order_name }} עודכנה. אנא עברי על השינויים והשלימי את ההזמנה."
       },
       "customer_account": {
         "sign_in_link_label": "כניסה למשתמש",
@@ -992,10 +995,15 @@
       "login_to_view_all_order_details": "התחברי לאיזור האישי כדי לראות את כל הפרטים.",
       "subtitle": "ההזמנה אושרה בתאריך {{ date }}",
       "shipment_timeline": {
-        "expand_events_label": "פרטים נוספים"
+        "expand_events_label": "פרטים נוספים",
+        "hide_events_label": "פחות פרטים"
       },
       "returns": {
-        "expand_events_label": "פרטים נוספים"
+        "expand_events_label": "פרטים נוספים",
+        "hide_events_label": "פחות פרטים"
+      },
+      "edit_summary": {
+        "updated_at": "העדכון האחרון היה בתאריך {{ date }}"
       }
     },
     "payment_methods": {
@@ -1085,7 +1093,9 @@
         "delivered_description_digital": {
           "one": "המוצר טופל",
           "other": "המוצרים האלו טופלו"
-        }
+        },
+        "status_timestamp": "עודכנה בתאריך {{ date }}",
+        "last_updated": "העדכון האחרון היה בתאריך {{ date }}"
       },
       "list_title": "הזמנות",
       "list_title_with_pending_orders": "הזמנות:",
@@ -1163,7 +1173,9 @@
       "save_accessibility_label": "שמירה כתובת {{address}}",
       "cancel": "ביטול",
       "auto_complete_close_accessibility_label": "סגירת הצעות",
-      "auto_complete_title": "הצעות"
+      "auto_complete_title": "הצעות",
+      "default_address_update_success_notification": "כתובת ראשית עודכנה",
+      "update_success_notification": "כתובת עודכנה"
     },
     "account_information": {
       "profile_card": {
@@ -1199,7 +1211,8 @@
       },
       "draft_order_details": {
         "order_timeline": {
-          "expand_events_label": "פרטים נוספים"
+          "expand_events_label": "פרטים נוספים",
+          "hide_events_label": "פחות פרטים"
         }
       }
     },
