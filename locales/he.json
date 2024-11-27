@@ -810,7 +810,10 @@
         "free_shipping_discount_label": "משלוח חינם",
         "applied_free_shipping_discount_label": "בוצע",
         "shipping_label": "משלוח",
-        "shipping_discount_title": "הנחה למשלוח"
+        "shipping_discount_title": "הנחה למשלוח",
+        "order_name_label": "הזמנה {{ name }}",
+        "shopping_cart_label": "סל קניות",
+        "discount_title": "הנחה"
       },
       "field_errors": {
         "payment_gateway_missing": "יש לבחור אמצעי תשלום.",
