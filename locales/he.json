@@ -689,7 +689,8 @@
         },
         "offsite_gateway_redirect_hint": "המשיכי למעבר לתשלום בדף המאובטח",
         "offsite_gateway_review_page_redirect_hint": "המשיכי למעבר לתשלום בדף המאובטח",
-        "order_edit_banner_updated_order_label": "הזמנה מעודכנת"
+        "order_edit_banner_updated_order_label": "הזמנה מעודכנת",
+        "same_billing_address_label": "כתובת החיוב זהה לכתובת המשלוח"
       },
       "failed_payment": {
         "page_title": "אירעה שגיאה. התשלום לא עבר.",
@@ -738,7 +739,14 @@
         "thank_you_payments_app_pending_payment_description_default_with_missing_payment": "אנא צרי איתנו קשר במייל לקבלת אישור הזמנה.",
         "thank_you_payments_app_pending_payment_description_default_with_missing_pick_up": "אנא צרי איתנו קשר במייל לקבלת אישור הזמנה.",
         "non_shippable_title": "ההזמנה שלך הושלמה.",
-        "updated_time": "ההזמנה עודכנה לפני {{ time_ago }}"
+        "updated_time": "ההזמנה עודכנה לפני {{ time_ago }}",
+        "shipping_information_title": "פרטי משלוח",
+        "pick_up_in_store_marker": {
+          "shipping": "נקודת האיסוף"
+        },
+        "missing_shipping_address_banner": {
+          "contact_us": "צרי קשר"
+        }
       },
       "review": {
         "blocks": {
@@ -747,7 +755,8 @@
           "change_contact_method_link_label": "שינוי פרטי התקשרות",
           "change_shipping_address_link_label": "שינוי כתובת למשלוח",
           "shipping_method_title": "שיטת משלוח",
-          "change_shipping_method_link_label": "שינוי שיטת משלוח"
+          "change_shipping_method_link_label": "שינוי שיטת משלוח",
+          "shipping_address_title": "משלוח אל"
         }
       },
       "general": {
@@ -823,7 +832,11 @@
           "other": "הנחות בהזמנה"
         },
         "expand_order_summary_short": "פרטים נוספים",
-        "collapse_order_summary_short": "פחות פרטים"
+        "collapse_order_summary_short": "פחות פרטים",
+        "enter_shipping_address": "יש להזין כתובת למשלוח",
+        "shipping_default_value": "משלוח יחושב בשלב הבא",
+        "shipping_policy_link": "עלויות משלוח",
+        "free_shipping_total_label": "חינם"
       },
       "field_errors": {
         "payment_gateway_missing": "יש לבחור אמצעי תשלום.",
@@ -862,7 +875,8 @@
           "PaymentViolations": "כתובת לחיוב",
           "DeliveryViolations": "כתובת למשלוח"
         },
-        "shipping_address_incomplete_title": "כתובת למשלוח חסרה."
+        "shipping_address_incomplete_title": "כתובת למשלוח חסרה.",
+        "editable_shipping_address_violations_email_link": "צרי קשר"
       },
       "shipping": {
         "duties_and_taxes_options": {
@@ -885,8 +899,27 @@
         "address_form": {
           "add_address": "הוספת כתובת",
           "save": "שמירה",
-          "cancel": "ביטול"
-        }
+          "cancel": "ביטול",
+          "generic_error": "אירעה שגיאה בעת שמירת הכתובת למשלוח, יש לנסות שנית.",
+          "one_time_address_subtitle": "שימוש בכתובת חד פעמית"
+        },
+        "shipping_method_first_shipment_group_title": {
+          "one": "משלוח ראשון",
+          "other": "משלוחים ראשונים"
+        },
+        "other_method": {
+          "zero": "אין שיטות משלוח זמינות",
+          "one": "נמצאה שיטת משלוח זמינה",
+          "other": "נמצאו {{ count }} שיטות משלוח זמינות"
+        },
+        "subscription_delivery_description": {
+          "shipping_price_included": "מחיר המשלוח כלול"
+        },
+        "local_pickup": {
+          "search_address": "חיפוש כתובת",
+          "rollup_title": "מיקום החנות"
+        },
+        "missing_shipping_address": "חסרה כתובת למשלוח"
       },
       "order_payment_collection": {
         "pay_now": "לתשלום",
@@ -905,7 +938,8 @@
       "wallets": {
         "errors": {
           "invalid": {
-            "reduction_code": "יש להזין קוד קופון או גיפט קארד תקין."
+            "reduction_code": "יש להזין קוד קופון או גיפט קארד תקין.",
+            "shipping_address": "יש להזין כתובת משלוח תקינה"
           },
           "missing": {
             "first_name": "יש לציין שם פרטי",
@@ -914,11 +948,13 @@
             "city": "יש לציין עיר",
             "phone": "יש לציין מספר טלפון"
           }
-        }
+        },
+        "shipping_line_label": "משלוח"
       },
       "delivery_options": {
         "free_total_label": "חינם",
-        "shipping_address": "כתובת למשלוח"
+        "shipping_address": "כתובת למשלוח",
+        "none_method_definition": "אין משלוח פיזי"
       },
       "payment_errors": {
         "invalid_cvc": "יש לציין 3 ספרות בגב הכרטיס",
@@ -962,6 +998,12 @@
         "footer": {
           "body": "הפריטים אינם נשמרים עד שלא סיימת את ההזמנה שלך."
         }
+      },
+      "shipping_errors": {
+        "title": "משלוח לא זמין"
+      },
+      "no_address_location": {
+        "alt_header": "חסרה כתובת למשלוח"
       }
     },
     "errors": {
@@ -1002,7 +1044,10 @@
       "shipping": {
         "address": "כתובת למשלוח",
         "address_map_marker": "כתובת למשלוח",
-        "method": "שיטת משלוח"
+        "method": "שיטת משלוח",
+        "summary": "משלוח",
+        "free": "חינם",
+        "free_shipping_discount": "משלוח חינם"
       },
       "order_details_skeleton_accessibility_label": "התחברי לאיזור האישי כדי לראות את כל הפרטים.",
       "login_to_view_all_order_details": "התחברי לאיזור האישי כדי לראות את כל הפרטים.",
@@ -1148,7 +1193,8 @@
       "save_new_address_accessibility_label": "שמירת כתובת",
       "cancel_adding_address_accessibility_label": "ביטול עריכת כתובת",
       "cancel_deletion_button": "ביטול",
-      "cancel_deletion_button_accessibility_label": "ביטול מחיקת {{ address }}"
+      "cancel_deletion_button_accessibility_label": "ביטול מחיקת {{ address }}",
+      "loading_shipping_accessibility_message": "טוען כתובת למשלוח"
     },
     "navigation_and_structure": {
       "contact_link": "פרטי התקשרות",
