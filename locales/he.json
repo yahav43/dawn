@@ -965,7 +965,12 @@
       "add_payment_method": {
         "billing_address": {
           "default_checkbox": "שמור כברירת מחדל",
-          "title": "כתובת לחיוב"
+          "title": "כתובת לחיוב",
+          "add_billing_address_button": "הוספה",
+          "add_billing_address_button_accessibility_label": "הוספת כתובת חדשה לחיוב",
+          "choose_billing_address_from_list_button": "בחירה מתוך הרשימה",
+          "choose_billing_address_from_list_button_accessibility_label": "בחירה מתוך הרשימה",
+          "missing_billing_address_error_message": "יש לציין כתובת לחיוב"
         }
       },
       "card_fields": {
@@ -990,10 +995,14 @@
       }
     },
     "payment_method_brands": {
-      "visa": "Visa",
-      "mastercard": "Mastercard",
+      "visa": "ויזה",
+      "mastercard": "מאסטרקארד",
       "applepay": "Apple Pay",
-      "googlepay": "Google Pay"
+      "googlepay": "Google Pay",
+      "americanexpress": "אמריקן אקספרס",
+      "dinersclub": "דיינרס",
+      "shoppay": "Shop Pay",
+      "paypal": "Paypal"
     },
     "orders": {
       "order_list": {
@@ -1151,6 +1160,40 @@
         "tomorrow": "מחר ב {{ time }}"
       }
     },
-    "enable_javascript": "יש לאפשר Javascript בדפדפן."
+    "enable_javascript": "יש לאפשר Javascript בדפדפן.",
+    "shop_policies": {
+      "legal_notice": "משפטי",
+      "privacy_policy": "מדיניות הפרטיות",
+      "refund_policy": "מדיניות החזרות",
+      "shipping_policy": "מדיניות משלוחים",
+      "subscription_policy": "מדיניות ביטולים",
+      "terms_of_sale": "מדיניות המכירה",
+      "terms_of_service": "תנאי השימוש"
+    },
+    "ui_components": {
+      "month": {
+        "one": "חודש",
+        "other": "חודשים"
+      }
+    },
+    "profile_preview_bar": {
+      "customize_button": "התאמה אישית",
+      "actions_button": "פעולות"
+    },
+    "active_inspector": {
+      "extension": {
+        "remove_tooltip": "הסרה"
+      }
+    },
+    "settings": {
+      "title": "הגדרות",
+      "loading_accessibility_message": "טוען הגדרות",
+      "log_out_everywhere": {
+        "title": "יציאה מכל המכשירים המחוברים",
+        "description": "אם איבדת את המכשיר שלך או שיש לך חשש כלשהו לפריצת אבטחה כלשהי - התנתקי מכל המכשירים המחוברים, החליפי סיסמא, והכל יהיה בסדר.",
+        "button": "יציאה מכל המכשירים המחוברים",
+        "warning_message": "שימי לב - גם המכשיר הנוכחי שאת משתמשת בו כעת ינותק."
+      }
+    }
   }
 }
