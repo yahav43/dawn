@@ -726,7 +726,15 @@
         "cancelled_page_title": "ההזמנה בוטלה",
         "cancelled_title": "הזמנתך בוטלה",
         "cancelled_description": "הזמנתך בוטלה בתאריך {{ date }}. צרי איתנו קשר במידה ויש לך שאלה כלשהי.",
-        "shipping_method_title": "שיטת משלוח"
+        "shipping_method_title": "שיטת משלוח",
+        "confirmation_email_sent_text": "אישור הזמנה נשלח ברגעים אלו אל {{ email }}",
+        "confirmed": "מאושרת",
+        "thank_you_confirmed_order_with_email_payment": "שילמת על ההזמנה שלך בתאריך {{ date }}",
+        "thank_you_confirmed_order_with_missing": "אנא צרי איתנו קשר במייל לקבלת אישור הזמנה.",
+        "thank_you_confirmed_order_with_missing_payment": "אנא צרי איתנו קשר במייל לקבלת אישור הזמנה.",
+        "thank_you_payments_app_pending_payment_description_default_with_missing": "אנא צרי איתנו קשר במייל לקבלת אישור הזמנה.",
+        "thank_you_payments_app_pending_payment_description_default_with_missing_payment": "אנא צרי איתנו קשר במייל לקבלת אישור הזמנה.",
+        "thank_you_payments_app_pending_payment_description_default_with_missing_pick_up": "אנא צרי איתנו קשר במייל לקבלת אישור הזמנה."
       },
       "review": {
         "blocks": {
@@ -748,7 +756,8 @@
         "pay_now_button_label": "לתשלום",
         "all_rights_reserved": "כל הזכויות שמורות. {{ shop_name }}",
         "error_page_title": "שגיאה",
-        "choose_shipping_method": "בחרי שיטת משלוח"
+        "choose_shipping_method": "בחרי שיטת משלוח",
+        "confirm_order_button_label": "אישור הזמנה"
       },
       "order_summary": {
         "payment_due_label": "תשלום עד",
@@ -910,6 +919,10 @@
       },
       "local_pickup": {
         "cancel": "ביטול"
+      },
+      "post_purchase": {
+        "escape_confirmation": "שילמת על ההזמנה שלך",
+        "escape_action": "הצגת אישור הזמנה >"
       }
     },
     "errors": {
