@@ -89,7 +89,7 @@
         "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
         "secondary_background": false,
         "media_size": "small",
-        "constrain_to_viewport": true,
+        "constrain_to_viewport": false,
         "media_fit": "contain",
         "media_position": "left",
         "image_zoom": "lightbox",
