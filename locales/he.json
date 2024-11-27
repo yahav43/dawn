@@ -10,21 +10,21 @@
 {
   "accessibility": {
     "skip_to_text": "דילוג לתוכן",
-    "skip_to_product_info": "",
-    "close": "",
-    "unit_price_separator": "",
-    "vendor": "",
+    "skip_to_product_info": "דילוג לתוכן",
+    "close": "סגירה",
+    "unit_price_separator": "פר",
+    "vendor": "מותג:",
     "error": "שגיאה",
     "refresh_page": "",
     "link_messages": {
-      "new_window": "",
-      "external": ""
+      "new_window": "נפתח בחלון חדש",
+      "external": "נפתח באתר נפרד"
     },
-    "loading": "",
-    "total_reviews": "",
+    "loading": "טוען...",
+    "total_reviews": "סך הכל חוות דעת",
     "star_reviews_info": "",
-    "collapsible_content_title": "",
-    "complementary_products": ""
+    "collapsible_content_title": "תוכן אקורדיון",
+    "complementary_products": "מוצרים משלימים"
   },
   "sections": {
     "announcements": {
@@ -36,10 +36,10 @@
     },
     "header": {
       "announcement": "",
-      "menu": "",
+      "menu": "תפריט",
       "cart_count": {
-        "one": "",
-        "other": ""
+        "one": "מוצר אחד",
+        "other": "{{ count }} מוצרים"
       }
     },
     "cart": {
@@ -79,42 +79,42 @@
     },
     "featured_blog": {
       "view_all": "מאמרים נוספים",
-      "onboarding_title": "",
+      "onboarding_title": "כתבת תוכן",
       "onboarding_content": ""
     },
     "featured_collection": {
-      "view_all": "",
+      "view_all": "הצגת הכל",
       "view_all_label": ""
     },
     "collection_list": {
-      "view_all": ""
+      "view_all": "הצגת הכל"
     },
     "collection_template": {
-      "empty": "",
-      "title": "",
+      "empty": "לא נמצאו מוצרים",
+      "title": "קולקציה",
       "use_fewer_filters_html": ""
     },
     "video": {
-      "load_video": ""
+      "load_video": "טעינת סרטון: {{ description }}"
     },
     "slideshow": {
-      "load_slide": "",
-      "previous_slideshow": "",
-      "next_slideshow": "",
-      "pause_slideshow": "",
-      "play_slideshow": "",
-      "carousel": "",
-      "slide": ""
+      "load_slide": "טעינת שקופית",
+      "previous_slideshow": "שקופית הקודמת",
+      "next_slideshow": "שקופית הבאה",
+      "pause_slideshow": "עצירה",
+      "play_slideshow": "נגינה",
+      "carousel": "קרוסלה",
+      "slide": "שקופית"
     },
     "page": {
-      "title": ""
+      "title": "כותרת העמוד"
     },
     "quick_order_list": {
-      "product_total": "",
-      "view_cart": "",
+      "product_total": "סיכום ביניים",
+      "view_cart": "הצגת סל קניות",
       "each": "",
-      "product": "",
-      "variant": "",
+      "product": "מוצר",
+      "variant": "סוג",
       "variant_total": "",
       "items_added": {
         "one": "",
@@ -188,13 +188,13 @@
     "continue_shopping": "לאתר",
     "pagination": {
       "label": "",
-      "page": "",
-      "next": "",
-      "previous": ""
+      "page": "עמוד מספר {{ number }}",
+      "next": "דף הבא",
+      "previous": "דף הקודם"
     },
     "search": {
-      "search": "",
-      "reset": ""
+      "search": "חיפוש",
+      "reset": "איפוס"
     },
     "cart": {
       "view": "סל הקניות ({{ count }})",
@@ -208,10 +208,10 @@
       "success_message": ""
     },
     "slider": {
-      "of": "",
-      "next_slide": "",
-      "previous_slide": "",
-      "name": ""
+      "of": "מתוך",
+      "next_slide": "החלקה ימינה",
+      "previous_slide": "החלקה שמאלה",
+      "name": "סליידר"
     }
   },
   "newsletter": {
@@ -221,7 +221,7 @@
   },
   "blogs": {
     "article": {
-      "blog": "",
+      "blog": "בלוג",
       "read_more_title": "למאמר המלא",
       "comments": {
         "one": "תגובה אחת",
@@ -240,14 +240,14 @@
     }
   },
   "onboarding": {
-    "product_title": "",
-    "collection_title": ""
+    "product_title": "שם מוצר לדוגמא",
+    "collection_title": "שם הקולקציה שלך"
   },
   "products": {
     "product": {
       "payment_button": "קני עכשיו",
       "add_to_cart": "הוספה לסל",
-      "choose_options": "",
+      "choose_options": "בחירת אופציות",
       "choose_product_options": "",
       "description": "תיאור",
       "discount": "הנחה",
@@ -310,7 +310,7 @@
       "unavailable": "לא זמין למכירה",
       "vendor": "",
       "value_unavailable": "",
-      "variant_sold_out_or_unavailable": "",
+      "variant_sold_out_or_unavailable": "אזל המלאי או לא זמין לרכישה",
       "video_exit_message": "",
       "view_full_details": "לפרטים נוספים",
       "xr_button": "",
@@ -358,8 +358,8 @@
   "templates": {
     "search": {
       "no_results": "",
-      "page": "",
-      "products": "",
+      "page": "עמוד",
+      "products": "מוצרים",
       "results_pages_with_count": {
         "one": "",
         "other": ""
@@ -380,13 +380,13 @@
         "one": "",
         "other": ""
       },
-      "title": "",
-      "search_for": "",
-      "suggestions": "",
-      "pages": ""
+      "title": "תוצאות חיפוש",
+      "search_for": "תוצאות עבור \"{{ terms}}\"",
+      "suggestions": "הצעות",
+      "pages": "דפים"
     },
     "cart": {
-      "cart": ""
+      "cart": "סל קניות"
     },
     "contact": {
       "form": {
