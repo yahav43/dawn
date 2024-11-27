@@ -961,7 +961,8 @@
         "method": "שיטת משלוח"
       },
       "order_details_skeleton_accessibility_label": "התחברי לאיזור האישי כדי לראות את כל הפרטים.",
-      "login_to_view_all_order_details": "התחברי לאיזור האישי כדי לראות את כל הפרטים."
+      "login_to_view_all_order_details": "התחברי לאיזור האישי כדי לראות את כל הפרטים.",
+      "subtitle": "ההזמנה אושרה בתאריך {{ date }}"
     },
     "payment_methods": {
       "add_payment_method": {
