@@ -390,7 +390,7 @@
     },
     "contact": {
       "form": {
-        "title": "",
+        "title": "טופס יצירת קשר",
         "name": "שם",
         "email": "מייל",
         "phone": "מספר טלפון",
@@ -488,9 +488,9 @@
       "total": "סך הכל",
       "total_refunded": "בוצע זיכוי",
       "fulfilled_at_html": "נארז בתאריך {{ date }}",
-      "track_shipment": "",
-      "tracking_url": "",
-      "tracking_company": "",
+      "track_shipment": "מעקב משלוח",
+      "tracking_url": "לינק למעקב משלוח",
+      "tracking_company": "חברת משלוח",
       "tracking_number": "מספר מעקב",
       "subtotal": "סיכום ביניים",
       "total_duties": "מסים",
