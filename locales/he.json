@@ -694,7 +694,8 @@
         "page_title": "אירעה שגיאה. התשלום לא עבר.",
         "title": "אירעה שגיאה. התשלום לא עבר.",
         "payment_not_processed_title": "התשלום שלך נכשל.",
-        "return_to_cart_button_label": "חזרה לסל הקניות"
+        "return_to_cart_button_label": "חזרה לסל הקניות",
+        "payment_not_processed_text": "לא בוצע חיוב - חזרי לסל הקניות והתקדמי מחדש."
       },
       "payment_gateway": {
         "credit_card_label": "כרטיס אשראי"
@@ -734,7 +735,8 @@
         "thank_you_confirmed_order_with_missing_payment": "אנא צרי איתנו קשר במייל לקבלת אישור הזמנה.",
         "thank_you_payments_app_pending_payment_description_default_with_missing": "אנא צרי איתנו קשר במייל לקבלת אישור הזמנה.",
         "thank_you_payments_app_pending_payment_description_default_with_missing_payment": "אנא צרי איתנו קשר במייל לקבלת אישור הזמנה.",
-        "thank_you_payments_app_pending_payment_description_default_with_missing_pick_up": "אנא צרי איתנו קשר במייל לקבלת אישור הזמנה."
+        "thank_you_payments_app_pending_payment_description_default_with_missing_pick_up": "אנא צרי איתנו קשר במייל לקבלת אישור הזמנה.",
+        "non_shippable_title": "ההזמנה שלך הושלמה."
       },
       "review": {
         "blocks": {
@@ -757,7 +759,20 @@
         "all_rights_reserved": "כל הזכויות שמורות. {{ shop_name }}",
         "error_page_title": "שגיאה",
         "choose_shipping_method": "בחרי שיטת משלוח",
-        "confirm_order_button_label": "אישור הזמנה"
+        "confirm_order_button_label": "אישור הזמנה",
+        "complete_purchase_button_label": "הזמנה הושלמה",
+        "autocomplete_title": "הצעות",
+        "autocomplete_single_item": "פריט אחד זמין",
+        "autocomplete_multi_item": "{{ number }} פריטים זמינים",
+        "autocomplete_close": "סגירת הצעות",
+        "errors": {
+          "captcha": {
+            "token_missing": "יש לאמת שאת אנושית באמת כדי להתקדם.",
+            "token_expired": "פג התוקף - יש לבצע שוב.",
+            "token_invalid": "טעית - את בוט? נסי שוב."
+          }
+        },
+        "autocomplete_zero_item": "אין פריטים זמינים"
       },
       "order_summary": {
         "payment_due_label": "תשלום עד",
@@ -831,7 +846,8 @@
         "individual_violations_title": {
           "PaymentViolations": "כתובת לחיוב",
           "DeliveryViolations": "כתובת למשלוח"
-        }
+        },
+        "shipping_address_incomplete_title": "כתובת למשלוח חסרה."
       },
       "shipping": {
         "duties_and_taxes_options": {
@@ -905,7 +921,9 @@
       "processing": {
         "wait": {
           "short": "טוען..."
-        }
+        },
+        "complete_your_purchase_title": "השלמת ההזמנה",
+        "complete_your_purchase_title_error": "יש לתקן את פרטי התשלום"
       },
       "payment_summary": {
         "billing_address_title": "כתובת לחיוב"
@@ -923,6 +941,11 @@
       "post_purchase": {
         "escape_confirmation": "שילמת על ההזמנה שלך",
         "escape_action": "הצגת אישור הזמנה >"
+      },
+      "throttle": {
+        "footer": {
+          "body": "הפריטים אינם נשמרים עד שלא סיימת את ההזמנה שלך."
+        }
       }
     },
     "errors": {
@@ -932,6 +955,11 @@
     "notices": {
       "customer": {
         "no_account_found": "לא מצאנו משתמש עם המייל שהזנת"
+      },
+      "order": {
+        "fulfillment_status": {
+          "complete": "טופל"
+        }
       }
     },
     "page_titles": {
@@ -1046,7 +1074,12 @@
         "canceled_label": "בוטלה",
         "canceled_title": "הזמנתך בוטלה",
         "confirmed_description": "קיבלנו את ההזמנה שלך.",
-        "confirmed_label": "מאושרת"
+        "confirmed_label": "מאושרת",
+        "complete_label": "טופל",
+        "delivered_description_digital": {
+          "one": "המוצר טופל",
+          "other": "המוצרים האלו טופלו"
+        }
       },
       "list_title": "הזמנות",
       "list_title_with_pending_orders": "הזמנות:",
@@ -1122,7 +1155,9 @@
       "section_title_accessibility_label": "הוספת כתובת",
       "save": "שמירה",
       "save_accessibility_label": "שמירה כתובת {{address}}",
-      "cancel": "ביטול"
+      "cancel": "ביטול",
+      "auto_complete_close_accessibility_label": "סגירת הצעות",
+      "auto_complete_title": "הצעות"
     },
     "account_information": {
       "profile_card": {
