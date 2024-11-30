@@ -24,7 +24,7 @@ product-info {
     display: block;
     position: sticky;
     top: 7rem;
-    z-index: 2;
+    z-index: 1;
   }
 
   .product--thumbnail .thumbnail-list {
