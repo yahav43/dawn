@@ -297,13 +297,6 @@
             "text_style": "subtitle"
           }
         },
-        "text_kAic7T": {
-          "type": "text",
-          "settings": {
-            "text": "עד גמר המלאי.",
-            "text_style": "subtitle"
-          }
-        },
         "price_wQ7bUx": {
           "type": "price",
           "settings": {}
@@ -326,7 +319,6 @@
       "block_order": [
         "text_7VBYyQ",
         "text_8Jqmbw",
-        "text_kAic7T",
         "price_wQ7bUx",
         "variant_picker_wVPpyA",
         "buy_buttons_G8rbRP"
@@ -649,7 +641,7 @@
         "text_NhMfcx": {
           "type": "text",
           "settings": {
-            "text": "<strong>הזדמנות של פעם בחיים – הצטרפו עכשיו וקחו צעד ראשון לקראת השינוי.</strong>",
+            "text": "<strong>הזדמנות של פעם בחיים – הצטרפי עכשיו וקחי צעד ראשון לקראת השינוי.</strong>",
             "text_style": "subtitle"
           }
         }
