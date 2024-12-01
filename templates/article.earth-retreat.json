@@ -64,25 +64,10 @@
           "settings": {
             "heading_size": "h1"
           }
-        },
-        "price_pkGT8t": {
-          "type": "price",
-          "settings": {
-            "show_badges": true
-          }
-        },
-        "buy_buttons_yipRAi": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": false
-          }
         }
       },
       "block_order": [
-        "title_kFeAT6",
-        "price_pkGT8t",
-        "buy_buttons_yipRAi"
+        "title_kFeAT6"
       ],
       "settings": {
         "product": "{{ article.metafields.custom.blog_article_featured_product.value }}",
