@@ -326,10 +326,6 @@
       role="main"
       tabindex="-1"
     >
-      {% unless template.suffix == 'index' or template.suffix == 'landing' %}
-        {% render 'breadcrumbs' %}
-      {% endunless %}
-
       {{ content_for_layout }}
     </main>
 
