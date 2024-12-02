@@ -102,20 +102,6 @@
         "padding_bottom": 12
       }
     },
-    "component_countdown_VNBaXX": {
-      "type": "component-countdown",
-      "settings": {
-        "show_days": false,
-        "countdown_date": "Tue Dec 3 2024 23:59:59 GMT+0300 (שעון ישראל (קיץ))",
-        "countdown_url": "shopify://products/reflectionship",
-        "left_text": true,
-        "left_copy": "<p>מחיר הספר יעלה בעוד</p>",
-        "right_text_direction": "ltr",
-        "left_text_direction": "ltr",
-        "right_text": false,
-        "right_copy": ""
-      }
-    },
     "rich_text_9fKHgT": {
       "type": "rich-text",
       "blocks": {
@@ -183,6 +169,7 @@
         "buy_buttons_QzzfXG",
         "icon_with_text_UWNrE9"
       ],
+      "disabled": true,
       "settings": {
         "product": "{{ product }}",
         "color_scheme": "scheme-5",
@@ -286,15 +273,8 @@
         "text_7VBYyQ": {
           "type": "text",
           "settings": {
-            "text": "<strong>שינוי, או קפה ומאפה?</strong>",
+            "text": "<strong>שינוי או פיצה? </strong>🍕",
             "text_style": "body"
-          }
-        },
-        "text_8Jqmbw": {
-          "type": "text",
-          "settings": {
-            "text": "הזדמנות חד-פעמית לרכוש את הספר במחיר מצחיק של 19.90 ₪ בלבד.",
-            "text_style": "subtitle"
           }
         },
         "price_wQ7bUx": {
@@ -318,7 +298,6 @@
       },
       "block_order": [
         "text_7VBYyQ",
-        "text_8Jqmbw",
         "price_wQ7bUx",
         "variant_picker_wVPpyA",
         "buy_buttons_G8rbRP"
@@ -604,13 +583,6 @@
     "secondary_product_GxN9ta": {
       "type": "secondary-product",
       "blocks": {
-        "text_7Tcr6j": {
-          "type": "text",
-          "settings": {
-            "text": "<strong>הספר במחיר חסר תקדים של 19.90 ₪ בלבד במקום 79 ₪!</strong>",
-            "text_style": "body"
-          }
-        },
         "text_TbDw7m": {
           "type": "text",
           "settings": {
@@ -647,7 +619,6 @@
         }
       },
       "block_order": [
-        "text_7Tcr6j",
         "text_TbDw7m",
         "title_VKhwxa",
         "variant_picker_c8iEUf",
@@ -668,7 +639,6 @@
   },
   "order": [
     "main",
-    "component_countdown_VNBaXX",
     "rich_text_9fKHgT",
     "secondary_product_EtVzUj",
     "multicolumn_bCxNaU",
