@@ -15,7 +15,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>BLUE FRIDAY</strong>",
+            "heading": "<strong>The Center Of The Circle</strong>",
             "heading_size": "h1",
             "title_direction": "rtl"
           }
@@ -23,7 +23,7 @@
         "richtext_xWUt6q": {
           "type": "richtext",
           "settings": {
-            "higher_heading": "<strong>עד 80% הנחה על כל האתר</strong>",
+            "higher_heading": "מרחב להיזכרות וחזרה הביתה, אלייך, אל עצמך, אל מרכז המעגל. 🪷",
             "higher_heading_size": "h1",
             "higher_title_direction": "rtl"
           }
@@ -31,7 +31,7 @@
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "SHOP NOW",
+            "button_label_1": "למידע נוסף",
             "button_weight_1": "bold",
             "button_link_1": "shopify://products/stress-less",
             "button_style_secondary_1": false,

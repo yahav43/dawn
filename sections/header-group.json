@@ -37,13 +37,6 @@
     "announcement_bar_Wc3pW4": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement_6gWrKC": {
-          "type": "announcement",
-          "settings": {
-            "text": "BLUE FRIDAY - עד 80% הנחה",
-            "link": ""
-          }
-        },
         "announcement_hanYbi": {
           "type": "announcement",
           "settings": {
@@ -60,7 +53,6 @@
         }
       },
       "block_order": [
-        "announcement_6gWrKC",
         "announcement_hanYbi",
         "announcement_jcBVHc"
       ],
