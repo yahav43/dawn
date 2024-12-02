@@ -611,6 +611,10 @@
             "swatch_shape": "circle"
           }
         },
+        "price_NAHEE8": {
+          "type": "price",
+          "settings": {}
+        },
         "buy_buttons_rrqHNe": {
           "type": "buy_buttons",
           "settings": {
@@ -630,6 +634,7 @@
         "text_TbDw7m",
         "title_VKhwxa",
         "variant_picker_c8iEUf",
+        "price_NAHEE8",
         "buy_buttons_rrqHNe",
         "text_NhMfcx"
       ],
