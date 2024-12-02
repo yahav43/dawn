@@ -231,6 +231,7 @@
         "richtext_83WUBz",
         "buttons_KJxcFU"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/IMG_2362.jpg",
         "image_overlay_opacity": 40,
