@@ -349,7 +349,7 @@
           "type": "text",
           "settings": {
             "text": "הגיע הזמן להפסיק לדחות את עצמך. זה לא אגואיסטי - זה הכרחי.",
-            "text_style": "subtitle"
+            "text_style": "body"
           }
         }
       },
