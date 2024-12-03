@@ -110,6 +110,20 @@
         "padding_bottom": 12
       }
     },
+    "component_countdown_3NgY7F": {
+      "type": "component-countdown",
+      "settings": {
+        "show_days": false,
+        "countdown_date": "Sat Mar 03 2025 12:00:00 GMT+0300 (שעון ישראל (קיץ))",
+        "countdown_url": "/",
+        "left_text": true,
+        "left_copy": "<p>המחיר עולה עוד</p>",
+        "right_text_direction": "ltr",
+        "left_text_direction": "ltr",
+        "right_text": false,
+        "right_copy": ""
+      }
+    },
     "rich_text_9fKHgT": {
       "type": "rich-text",
       "blocks": {
@@ -281,7 +295,7 @@
         "text_7VBYyQ": {
           "type": "text",
           "settings": {
-            "text": "<strong>שינוי או פיצה? </strong>🍕",
+            "text": "<strong>שינוי או קפה ומאפה? </strong>☕🥐",
             "text_style": "body"
           }
         },
@@ -652,6 +666,7 @@
   },
   "order": [
     "main",
+    "component_countdown_3NgY7F",
     "rich_text_9fKHgT",
     "secondary_product_EtVzUj",
     "multicolumn_bCxNaU",
