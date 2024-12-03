@@ -12,10 +12,10 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "text_nXqLWm": {
+        "text_ib4M4n": {
           "type": "text",
           "settings": {
-            "text": "<p>גרסא דיגיטלית ששומרת על איכות הסביבה 🌏</p>",
+            "text": "<p>גרסא מעודכנת ומחודשת לשנת 2025!</p>",
             "text_style": "body"
           }
         },
@@ -31,21 +31,6 @@
           "settings": {
             "text": "<h3>Reflectionship - הספר שיעזור לך לגלות את עצמך, לשחרר את מה שמעכב אותך ולהוביל שינוי אמיתי במערכות היחסים ובחיים האישיים.</h3>",
             "text_style": "body"
-          }
-        },
-        "text_zrpB6e": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>בעקבות המצב - אנחנו מחלקות 300 עותקים דיגיטליים מהספר במחיר בדיחה!</h2>",
-            "text_style": "body"
-          }
-        },
-        "inventory_gdehpW": {
-          "type": "inventory",
-          "settings": {
-            "text_style": "body",
-            "inventory_threshold": 100,
-            "show_inventory_quantity": true
           }
         },
         "price_bRUV8E": {
@@ -82,11 +67,9 @@
         }
       },
       "block_order": [
-        "text_nXqLWm",
+        "text_ib4M4n",
         "text_Tt8jTn",
         "text_cPKahw",
-        "text_zrpB6e",
-        "inventory_gdehpW",
         "price_bRUV8E",
         "variant_picker_qRKHQy",
         "buy_buttons_DhFQ8E",
@@ -130,7 +113,7 @@
         "text_BqLwTk": {
           "type": "text",
           "settings": {
-            "text": "<p><em>\"לקח לי מעל 15 שנים, יותר מ 50 ספרים, ויותר מ 1,000 מטופלים להבין איך להשתחרר מהשרשראות שמנהלות את חיינו.</em></p><p><em>כעת, כל התובנות מרוכזות עבורכם בספר אחד קצר ומעשי - </em><em><strong>74 עמודים בלבד</strong></em><em> שילווה אתכם שלב אחר שלב במסע הפנימי שלכם.\"</em></p><p>יעל מימון, מחברת הספר, פסיכותרפיסטית בכירה ויועצת צמיחה רגשית.</p>"
+            "text": "<p><em>\"לקח לי מעל 15 שנים, יותר מ 50 ספרים, ויותר מ 1,000 מטופלים להבין איך להשתחרר מהשרשראות שמנהלות את חיינו.</em></p><p><em>כעת, כל התובנות מרוכזות עבורכם בספר אחד קצר ומעשי - 157</em><em><strong> עמודים </strong></em><em> שילווה אתכם שלב אחר שלב במסע הפנימי שלכם.\"</em></p><p>יעל מימון (סאדו׳י), מחברת הספר, פסיכותרפיסטית בכירה ויועצת צמיחה רגשית.</p>"
           }
         }
       },
@@ -191,7 +174,6 @@
         "buy_buttons_QzzfXG",
         "icon_with_text_UWNrE9"
       ],
-      "disabled": true,
       "settings": {
         "product": "{{ product }}",
         "color_scheme": "scheme-5",
@@ -240,7 +222,7 @@
         "column_a34njW"
       ],
       "settings": {
-        "title": "<strong>הנה מה שלקוחות מספרות/ים</strong>",
+        "title": "<strong>הנה מה שלקוחות מספרות</strong>",
         "title_direction": "rtl",
         "title_alignment": "center",
         "heading_size": "h1",
