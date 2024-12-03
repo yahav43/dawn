@@ -245,6 +245,14 @@
   },
   "products": {
     "product": {
+      "back_in_stock": {
+        "notify_me": "תודיעו לי כשהפריט חוזר למלאי",
+        "email_label": "אימייל",
+        "button_label": "תודיעו לי כשהפריט חוזר למלאי",
+        "subscription_success_label": "רשמנו אותך! נעדכן אותך ברגע שהמלאי עולה.",
+        "newsletter_subscribe_label": "תרשמו אותי לדיוור.",
+        "footer_content": "ניתן להסיר בכל רגע"
+      },
       "payment_button": "קני עכשיו",
       "add_to_cart": "הוספה לסל",
       "choose_options": "בחירת אופציות",
