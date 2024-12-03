@@ -280,7 +280,7 @@
             "image": "shopify://shop_images/0dd974325d018867fc622eddbc6c4eb2.webp",
             "caption": "בונוס 1",
             "heading": "<strong>מדיטציה מודרכת</strong> - ״שאבאסאנה - תנוחת המת״",
-            "text": "<p>מדיטציה מודרכת לשחרור מוחלט של הגוף - במתנה כחלק <strong>מהספר הדיגיטלי.</strong></p>",
+            "text": "<p>19 דקות של מדיטציה מודרכת יחידה במינה, לשחרור מוחלט של הגוף - במתנה כחלק <strong>מהספר הדיגיטלי.</strong></p>",
             "button_label": "",
             "button_link": ""
           }
@@ -308,7 +308,7 @@
         "text_style": "body",
         "button_style": "secondary",
         "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
+        "desktop_content_alignment": "center",
         "image_layout": "alternate-left",
         "section_color_scheme": "scheme-1",
         "row_color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
