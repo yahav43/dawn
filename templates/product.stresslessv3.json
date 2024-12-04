@@ -884,11 +884,30 @@
             "color_scheme": "scheme-4",
             "text_alignment_mobile": "center"
           }
+        },
+        "slide_hTrnck": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/stone-tower-4519290_1920.jpg",
+            "heading": "הגיע הזמן לשים אותך",
+            "heading_size": "h1",
+            "subheading": "במרכז המעגל",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 50,
+            "color_scheme": "scheme-4",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
         "slide_QTTfKw",
-        "slide_BqwBcV"
+        "slide_BqwBcV",
+        "slide_hTrnck"
       ],
       "settings": {
         "layout": "full_bleed",
