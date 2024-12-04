@@ -499,7 +499,7 @@
             "search": "",
             "linkify": true,
             "use_metafields": false,
-            "sku_tagtype": "sku"
+            "sku_tagtype": "handle"
           }
         }
       },
