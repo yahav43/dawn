@@ -653,14 +653,7 @@
         "heading_W7Jzkp": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>לאור המצב - החלטנו לעשות משהו מטורף</strong>",
-            "heading_size": "h2"
-          }
-        },
-        "heading_xFhpJy": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>לאור המצב אנחנו נותנות את הסדנה במחיר בדיחה.</strong>",
+            "heading": "<strong>לאור המצב - החלטנו לעשות משהו מטורף - לתת את הסדנה,</strong>",
             "heading_size": "h2"
           }
         },
@@ -676,7 +669,6 @@
         "text_QKDzKh",
         "text_qeFLj4",
         "heading_W7Jzkp",
-        "heading_xFhpJy",
         "text_3jVgBe"
       ],
       "settings": {
