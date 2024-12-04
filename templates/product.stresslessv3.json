@@ -696,7 +696,7 @@
         "@media (min-width: 990px) {strong {font-size: 8rem; }}"
       ],
       "settings": {
-        "custom_liquid": "<div class=\"rich-text__blocks center\">\n<h2 class=\"rich-text__heading rte inline-richtext h1 scroll-trigger animate--slide-in price--on-sale\" data-cascade=\"\" style=\"--animation-order: 0;\">\n                <strong class=\"price-item price-item--sale price-item--last\">{{ product.price | money_without_trailing_zeros }} בלבד</strong>\n              </h2>\n<p>או בשלושה תשלומים קטנים של {{ product.price | divided_by: 3 | money_without_trailing_zeros }}₪ ללא ריבית.</p>\n</div>",
+        "custom_liquid": "<div class=\"rich-text__blocks center\">\n<h2 class=\"rich-text__heading rte inline-richtext h1 scroll-trigger animate--slide-in price--on-sale\" data-cascade=\"\" style=\"--animation-order: 0;\">\n                <strong class=\"price-item price-item--sale price-item--last\">{{ product.price | money_without_trailing_zeros }}₪ בלבד</strong>\n              </h2>\n<p>או בשלושה תשלומים קטנים של {{ product.price | divided_by: 3 | money_without_trailing_zeros }}₪ ללא ריבית.</p>\n</div>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 24
