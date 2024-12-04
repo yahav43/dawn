@@ -358,7 +358,7 @@
         "text_M8raUh": {
           "type": "text",
           "settings": {
-            "text": "<p>8 סרטונים, 4 שעות.</p><p>כל מה שצריך לדעת על סטרס.</p><p>25 שנה של ידע וניסיון מעשי ארוזים בשבילך ב 4 שעות מעשיות וברורות.</p><p>משלמים רק על הספר.</p>",
+            "text": "<p>8 סרטונים, 4 שעות.<br/>כל מה שצריך לדעת על סטרס.<br/>25 שנה של ידע וניסיון מעשי ארוזים בשבילך ב 4 שעות מעשיות וברורות.</p>",
             "text_style": "body"
           }
         }
@@ -368,7 +368,8 @@
         "text_M8raUh"
       ],
       "settings": {
-        "height": "adapt",
+        "image": "shopify://shop_images/1_73ec957f-4c6f-48b2-93ba-4a2944c734d6.jpg",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
