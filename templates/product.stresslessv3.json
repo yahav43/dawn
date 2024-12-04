@@ -681,34 +681,10 @@
         "@media (min-width: 990px) {strong {font-size: 8rem; }}"
       ],
       "settings": {
-        "custom_liquid": "<div class=\"rich-text__blocks center\">\n<h2 class=\"rich-text__heading rte inline-richtext h1 scroll-trigger animate--slide-in price--on-sale\" data-cascade=\"\" style=\"--animation-order: 0;\">\n                <strong class=\"price-item price-item--sale price-item--last\">{{ product.price | money_with_currency }} בלבד</strong>\n              </h2>\n</div>",
+        "custom_liquid": "<div class=\"rich-text__blocks center\">\n<h2 class=\"rich-text__heading rte inline-richtext h1 scroll-trigger animate--slide-in price--on-sale\" data-cascade=\"\" style=\"--animation-order: 0;\">\n                <strong class=\"price-item price-item--sale price-item--last\">{{ product.price | money_with_currency }} בלבד</strong>\n              </h2>\n<p>או בשלושה תשלומים קטנים של ₪99 ללא ריבית.</p>\n</div>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 24
-      }
-    },
-    "rich_text_UDJK8Q": {
-      "type": "rich-text",
-      "blocks": {
-        "caption_Kb4n3f": {
-          "type": "caption",
-          "settings": {
-            "caption": "או בשלושה תשלומים קטנים של ₪99 ללא ריבית.",
-            "text_style": "subtitle",
-            "text_size": "small"
-          }
-        }
-      },
-      "block_order": [
-        "caption_Kb4n3f"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 40
       }
     },
     "component_countdown_4VUEn6": {
@@ -922,7 +898,6 @@
     "custom_liquid_34dL9n",
     "rich_text_w4jBFj",
     "custom_liquid_KkHaUK",
-    "rich_text_UDJK8Q",
     "component_countdown_4VUEn6",
     "main_product_G9DUDg",
     "collapsible_content_BhkJmX"
