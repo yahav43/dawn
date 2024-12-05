@@ -13,7 +13,6 @@
   "sections": {
     "header": {
       "type": "header",
-      "disabled": true,
       "settings": {
         "show_whatsapp": true,
         "whatsapp_open_message": "היי, יש לי שאלה לגבי מרכז המעגל.",
@@ -57,7 +56,6 @@
         "announcement_hanYbi",
         "announcement_jcBVHc"
       ],
-      "disabled": true,
       "settings": {
         "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
         "show_line_separator": true,
