@@ -22,6 +22,9 @@
       "block_order": [
         "klaviyo_email_marketing_sms_form_embed_block_688yRc"
       ],
+      "custom_css": [
+        "@media screen and (min-width: 750px) {input, button {max-width: 50rem; width: 50rem; margin: auto; }}"
+      ],
       "settings": {
         "include_margins": false
       }
