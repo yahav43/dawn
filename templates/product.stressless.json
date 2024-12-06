@@ -59,6 +59,12 @@
             "image_4": "shopify://shop_images/pos-swipe-icon.svg",
             "heading_4": "חלוקה לתשלומים"
           }
+        },
+        "share_gjHgb7": {
+          "type": "share",
+          "settings": {
+            "share_label": "לשתף חברה שצריכה את זה"
+          }
         }
       },
       "block_order": [
@@ -67,7 +73,8 @@
         "description_zcBYUf",
         "price_4mY4Gy",
         "buy_buttons_QUjnFk",
-        "icon_with_text_qaccqp"
+        "icon_with_text_qaccqp",
+        "share_gjHgb7"
       ],
       "custom_css": [
         ".description-price p {display: inline-block;}"
