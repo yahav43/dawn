@@ -69,6 +69,9 @@
         "buy_buttons_QUjnFk",
         "icon_with_text_qaccqp"
       ],
+      "custom_css": [
+        ".description-price p {display: inline-block;}"
+      ],
       "settings": {
         "show_tax_notice": false,
         "enable_sticky_info": true,
