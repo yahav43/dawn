@@ -495,56 +495,6 @@
         "padding_bottom": 80
       }
     },
-    "image_banner_9tAYhF": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_qqTD9G": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>StressLess</strong>",
-            "heading_size": "h0",
-            "title_direction": "rtl"
-          }
-        },
-        "text_Nthnjg": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>להפסיק להילחץ ולהחסיר נשימה כל פעם שמישהו אגרסיבי מנסה לדרוך עלייך.</strong></p>",
-            "text_style": "body"
-          }
-        },
-        "buttons_VM3Y4f": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "אני מוכנה",
-            "button_weight_1": "bold",
-            "button_link_1": "#shopify-section-template--17988515725491__1733374378b13a1e4a",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_qqTD9G",
-        "text_Nthnjg",
-        "buttons_VM3Y4f"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/ProductImage3.jpg",
-        "image_overlay_opacity": 50,
-        "image_height": "large",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-4",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
     "component_countdown_4VUEn6": {
       "type": "component-countdown",
       "settings": {
@@ -713,6 +663,7 @@
         "slide_BqwBcV",
         "slide_hTrnck"
       ],
+      "disabled": true,
       "settings": {
         "layout": "full_bleed",
         "slide_height": "medium",
@@ -740,7 +691,6 @@
     "rich_text_x8bVDk",
     "17211428891945090f",
     "multicolumn_BxneJ4",
-    "image_banner_9tAYhF",
     "component_countdown_4VUEn6",
     "collapsible_content_BhkJmX",
     "slideshow_PRHeb4"
