@@ -22,8 +22,56 @@
       "block_order": [
         "klaviyo_email_marketing_sms_form_embed_block_diQrED"
       ],
+      "custom_css": [
+        "@media screen and (min-width: 750px) {input, button {max-width: 50rem; width: 50rem; margin: auto; }}"
+      ],
       "settings": {
         "include_margins": false
+      }
+    },
+    "rich_text_DRGerC": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_gUXCwa": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>פעם גם אני הייתי שם</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_kVNyxm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>הייתי שם. הייתי חיה בתחושה מתמדת שאני חייבת לרַצות את כולם – בני משפחה, חברים, לקוחות.</p><p>כל \"כן\" שאמרתי היה מלווה בתחושת פחד או כעס, כל \"לא\" נשמע לי כמו סכנה לאהבה, להערכה, לקשר.</p><p>בשקט שבפנים, צברתי מתח, חרדה, ודימוי עצמי נרמס. פחדתי שאם אשים גבולות, מישהו יחשוב שאני \"לא טובה מספיק\" או \"אנוכית\".</p><p>ולכן המשכתי לשתוק, להסכים, להקריב את עצמי שוב ושוב.</p>"
+          }
+        },
+        "heading_kE96bX": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>אבל אז קרה משהו.</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_RUHQtQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>עצרתי ושאלתי:</p><p>\"מה איתי?!</p><p>מה עם הצרכים, הרצונות והשקט הנפשי שלי?!\"</p><p>הבנתי שאם לא אשנה כיוון, אשחק את עצמי למוות. התחלתי ללמוד, לחקור, להתייעץ – וגיליתי שאפשר אחרת.</p><p>למדתי טכניקות להצבת גבולות ברורים, לתקשורת אסרטיבית, לתרגול נשימות, ולהעצמת הביטחון העצמי.</p><p>צעד אחר צעד, שחררתי את עצמי מדפוס הריצוי וחזרתי לנשום, לחיות, להתפתח – בלי פחד מה\"לא\".</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_gUXCwa",
+        "text_kVNyxm",
+        "heading_kE96bX",
+        "text_RUHQtQ"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "multirow_RkqD97": {
@@ -179,6 +227,7 @@
   },
   "order": [
     "1733587743d71f48a1",
+    "rich_text_DRGerC",
     "multirow_RkqD97",
     "multicolumn_FFmiYB"
   ]
