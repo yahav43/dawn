@@ -221,6 +221,7 @@
         "row_4Nt7Q7",
         "row_ddJKFQ"
       ],
+      "disabled": true,
       "settings": {
         "image_height": "medium",
         "desktop_image_width": "medium",
@@ -309,6 +310,7 @@
         "column_XtQMVy",
         "column_jg9NH7"
       ],
+      "disabled": true,
       "settings": {
         "title": "<strong>למה לבחור במרכז המעגל?</strong>",
         "title_direction": "rtl",
