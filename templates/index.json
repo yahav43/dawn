@@ -134,6 +134,36 @@
         "padding_bottom": 52
       }
     },
+    "rich_text_kVyR8N": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Y8UHV7": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>אני רוצה להיות כנה איתך: המדריך הזה לא בשבילך אם את…</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_rxNEcE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>👩🏽 כבר אומרת \"לא\" בביטחון בכל פעם שאת לא רוצה להסכים, בלי טיפת אשמה או היסוס.<br/>👩🏽 מעולם לא חששת שמא מישהו יראה אותך כ\"לא נחמדה\" או יאכזב אותך, ואין לך כל מתח או חרדה סביב הנושא.<br/>👩🏽 תמיד שמה את עצמך בראש סדר העדיפויות, מעריכה את הצרכים שלך ולא מוותרת עליהם בשביל אף אחד.<br/>👩🏽 לא זקוקה לשום כלים חדשים כי חייך כבר שלווים, מאוזנים ושקטים מבחינה פנימית.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Y8UHV7",
+        "text_rxNEcE"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "multirow_RkqD97": {
       "type": "multirow",
       "blocks": {
@@ -290,6 +320,7 @@
     "rich_text_DRGerC",
     "rich_text_q6NtFP",
     "rich_text_Yfr4jA",
+    "rich_text_kVyR8N",
     "multirow_RkqD97",
     "multicolumn_FFmiYB"
   ]
