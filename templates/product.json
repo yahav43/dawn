@@ -7,26 +7,77 @@
  * made to this file may be overwritten.
  * ------------------------------------------------------------
  */
- {
+{
   "sections": {
-    "1733374378b13a1e4a": {
-      "type": "apps",
+    "main_product_Q6Y7aW": {
+      "type": "main-product",
       "blocks": {
-        "klaviyo_email_marketing_sms_form_embed_block_688yRc": {
-          "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/form-embed-block/2632fe16-c075-4321-a88b-50b567f42507",
+        "title_JkMTdM": {
+          "type": "title",
+          "settings": {}
+        },
+        "price_LfqBA8": {
+          "type": "price",
+          "settings": {}
+        },
+        "buy_buttons_nHKigV": {
+          "type": "buy_buttons",
           "settings": {
-            "formId": "Sc8fj8"
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "text_Bhj3RB": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Text block</p>",
+            "text_style": "body"
+          }
+        },
+        "share_K7zYgY": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "icon_with_text_hbabHf": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "heart",
+            "heading_1": "Heading",
+            "icon_2": "return",
+            "heading_2": "Heading",
+            "icon_3": "truck",
+            "heading_3": "Heading",
+            "icon_4": "heart",
+            "heading_4": "Heading"
           }
         }
       },
       "block_order": [
-        "klaviyo_email_marketing_sms_form_embed_block_688yRc"
-      ],
-      "custom_css": [
-        "@media screen and (min-width: 750px) {input, button {max-width: 50rem; width: 50rem; margin: auto; }}"
+        "title_JkMTdM",
+        "price_LfqBA8",
+        "buy_buttons_nHKigV",
+        "text_Bhj3RB",
+        "share_K7zYgY",
+        "icon_with_text_hbabHf"
       ],
       "settings": {
-        "include_margins": false
+        "show_tax_notice": false,
+        "enable_sticky_info": true,
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "stacked",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "hide",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "rich_text_NpfGDf": {
@@ -746,7 +797,7 @@
     }
   },
   "order": [
-    "1733374378b13a1e4a",
+    "main_product_Q6Y7aW",
     "rich_text_NpfGDf",
     "rich_text_jPcDFh",
     "rich_text_kz3cXM",
