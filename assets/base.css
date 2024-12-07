@@ -3638,3 +3638,24 @@ div#stamped-main-widget {
 .stamped-review-content {
   margin-bottom: 0 !important;
 }
+
+.klaviyo-form-Sc8fj8 button {
+  direction: rtl !important;
+}
+
+.klaviyo-form-RMFi5s ul {
+  padding: 0 48px 0 0 !important;
+}
+
+@media screen and (min-width: 750px) {
+
+  .klaviyo-form-Sc8fj8 input,
+  .klaviyo-form-Sc8fj8 button,
+  .klaviyo-form-RMFi5s input,
+  .klaviyo-form-RMFi5s button {
+    max-width: 50rem !important;
+    width: 50rem !important;
+    margin: auto !important;
+    direction: rtl !important;
+  }
+}
