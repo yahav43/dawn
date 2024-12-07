@@ -74,6 +74,51 @@
         "padding_bottom": 52
       }
     },
+    "rich_text_q6NtFP": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YAjMiR": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>למה יצרתי את Projcet NO</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_4V7VHN": {
+          "type": "text",
+          "settings": {
+            "text": "<p>אחרי שהצלחתי להשתחרר מהדפוס המתיש הזה, ידעתי שלא אוכל לשמור את הכלים לעצמי.<br/>ראיתי סביבי עשרות (אם לא מאות) מטופלות שעברו אצלי – חכמות, מוכשרות, טובות לב – אשר נלכדות באותו מעגל:<br/>הן חוששות לאכזב אחרים, מהססים לשים את עצמן במקום הראשון, ונחנקות מהפחד האינסופי \"מה יגידו?\"</p><p><strong>Project NO</strong> נולד מתוך ההבנה הזאת: בניתי מדריך חינמי, ברור ופשוט, שמרכז את התובנות והשיטות שעבדו לי ולכל המטופלות שלי.<br/>מדריך שיכול לחסוך לך זמן, מתח וכאב לב, ולהנחות אותך בדרך ישירה לשינוי.</p>"
+          }
+        },
+        "heading_GVfikk": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>מה תלמדי במדריך החינמי שלנו?</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_XHQf4D": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>✅ זיהוי מקור הפחד מאכזבה:</strong> להבין למה \"לא\" כל כך מפחיד אותך ומה משמר את דפוס הריצוי.</p><p>✅ <strong>אמירת \"לא\" בביטחון:</strong> לקבל משפטי מפתח ותרגילים פרקטיים שישחררו אותך מהצורך להתנצל.</p><p>✅ <strong>חיזוק הביטחון העצמי והערך העצמי:</strong> תרגילים פשוטים שיעזרו לך להזכיר לעצמך את הערך האמיתי שלך.</p><p>✅ <strong>ניהול לחץ וחרדה:</strong> טכניקות נשימה והרפיה שיורידו את מפלס המתח ויסייעו לך לשמור על ראש נקי.</p><p>✅ <strong>בניית גבולות בריאות במערכות יחסים:</strong> איך להבהיר לאחרים מה מתאים לך ומה לא, בלי לחשוש ש\"ייפגעו\" ממך.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_YAjMiR",
+        "text_4V7VHN",
+        "heading_GVfikk",
+        "text_XHQf4D"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "multirow_RkqD97": {
       "type": "multirow",
       "blocks": {
@@ -228,6 +273,7 @@
   "order": [
     "1733587743d71f48a1",
     "rich_text_DRGerC",
+    "rich_text_q6NtFP",
     "multirow_RkqD97",
     "multicolumn_FFmiYB"
   ]
