@@ -9,133 +9,6 @@
  */
 {
   "sections": {
-    "image_banner": {
-      "type": "image-banner",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>The Center Of The Circle</strong>",
-            "heading_size": "h1",
-            "title_direction": "rtl"
-          }
-        },
-        "richtext_xWUt6q": {
-          "type": "richtext",
-          "settings": {
-            "higher_heading": "מרחב להיזכרות וחזרה הביתה, אלייך, אל עצמך, אל מרכז המעגל. 🪷",
-            "higher_heading_size": "h1",
-            "higher_title_direction": "rtl"
-          }
-        },
-        "button": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "למידע נוסף",
-            "button_weight_1": "bold",
-            "button_link_1": "shopify://products/reflectionship",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "richtext_xWUt6q",
-        "button"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/11.jpg",
-        "image_overlay_opacity": 60,
-        "image_height": "large",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-4",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
-    "rich_text_ikiexW": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_iFAJPz": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>מטופלות שהפסיקו עם הלחץ משתפות</strong>",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_iFAJPz"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
-    "173141633272d68dcf": {
-      "type": "apps",
-      "blocks": {
-        "stamped_reviews_main_widget_TbB8wJ": {
-          "type": "shopify://apps/stamped-reviews/blocks/main-widget/a103faaf-2125-4b0e-89fa-de5149736723",
-          "settings": {
-            "animation": true,
-            "tags_exclude": "",
-            "tags_include": "",
-            "search": "",
-            "linkify": true,
-            "use_metafields": false,
-            "sku_tagtype": "sku"
-          }
-        }
-      },
-      "block_order": [
-        "stamped_reviews_main_widget_TbB8wJ"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
-    "rich_text_dgWTdq": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_3Bz9Nw": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>מילה מהמייסדת</strong>",
-            "heading_size": "h1"
-          }
-        },
-        "text_ELenAg": {
-          "type": "text",
-          "settings": {
-            "text": "<p>נמסטה 🪷🙏,</p><p>אני יעל מימון (סאד׳וי).</p><p>נולדתי ברמת גן ב 1970.</p><p>עברתי ילדות מורכבת כבת בכורה להורים גרושים, ילדה ונערה בסיכון.</p><p>מהיום שאני זוכרת את עצמי חיפשתי אמת, תכלית ומשמעות.</p><p>החיפוש שלי הוביל אותי לשנים רבות של לימודים בכל מיני מסגרות ובעיקר לחקירה נוקבת וחסרת פשרות של עצמי.</p><p>לימים, התחתנתי והבאתי לעולם ארבעה ילדים נפלאים שלימדו אותי המון על עצמי ובכלל.</p><p>הכלים שרכשתי הובילו אותי לטיפול ולהוראה של מקצועות הטיפול.</p><p>אני עוסקת בטיפול כ 25 שנים, מלמדת כ 20 שנים.</p><p>ב 12 השנים האחרונות אני מרצה ומרכזת את המגמה לפסיכותרפיה הוליסטית מכללת הנות בחדרה.</p><p>ב 4 שנים האחרונות, ובעקבות המצב, הפכתי ליועצת בצוות חוסן לעובדים בבית החולים הילל יפה, בה אני מעבירה סדנאות בנושא שחיקה וסטרס לעובדים ועוזרת בבניית תכנים וכלים.</p><p>הדרך הרוחנית שלי היא יוגה.</p><p>אני מורה ותלמידה ליוגה כ 20 שנה.</p><p>מלמדת יוגה בבית החולים הלל יפה משנת 2019.</p><p>אני מאמינה שכדי להגיע להחלמה והרמוניה צריך לטפל באדם ולא במחלה.</p><p>לא מזמן הבנתי שהגיע הזמן שלי להרחיב את התרומה שלי, ובעזרת עזרה וטכנולוגיה הקמתי את ״מרכז המעגל״ - במטרה להגיע לכל אחת ואחד שצריך או צריכה פחות סטרס ויותר נחת בחיים.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_3Bz9Nw",
-        "text_ELenAg"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "multirow_RkqD97": {
       "type": "multirow",
       "blocks": {
@@ -190,80 +63,6 @@
         "section_color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
         "row_color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_banner_jFwcht": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_aC7Rf4": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>חדשה לעולם היוגה?</strong>",
-            "heading_size": "h0",
-            "title_direction": "rtl"
-          }
-        },
-        "richtext_83WUBz": {
-          "type": "richtext",
-          "settings": {
-            "higher_heading": "גלי את עולם היוגה דרך הריטריט הדיגיטלי שלנו",
-            "higher_heading_size": "h1",
-            "higher_title_direction": "rtl"
-          }
-        },
-        "buttons_KJxcFU": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "לחצי כאן",
-            "button_weight_1": "bold",
-            "button_link_1": "shopify://products/yoga-path",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_aC7Rf4",
-        "richtext_83WUBz",
-        "buttons_KJxcFU"
-      ],
-      "disabled": true,
-      "settings": {
-        "image": "shopify://shop_images/IMG_2362.jpg",
-        "image_overlay_opacity": 40,
-        "image_height": "large",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-4",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
-    "multicolumn_metaobject_D7Dgxt": {
-      "type": "multicolumn-metaobject",
-      "settings": {
-        "title": "לקוחות מספרות",
-        "list_item_direction": "rtl",
-        "heading_size": "h1",
-        "title_alignment": "center",
-        "list_item_text_alignment": "right",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -351,75 +150,18 @@
         "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "primary",
-        "button_label": "למידע נוסף",
-        "button_link": "shopify://products/reflectionship",
+        "button_label": "",
+        "button_link": "",
         "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "featured_blog_Qz8A6d": {
-      "type": "featured-blog",
-      "settings": {
-        "heading": "מאמרים שאולי תאהבי",
-        "heading_size": "h1",
-        "title_alignment": "right",
-        "blog": "blog",
-        "post_limit": 4,
-        "columns_desktop": 4,
-        "info_direction": "rtl",
-        "color_scheme": "",
-        "show_image": true,
-        "show_date": true,
-        "show_author": false,
-        "show_view_all": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "rich_text_cXhPqB": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_zMRYRj": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>מרכז המעגל – היוגה, המדיטציה והריפוי העצמי במקום אחד</strong>",
-            "heading_size": "h2"
-          }
-        },
-        "text_qp6Ly7": {
-          "type": "text",
-          "settings": {
-            "text": "<p>במרכז המעגל אנחנו מאמינים בכוחם של יוגה, מדיטציה וריפוי עצמי להוביל לאיזון אמיתי ולשקט פנימי.</p><p>אצלנו תמצאי סדנאות ותרגולים ייחודיים המעודדים צמיחה והתחברות פנימית, לצד כלים ותכנים לחיים של בריאות ושלווה.</p><p>הצטרפי אלינו למסע המשלב ידע עתיק עם גישות מודרניות, לחיים בריאים, מאוזנים ומלאי משמעות.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_zMRYRj",
-        "text_qp6Ly7"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-3",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
-    "image_banner",
-    "rich_text_ikiexW",
-    "173141633272d68dcf",
-    "rich_text_dgWTdq",
     "multirow_RkqD97",
-    "image_banner_jFwcht",
-    "multicolumn_metaobject_D7Dgxt",
-    "multicolumn_FFmiYB",
-    "featured_blog_Qz8A6d",
-    "rich_text_cXhPqB"
+    "multicolumn_FFmiYB"
   ]
 }
