@@ -179,6 +179,36 @@
         "padding_bottom": 52
       }
     },
+    "rich_text_6bW7dy": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_gHXFgA": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>מה תלמדי במדריך החינמי הזה</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_RC98mm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>אני והמטופלות שלי עברנו את התהליך הזה על בשרנו, צעד אחר צעד, ושכללנו אותו כדי שתוכלי ליהנות מהתוצאות מהר יותר.</p><p>היום, בזכות המדריך, תוכלי לדלג על חודשים ושנים של ניסוי וטעייה, ולקבל את כל המידע והכלים במקום אחד, ברור ונגיש.</p><p>ההשקעה שלך היא אפס כסף, רק הזמן שתחליטי להקדיש לעצמך – ואנחנו מבטיחות לך שזה שווה את זה.</p><p>המדריך מתוכנן בפשטות, נשלח ישירות למייל שלך, ותוכלי להתחיל ליישם את הטיפים כבר היום.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_gHXFgA",
+        "text_RC98mm"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "multirow_RkqD97": {
       "type": "multirow",
       "blocks": {
@@ -338,6 +368,7 @@
     "rich_text_q6NtFP",
     "rich_text_Yfr4jA",
     "rich_text_kVyR8N",
+    "rich_text_6bW7dy",
     "multirow_RkqD97",
     "multicolumn_FFmiYB"
   ]
