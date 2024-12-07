@@ -281,12 +281,23 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_w7PkFw": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/girl-exercise-pose-icon.svg",
+            "title": "<strong>בונוס #1 במתנה - איזון הבסיס שלך</strong>",
+            "text": "<p>שעתיים של מדיטציה מודרכת מתוך הריטריט שלנו ״אדמה והשתרשות״, שיאזן את האדמה שבחייך, יחזק את הבסיס שלך, את גופך ואת נפשך.</p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "column_3UUcNN",
         "column_nDk4zx",
-        "column_dyQk6n"
+        "column_dyQk6n",
+        "column_w7PkFw"
       ],
       "settings": {
         "title": "",
@@ -296,7 +307,7 @@
         "image_width": "third",
         "image_ratio": "adapt",
         "show_image_after_effect": true,
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
