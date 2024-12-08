@@ -431,7 +431,7 @@
           "type": "shopify://apps/stamped-reviews/blocks/main-widget/a103faaf-2125-4b0e-89fa-de5149736723",
           "settings": {
             "animation": true,
-            "tags_exclude": "",
+            "tags_exclude": "project-no",
             "tags_include": "",
             "search": "",
             "linkify": false,
