@@ -668,40 +668,59 @@
         "padding_bottom": 52
       }
     },
-    "secondary_product_74XjMU": {
+    "secondary_product_3AMrLx": {
       "type": "secondary-product",
       "blocks": {
-        "text_iQ73GU": {
+        "text_VU4hG8": {
           "type": "text",
           "settings": {
             "text": "<strong>אבל המחיר שלך להיום בלבד הוא רק:</strong>",
             "text_style": "body"
           }
         },
-        "price_7qjway": {
+        "price_EzBmL9": {
           "type": "price",
           "settings": {}
         },
-        "text_8TfXAq": {
+        "text_EiUCM6": {
           "type": "text",
           "settings": {
             "text": "או ב 3 תשלומים נוחים של 33₪ ללא ריבית.",
             "text_style": "subtitle"
           }
         },
-        "buy_buttons_38KnGF": {
+        "buy_buttons_UKQLzP": {
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": true
           }
+        },
+        "icon_with_text_bira3f": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "none",
+            "image_1": "shopify://shop_images/pos-swipe-icon.svg",
+            "heading_1": "חלוקה לתשלומים",
+            "icon_2": "none",
+            "image_2": "shopify://shop_images/secure-payment-icon.svg",
+            "heading_2": "תשלום מאובטח",
+            "icon_3": "none",
+            "image_3": "shopify://shop_images/recurring-subscription-icon.svg",
+            "heading_3": "החזר כספי",
+            "icon_4": "none",
+            "image_4": "shopify://shop_images/legal-agreement-contract-paper-icon.svg",
+            "heading_4": "תוצאות מובטחות"
+          }
         }
       },
       "block_order": [
-        "text_iQ73GU",
-        "price_7qjway",
-        "text_8TfXAq",
-        "buy_buttons_38KnGF"
+        "text_VU4hG8",
+        "price_EzBmL9",
+        "text_EiUCM6",
+        "buy_buttons_UKQLzP",
+        "icon_with_text_bira3f"
       ],
       "settings": {
         "product": "stress-less",
@@ -804,81 +823,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "slideshow_PRHeb4": {
-      "type": "slideshow",
-      "blocks": {
-        "slide_QTTfKw": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/plant-8338691_1280.jpg",
-            "heading": "זה לא משנה איפה התחלת",
-            "heading_size": "h1",
-            "subheading": "זה משנה איפה את מסיימת.",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 50,
-            "color_scheme": "scheme-4",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_BqwBcV": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/ProductImage3.jpg",
-            "heading": "גם מסע של אלף צעדים",
-            "heading_size": "h1",
-            "subheading": "מתחיל בצעד אחד קטן",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 50,
-            "color_scheme": "scheme-4",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_hTrnck": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/stone-tower-4519290_1920.jpg",
-            "heading": "הגיע הזמן לשים אותך",
-            "heading_size": "h1",
-            "subheading": "במרכז המעגל",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 50,
-            "color_scheme": "scheme-4",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "slide_QTTfKw",
-        "slide_BqwBcV",
-        "slide_hTrnck"
-      ],
-      "disabled": true,
-      "settings": {
-        "layout": "full_bleed",
-        "slide_height": "medium",
-        "slider_visual": "dots",
-        "auto_rotate": true,
-        "change_slides_speed": 7,
-        "image_behavior": "ambient",
-        "show_text_below": false,
-        "accessibility_info": "Slideshow about our brand"
-      }
     }
   },
   "order": [
@@ -900,8 +844,7 @@
     "17211428891945090f",
     "multicolumn_BxneJ4",
     "rich_text_w4aAYp",
-    "secondary_product_74XjMU",
-    "collapsible_content_BhkJmX",
-    "slideshow_PRHeb4"
+    "secondary_product_3AMrLx",
+    "collapsible_content_BhkJmX"
   ]
 }
