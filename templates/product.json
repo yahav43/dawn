@@ -9,6 +9,59 @@
  */
 {
   "sections": {
+    "rich_text_QBjb6f": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_wA3KPP": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>25 שנים</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "heading_Pycp7X": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>כ - 14,400 שעות</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "heading_NNp3mK": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>1,000+ מטופלות ומטופלים</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_Nr6hjp": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><strong>ותהליך אישי אחד.</strong></h2>"
+          }
+        },
+        "text_iTqEa8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>זה מה שעברתי כדי ליצור את</p><p><strong>StressLess - המדריך השלם להפחתת סטרס והעלאת חוסן.</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_wA3KPP",
+        "heading_Pycp7X",
+        "heading_NNp3mK",
+        "text_Nr6hjp",
+        "text_iTqEa8"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "rich_text_NpfGDf": {
       "type": "rich-text",
       "blocks": {
@@ -688,6 +741,7 @@
     }
   },
   "order": [
+    "rich_text_QBjb6f",
     "rich_text_NpfGDf",
     "rich_text_jPcDFh",
     "rich_text_kz3cXM",
