@@ -110,8 +110,9 @@
             "icon_3": "none",
             "image_3": "shopify://shop_images/recurring-subscription-icon.svg",
             "heading_3": "החזר כספי",
-            "icon_4": "heart",
-            "heading_4": "Heading"
+            "icon_4": "none",
+            "image_4": "shopify://shop_images/legal-agreement-contract-paper-icon.svg",
+            "heading_4": "תוצאות מובטחות"
           }
         }
       },
