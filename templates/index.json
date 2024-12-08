@@ -32,24 +32,22 @@
     "17336519634aae9903": {
       "type": "apps",
       "blocks": {
-        "stamped_reviews_main_widget_TjUEwf": {
+        "stamped_reviews_main_widget_JCzj33": {
           "type": "shopify://apps/stamped-reviews/blocks/main-widget/a103faaf-2125-4b0e-89fa-de5149736723",
           "settings": {
             "animation": true,
-            "offset": 0,
             "tags_exclude": "",
-            "tags_include": "project-no",
+            "tags_include": "projectNo",
             "search": "",
-            "linkify": false,
+            "linkify": true,
             "use_metafields": false,
             "sku_tagtype": "handle"
           }
         }
       },
       "block_order": [
-        "stamped_reviews_main_widget_TjUEwf"
+        "stamped_reviews_main_widget_JCzj33"
       ],
-      "disabled": true,
       "settings": {
         "include_margins": true
       }
