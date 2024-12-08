@@ -96,12 +96,30 @@
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": true
           }
+        },
+        "icon_with_text_7aKGiw": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "none",
+            "image_1": "shopify://shop_images/pos-swipe-icon.svg",
+            "heading_1": "חלוקה לתשלומים",
+            "icon_2": "none",
+            "image_2": "shopify://shop_images/secure-payment-icon.svg",
+            "heading_2": "תשלום מאובטח",
+            "icon_3": "none",
+            "image_3": "shopify://shop_images/recurring-subscription-icon.svg",
+            "heading_3": "החזר כספי",
+            "icon_4": "heart",
+            "heading_4": "Heading"
+          }
         }
       },
       "block_order": [
         "price_U3kf6F",
         "text_bzfryP",
-        "buy_buttons_VxHCyM"
+        "buy_buttons_VxHCyM",
+        "icon_with_text_7aKGiw"
       ],
       "settings": {
         "product": "stress-less",
