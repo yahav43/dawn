@@ -62,6 +62,44 @@
         "padding_bottom": 52
       }
     },
+    "secondary_product_FQXTqM": {
+      "type": "secondary-product",
+      "blocks": {
+        "price_U3kf6F": {
+          "type": "price",
+          "settings": {}
+        },
+        "text_bzfryP": {
+          "type": "text",
+          "settings": {
+            "text": "או ב 3 תשלומים נוחים של 33₪ ללא ריבית.",
+            "text_style": "subtitle"
+          }
+        },
+        "buy_buttons_VxHCyM": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        }
+      },
+      "block_order": [
+        "price_U3kf6F",
+        "text_bzfryP",
+        "buy_buttons_VxHCyM"
+      ],
+      "settings": {
+        "product": "stress-less",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "secondary_background": false,
+        "constrain_to_viewport": true,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
     "rich_text_NpfGDf": {
       "type": "rich-text",
       "blocks": {
@@ -742,6 +780,7 @@
   },
   "order": [
     "rich_text_QBjb6f",
+    "secondary_product_FQXTqM",
     "rich_text_NpfGDf",
     "rich_text_jPcDFh",
     "rich_text_kz3cXM",
