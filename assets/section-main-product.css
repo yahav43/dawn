@@ -1512,3 +1512,8 @@ a.product__text {
 .product__text.product__text--secondary.inline-richtext.subtitle:last-child {
   font-size: 1.2rem;
 }
+
+.stamped-badge {
+  display: flex !important;
+  justify-content: center !important;
+}
