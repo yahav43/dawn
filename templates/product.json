@@ -9,6 +9,20 @@
  */
 {
   "sections": {
+    "component_countdown_4VUEn6": {
+      "type": "component-countdown",
+      "settings": {
+        "show_days": false,
+        "countdown_date": "Wed Jan 01 2025 23:59:59 GMT+0300 (שעון ישראל (קיץ))",
+        "countdown_url": "/",
+        "left_text": true,
+        "left_copy": "<p>ההצעה תסתיים בעוד</p>",
+        "right_text_direction": "ltr",
+        "left_text_direction": "ltr",
+        "right_text": false,
+        "right_copy": ""
+      }
+    },
     "rich_text_QBjb6f": {
       "type": "rich-text",
       "blocks": {
@@ -22,7 +36,7 @@
         "heading_Pycp7X": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>כ - 14,400 שעות</strong>",
+            "heading": "<strong>+14,400 שעות</strong>",
             "heading_size": "h1"
           }
         },
@@ -597,20 +611,6 @@
         "padding_bottom": 80
       }
     },
-    "component_countdown_4VUEn6": {
-      "type": "component-countdown",
-      "settings": {
-        "show_days": false,
-        "countdown_date": "Wed Jan 01 2025 23:59:59 GMT+0300 (שעון ישראל (קיץ))",
-        "countdown_url": "/",
-        "left_text": true,
-        "left_copy": "<p>ההצעה תסתיים בעוד</p>",
-        "right_text_direction": "ltr",
-        "left_text_direction": "ltr",
-        "right_text": false,
-        "right_copy": ""
-      }
-    },
     "collapsible_content_BhkJmX": {
       "type": "collapsible-content",
       "blocks": {
@@ -779,6 +779,7 @@
     }
   },
   "order": [
+    "component_countdown_4VUEn6",
     "rich_text_QBjb6f",
     "secondary_product_FQXTqM",
     "rich_text_NpfGDf",
@@ -795,7 +796,6 @@
     "rich_text_x8bVDk",
     "17211428891945090f",
     "multicolumn_BxneJ4",
-    "component_countdown_4VUEn6",
     "collapsible_content_BhkJmX",
     "slideshow_PRHeb4"
   ]
