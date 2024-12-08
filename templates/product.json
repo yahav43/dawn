@@ -611,6 +611,90 @@
         "padding_bottom": 80
       }
     },
+    "rich_text_w4aAYp": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_XVHQRz": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>למקרה שלא הייתי ברורה - הנה כל מה שאת מקבלת כשאת מזמינה את StressLess:</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_qVUNcP": {
+          "type": "text",
+          "settings": {
+            "text": "<p>✔️ הספר הדיגיטלי המלא (99₪)</p><p></p><p>✔️ משלוח תוך 41 שניות גג.</p><p></p><p>✔️ בונוס 1: שיעור יוגה מלא (70₪)</p><p></p><p>✔️ בונוס 2: סדנה דיגיטלית מלאה (299₪)</p>"
+          }
+        },
+        "heading_fzdYRC": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>בשווי מקורי של 468₪</strong>",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_XVHQRz",
+        "text_qVUNcP",
+        "heading_fzdYRC"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "secondary_product_74XjMU": {
+      "type": "secondary-product",
+      "blocks": {
+        "text_iQ73GU": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>אבל המחיר שלך להיום בלבד הוא רק:</strong>",
+            "text_style": "body"
+          }
+        },
+        "price_7qjway": {
+          "type": "price",
+          "settings": {}
+        },
+        "text_8TfXAq": {
+          "type": "text",
+          "settings": {
+            "text": "או ב 3 תשלומים נוחים של 33₪ ללא ריבית.",
+            "text_style": "subtitle"
+          }
+        },
+        "buy_buttons_38KnGF": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        }
+      },
+      "block_order": [
+        "text_iQ73GU",
+        "price_7qjway",
+        "text_8TfXAq",
+        "buy_buttons_38KnGF"
+      ],
+      "settings": {
+        "product": "stress-less",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "secondary_background": false,
+        "constrain_to_viewport": true,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "collapsible_content_BhkJmX": {
       "type": "collapsible-content",
       "blocks": {
@@ -796,6 +880,8 @@
     "rich_text_x8bVDk",
     "17211428891945090f",
     "multicolumn_BxneJ4",
+    "rich_text_w4aAYp",
+    "secondary_product_74XjMU",
     "collapsible_content_BhkJmX",
     "slideshow_PRHeb4"
   ]
