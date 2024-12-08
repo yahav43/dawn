@@ -30,10 +30,10 @@
       ],
       "settings": {}
     },
-    "1729861268343e58e3": {
+    "17336488123453021b": {
       "type": "apps",
       "blocks": {
-        "klaviyo_email_marketing_sms_form_embed_block_cTGfD4": {
+        "klaviyo_email_marketing_sms_form_embed_block_DnkfYq": {
           "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/form-embed-block/2632fe16-c075-4321-a88b-50b567f42507",
           "settings": {
             "formId": "{{ article.metafields.custom.form_id.value }}"
@@ -41,7 +41,7 @@
         }
       },
       "block_order": [
-        "klaviyo_email_marketing_sms_form_embed_block_cTGfD4"
+        "klaviyo_email_marketing_sms_form_embed_block_DnkfYq"
       ],
       "settings": {
         "include_margins": true
@@ -69,7 +69,7 @@
   },
   "order": [
     "main",
-    "1729861268343e58e3",
+    "17336488123453021b",
     "featured_blog_zW6zki"
   ]
 }
