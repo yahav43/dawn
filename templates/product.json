@@ -518,6 +518,51 @@
         "include_margins": true
       }
     },
+    "rich_text_GaNd7e": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Q7XmBz": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>״זה לא בשבילי...״</strong>",
+            "heading_size": "h0"
+          }
+        },
+        "text_34pUYH": {
+          "type": "text",
+          "settings": {
+            "text": "<p>❌ לא צריך להדליק נירות ריחניים ולעמעם את האורות.</p><p></p><p>❌ לא צריך להיות רוחניקית שלובשת שרוואלים והולכת יחפה.</p><p></p><p>❌ לא צריך לקום ב 5 בבוקר לפני שהיום מתחיל.</p><p></p><p>❌לא צריך להוסיף עוד שעות ביום.</p><p></p><p>❌לא צריך לטוס להודו לשלושה חודשים.</p><p></p><p>❌ לא צריך לעזוב את העבודה שלך או להתגרש.</p>"
+          }
+        },
+        "heading_mPD4bU": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>מדובר במדריך המעשי והמקיף ביותר בישראל</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_prWpKx": {
+          "type": "text",
+          "settings": {
+            "text": "<p>שנכתב כדי לתמוך בשגרה היומית שלך,<br/>ולא כדי להוסיף עלייך עוד קשיים.</p><p>את צריכה לתפקד.</p><p>את צריכה להמשיך לעבוד.</p><p>את צריכה לתפקד בתוך הזוגיות ו/או המשפחה שלך.</p><p>הם כולם צריכים אותך,</p><p>בדיוק כמו שאת - <strong>צריכה אותך.</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Q7XmBz",
+        "text_34pUYH",
+        "heading_mPD4bU",
+        "text_prWpKx"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "multicolumn_BxneJ4": {
       "type": "multicolumn",
       "blocks": {
@@ -590,7 +635,7 @@
         "text_qVUNcP": {
           "type": "text",
           "settings": {
-            "text": "<p>✔️ הספר הדיגיטלי המלא (99₪)</p><p></p><p>✔️ משלוח תוך 41 שניות גג.</p><p></p><p>✔️ בונוס 1: 3 מדיטציות מודרכות (70₪)</p><p></p><p>✔️ בונוס 2: סדנה דיגיטלית מלאה (299₪)</p>"
+            "text": "<p>✔️ משלוח תוך 41 שניות גג.</p><p></p><p>✔️ בונוס 1: סדנה דיגיטלית מלאה <strong>במתנה</strong> (שווי מקורי של 299₪!)</p><p></p><p>✔️ בונוס 2: 3 מדיטציות מודרכות במתנה (שווי מקורי של 70₪)</p><p></p><p>✔️ הספר הדיגיטלי המלא (99₪)</p>"
           }
         },
         "heading_fzdYRC": {
@@ -795,6 +840,7 @@
     "rich_text_Fgn4CV",
     "rich_text_x8bVDk",
     "17211428891945090f",
+    "rich_text_GaNd7e",
     "multicolumn_BxneJ4",
     "rich_text_w4aAYp",
     "secondary_product_3AMrLx",
