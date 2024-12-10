@@ -35,7 +35,7 @@
         "text_gTtVmg": {
           "type": "text",
           "settings": {
-            "text": "<p>מטפלת עם 25 שנות ניסיון ולמעלה מ 1,000 מטופלות חושפת את הכל בסדנה דיגיטלית חינמית</p>"
+            "text": "<p>מטפלת מומחית עם <strong>25</strong> שנות ניסיון ולמעלה מ<strong> 1,000 </strong>מטופלות חושפת את הכל בסדנה דיגיטלית <strong>חינמית</strong>,</p><p>ל <strong>100</strong> רוכשות הראשונות שיקפצו על ההזדמנות החד פעמית הזאת!</p>"
           }
         },
         "button_eGtfkq": {
@@ -433,7 +433,7 @@
         "heading_LXNMga": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>לאחר מאות של מטופלות</strong>",
+            "heading": "<strong>אחרי למעלה מ 1,000 מטופלות...</strong>",
             "heading_size": "h1"
           }
         },
