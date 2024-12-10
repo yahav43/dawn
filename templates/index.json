@@ -22,6 +22,7 @@
       "block_order": [
         "klaviyo_email_marketing_sms_form_embed_block_diQrED"
       ],
+      "disabled": true,
       "custom_css": [
         "@media screen and (min-width: 750px) {input, button {max-width: 50rem; width: 50rem; margin: auto; direction: rtl; }}"
       ],
@@ -65,6 +66,7 @@
         "heading_kE96bX",
         "text_RUHQtQ"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -110,6 +112,7 @@
         "heading_LY9tiE",
         "text_yq4DGf"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -140,6 +143,7 @@
         "heading_WXVbXb",
         "text_hjEUyi"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -170,6 +174,7 @@
         "heading_Y8UHV7",
         "text_rxNEcE"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -200,6 +205,7 @@
         "heading_gHXFgA",
         "text_RC98mm"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -222,12 +228,63 @@
       "block_order": [
         "klaviyo_email_marketing_sms_form_embed_block_Y9fHxX"
       ],
+      "disabled": true,
       "custom_css": [
         "ul {padding: 0 48px 0 0;}",
         "@media screen and (min-width: 750px) {input, button, ul {max-width: 50rem; width: 50rem; margin: auto; direction: rtl; }}"
       ],
       "settings": {
         "include_margins": false
+      }
+    },
+    "image_banner_qCpcDD": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_9r9J4J": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>StressLess</strong>",
+            "heading_size": "h0",
+            "title_direction": "rtl"
+          }
+        },
+        "text_7awBxK": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><strong>המדריך השלם להפחתת סטרס והעלאת חוסן</strong></h2>",
+            "text_style": "body"
+          }
+        },
+        "buttons_mzEgC3": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "להפסיק עם התקפי החרדה",
+            "button_weight_1": "bold",
+            "button_link_1": "shopify://products/stress-less",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_9r9J4J",
+        "text_7awBxK",
+        "buttons_mzEgC3"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/crashing-ocean-waves-in-distance-behind-silhouette-of-woman.jpg",
+        "image_overlay_opacity": 60,
+        "image_height": "large",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-4",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
       }
     },
     "multirow_RkqD97": {
@@ -272,7 +329,6 @@
         "row_4Nt7Q7",
         "row_ddJKFQ"
       ],
-      "disabled": true,
       "settings": {
         "image_height": "medium",
         "desktop_image_width": "medium",
@@ -361,7 +417,6 @@
         "column_XtQMVy",
         "column_jg9NH7"
       ],
-      "disabled": true,
       "settings": {
         "title": "<strong>למה לבחור במרכז המעגל?</strong>",
         "title_direction": "rtl",
@@ -391,6 +446,7 @@
     "rich_text_kVyR8N",
     "rich_text_6bW7dy",
     "apps_bQVHM7",
+    "image_banner_qCpcDD",
     "multirow_RkqD97",
     "multicolumn_FFmiYB"
   ]
