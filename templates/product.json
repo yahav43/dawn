@@ -427,6 +427,66 @@
         "show_text_below": false
       }
     },
+    "rich_text_8jzkgA": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_V6bQG3": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>מי צריכה את StressLess?</strong>",
+            "heading_size": "h0"
+          }
+        },
+        "text_g9bCCn": {
+          "type": "text",
+          "settings": {
+            "text": "<p>💠 אם כל יום את קמה בבוקר עייפה, עדיין מוטרדת מהמחשבות על אתמול (על העבר הרחוק יותר)...</p><p>💠 אם את מוטרדת באופן תמידי מהעתיד ולא מפסיקה לחשוב ״מה יהיה? מה יגידו? מה יחשבו? מה בעלי יגיד? מה אשתי תגיד? מה הילדים יחשבו עליי?״</p><p>💠 אם את חיה בפחד מתי יבוא התקף החרדה הבא...</p>"
+          }
+        },
+        "heading_qcABQD": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>זה נראה לך הגיוני?!</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_99RX3B": {
+          "type": "text",
+          "settings": {
+            "text": "<p>אי אפשר לחיות ככה!</p><p>את חייבת לעשות שינוי.</p>"
+          }
+        },
+        "heading_GgPhRX": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>בואי נדמיין רגע מה יקרה אם תמשיכי ככה...</strong>",
+            "heading_size": "h0"
+          }
+        },
+        "text_KNkdHn": {
+          "type": "text",
+          "settings": {
+            "text": "<p>את תמשיכי לקום עייפה יותר מיום ליום, תקטיני את עצמך מול העולם החיצוני.</p><p>זה יכול לגרום לך לבטל את עצמך מול בן/בת הזוג, בעבודה, ובהמשך מול הילדים שלך (במידה והתברכת בכאלו).</p><p>את תפחדי לצאת מהבית, כי יכול להיות שהתקף החרדה תפס אותך בדיוק בסופר, או אצל הספר, או בבית קפה עם חברות.</p><p><strong>אז את מפסיקה לצאת מהבית.</strong></p><p>כי הגוף שלך מקשר את הסכנה (התקף החרדה) למקום שבו היא התרחשה.</p><p>את לא יכולה לצאת עם בן/בת הזוג שלך.</p><p>את לא נפגשת עם חברות.</p><p>את לא מסיעה את הילדים לבית הספר או לאירועים חברתיים.</p><p>ולאט לאט... המשפחה שלך פשוט תאבד אותך.</p><p><strong>זה מה שאת רוצה שיקרה?</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_V6bQG3",
+        "text_g9bCCn",
+        "heading_qcABQD",
+        "text_99RX3B",
+        "heading_GgPhRX",
+        "text_KNkdHn"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "rich_text_Fgn4CV": {
       "type": "rich-text",
       "blocks": {
@@ -849,6 +909,7 @@
     "rich_text_9TxGGr",
     "multicolumn_bVeK8i",
     "image_banner_BFhtgC",
+    "rich_text_8jzkgA",
     "rich_text_Fgn4CV",
     "rich_text_x8bVDk",
     "17211428891945090f",
