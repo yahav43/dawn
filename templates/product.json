@@ -9,63 +9,53 @@
  */
 {
   "sections": {
-    "component_countdown_4VUEn6": {
-      "type": "component-countdown",
-      "settings": {
-        "show_days": false,
-        "countdown_date": "Wed Jan 01 2025 23:59:59 GMT+0300 (שעון ישראל (קיץ))",
-        "countdown_url": "/",
-        "left_text": true,
-        "left_copy": "<p>ההצעה תסתיים בעוד</p>",
-        "right_text_direction": "ltr",
-        "left_text_direction": "ltr",
-        "right_text": false,
-        "right_copy": ""
-      }
-    },
     "rich_text_QBjb6f": {
       "type": "rich-text",
       "blocks": {
-        "heading_wA3KPP": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>+25 שנים</strong>",
-            "heading_size": "h1"
-          }
-        },
-        "heading_Pycp7X": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>+14,400 שעות</strong>",
-            "heading_size": "h1"
-          }
-        },
-        "heading_NNp3mK": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>+1,000 מטופלות ומטופלים</strong>",
-            "heading_size": "h1"
-          }
-        },
-        "text_Nr6hjp": {
+        "text_CKdR7w": {
           "type": "text",
           "settings": {
-            "text": "<h2><strong>ותהליך אישי אחד.</strong></h2>"
+            "text": "<p><strong>חשיפה חסרת תקדים:</strong></p>"
           }
         },
-        "text_iTqEa8": {
+        "heading_CpypnC": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>StressLess</strong>",
+            "heading_size": "hxl"
+          }
+        },
+        "heading_jEaWqi": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>איך להפסיק את התקפי החרדה והלחצים שמשתלטים לך על החיים</strong>",
+            "heading_size": "h0"
+          }
+        },
+        "text_gTtVmg": {
           "type": "text",
           "settings": {
-            "text": "<p>זה מה שעברתי כדי ליצור את</p><h1><strong>StressLess - המדריך השלם להפחתת סטרס והעלאת חוסן.</strong></h1><p></p><p><strong>101 עמודים וסדנה דיגיטלית עם כל הכלים המעשיים להוריד לחץ</strong></p>"
+            "text": "<p>מטפלת עם 25 שנות ניסיון ולמעלה מ 1,000 מטופלות חושפת את הכל בסדנה דיגיטלית חינמית</p>"
+          }
+        },
+        "button_eGtfkq": {
+          "type": "button",
+          "settings": {
+            "button_label": "נמאס לי מהלחץ",
+            "button_link": "#shopify-section-template--17736452112563__secondary_product_3AMrLx",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "heading_wA3KPP",
-        "heading_Pycp7X",
-        "heading_NNp3mK",
-        "text_Nr6hjp",
-        "text_iTqEa8"
+        "text_CKdR7w",
+        "heading_CpypnC",
+        "heading_jEaWqi",
+        "text_gTtVmg",
+        "button_eGtfkq"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -74,73 +64,6 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
-      }
-    },
-    "secondary_product_FQXTqM": {
-      "type": "secondary-product",
-      "blocks": {
-        "stamped_reviews_star_rating_badge_CJygY7": {
-          "type": "shopify://apps/stamped-reviews/blocks/star-rating-badge/a103faaf-2125-4b0e-89fa-de5149736723",
-          "settings": {
-            "use_metafields": false,
-            "sku_tagtype": "sku",
-            "is_featured_product": false,
-            "featured_product_handle": ""
-          }
-        },
-        "price_U3kf6F": {
-          "type": "price",
-          "settings": {}
-        },
-        "text_bzfryP": {
-          "type": "text",
-          "settings": {
-            "text": "או ב 3 תשלומים נוחים של 33₪ ללא ריבית.",
-            "text_style": "subtitle"
-          }
-        },
-        "buy_buttons_VxHCyM": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
-          }
-        },
-        "icon_with_text_7aKGiw": {
-          "type": "icon-with-text",
-          "settings": {
-            "layout": "horizontal",
-            "icon_1": "none",
-            "image_1": "shopify://shop_images/pos-swipe-icon.svg",
-            "heading_1": "חלוקה לתשלומים",
-            "icon_2": "none",
-            "image_2": "shopify://shop_images/secure-payment-icon.svg",
-            "heading_2": "תשלום מאובטח",
-            "icon_3": "none",
-            "image_3": "shopify://shop_images/recurring-subscription-icon.svg",
-            "heading_3": "החזר כספי",
-            "icon_4": "none",
-            "image_4": "shopify://shop_images/legal-agreement-contract-paper-icon.svg",
-            "heading_4": "תוצאות מובטחות"
-          }
-        }
-      },
-      "block_order": [
-        "stamped_reviews_star_rating_badge_CJygY7",
-        "price_U3kf6F",
-        "text_bzfryP",
-        "buy_buttons_VxHCyM",
-        "icon_with_text_7aKGiw"
-      ],
-      "settings": {
-        "product": "stress-less",
-        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
-        "secondary_background": false,
-        "constrain_to_viewport": true,
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 0,
-        "padding_bottom": 36
       }
     },
     "rich_text_NpfGDf": {
@@ -685,7 +608,14 @@
         "text_VU4hG8": {
           "type": "text",
           "settings": {
-            "text": "<strong>אבל המחיר שלך להיום בלבד הוא רק:</strong>",
+            "text": "<strong>אבל היום את תשלמי רק על הספר הדיגיטלי המלא</strong>",
+            "text_style": "body"
+          }
+        },
+        "text_D8G8YY": {
+          "type": "text",
+          "settings": {
+            "text": "המכיל בתוכו את כל הסודות, צעד אחר צעד, להתמודדות עם חרדה, בלי תרופות ובלי אותיות קטנות.",
             "text_style": "body"
           }
         },
@@ -728,6 +658,7 @@
       },
       "block_order": [
         "text_VU4hG8",
+        "text_D8G8YY",
         "price_EzBmL9",
         "text_EiUCM6",
         "buy_buttons_UKQLzP",
@@ -837,9 +768,7 @@
     }
   },
   "order": [
-    "component_countdown_4VUEn6",
     "rich_text_QBjb6f",
-    "secondary_product_FQXTqM",
     "rich_text_NpfGDf",
     "rich_text_jPcDFh",
     "rich_text_kz3cXM",
