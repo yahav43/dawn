@@ -455,13 +455,25 @@
           "settings": {
             "text": "<p>את לא לבד.</p><p>ואת בטח לא צריכה להמשיך לחיות כמו שחיית עד היום.</p><p>ובטח ובטח שאת לא צריכה להמשיך לסבול בגלל זה!</p><p>לאור העובדה שנשים רבות מתמודדות עם הבעיה הזו, דאגתי להכניס במיוחד שיעור שלם בסדנה הדיגיטלית הזו, שמדבר על הדפוס הזה בלבד.</p><p><strong>שיעור מספר 5 בסדנה ידבר על:</strong></p><ul><li>מאיפה ״אימצת״ את הדפוס הזה,</li><li>למה עשית את זה,</li><li>איך הוא שירת אותך (בעבר כמובן),</li><li>למה הוא גורם לך לסטרס,</li><li>ומה את יכולה לעשות כדי להתחיל לעקור אותו מהשורש ולחיות ללא לחץ.</li></ul>"
           }
+        },
+        "button_NjQhUw": {
+          "type": "button",
+          "settings": {
+            "button_label": "קראתי מספיק. אני רוצה לצאת מהחרדה.",
+            "button_link": "#shopify-section-template--17736452112563__secondary_product_3AMrLx",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
         }
       },
       "block_order": [
         "heading_LXNMga",
         "text_8tTJtx",
         "heading_RQGAjd",
-        "text_LMFE7H"
+        "text_LMFE7H",
+        "button_NjQhUw"
       ],
       "settings": {
         "desktop_content_position": "center",
