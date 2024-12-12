@@ -9,116 +9,85 @@
  */
 {
   "sections": {
-    "main": {
-      "type": "main-product",
+    "image_banner_eyrDfn": {
+      "type": "image-banner",
       "blocks": {
-        "text_kYHxtz": {
+        "heading_Wz7GLE": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>ריטריט אדמה דיגיטלי</strong>",
+            "heading_size": "h0",
+            "title_direction": "rtl"
+          }
+        },
+        "text_KbxHfk": {
           "type": "text",
           "settings": {
-            "text": "<h1><strong>שרייני מקום עכשיו לאירוע היוגה - ״אדמה והשתרשות״</strong>!</h1>",
-            "text_style": "body"
-          }
-        },
-        "inventory_ct6hUd": {
-          "type": "inventory",
-          "settings": {
-            "text_style": "body",
-            "inventory_threshold": 15,
-            "show_inventory_quantity": true
-          }
-        },
-        "description_ynG8QW": {
-          "type": "description",
-          "settings": {
-            "description_alignment": "right"
-          }
-        },
-        "price_bRUV8E": {
-          "type": "price",
-          "settings": {}
-        },
-        "text_zn3Rwp": {
-          "type": "text",
-          "settings": {
-            "text": "<h5>תשלום מקדמה בלבד. אין החזר כספי.</h5>",
-            "text_style": "uppercase"
-          }
-        },
-        "buy_buttons_DhFQ8E": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": false
-          }
-        },
-        "text_3mkNdL": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>השתגענו!</strong></p><p><strong>בונוס מיוחד למשריינים דרך האתר -</strong> כל משתתפת תקבל לאחר הריטריט גישה דיגיטלית לכל תכני הריטריט לצפייה חוזרת, זמינה לכל החיים!</p>",
+            "text": "<h2><strong>המקום שלך לעצור,</strong></h2><h2><strong>לנשום ולמצוא קרקע יציבה,</strong></h2><h2><strong>בעולם סוער</strong></h2>",
             "text_style": "body"
           }
         }
       },
       "block_order": [
-        "text_kYHxtz",
-        "inventory_ct6hUd",
-        "description_ynG8QW",
-        "price_bRUV8E",
-        "text_zn3Rwp",
-        "buy_buttons_DhFQ8E",
-        "text_3mkNdL"
+        "heading_Wz7GLE",
+        "text_KbxHfk"
       ],
       "settings": {
-        "show_tax_notice": false,
-        "enable_sticky_info": true,
-        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
-        "media_size": "medium",
-        "constrain_to_viewport": false,
-        "media_fit": "cover",
-        "gallery_layout": "columns",
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "mobile_thumbnails": "hide",
-        "hide_variants": true,
-        "enable_video_looping": true,
-        "padding_top": 36,
-        "padding_bottom": 12
-      }
-    },
-    "component_countdown_qF7MKe": {
-      "type": "component-countdown",
-      "settings": {
-        "show_days": false,
-        "countdown_date": "Tue Nov 19 2024 23:59:59 GMT+0300 (שעון ישראל (קיץ))",
-        "countdown_url": "/",
-        "left_text": true,
-        "left_copy": "<p>המבצע נגמר בעוד</p>",
-        "right_text_direction": "ltr",
-        "left_text_direction": "ltr",
-        "right_text": false,
-        "right_copy": "<p>המכירה המוקדמת נגמרת עוד</p>"
+        "image": "shopify://shop_images/Create_relaxing_images_for_a_digital_earth_retreat_-_it_should_be_a_background_banner.jpg",
+        "image_overlay_opacity": 50,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-4",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
       }
     },
     "rich_text_9fKHgT": {
       "type": "rich-text",
       "blocks": {
-        "heading_TLi9jA": {
+        "text_dFieAz": {
+          "type": "text",
+          "settings": {
+            "text": "<p>את קמה בבוקר, מתמודדת עם הכאוס של היום-יום, ולא זוכרת מתי הייתה הפעם האחרונה שבה הרגשת מחוברת – לעצמך, לגוף שלך, לרוח שלך.</p><p><br/> האם גם את מרגישה ככה? את ממש לא לבד.</p>"
+          }
+        },
+        "heading_FeQxkr": {
           "type": "heading",
           "settings": {
-            "heading": "🌏 <strong>מה בתכנית?</strong>",
+            "heading": "<strong>את מרגישה ש...</strong>",
             "heading_size": "h1"
           }
         },
-        "text_BqLwTk": {
+        "text_yVFYie": {
           "type": "text",
           "settings": {
-            "text": "<p>במשך יותר משנה, אנחנו מנווטות בקרקע לא יציבה.</p><p>היציבות החיצונית עליה הסתמכנו פעם נראית חמקמקה, מביאה תחושות של חוסר ודאות וחוסר שליטה.</p><p>ריטריט היוגה הייחודי - ״אדמה והשתרשות״ - מתמקד בנושא כדור הארץ והקרקע - ומעצים אותך למצוא את היציבות הזו בתוכך באמצעות האלכימיה הטרנספורמטיבית של היוגה.<br/><br/>בהנחייתה של המורה המנוסה יעל מימון (סאד׳וי), ריטריט בן היום הזה עוצב בקפידה כדי להדריך אותך דרך שיטות עבודה וידע שמביאים בסיס לחיים שלך.</p>"
+            "text": "<p>❌ <strong>העולם סביבך בלתי צפוי.</strong> חדשות קשות, מציאות מורכבת – ואת רק מנסה לשרוד.<br/><br/> ❌ אפילו בבית, המקום שאמור להיות הבטוח שלך, יש תחושת אי-שקט שמקשה לנשום.<br/><br/> ❌ את מרגישה מנותקת מעצמך, מהכוח שהיה לך פעם.<br/><br/> ❌ <strong>פחדים עולים</strong> – איך את יכולה לדאוג לאחרים כשאפילו לעצמך את מתקשה לדאוג?<br/><br/> ❌ הגוף שלך כואב, מתוח. השינה רדודה, הראש עובד כל הזמן, ואת מרגישה מותשת.</p>"
+          }
+        },
+        "heading_aqCGKD": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>המענה שלך - לחזור לקרקע</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_Jamy84": {
+          "type": "text",
+          "settings": {
+            "text": "<p>החיבור לאדמה הוא לא רק מושג רוחני – הוא הצורך הבסיסי ביותר שלנו.</p><p> כשאת מאוזנת באדמה, את:</p><p>✔️ מרגישה יציבות וביטחון גם כשבחוץ יש סערה.</p><p>✔️ יכולה לעמוד מול כל אתגר – ולהרגיש חזקה.</p><p>✔️ משחררת את המתח בגוף ובנפש ומוצאת שקט אמיתי.</p><p>✔️ לומדת לקחת רגעים לעצמך ולהיטען באנרגיה חיובית.</p>"
           }
         }
       },
       "block_order": [
-        "heading_TLi9jA",
-        "text_BqLwTk"
+        "text_dFieAz",
+        "heading_FeQxkr",
+        "text_yVFYie",
+        "heading_aqCGKD",
+        "text_Jamy84"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -127,6 +96,120 @@
         "full_width": true,
         "padding_top": 52,
         "padding_bottom": 52
+      }
+    },
+    "rich_text_qQ7BrA": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_PgRUTC": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>איפה את עכשיו – ואיפה את יכולה להיות?</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_aECWFU": {
+          "type": "text",
+          "settings": {
+            "text": "<p>בואי נעשה ביחד חצי דקה של דמיון מודרך:</p><p>את יושבת בנחת, נושמת עמוק, וכל תחושת הכובד מתפוגגת.</p><p>את יושבת במקום שעושה לך טוב בגוף - בבית בסלון בשבת בבוקר,<br/>בטבע בשעת זריחה,<br/>בים בשעת שקיעה,<br/>או כל מקום אחר שמסב לך אושר.</p><p>מה את מריחה?<br/>מה מזג האוויר?<br/>מה את שומעת?<br/><br/>דמייני שיש לך מרחב, שקט, ואפילו תחושה של קלילות.</p><h2><strong>איך זה מרגיש?</strong></h2><p>את מחוברת לקרקע, ליציבות, לעצמך.<br/><br/>זה בדיוק מה שתחווי כאשר תאזני את האדמה הפנימית שלך - ובשביל זה הקדשנו ריטריט יוגה שלם.</p>"
+          }
+        },
+        "heading_ew9bVc": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>חזרה ליסודות </strong>🌏",
+            "heading_size": "h1"
+          }
+        },
+        "text_GdpaTn": {
+          "type": "text",
+          "settings": {
+            "text": "<p>במשך יותר משנה, אנחנו מנווטות בקרקע לא יציבה.</p><p>היציבות החיצונית עליה הסתמכנו פעם נראית חמקמקה, מביאה תחושות של חוסר ודאות וחוסר שליטה.</p><p>ריטריט היוגה הייחודי - <em>״אדמה והשתרשות״</em> - מתמקד בנושא כדור הארץ והקרקע - ומעצים אותך למצוא את היציבות הזו בתוכך באמצעות האלכימיה הטרנספורמטיבית של היוגה.</p><p>בהנחייתה של המורה המנוסה יעל מימון (סאד׳וי), ריטריט בן היום הזה עוצב בקפידה כדי להדריך אותך דרך שיטות עבודה וידע שמביאים בסיס לחיים שלך.</p>"
+          }
+        },
+        "heading_peyCTX": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>אז איך זה עובד?</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_hUXg7n": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>ריטריט אדמה הוא מסע יסודי שמתאים לך בדיוק.</strong></p><p>1️⃣ <strong>סדנאות יוגה מותאמות</strong> – תרגילים שמחזקים את הגוף, את היציבות ואת השקט הפנימי.</p><p> 2️⃣ <strong>מדיטציות מוקלטות</strong> – שתוכלי להאזין להן בכל רגע שבו את מרגישה שאת צריכה הפסקה.</p><p> 3️⃣ <strong>הסברים מעמיקים על אנרגיית האדמה</strong> – תלמדי לזהות חוסרים או עודפים בתוכך, ולהחזיר איזון.</p><p> 4️⃣ <strong>תרגולים יום-יומיים פרקטיים</strong> – שמתאימים גם למי שמעולם לא עשתה יוגה.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_PgRUTC",
+        "text_aECWFU",
+        "heading_ew9bVc",
+        "text_GdpaTn",
+        "heading_peyCTX",
+        "text_hUXg7n"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "video_cJCwDc": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "heading_text_alignment": "center",
+        "enable_video_looping": true,
+        "video": "shopify://files/videos/ריטריט אדמה והשתרשות - טיזר_5aa351eb-da51-42f6-8e3d-4fae9691b627.mp4",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": true,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_3teATm": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_8EWed4": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>למה דווקא עכשיו?</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_6dkKe3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>המצב בישראל מאז <strong>השביעי</strong> שינה הכול.<br/> אנחנו חוות פחדים קיומיים, דאגות עמוקות, וחוסר שליטה על המציאות שמסביבנו.<br/>זה טבעי להרגיש חסרות אונים.<br/>אבל מה אם תוכלי לקחת שליטה מחודשת על החיים שלך – מבפנים?</p><p><strong>ריטריט אדמה ייתן לך את הכלים להחזיר שליטה פנימית:</strong></p><p>🔹 להרגיש בטוחה בגוף שלך. <br/>🔹 להחזיר שקט פנימי – גם כשהכול סביבך רועש.<br/>🔹 להתמודד עם פחדים ודאגות, במקום לתת להם לנהל אותך.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_8EWed4",
+        "text_6dkKe3"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/ProductImage4.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "right",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "multicolumn_J8dJaF": {
@@ -188,242 +271,15 @@
         "padding_bottom": 52
       }
     },
-    "multicolumn_EJJeFK": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_tVCQrz": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/calendar-checkmark-line-icon_a87e400a-41a3-45dc-a581-a4fc9fa98a8f.svg",
-            "title": "<strong>יום שבת, 23/11/2024</strong>",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_Bpt7Nz": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/clock-line-icon.svg",
-            "title": "<strong>09:30 - 17:00</strong>",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_XzEMjE": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/address-location-icon.svg",
-            "title": "<strong>יוגודה, פרדס חנה-כרכור</strong>",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_TcUgem": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/fast-internet-speed-icon.svg",
-            "title": "<strong>מחיר חד פעמי!</strong>",
-            "text": "<p>שרייני את מקומך היום עם מקדמה בסך 100₪ בלבד!</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_tVCQrz",
-        "column_Bpt7Nz",
-        "column_XzEMjE",
-        "column_TcUgem"
-      ],
-      "settings": {
-        "title": "<strong>📅 פרטי האירוע</strong>",
-        "title_direction": "rtl",
-        "title_alignment": "center",
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "show_image_after_effect": false,
-        "columns_desktop": 4,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-3",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 52,
-        "padding_bottom": 52
-      }
-    },
-    "rich_text_fejAnm": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_8hq9xT": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>🧘 למי זה מתאים?</strong>",
-            "heading_size": "h1"
-          }
-        },
-        "text_Ge9Hif": {
-          "type": "text",
-          "settings": {
-            "text": "<p>הריטריט הזה מושלם לכל מי שמבקשת להתחבר מחדש עם עצמה, למצוא שלווה פנימית בתוך חוסר וודאות, וללמוד שיטות מעשיות כדי להישאר מקורקעת.</p><p>בין אם את חדשה ביוגה או שיש לך שנים של תרגול וניסיון, ריטריט זה יפגוש אותך בדיוק היכן שאת נמצאת.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_8hq9xT",
-        "text_Ge9Hif"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "secondary_product_EtVzUj": {
-      "type": "secondary-product",
-      "blocks": {
-        "text_zMz6KM": {
-          "type": "text",
-          "settings": {
-            "text": "✨ <strong>הטבה מיוחדת - גם לך וגם לחברה!</strong>",
-            "text_style": "body"
-          }
-        },
-        "text_JyaHxV": {
-          "type": "text",
-          "settings": {
-            "text": "כל משתתפת שמביאה חברה תהנה מ-50 ש\"ח הנחה (או זיכוי אם כבר שילמת).",
-            "text_style": "body"
-          }
-        },
-        "text_FMzAaB": {
-          "type": "text",
-          "settings": {
-            "text": "החברה תצטרף במחיר הרשמה מוקדמת (10% הנחה).",
-            "text_style": "body"
-          }
-        },
-        "text_fRtmYC": {
-          "type": "text",
-          "settings": {
-            "text": "שלמי עכשיו ₪100 בלבד והשלימי את השאר ביום הריטריט.",
-            "text_style": "subtitle"
-          }
-        },
-        "buy_buttons_QzzfXG": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": false
-          }
-        },
-        "icon_with_text_UWNrE9": {
-          "type": "icon-with-text",
-          "settings": {
-            "layout": "horizontal",
-            "icon_1": "none",
-            "image_1": "shopify://shop_images/recurring-subscription-icon.svg",
-            "heading_1": "10% הנחה!",
-            "icon_2": "none",
-            "image_2": "shopify://shop_images/secure-payment-icon.svg",
-            "heading_2": "תשלום מאובטח",
-            "icon_3": "none",
-            "image_3": "shopify://shop_images/iconmonstr-heart-thin-240.png",
-            "heading_3": "סדנה מתנה",
-            "icon_4": "none",
-            "image_4": "shopify://shop_images/pos-swipe-icon.svg",
-            "heading_4": "פריסה לתשלומים"
-          }
-        },
-        "text_AzrrD7": {
-          "type": "text",
-          "settings": {
-            "text": "*בכפוף לתקנון",
-            "text_style": "subtitle"
-          }
-        }
-      },
-      "block_order": [
-        "text_zMz6KM",
-        "text_JyaHxV",
-        "text_FMzAaB",
-        "text_fRtmYC",
-        "buy_buttons_QzzfXG",
-        "icon_with_text_UWNrE9",
-        "text_AzrrD7"
-      ],
-      "settings": {
-        "product": "{{ product }}",
-        "color_scheme": "scheme-5",
-        "secondary_background": false,
-        "constrain_to_viewport": false,
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "multirow_Cy7zp8": {
-      "type": "multirow",
-      "blocks": {
-        "row_FEBtAG": {
-          "type": "row",
-          "settings": {
-            "image": "shopify://shop_images/spa-candles-and-decor-near-window.jpg",
-            "caption": "",
-            "heading": "<strong>על המורה</strong>",
-            "text": "<p>יעל היא מורה מוסמכת ליוגה וטנטרה עם ניסיון של למעלה מ-20 שנים.</p><p>היא למדה עם מורים בכירים בהודו ומשלבת את החכמה העתיקה עם גישות מודרניות לרווחה גופנית ונפשית.</p><p>עוסקת בפסיכוטרפיה הוליסטית גופנית כ 3 עשורים ומרצה למקצועות הטיפול.</p><p>מומחית להפחתת לחצים וחרדות, והעלאת חוסן.</p><p>עובדת עם צוותים רפואיים בבתי חולים באיזור מגוריה.</p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "row_FEBtAG"
-      ],
-      "settings": {
-        "image_height": "medium",
-        "desktop_image_width": "medium",
-        "heading_size": "h1",
-        "text_style": "body",
-        "button_style": "secondary",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
-        "section_color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
-        "row_color_scheme": "scheme-3",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "collapsible_content_BhkJmX": {
       "type": "collapsible-content",
       "blocks": {
-        "collapsible_row_yQHyth": {
+        "collapsible_row_tTQkfV": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "חברה מביאה חברה? איך זה עובד?",
+            "heading": "איך זה שונה מסדנה רגילה?",
             "icon": "none",
-            "row_content": "<p>אם נרשמת לריטריט, קודם כל אנחנו מברכות אותך ומודות לך ובטוחות שהוא יהיה חוויה משמעותית עבורך.</p><p>אם תרצי לא לבוא לבד, ולהביא איתך חברה - כל חברה שתבוא דרכך תקנה לך 50₪ הנחה מעלות הריטריט שתשלמי.</p><p>החברה תקבל את הריטריט במחיר מוזל (מחיר מכירה מוקדמת)</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_Xd3ynH": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "האם אפשר לצפות בתכני הריטריט לאחר שהוא מסתיים?",
-            "icon": "none",
-            "row_content": "<p>כן!</p><p>משתתפי הריטריט יקבלו גישה דיגיטלית לכל תכני הריטריט לצפייה בכל עת כ -7 ימי עסקים לאחריו – לכל החיים, כך שתוכלו לחזור ולתרגל גם לאחר שהריטריט יסתיים.</p>",
+            "row_content": "<p> זה הרבה יותר מסדנה – זה מסע עמוק שמשלב גוף, נפש ורוח, עם ליווי צמוד.</p>",
             "page": ""
           }
         },
@@ -441,25 +297,7 @@
           "settings": {
             "heading": "האם הריטריט מתקיים באופן דיגיטלי או פיזי?",
             "icon": "none",
-            "row_content": "<p>הריטריט הוא <strong>פיזי בלבד</strong> ומתקיים בפרדס חנה.</p><p>זהו יום שלם שבו נלמד ונתרגל ביחד, פנים אל פנים, באווירה ייחודית ומחזקת.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_Fkb8Jh": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "מהו התאריך והמיקום של הריטריט?",
-            "icon": "none",
-            "row_content": "<p>הריטריט יתקיים ביום שבת, בתאריך 23/11/2024, בין השעות 9:30 ל-17:00 במתחם יוגודה בפרדס חנה.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_tR8DGP": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "מהו סכום המקדמה ומה מטרתו?",
-            "icon": "none",
-            "row_content": "<p>סכום המקדמה הוא 100 ש\"ח, והוא נדרש כדי לשריין את מקומכם בריטריט. שימו לב: המקדמה אינה ניתנת להחזר.</p>",
+            "row_content": "<p>הריטריט הוא <strong>דיגיטלי.</strong></p>",
             "page": ""
           }
         },
@@ -472,24 +310,6 @@
             "page": ""
           }
         },
-        "collapsible_row_kcwqwE": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "האם המקדמה כוללת את מלוא עלות הריטריט?",
-            "icon": "none",
-            "row_content": "<p>לא. המקדמה היא רק חלק מהתשלום. יתרת התשלום בסך 251 ש\"ח תשולם ביום הריטריט עצמו.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_RkXzaE": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "האם יש הנחה לנרשמים מוקדם?",
-            "icon": "none",
-            "row_content": "<p>כן! מי שמשלימים את <strong>התשלום המלא</strong> עד ה 20 בנובמבר יקבלו <strong>10% הנחה</strong> על מלוא סכום הריטריט.</p>",
-            "page": ""
-          }
-        },
         "collapsible_row_h6F73J": {
           "type": "collapsible_row",
           "settings": {
@@ -498,33 +318,18 @@
             "row_content": "<p>ריטריט זה הוא האחרון שלנו לפני הפסקה ארוכה.</p><p>לא מתוכננים ריטריטים נוספים בזמן הקרוב, ולכן זו הזדמנות ייחודית שלא תחזור בקרוב.</p>",
             "page": ""
           }
-        },
-        "collapsible_row_PAQkkb": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "מה יקרה אם אבטל את השתתפותי?",
-            "icon": "none",
-            "row_content": "<p>המקדמה מהווה ״דמי רצינות״ שלך מול עצמך בלבד.</p><p>היא בסך 100 ש\"ח והיא <strong>ללא החזר</strong>.</p><p>במקרה של ביטול, סכום זה לא יוחזר.</p>",
-            "page": ""
-          }
         }
       },
       "block_order": [
-        "collapsible_row_yQHyth",
-        "collapsible_row_Xd3ynH",
+        "collapsible_row_tTQkfV",
         "collapsible_row_h8MBix",
         "collapsible_row_mADL4C",
-        "collapsible_row_Fkb8Jh",
-        "collapsible_row_tR8DGP",
         "collapsible_row_UnXJRb",
-        "collapsible_row_kcwqwE",
-        "collapsible_row_RkXzaE",
-        "collapsible_row_h6F73J",
-        "collapsible_row_PAQkkb"
+        "collapsible_row_h6F73J"
       ],
       "settings": {
         "caption": "",
-        "heading": "<strong>שאלות ותשובות</strong>",
+        "heading": "<strong>שאלות שאולי עלו לך</strong>",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
@@ -537,85 +342,103 @@
         "padding_bottom": 36
       }
     },
-    "secondary_product_xC7yxG": {
-      "type": "secondary-product",
+    "rich_text_cxmP4V": {
+      "type": "rich-text",
       "blocks": {
-        "text_mKBrJa": {
+        "heading_kPXFqg": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>למקרה שלא היינו ברורות - את מקבלת</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_JK4464": {
           "type": "text",
           "settings": {
-            "text": "<strong>שרייני את מקומך עכשיו!</strong>",
-            "text_style": "body"
-          }
-        },
-        "text_3eBUK8": {
-          "type": "text",
-          "settings": {
-            "text": "משלמים עכשיו ₪100 בלבד ומשלימים את השאר ביום הריטריט.",
-            "text_style": "subtitle"
-          }
-        },
-        "buy_buttons_3w7YwE": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": false
-          }
-        },
-        "icon_with_text_iP6mmW": {
-          "type": "icon-with-text",
-          "settings": {
-            "layout": "horizontal",
-            "icon_1": "none",
-            "image_1": "shopify://shop_images/recurring-subscription-icon.svg",
-            "heading_1": "10% הנחה!",
-            "icon_2": "none",
-            "image_2": "shopify://shop_images/secure-payment-icon.svg",
-            "heading_2": "תשלום מאובטח",
-            "icon_3": "none",
-            "image_3": "shopify://shop_images/iconmonstr-heart-thin-240.png",
-            "heading_3": "סדנה מתנה",
-            "icon_4": "none",
-            "image_4": "shopify://shop_images/pos-swipe-icon.svg",
-            "heading_4": "פריסה לתשלומים"
-          }
-        },
-        "text_cy34jP": {
-          "type": "text",
-          "settings": {
-            "text": "*בכפוף לתקנון",
-            "text_style": "subtitle"
+            "text": "<p>🔸 <strong>תוכנית מלאה</strong> הכוללת יוגה, מדיטציות וכלים מעשיים.<br/>🔸 <strong>חומרים מוקלטים</strong> שתוכלי לשמור ולחזור אליהם בכל רגע.<br/>🔸 <strong>בונוס מיוחד:</strong> מדיטציה מיוחדת לקרקוע ביום-יום.<br/>🔸 <strong>את היציבות שלך בחזרה.</strong></p>"
           }
         }
       },
       "block_order": [
-        "text_mKBrJa",
-        "text_3eBUK8",
-        "buy_buttons_3w7YwE",
-        "icon_with_text_iP6mmW",
-        "text_cy34jP"
+        "heading_kPXFqg",
+        "text_JK4464"
       ],
       "settings": {
-        "product": "{{ product }}",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title_qcUKbE": {
+          "type": "title",
+          "settings": {}
+        },
+        "text_zTzU3G": {
+          "type": "text",
+          "settings": {
+            "text": "<p>💌 <strong>לחצי כאן להבטיח את מקומך</strong></p><p> זה הזמן שלך לחזור לקרקע, לחזק את עצמך ולהתחבר לעוצמה שלך.</p>",
+            "text_style": "body"
+          }
+        },
+        "price_bRUV8E": {
+          "type": "price",
+          "settings": {}
+        },
+        "buy_buttons_DhFQ8E": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "text_nakdgq": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>זכרי: את לא לבד. אנחנו כאן לצעוד איתך במסע הזה. ❤️</strong></p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "title_qcUKbE",
+        "text_zTzU3G",
+        "price_bRUV8E",
+        "buy_buttons_DhFQ8E",
+        "text_nakdgq"
+      ],
+      "settings": {
+        "show_tax_notice": false,
+        "enable_sticky_info": true,
         "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
-        "secondary_background": false,
+        "media_size": "medium",
         "constrain_to_viewport": false,
-        "hide_variants": false,
-        "enable_video_looping": false,
+        "media_fit": "cover",
+        "gallery_layout": "columns",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "hide",
+        "hide_variants": true,
+        "enable_video_looping": true,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 12
       }
     }
   },
   "order": [
-    "main",
-    "component_countdown_qF7MKe",
+    "image_banner_eyrDfn",
     "rich_text_9fKHgT",
+    "rich_text_qQ7BrA",
+    "video_cJCwDc",
+    "image_with_text_3teATm",
     "multicolumn_J8dJaF",
-    "multicolumn_EJJeFK",
-    "rich_text_fejAnm",
-    "secondary_product_EtVzUj",
-    "multirow_Cy7zp8",
     "collapsible_content_BhkJmX",
-    "secondary_product_xC7yxG"
+    "rich_text_cxmP4V",
+    "main"
   ]
 }

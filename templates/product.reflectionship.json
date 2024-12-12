@@ -12,10 +12,10 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "text_nXqLWm": {
+        "text_ib4M4n": {
           "type": "text",
           "settings": {
-            "text": "<p>גרסא דיגיטלית ששומרת על איכות הסביבה 🌏</p>",
+            "text": "<p>גרסא מעודכנת ומחודשת לשנת 2025!</p>",
             "text_style": "body"
           }
         },
@@ -29,28 +29,20 @@
         "text_cPKahw": {
           "type": "text",
           "settings": {
-            "text": "<h3>Reflectionship - הספר שיעזור לך לגלות את עצמך, לשחרר את מה שמעכב אותך ולהוביל שינוי אמיתי במערכות היחסים ובחיים האישיים.</h3>",
+            "text": "<h3>הספר הקצר שיעזור לך לגלות את עצמך, לשחרר את מה שמעכב אותך ולהוביל שינוי אמיתי במערכות היחסים ובחיים האישיים.</h3>",
             "text_style": "body"
-          }
-        },
-        "text_zrpB6e": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>בעקבות המצב - אנחנו מחלקות 300 עותקים דיגיטליים מהספר במחיר בדיחה!</h2>",
-            "text_style": "body"
-          }
-        },
-        "inventory_gdehpW": {
-          "type": "inventory",
-          "settings": {
-            "text_style": "body",
-            "inventory_threshold": 50,
-            "show_inventory_quantity": true
           }
         },
         "price_bRUV8E": {
           "type": "price",
           "settings": {}
+        },
+        "variant_picker_qRKHQy": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
         },
         "buy_buttons_DhFQ8E": {
           "type": "buy_buttons",
@@ -75,12 +67,11 @@
         }
       },
       "block_order": [
-        "text_nXqLWm",
+        "text_ib4M4n",
         "text_Tt8jTn",
         "text_cPKahw",
-        "text_zrpB6e",
-        "inventory_gdehpW",
         "price_bRUV8E",
+        "variant_picker_qRKHQy",
         "buy_buttons_DhFQ8E",
         "text_LiTWgJ",
         "text_xT6jtz"
@@ -90,8 +81,8 @@
         "enable_sticky_info": true,
         "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
         "media_size": "medium",
-        "constrain_to_viewport": true,
-        "media_fit": "cover",
+        "constrain_to_viewport": false,
+        "media_fit": "contain",
         "gallery_layout": "columns",
         "media_position": "left",
         "image_zoom": "lightbox",
@@ -102,14 +93,14 @@
         "padding_bottom": 12
       }
     },
-    "component_countdown_VNBaXX": {
+    "component_countdown_3NgY7F": {
       "type": "component-countdown",
       "settings": {
         "show_days": false,
-        "countdown_date": "Tue Dec 3 2024 16:59:59 GMT+0300 (שעון ישראל (קיץ))",
-        "countdown_url": "shopify://products/reflectionship",
+        "countdown_date": "Sat Mar 03 2025 12:00:00 GMT+0300 (שעון ישראל (קיץ))",
+        "countdown_url": "/",
         "left_text": true,
-        "left_copy": "<p>מחיר הספר יעלה בעוד</p>",
+        "left_copy": "<p>המחיר עולה עוד</p>",
         "right_text_direction": "ltr",
         "left_text_direction": "ltr",
         "right_text": false,
@@ -122,7 +113,7 @@
         "text_BqLwTk": {
           "type": "text",
           "settings": {
-            "text": "<p><em>\"לקח לי מעל 15 שנים, יותר מ 50 ספרים, ויותר מ 1,000 מטופלים להבין איך להשתחרר מהשרשראות שמנהלות את חיינו.</em></p><p><em>כעת, כל התובנות מרוכזות עבורכם בספר אחד קצר ומעשי - </em><em><strong>74 עמודים בלבד</strong></em><em> שילווה אתכם שלב אחר שלב במסע הפנימי שלכם.\"</em></p><p>ד״ר יעל מימון, מחברת הספר, פסיכותרפיסטית בכירה ויועצת צמיחה רגשית.</p>"
+            "text": "<p><em>\"לקח לי מעל 25 שנים, יותר מ 50 ספרים, ויותר מ 1,000 מטופלים להבין איך להשתחרר מהשרשראות שמנהלות את חיינו.</em></p><p><em>כעת, כל התובנות מרוכזות עבורכם בספר אחד קצר ומעשי - 157</em><em><strong> עמודים </strong></em><em> שילווה אתכם שלב אחר שלב במסע הפנימי שלכם.\"</em></p><p>יעל מימון (סאדו׳י), מחברת הספר, פסיכותרפיסטית בכירה ויועצת צמיחה רגשית.</p>"
           }
         }
       },
@@ -155,8 +146,8 @@
         "buy_buttons_QzzfXG": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": true
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false
           }
         },
         "icon_with_text_UWNrE9": {
@@ -231,7 +222,7 @@
         "column_a34njW"
       ],
       "settings": {
-        "title": "<strong>הנה מה שלקוחות מספרות/ים</strong>",
+        "title": "<strong>הנה מה שלקוחות מספרות</strong>",
         "title_direction": "rtl",
         "title_alignment": "center",
         "heading_size": "h1",
@@ -280,28 +271,60 @@
         "padding_bottom": 52
       }
     },
+    "multirow_Li4GMb": {
+      "type": "multirow",
+      "blocks": {
+        "row_aYxDTK": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/0dd974325d018867fc622eddbc6c4eb2.webp",
+            "caption": "בונוס 1",
+            "heading": "<strong>מדיטציה מודרכת</strong> - ״שאבאסאנה - תנוחת המת״",
+            "text": "<p>19 דקות של מדיטציה מודרכת יחידה במינה, לשחרור מוחלט של הגוף - במתנה כחלק <strong>מהספר הדיגיטלי.</strong></p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_hGjWfc": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/acd2b5b392d7cf0f54e5dea4004e6ac8.webp",
+            "caption": "בונוס 2",
+            "heading": "דמיון מודרך לשחרור אשמה - ״מדיטציית האפונים״",
+            "text": "<p>שחררי את האשמה שלך ב 7 דקות בלבד עם המדיטציה הייחודית הזו, הניתנת במתנה עם <strong>הספר הדיגיטלי.</strong></p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_aYxDTK",
+        "row_hGjWfc"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "scheme-1",
+        "row_color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "secondary_product_y7HGgK": {
       "type": "secondary-product",
       "blocks": {
         "text_7VBYyQ": {
           "type": "text",
           "settings": {
-            "text": "<strong>שינוי, או חבילת מסטיקים?</strong>",
+            "text": "⚖️ <strong>איזון רגשי, או קפה ומאפה? </strong>☕🥐",
             "text_style": "body"
-          }
-        },
-        "text_8Jqmbw": {
-          "type": "text",
-          "settings": {
-            "text": "הזדמנות חד-פעמית לרכוש את הספר במחיר מצחיק של 9.90 ₪ בלבד.",
-            "text_style": "subtitle"
-          }
-        },
-        "text_kAic7T": {
-          "type": "text",
-          "settings": {
-            "text": "עד גמר המלאי.",
-            "text_style": "subtitle"
           }
         },
         "price_wQ7bUx": {
@@ -321,15 +344,21 @@
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": true
           }
+        },
+        "text_jqgRFW": {
+          "type": "text",
+          "settings": {
+            "text": "הגיע הזמן להפסיק לדחות את עצמך. זה לא אגואיסטי - זה הכרחי.",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
         "text_7VBYyQ",
-        "text_8Jqmbw",
-        "text_kAic7T",
         "price_wQ7bUx",
         "variant_picker_wVPpyA",
-        "buy_buttons_G8rbRP"
+        "buy_buttons_G8rbRP",
+        "text_jqgRFW"
       ],
       "settings": {
         "product": "reflectionship",
@@ -355,7 +384,7 @@
         "text_P7F6G9": {
           "type": "text",
           "settings": {
-            "text": "<p>הספר הזה הוא לא ״כפתור הצלה״ והופ עשיתם שינוי, אלא תהליך מעמיק, מחבר ומרגש שנועד לסייע לך במסע האמיתי להיכרות עם עצמך.</p><p>אם אתם מחפשים פתרון קל ומהיר - תצאו מהדף הזה עכשיו - הוא לא בשבילכם.</p>"
+            "text": "<p>הספר הזה הוא לא ״הכפתור האדום 🆘״.</p><p>מדובר בתהליך מעמיק, מחבר ומרגש שנועד לסייע לך במסע האמיתי להיכרות עם עצמך.</p><p>הוא יכול להיות קצר, והוא יכול להיות ארוך. זה תלוי אך ורק בך, ובמקום שבו את נמצאת עכשיו.</p><p>אם את מחפשת פתרון קל ומהיר - תצאי מהדף הזה עכשיו - הוא לא בשבילך.</p>"
           }
         },
         "heading_3B6xat": {
@@ -368,13 +397,13 @@
         "text_4hCVbX": {
           "type": "text",
           "settings": {
-            "text": "<p>בהמשך הדף תמצאו סיפור אישי מרגש של המחברת - אנחנו רק מתחילים.</p>"
+            "text": "<p>בהמשך הדף תמצאי סיפור אישי מרגש של המחברת - אנחנו רק מתחילות.</p>"
           }
         },
         "heading_DcwAHd": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>מה עוד תלמדו בספר</strong>",
+            "heading": "<strong>מה עוד תלמדי בספר</strong>",
             "heading_size": "h1"
           }
         },
@@ -494,7 +523,7 @@
           "settings": {
             "heading": "מה אם אקרא את הספר ולא ארגיש שינוי?",
             "icon": "none",
-            "row_content": "<p><em>אנחנו כל כך מאמינות בערך של הספר ובכוח השינוי שבו, שאנו מציעות לך החזר כספי מלא אם לא תחושי שום שינוי!</em></p><p><em>כך תוכל לנסות ללא כל סיכון.</em></p>",
+            "row_content": "<p><em>אנחנו כל כך מאמינות בערך של הספר ובכוח השינוי שבו, שאנו מציעות לך החזר כספי מלא אם לא תחושי שום שינוי!</em></p><p><em>כך תוכלי לנסות ללא כל סיכון.</em></p>",
             "page": ""
           }
         },
@@ -530,7 +559,7 @@
       ],
       "settings": {
         "caption": "",
-        "heading": "שאלות נפוצות",
+        "heading": "<strong>אולי שאלת את עצמך</strong>",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
@@ -612,13 +641,6 @@
     "secondary_product_GxN9ta": {
       "type": "secondary-product",
       "blocks": {
-        "text_7Tcr6j": {
-          "type": "text",
-          "settings": {
-            "text": "<strong>הספר במחיר חסר תקדים של 9.90 ₪ בלבד במקום 79 ₪!</strong>",
-            "text_style": "body"
-          }
-        },
         "text_TbDw7m": {
           "type": "text",
           "settings": {
@@ -639,6 +661,10 @@
             "swatch_shape": "circle"
           }
         },
+        "price_NAHEE8": {
+          "type": "price",
+          "settings": {}
+        },
         "buy_buttons_rrqHNe": {
           "type": "buy_buttons",
           "settings": {
@@ -649,16 +675,16 @@
         "text_NhMfcx": {
           "type": "text",
           "settings": {
-            "text": "<strong>הזדמנות של פעם בחיים – הצטרפו עכשיו וקחו צעד ראשון לקראת השינוי.</strong>",
+            "text": "<strong>הזדמנות של פעם בחיים – הצטרפי עכשיו וקחי צעד ראשון לקראת השינוי.</strong>",
             "text_style": "subtitle"
           }
         }
       },
       "block_order": [
-        "text_7Tcr6j",
         "text_TbDw7m",
         "title_VKhwxa",
         "variant_picker_c8iEUf",
+        "price_NAHEE8",
         "buy_buttons_rrqHNe",
         "text_NhMfcx"
       ],
@@ -676,11 +702,12 @@
   },
   "order": [
     "main",
-    "component_countdown_VNBaXX",
+    "component_countdown_3NgY7F",
     "rich_text_9fKHgT",
     "secondary_product_EtVzUj",
     "multicolumn_bCxNaU",
     "rich_text_j4WfKB",
+    "multirow_Li4GMb",
     "secondary_product_y7HGgK",
     "rich_text_jqFQ8N",
     "rich_text_tBM7yA",

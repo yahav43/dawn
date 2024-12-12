@@ -9,88 +9,60 @@
  */
 {
   "sections": {
-    "rich_text_R74eqT": {
-      "type": "rich-text",
+    "image_banner_yCGVAF": {
+      "type": "image-banner",
       "blocks": {
-        "caption_tF888j": {
-          "type": "caption",
-          "settings": {
-            "caption": "לראשונה בישראל",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        },
-        "caption_46LHEj": {
-          "type": "caption",
-          "settings": {
-            "caption": "הפתרון המקיף להתמודד עם לחץ וחרדה",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        }
-      },
-      "block_order": [
-        "caption_tF888j",
-        "caption_46LHEj"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
-        "full_width": true,
-        "padding_top": 16,
-        "padding_bottom": 0
-      }
-    },
-    "image_with_text_yJGfA4": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_FAVbLf": {
+        "heading_4XLrct": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>StressLess - הדרך שלך להחזיר את השקט שלך</strong>",
-            "heading_size": "h0"
+            "heading": "<strong>StressLess</strong>",
+            "heading_size": "h0",
+            "title_direction": "rtl"
           }
         },
-        "text_bC9Qni": {
+        "text_Qn9dwt": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>חלאס.</strong></p><p>מישהו צריך להגיד את זה.</p><p>הלחץ היומיומי שאנחנו מתמודדות איתו כל יום כבר <strong>יותר מ - 400</strong> ימים הוא לא משהו שאפשר להמשיך לחיות איתו.</p><p>כל יום מחדש:</p><ul><li>לזגזג מהאינסטגרם למבזקים ב Ynet</li><li>לצפות בחדשות באובססיביות</li><li>להגיד אמירות מדכאות כמו ״עד כמה שאפשר״ או ״זה מה יש״ או ״בגלל המצב״</li><li>לדאוג מתי תהיה האזעקה הבאה...</li></ul>",
+            "text": "<h2><strong>לנצח את החרדה,</strong></h2><h2><strong>להפסיק לדאוג, </strong></h2><h2><strong>ולחזור לחיות כמו שאנחנו אמורים</strong></h2>",
             "text_style": "body"
           }
         }
       },
       "block_order": [
-        "heading_FAVbLf",
-        "text_bC9Qni"
+        "heading_4XLrct",
+        "text_Qn9dwt"
       ],
       "settings": {
-        "image": "shopify://shop_images/crashing-ocean-waves-in-distance-behind-silhouette-of-woman.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "middle",
+        "image": "shopify://shop_images/create_relaxing_water_images_with_aesthetic_objects.jpg",
+        "image_overlay_opacity": 50,
+        "image_height": "large",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
         "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
-        "color_scheme": "scheme-3",
+        "color_scheme": "scheme-4",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "stack_images_on_mobile": false,
+        "show_text_below": false
       }
     },
-    "rich_text_tMrrnp": {
+    "rich_text_NpfGDf": {
       "type": "rich-text",
       "blocks": {
-        "heading_dPN4kT": {
+        "text_YcwmaB": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>חלאס.</strong></p><p>מישהו צריך להגיד את זה.</p><p>הלחץ היומיומי שאנחנו מתמודדות איתו כל יום כבר <strong>יותר מ - 400</strong> ימים הוא לא משהו שאפשר להמשיך לחיות איתו.</p><p>כל יום מחדש:</p><ul><li>לזגזג מהאינסטגרם למבזקים ב Ynet</li><li>לצפות בחדשות באובססיביות</li><li>להגיד אמירות מדכאות כמו ״עד כמה שאפשר״ או ״זה מה יש״ או ״בגלל המצב״</li><li>לדאוג מתי תהיה האזעקה הבאה...</li></ul>"
+          }
+        },
+        "heading_7Ltxzc": {
           "type": "heading",
           "settings": {
             "heading": "<strong>להיות חופשייה מחרדות - האם זה יותר מדי לבקש?</strong>",
             "heading_size": "h1"
           }
         },
-        "text_RY8c3X": {
+        "text_HBGw9e": {
           "type": "text",
           "settings": {
             "text": "<p><strong>לא.</strong></p><p><strong>ממש לא.</strong></p><p>לדמיין יום שבו את נושמת בקלות, בלי מועקה בחזה או דפיקות לב מואצות - <strong>זה לא יותר מדי לבקש.</strong></p><p>יום שבו את יכולה פשוט <em>להיות</em>, ללא מתח, ללא מחשבות טורדניות – רק רוגע, קלילות ושלווה אמיתית - <strong>זה לא יותר מדי לבקש.</strong></p><p>לעבור יום אחד בלי לדאוג אם מישהו שאת מכירה יחזור הביתה בשלום מהמילואים - <strong>זה לא יותר מדי לבקש.</strong></p><p>לחיות בלי חרדה <strong>זה לא יותר מדי לבקש.</strong></p>"
@@ -98,13 +70,14 @@
         }
       },
       "block_order": [
-        "heading_dPN4kT",
-        "text_RY8c3X"
+        "text_YcwmaB",
+        "heading_7Ltxzc",
+        "text_HBGw9e"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "",
+        "color_scheme": "scheme-3",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -152,7 +125,7 @@
         "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 40
       }
     },
     "rich_text_cGJR6f": {
@@ -168,7 +141,7 @@
         "text_aAHFRV": {
           "type": "text",
           "settings": {
-            "text": "<p>למקרה את תוהה - <strong>״מי אתם?״</strong></p><p>אז נמסטה 🪷🙏,</p><p>אני יעל מימון (סאד׳וי).</p><p>נולדתי ברמת גן ב 1970.</p><p>עברתי ילדות מורכבת כבת בכורה להורים גרושים, ילדה ונערה בסיכון.</p><p>מהיום שאני זוכרת את עצמי חיפשתי אמת, תכלית ומשמעות.</p><p>החיפוש שלי הוביל אותי לשנים רבות של לימודים בכל מיני מסגרות ובעיקר לחקירה נוקבת וחסרת פשרות של עצמי.</p><p>לימים, התחתנתי והבאתי לעולם ארבעה ילדים נפלאים שלימדו אותי המון על עצמי ובכלל.</p><p>הכלים שרכשתי הובילו אותי לטיפול ולהוראה של מקצועות הטיפול.</p><p>אני עוסקת בטיפול כ 25 שנים, מלמדת כ 20 שנים.</p><p>ב 12 השנים האחרונות אני מרצה ומרכזת את המגמה לפסיכותרפיה הוליסטית מכללת הנות בחדרה.</p><p>בשנתיים האחרונות, ובעקבות המצב, הפכתי ליועצת בצוות חוסן לעובדים בבית החולים הילל יפה, בה אני מעבירה סדנאות בנושא שחיקה וסטרס לעובדים ועוזרת בבניית תכנים וכלים.</p><p>הדרך הרוחנית שלי היא יוגה.</p><p>אני מורה ותלמידה ליוגה כ 20 שנה.</p><p>מלמדת יוגה בבית החולים הלל יפה משנת 2019.</p><p>אני מאמינה שכדי להגיע להחלמה והרמוניה צריך לטפל באדם ולא במחלה.</p>"
+            "text": "<p>למקרה את תוהה - <strong>״מי אתם?״</strong></p><p>אז נמסטה 🪷🙏,</p><p>אני יעל מימון (סאד׳וי).</p><p>נולדתי ברמת גן ב 1970.</p><p>עברתי ילדות מורכבת כבת בכורה להורים גרושים, ילדה ונערה בסיכון.</p><p>מהיום שאני זוכרת את עצמי חיפשתי אמת, תכלית ומשמעות.</p><p>החיפוש שלי הוביל אותי לשנים רבות של לימודים בכל מיני מסגרות ובעיקר לחקירה נוקבת וחסרת פשרות של עצמי.</p><p>לימים, התחתנתי והבאתי לעולם ארבעה ילדים נפלאים שלימדו אותי המון על עצמי ובכלל.</p><p>הכלים שרכשתי הובילו אותי לטיפול ולהוראה של מקצועות הטיפול.</p><p>אני עוסקת בטיפול כ 25 שנים, מלמדת כ 20 שנים.</p><p>ב 12 השנים האחרונות אני מרצה ומרכזת את המגמה לפסיכותרפיה הוליסטית מכללת הנות בחדרה.</p><p>ב 4 שנים האחרונות, ובעקבות המצב, הפכתי ליועצת בצוות חוסן לעובדים בבית החולים הילל יפה, בה אני מעבירה סדנאות בנושא שחיקה וסטרס לעובדים ועוזרת בבניית תכנים וכלים.</p><p>הדרך הרוחנית שלי היא יוגה.</p><p>אני מורה ותלמידה ליוגה כ 20 שנה.</p><p>מלמדת יוגה בבית החולים הלל יפה משנת 2019.</p><p>אני מאמינה שכדי להגיע להחלמה והרמוניה צריך לטפל באדם ולא במחלה.</p>"
           }
         }
       },
@@ -457,7 +430,7 @@
         "text_LMFE7H": {
           "type": "text",
           "settings": {
-            "text": "<p>את לא לבד.</p><p>ואת בטח לא צריכה להמשיך לחיות כמו שחיית עד היום.</p><p>ובטח ובטח שאת לא צריכה להמשיך לסבול בגלל זה!</p><p>לאור העובדה שנשים רבות מתמודדות עם הבעיה הזו, דאגתי להכניס במיוחד שיעור שלם בסדנה הדיגיטלית הזו, שמדבר על הדפוס הזה בלבד.</p><p><strong>שיעור מספר 6 בסדנה ידבר על:</strong></p><ul><li>מאיפה ״אימצת״ את הדפוס הזה,</li><li>למה עשית את זה,</li><li>איך הוא שירת אותך (בעבר כמובן),</li><li>למה הוא גורם לך לסטרס,</li><li>ומה את יכולה לעשות כדי להתחיל לעקור אותו מהשורש ולחיות ללא לחץ.</li></ul>"
+            "text": "<p>את לא לבד.</p><p>ואת בטח לא צריכה להמשיך לחיות כמו שחיית עד היום.</p><p>ובטח ובטח שאת לא צריכה להמשיך לסבול בגלל זה!</p><p>לאור העובדה שנשים רבות מתמודדות עם הבעיה הזו, דאגתי להכניס במיוחד שיעור שלם בסדנה הדיגיטלית הזו, שמדבר על הדפוס הזה בלבד.</p><p><strong>שיעור מספר 5 בסדנה ידבר על:</strong></p><ul><li>מאיפה ״אימצת״ את הדפוס הזה,</li><li>למה עשית את זה,</li><li>איך הוא שירת אותך (בעבר כמובן),</li><li>למה הוא גורם לך לסטרס,</li><li>ומה את יכולה לעשות כדי להתחיל לעקור אותו מהשורש ולחיות ללא לחץ.</li></ul>"
           }
         }
       },
@@ -577,8 +550,8 @@
         "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 80,
+        "padding_bottom": 80
       }
     },
     "rich_text_CQJBaQ": {
@@ -587,20 +560,20 @@
         "heading_XGbVV7": {
           "type": "heading",
           "settings": {
-            "heading": "אוקיי הבנתי, זה מדבר אליי - כמה זה עולה?",
+            "heading": "<strong>אוקיי הבנתי, זה מדבר אליי - כמה זה עולה?</strong>",
             "heading_size": "h1"
           }
         },
         "text_qhAi3m": {
           "type": "text",
           "settings": {
-            "text": "<p>הערך של התכנים הוא ערך שלא ניתן לכמת - ההשפעה של פתירת הלחצים שמעכבים אותך בחייך שווה לך סכומים שלא את ולא אני לא יכולות לדמיין כרגע בכלל.</p>"
+            "text": "<p>הערך של התכנים בסדנת <strong>StressLess</strong> הוא ערך שקשה מאוד לכמת - ההשפעה של היכולת לנהל ולהתמודד את הלחצים שמעכבים אותך בחייך שווה לך דברים שנמצאים אולי מעבר לגבולות הדמיון.</p>"
           }
         },
         "heading_RRP7BN": {
           "type": "heading",
           "settings": {
-            "heading": "ובכל זאת",
+            "heading": "<strong>ובכל זאת</strong>",
             "heading_size": "h1"
           }
         },
@@ -620,16 +593,18 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 0,
+        "padding_bottom": 36
       }
     },
     "custom_liquid_34dL9n": {
       "type": "custom-liquid",
       "custom_css": [
-        "strong {font-size: 5rem;}"
+        ".center {margin: auto;}",
+        "strong {font-size: 5rem;}",
+        "@media (min-width: 990px) {strong {font-size: 8rem; }}"
       ],
       "settings": {
         "custom_liquid": "<div class=\"rich-text__blocks center\">\n<h2 class=\"rich-text__heading rte inline-richtext h1 scroll-trigger animate--slide-in price--on-sale\" data-cascade=\"\" style=\"--animation-order: 0;\">\n                <strong class=\"price-item price-item--regular\">{{ product.compare_at_price | money_with_currency }}</strong>\n              </h2>\n</div>",
@@ -692,7 +667,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "",
+        "color_scheme": "scheme-3",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 24
@@ -701,7 +676,9 @@
     "custom_liquid_KkHaUK": {
       "type": "custom-liquid",
       "custom_css": [
-        "strong {font-size: 4rem;}"
+        ".center {margin: auto;}",
+        "strong {font-size: 5rem;}",
+        "@media (min-width: 990px) {strong {font-size: 8rem; }}"
       ],
       "settings": {
         "custom_liquid": "<div class=\"rich-text__blocks center\">\n<h2 class=\"rich-text__heading rte inline-richtext h1 scroll-trigger animate--slide-in price--on-sale\" data-cascade=\"\" style=\"--animation-order: 0;\">\n                <strong class=\"price-item price-item--sale price-item--last\">{{ product.price | money_with_currency }} בלבד</strong>\n              </h2>\n</div>",
@@ -738,8 +715,8 @@
       "type": "component-countdown",
       "settings": {
         "show_days": false,
-        "countdown_date": "Wed Jan 01 2025 12:00:00 GMT+0300 (שעון ישראל (קיץ))",
-        "countdown_url": "",
+        "countdown_date": "Wed Jan 01 2025 23:59:59 GMT+0300 (שעון ישראל (קיץ))",
+        "countdown_url": "/",
         "left_text": true,
         "left_copy": "<p>המחיר יעלה בעוד</p>",
         "right_text_direction": "ltr",
@@ -761,7 +738,7 @@
         "text_3VTF9i": {
           "type": "text",
           "settings": {
-            "text": "<p>תלחצי על הכפתור ״הוספה לסל״,</p><p>תמלאי את הפרטים,</p><p>תאשרי את התשלום המאובטח,</p><p>ותתחילי לפתוח את הימים שלך</p><p>עם שלווה במקום עם סטרס.</p>",
+            "text": "<p>תלחצי על הכפתור ״קנה עכשיו״,</p><p>תמלאי את הפרטים,</p><p>תאשרי את התשלום המאובטח,</p><p>ותתחילי לפתוח את הימים שלך</p><p>עם שלווה במקום עם סטרס.</p>",
             "text_style": "body"
           }
         },
@@ -784,7 +761,7 @@
         "buy_buttons_QUjnFk": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": false,
+            "show_dynamic_checkout": true,
             "show_gift_card_recipient": false
           }
         },
@@ -820,16 +797,16 @@
         "enable_sticky_info": true,
         "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
         "media_size": "small",
-        "constrain_to_viewport": true,
+        "constrain_to_viewport": false,
         "media_fit": "contain",
-        "gallery_layout": "stacked",
+        "gallery_layout": "columns",
         "media_position": "left",
         "image_zoom": "lightbox",
         "mobile_thumbnails": "hide",
         "hide_variants": false,
         "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 60,
+        "padding_bottom": 60
       }
     },
     "collapsible_content_BhkJmX": {
@@ -925,9 +902,8 @@
     }
   },
   "order": [
-    "rich_text_R74eqT",
-    "image_with_text_yJGfA4",
-    "rich_text_tMrrnp",
+    "image_banner_yCGVAF",
+    "rich_text_NpfGDf",
     "rich_text_jPcDFh",
     "rich_text_kz3cXM",
     "rich_text_cGJR6f",

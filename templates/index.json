@@ -9,31 +9,258 @@
  */
 {
   "sections": {
-    "image_banner": {
-      "type": "image-banner",
+    "1733587743d71f48a1": {
+      "type": "apps",
       "blocks": {
-        "heading": {
+        "klaviyo_email_marketing_sms_form_embed_block_diQrED": {
+          "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/form-embed-block/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "Sc8fj8"
+          }
+        }
+      },
+      "block_order": [
+        "klaviyo_email_marketing_sms_form_embed_block_diQrED"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "@media screen and (min-width: 750px) {input, button {max-width: 50rem; width: 50rem; margin: auto; direction: rtl; }}"
+      ],
+      "settings": {
+        "include_margins": false
+      }
+    },
+    "rich_text_DRGerC": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_gUXCwa": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>25% הנחה</strong>",
-            "heading_size": "h1",
+            "heading": "<strong>פעם גם אני הייתי שם</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_kVNyxm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>הייתי שם. הייתי חיה בתחושה מתמדת שאני חייבת לרַצות את כולם – בני משפחה, חברים, לקוחות.</p><p>כל \"כן\" שאמרתי היה מלווה בתחושת פחד או כעס, כל \"לא\" נשמע לי כמו סכנה לאהבה, להערכה, לקשר.</p><p>בשקט שבפנים, צברתי מתח, חרדה, ודימוי עצמי נרמס. פחדתי שאם אשים גבולות, מישהו יחשוב שאני \"לא טובה מספיק\" או \"אנוכית\".</p><p>ולכן המשכתי לשתוק, להסכים, להקריב את עצמי שוב ושוב.</p>"
+          }
+        },
+        "heading_kE96bX": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>אבל אז קרה משהו.</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_RUHQtQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>עצרתי ושאלתי:</p><p>\"מה איתי?!</p><p>מה עם הצרכים, הרצונות והשקט הנפשי שלי?!\"</p><p>הבנתי שאם לא אשנה כיוון, אשחק את עצמי למוות. התחלתי ללמוד, לחקור, להתייעץ – וגיליתי שאפשר אחרת.</p><p>למדתי טכניקות להצבת גבולות ברורים, לתקשורת אסרטיבית, לתרגול נשימות, ולהעצמת הביטחון העצמי.</p><p>צעד אחר צעד, שחררתי את עצמי מדפוס הריצוי וחזרתי לנשום, לחיות, להתפתח – בלי פחד מה\"לא\".</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_gUXCwa",
+        "text_kVNyxm",
+        "heading_kE96bX",
+        "text_RUHQtQ"
+      ],
+      "disabled": true,
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_q6NtFP": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YAjMiR": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>למה יצרתי את Projcet NO</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_4V7VHN": {
+          "type": "text",
+          "settings": {
+            "text": "<p></p><p>אחרי שהצלחתי להשתחרר מהדפוס המתיש הזה, ידעתי שלא אוכל לשמור את הכלים לעצמי.<br/>ראיתי סביבי עשרות (אם לא מאות) מטופלות שעברו אצלי – חכמות, מוכשרות, טובות לב – אשר נלכדות באותו מעגל:<br/>הן חוששות לאכזב אחרים, מהססים לשים את עצמן במקום הראשון, ונחנקות מהפחד האינסופי \"מה יגידו?\"</p><p><strong>Project NO</strong> נולד מתוך ההבנה הזאת: בניתי מדריך חינמי, ברור ופשוט, שמרכז את התובנות והשיטות שעבדו לי ולכל המטופלות שלי.<br/>מדריך שיכול לחסוך לך זמן, מתח וכאב לב, ולהנחות אותך בדרך ישירה לשינוי.</p><p></p>"
+          }
+        },
+        "heading_LY9tiE": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>״למה שאני אקשיב לך?״</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_yq4DGf": {
+          "type": "text",
+          "settings": {
+            "text": "<p>שאלה לגיטימית, אז נמסטה 🪷🙏,</p><p>אני יעל מימון (סאד׳וי).</p><p>נולדתי ברמת גן ב 1970.</p><p>עברתי ילדות מורכבת כבת בכורה להורים גרושים, ילדה ונערה בסיכון.</p><p>מהיום שאני זוכרת את עצמי חיפשתי אמת, תכלית ומשמעות.</p><p>החיפוש שלי הוביל אותי לשנים רבות של לימודים בכל מיני מסגרות ובעיקר לחקירה נוקבת וחסרת פשרות של עצמי.</p><p>לימים, התחתנתי והבאתי לעולם ארבעה ילדים נפלאים שלימדו אותי המון על עצמי ובכלל.</p><p>הכלים שרכשתי הובילו אותי לטיפול ולהוראה של מקצועות הטיפול.</p><p>אני עוסקת בטיפול כ 25 שנים, מלמדת כ 20 שנים.</p><p>ב 12 השנים האחרונות אני מרצה ומרכזת את המגמה לפסיכותרפיה הוליסטית מכללת הנות בחדרה.</p><p>ב 4 שנים האחרונות, ובעקבות המצב, הפכתי ליועצת בצוות חוסן לעובדים בבית החולים הילל יפה, בה אני מעבירה סדנאות בנושא שחיקה וסטרס לעובדים ועוזרת בבניית תכנים וכלים.</p><p>הדרך הרוחנית שלי היא יוגה.</p><p>אני מורה ותלמידה ליוגה כ 20 שנה.</p><p>מלמדת יוגה בבית החולים הלל יפה משנת 2019.</p><p>אני מאמינה שכדי להגיע להחלמה והרמוניה צריך לטפל באדם ולא במחלה.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_YAjMiR",
+        "text_4V7VHN",
+        "heading_LY9tiE",
+        "text_yq4DGf"
+      ],
+      "disabled": true,
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_Yfr4jA": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_WXVbXb": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>מה תלמדי במדריך החינמי הזה</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_hjEUyi": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>✅ זיהוי מקור הפחד מאכזבה:</strong> להבין למה \"לא\" כל כך מפחיד אותך ומה משמר את דפוס הריצוי.</p><p>✅ <strong>אמירת \"לא\" בביטחון:</strong> לקבל משפטי מפתח ותרגילים פרקטיים שישחררו אותך מהצורך להתנצל.</p><p>✅ <strong>חיזוק הביטחון העצמי והערך העצמי:</strong> תרגילים פשוטים שיעזרו לך להזכיר לעצמך את הערך האמיתי שלך.</p><p>✅ <strong>ניהול לחץ וחרדה:</strong> טכניקות נשימה והרפיה שיורידו את מפלס המתח ויסייעו לך לשמור על ראש נקי.</p><p>✅ <strong>בניית גבולות בריאות במערכות יחסים:</strong> איך להבהיר לאחרים מה מתאים לך ומה לא, בלי לחשוש ש\"ייפגעו\" ממך.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_WXVbXb",
+        "text_hjEUyi"
+      ],
+      "disabled": true,
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_kVyR8N": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Y8UHV7": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>אני רוצה להיות כנה איתך: המדריך הזה לא בשבילך אם את…</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_rxNEcE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>👩🏽 כבר אומרת \"לא\" בביטחון בכל פעם שאת לא רוצה להסכים, בלי טיפת אשמה או היסוס.<br/>👩🏽 מעולם לא חששת שמא מישהו יראה אותך כ\"לא נחמדה\" או יאכזב אותך, ואין לך כל מתח או חרדה סביב הנושא.<br/>👩🏽 תמיד שמה את עצמך בראש סדר העדיפויות, מעריכה את הצרכים שלך ולא מוותרת עליהם בשביל אף אחד.<br/>👩🏽 לא זקוקה לשום כלים חדשים כי חייך כבר שלווים, מאוזנים ושקטים מבחינה פנימית.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Y8UHV7",
+        "text_rxNEcE"
+      ],
+      "disabled": true,
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_6bW7dy": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_gHXFgA": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>עכשיו זה הזמן שלך</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_RC98mm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>אני והמטופלות שלי עברנו את התהליך הזה על בשרנו, צעד אחר צעד, ושכללנו אותו כדי שתוכלי ליהנות מהתוצאות מהר יותר.</p><p>היום, בזכות המדריך, תוכלי לדלג על חודשים ושנים של ניסוי וטעייה, ולקבל את כל המידע והכלים במקום אחד, ברור ונגיש.</p><p>ההשקעה שלך היא אפס כסף, רק הזמן שתחליטי להקדיש לעצמך – ואנחנו מבטיחות לך שזה שווה את זה.</p><p>המדריך מתוכנן בפשטות, נשלח ישירות למייל שלך, ותוכלי להתחיל ליישם את הטיפים כבר היום.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_gHXFgA",
+        "text_RC98mm"
+      ],
+      "disabled": true,
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "apps_bQVHM7": {
+      "type": "apps",
+      "blocks": {
+        "klaviyo_email_marketing_sms_form_embed_block_Y9fHxX": {
+          "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/form-embed-block/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "RMFi5s"
+          }
+        }
+      },
+      "block_order": [
+        "klaviyo_email_marketing_sms_form_embed_block_Y9fHxX"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "ul {padding: 0 48px 0 0;}",
+        "@media screen and (min-width: 750px) {input, button, ul {max-width: 50rem; width: 50rem; margin: auto; direction: rtl; }}"
+      ],
+      "settings": {
+        "include_margins": false
+      }
+    },
+    "image_banner_qCpcDD": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_9r9J4J": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>StressLess</strong>",
+            "heading_size": "h0",
             "title_direction": "rtl"
           }
         },
-        "richtext_xWUt6q": {
-          "type": "richtext",
+        "text_7awBxK": {
+          "type": "text",
           "settings": {
-            "higher_heading": "<strong>*מבצע השקה חגיגי על כל המוצרים הדיגיטליים באתר</strong>",
-            "higher_heading_size": "h2",
-            "higher_title_direction": "rtl"
+            "text": "<h2><strong>המדריך השלם להפחתת סטרס והעלאת חוסן</strong></h2>",
+            "text_style": "body"
           }
         },
-        "button": {
+        "buttons_mzEgC3": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "לחצי כאן",
+            "button_label_1": "להפסיק עם התקפי החרדה",
             "button_weight_1": "bold",
-            "button_link_1": "shopify://collections/shop",
+            "button_link_1": "shopify://products/stress-less",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -42,14 +269,14 @@
         }
       },
       "block_order": [
-        "heading",
-        "richtext_xWUt6q",
-        "button"
+        "heading_9r9J4J",
+        "text_7awBxK",
+        "buttons_mzEgC3"
       ],
       "settings": {
-        "image": "shopify://shop_images/meditation-and-yoga-in-nature.jpg",
+        "image": "shopify://shop_images/crashing-ocean-waves-in-distance-behind-silhouette-of-woman.jpg",
         "image_overlay_opacity": 60,
-        "image_height": "medium",
+        "image_height": "large",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
@@ -58,186 +285,6 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
-      }
-    },
-    "featured_collection_k7UzBn": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "קולקציה-נבחרת",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "",
-        "image_ratio": "portrait",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "rich_text_feMzQg": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_iVwaLx": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>הכירי את StressLess</strong>",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_iVwaLx"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 40
-      }
-    },
-    "multicolumn_PXpiCA": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_TWAzqi": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>שליטה בלחץ ובחרדה</strong>",
-            "text": "<p>למדי טכניקות מעשיות להרגעה מיידית, תוך 4 שעות או פחות, שיעזרו לך לשלוט בחרדה במקום שהיא תשלוט בך</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_BTzMda": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>לישון בשקט</strong>",
-            "text": "<p>תחזרי להירדם בקלות ולהתעורר רעננה - בלי כדורים ובלי תופעות לוואי</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_GtCaUb": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>קבלי את החיים שלך בחזרה</strong>",
-            "text": "<p>תפסיקי לאבד שליטה ברגעי לחץ - תלמדי איך להישאר רגועה גם במצבים מאתגרים, כך שהילדים והסובבים אותך יראו אותך תמיד במיטבך</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_TWAzqi",
-        "column_BTzMda",
-        "column_GtCaUb"
-      ],
-      "settings": {
-        "title": "<strong>מה את מקבלת</strong>",
-        "title_direction": "rtl",
-        "title_alignment": "center",
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "show_image_after_effect": true,
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-5",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "rich_text_ikiexW": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_iFAJPz": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>לקוחות שהפסיקו עם הלחץ משתפות</strong>",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_iFAJPz"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "173141633272d68dcf": {
-      "type": "apps",
-      "blocks": {
-        "stamped_reviews_main_widget_TbB8wJ": {
-          "type": "shopify://apps/stamped-reviews/blocks/main-widget/a103faaf-2125-4b0e-89fa-de5149736723",
-          "settings": {
-            "animation": true,
-            "tags_exclude": "",
-            "tags_include": "",
-            "search": "",
-            "linkify": true,
-            "use_metafields": false,
-            "sku_tagtype": "sku"
-          }
-        }
-      },
-      "block_order": [
-        "stamped_reviews_main_widget_TbB8wJ"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
-    "rich_text_LpxHfN": {
-      "type": "rich-text",
-      "blocks": {
-        "button_LbjkDL": {
-          "type": "button",
-          "settings": {
-            "button_label": "למידע נוסף",
-            "button_link": "shopify://products/stress-less",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "button_LbjkDL"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-5",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 52
       }
     },
     "multirow_RkqD97": {
@@ -294,79 +341,6 @@
         "section_color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
         "row_color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_banner_jFwcht": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_aC7Rf4": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>חדשה לעולם היוגה?</strong>",
-            "heading_size": "h0",
-            "title_direction": "rtl"
-          }
-        },
-        "richtext_83WUBz": {
-          "type": "richtext",
-          "settings": {
-            "higher_heading": "גלי את עולם היוגה דרך הריטריט הדיגיטלי שלנו",
-            "higher_heading_size": "h1",
-            "higher_title_direction": "rtl"
-          }
-        },
-        "buttons_KJxcFU": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "לחצי כאן",
-            "button_weight_1": "bold",
-            "button_link_1": "shopify://products/yoga-path",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_aC7Rf4",
-        "richtext_83WUBz",
-        "buttons_KJxcFU"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/IMG_2362.jpg",
-        "image_overlay_opacity": 40,
-        "image_height": "large",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-4",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
-    "multicolumn_metaobject_D7Dgxt": {
-      "type": "multicolumn-metaobject",
-      "settings": {
-        "title": "לקוחות מספרות",
-        "list_item_direction": "rtl",
-        "heading_size": "h1",
-        "title_alignment": "center",
-        "list_item_text_alignment": "right",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -454,129 +428,26 @@
         "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "primary",
-        "button_label": "למידע נוסף",
-        "button_link": "shopify://products/yoga-path",
+        "button_label": "",
+        "button_link": "",
         "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "featured_blog_Qz8A6d": {
-      "type": "featured-blog",
-      "settings": {
-        "heading": "מאמרים שאולי תאהבי",
-        "heading_size": "h1",
-        "title_alignment": "right",
-        "blog": "blog",
-        "post_limit": 4,
-        "columns_desktop": 4,
-        "info_direction": "rtl",
-        "color_scheme": "",
-        "show_image": true,
-        "show_date": true,
-        "show_author": false,
-        "show_view_all": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_banner_GmnkEE": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_QaCgw3": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>ריטריט יום פיזי - אדמה והשתרשות</strong>",
-            "heading_size": "h1",
-            "title_direction": "rtl"
-          }
-        },
-        "text_cDNNxV": {
-          "type": "text",
-          "settings": {
-            "text": "<p>זהו הריטריט הפיזי האחרון שלנו ל-6 החודשים הקרובים – הזדמנות ייחודית לפני פגרה ארוכה!</p>",
-            "text_style": "body"
-          }
-        },
-        "buttons_ahUgi3": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "למידע נוסף",
-            "button_weight_1": "bold",
-            "button_link_1": "shopify://products/earth-retreat",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_QaCgw3",
-        "text_cDNNxV",
-        "buttons_ahUgi3"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/c57a3a0bc05953da9744b4a320e63bca.png",
-        "image_overlay_opacity": 70,
-        "image_height": "large",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-4",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
-    "rich_text_cXhPqB": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_zMRYRj": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>מרכז המעגל – היוגה, המדיטציה והריפוי העצמי במקום אחד</strong>",
-            "heading_size": "h2"
-          }
-        },
-        "text_qp6Ly7": {
-          "type": "text",
-          "settings": {
-            "text": "<p>במרכז המעגל אנחנו מאמינים בכוחם של יוגה, מדיטציה וריפוי עצמי להוביל לאיזון אמיתי ולשקט פנימי.</p><p>אצלנו תמצאי סדנאות ותרגולים ייחודיים המעודדים צמיחה והתחברות פנימית, לצד כלים ותכנים לחיים של בריאות ושלווה.</p><p>הצטרפי אלינו למסע המשלב ידע עתיק עם גישות מודרניות, לחיים בריאים, מאוזנים ומלאי משמעות.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_zMRYRj",
-        "text_qp6Ly7"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
-    "image_banner",
-    "featured_collection_k7UzBn",
-    "rich_text_feMzQg",
-    "multicolumn_PXpiCA",
-    "rich_text_ikiexW",
-    "173141633272d68dcf",
-    "rich_text_LpxHfN",
+    "1733587743d71f48a1",
+    "rich_text_DRGerC",
+    "rich_text_q6NtFP",
+    "rich_text_Yfr4jA",
+    "rich_text_kVyR8N",
+    "rich_text_6bW7dy",
+    "apps_bQVHM7",
+    "image_banner_qCpcDD",
     "multirow_RkqD97",
-    "image_banner_jFwcht",
-    "multicolumn_metaobject_D7Dgxt",
-    "multicolumn_FFmiYB",
-    "featured_blog_Qz8A6d",
-    "image_banner_GmnkEE",
-    "rich_text_cXhPqB"
+    "multicolumn_FFmiYB"
   ]
 }

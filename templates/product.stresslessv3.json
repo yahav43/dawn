@@ -9,61 +9,41 @@
  */
 {
   "sections": {
-    "rich_text_QBjb6f": {
-      "type": "rich-text",
+    "image_banner_yCGVAF": {
+      "type": "image-banner",
       "blocks": {
-        "text_CKdR7w": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>חשיפה חסרת תקדים:</strong></p>"
-          }
-        },
-        "heading_CpypnC": {
+        "heading_4XLrct": {
           "type": "heading",
           "settings": {
             "heading": "<strong>StressLess</strong>",
-            "heading_size": "hxl"
+            "heading_size": "h0",
+            "title_direction": "rtl"
           }
         },
-        "heading_jEaWqi": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>איך להפסיק את התקפי החרדה והלחצים שמשתלטים לך על החיים</strong>",
-            "heading_size": "h0"
-          }
-        },
-        "text_gTtVmg": {
+        "text_Qn9dwt": {
           "type": "text",
           "settings": {
-            "text": "<p>מטפלת מומחית עם <strong>25</strong> שנות ניסיון ולמעלה מ<strong> 1,000 </strong>מטופלות חושפת את הכל בסדנה דיגיטלית <strong>חינמית</strong>,</p><p>ל <strong>100</strong> רוכשות הראשונות שיקפצו על ההזדמנות החד פעמית הזאת!</p>"
-          }
-        },
-        "button_eGtfkq": {
-          "type": "button",
-          "settings": {
-            "button_label": "אני רוצה את הסדנה במתנה",
-            "button_link": "#shopify-section-template--17736452112563__secondary_product_3AMrLx",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "text": "<h2><strong>לנצח את החרדה,</strong></h2><h2><strong>להפסיק לדאוג, </strong></h2><h2><strong>ולחזור לחיות כמו שאנחנו אמורים</strong></h2>",
+            "text_style": "body"
           }
         }
       },
       "block_order": [
-        "text_CKdR7w",
-        "heading_CpypnC",
-        "heading_jEaWqi",
-        "text_gTtVmg",
-        "button_eGtfkq"
+        "heading_4XLrct",
+        "text_Qn9dwt"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "image": "shopify://shop_images/create_relaxing_water_images_with_aesthetic_objects.jpg",
+        "image_overlay_opacity": 50,
+        "image_height": "large",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-4",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
       }
     },
     "rich_text_NpfGDf": {
@@ -148,35 +128,34 @@
         "padding_bottom": 40
       }
     },
-    "main_product_tHhKcY": {
-      "type": "main-product",
+    "rich_text_cGJR6f": {
+      "type": "rich-text",
       "blocks": {
-        "text_7wjzRA": {
+        "heading_6WcHkx": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>אבל רגע לפני זה</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_aAHFRV": {
           "type": "text",
           "settings": {
-            "text": "<h2><strong>אבל רגע לפני זה</strong></h2><p>למקרה את תוהה - <strong>״מי אתם?״</strong></p><p>אז נמסטה 🪷🙏,</p><p>אני יעל מימון (סאד׳וי).</p><p>נולדתי ברמת גן ב 1970.</p><p>עברתי ילדות מורכבת כבת בכורה להורים גרושים, ילדה ונערה בסיכון.</p><p>מהיום שאני זוכרת את עצמי חיפשתי אמת, תכלית ומשמעות.</p><p>החיפוש שלי הוביל אותי לשנים רבות של לימודים בכל מיני מסגרות ובעיקר לחקירה נוקבת וחסרת פשרות של עצמי.</p><p>לימים, התחתנתי והבאתי לעולם ארבעה ילדים נפלאים שלימדו אותי המון על עצמי ובכלל.</p><p>הכלים שרכשתי הובילו אותי לטיפול ולהוראה של מקצועות הטיפול.</p><p>אני עוסקת בטיפול כ 25 שנים, מלמדת כ 20 שנים.</p><p>ב 12 השנים האחרונות אני מרצה ומרכזת את המגמה לפסיכותרפיה הוליסטית מכללת הנות בחדרה.</p><p>ב 4 שנים האחרונות, ובעקבות המצב, הפכתי ליועצת בצוות חוסן לעובדים בבית החולים הילל יפה, בה אני מעבירה סדנאות בנושא שחיקה וסטרס לעובדים ועוזרת בבניית תכנים וכלים.</p><p>הדרך הרוחנית שלי היא יוגה.</p><p>אני מורה ותלמידה ליוגה כ 20 שנה.</p><p>מלמדת יוגה בבית החולים הלל יפה משנת 2019.</p><p>אני מאמינה שכדי להגיע להחלמה והרמוניה צריך לטפל באדם ולא במחלה.</p>",
-            "text_style": "body"
+            "text": "<p>למקרה את תוהה - <strong>״מי אתם?״</strong></p><p>אז נמסטה 🪷🙏,</p><p>אני יעל מימון (סאד׳וי).</p><p>נולדתי ברמת גן ב 1970.</p><p>עברתי ילדות מורכבת כבת בכורה להורים גרושים, ילדה ונערה בסיכון.</p><p>מהיום שאני זוכרת את עצמי חיפשתי אמת, תכלית ומשמעות.</p><p>החיפוש שלי הוביל אותי לשנים רבות של לימודים בכל מיני מסגרות ובעיקר לחקירה נוקבת וחסרת פשרות של עצמי.</p><p>לימים, התחתנתי והבאתי לעולם ארבעה ילדים נפלאים שלימדו אותי המון על עצמי ובכלל.</p><p>הכלים שרכשתי הובילו אותי לטיפול ולהוראה של מקצועות הטיפול.</p><p>אני עוסקת בטיפול כ 25 שנים, מלמדת כ 20 שנים.</p><p>ב 12 השנים האחרונות אני מרצה ומרכזת את המגמה לפסיכותרפיה הוליסטית מכללת הנות בחדרה.</p><p>ב 4 שנים האחרונות, ובעקבות המצב, הפכתי ליועצת בצוות חוסן לעובדים בבית החולים הילל יפה, בה אני מעבירה סדנאות בנושא שחיקה וסטרס לעובדים ועוזרת בבניית תכנים וכלים.</p><p>הדרך הרוחנית שלי היא יוגה.</p><p>אני מורה ותלמידה ליוגה כ 20 שנה.</p><p>מלמדת יוגה בבית החולים הלל יפה משנת 2019.</p><p>אני מאמינה שכדי להגיע להחלמה והרמוניה צריך לטפל באדם ולא במחלה.</p>"
           }
         }
       },
       "block_order": [
-        "text_7wjzRA"
+        "heading_6WcHkx",
+        "text_aAHFRV"
       ],
       "settings": {
-        "show_tax_notice": false,
-        "enable_sticky_info": true,
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "scheme-3",
-        "media_size": "medium",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "gallery_layout": "stacked",
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "mobile_thumbnails": "hide",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "rich_text_TUPMUW": {
@@ -339,23 +318,12 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column_w7PkFw": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/girl-exercise-pose-icon.svg",
-            "title": "<strong>3 מדיטציות במתנה</strong>",
-            "text": "<p>🫘 מדיטציית <strong>״אפוני החסד״</strong> לשחרור אשמה ובושה.</p><p>🌊. <strong>״מדיטציית המפל״</strong> - 8 דקות לניקיון הגוף והנפש.</p><p>🚶🏽‍♀️ <strong>״הליכה מודעת״</strong> - כמה דקות של רוגע, בכל מקום, ובכל מצב.</p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "column_3UUcNN",
         "column_nDk4zx",
-        "column_dyQk6n",
-        "column_w7PkFw"
+        "column_dyQk6n"
       ],
       "settings": {
         "title": "",
@@ -365,7 +333,7 @@
         "image_width": "third",
         "image_ratio": "adapt",
         "show_image_after_effect": true,
-        "columns_desktop": 4,
+        "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
@@ -383,7 +351,7 @@
         "heading_A3xkFW": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>לבריאות הנפש שלך אין מחיר</strong>",
+            "heading": "<strong>לבריאות הנפש אין תג מחיר</strong>",
             "heading_size": "h1",
             "title_direction": "rtl"
           }
@@ -394,24 +362,11 @@
             "text": "<h3><strong>ואי אפשר לדעת כמה זמן עוד תוכלי להמשיך ככה</strong></h3>",
             "text_style": "body"
           }
-        },
-        "buttons_th7EUA": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "אני רוצה להפסיק לחיות בחרדה",
-            "button_weight_1": "bold",
-            "button_link_1": "#shopify-section-template--17736452112563__secondary_product_3AMrLx",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "heading_A3xkFW",
-        "text_aRm8Mb",
-        "buttons_th7EUA"
+        "text_aRm8Mb"
       ],
       "settings": {
         "image": "shopify://shop_images/1_07f39fa8-77ae-4065-9ae7-1c53f161de70.jpg",
@@ -427,73 +382,13 @@
         "show_text_below": false
       }
     },
-    "rich_text_8jzkgA": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_V6bQG3": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>מי צריכה את StressLess?</strong>",
-            "heading_size": "h0"
-          }
-        },
-        "text_g9bCCn": {
-          "type": "text",
-          "settings": {
-            "text": "<p>💠 אם כל יום את קמה בבוקר עייפה, עדיין מוטרדת מהמחשבות על אתמול (על העבר הרחוק יותר)...</p><p>💠 אם את מוטרדת באופן תמידי מהעתיד ולא מפסיקה לחשוב ״מה יהיה? מה יגידו? מה יחשבו? מה בעלי יגיד? מה אשתי תגיד? מה הילדים יחשבו עליי?״</p><p>💠 אם את חיה בפחד מתי יבוא התקף החרדה הבא...</p>"
-          }
-        },
-        "heading_qcABQD": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>זה נראה לך הגיוני?!</strong>",
-            "heading_size": "h1"
-          }
-        },
-        "text_99RX3B": {
-          "type": "text",
-          "settings": {
-            "text": "<p>אי אפשר לחיות ככה!</p><p>את חייבת לעשות שינוי.</p>"
-          }
-        },
-        "heading_GgPhRX": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>בואי נדמיין רגע מה יקרה אם תמשיכי ככה...</strong>",
-            "heading_size": "h0"
-          }
-        },
-        "text_KNkdHn": {
-          "type": "text",
-          "settings": {
-            "text": "<p>את תמשיכי לקום עייפה יותר מיום ליום, תקטיני את עצמך מול העולם החיצוני.</p><p>זה יכול לגרום לך לבטל את עצמך מול בן/בת הזוג, בעבודה, ובהמשך מול הילדים שלך (במידה והתברכת בכאלו).</p><p>את תפחדי לצאת מהבית, כי יכול להיות שהתקף החרדה תפס אותך בדיוק בסופר, או אצל הספר, או בבית קפה עם חברות.</p><p><strong>אז את מפסיקה לצאת מהבית.</strong></p><p>כי הגוף שלך מקשר את הסכנה (התקף החרדה) למקום שבו היא התרחשה.</p><p>את לא יכולה לצאת עם בן/בת הזוג שלך.</p><p>את לא נפגשת עם חברות.</p><p>את לא מסיעה את הילדים לבית הספר או לאירועים חברתיים.</p><p>ולאט לאט... המשפחה שלך פשוט תאבד אותך.</p><p><strong>זה מה שאת רוצה שיקרה?</strong></p><h2><strong>אני מניחה שלא.</strong></h2><p><strong>תפסיקי לחיות בפחד לגבי מתי יבוא התקף החרדה הבא.</strong></p><p><strong>תפסיקי להקטין את עצמך במקום לזרוח באור הגדול שיש לך.</strong></p><p><strong>תפסיקי לחשוב שאת חשובה פחות מאחרים - זו אלימות מהסוג הזדוני והנסתר ביותר שיש.</strong></p><p><strong>את צריכה לדאוג לעצמך!</strong></p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_V6bQG3",
-        "text_g9bCCn",
-        "heading_qcABQD",
-        "text_99RX3B",
-        "heading_GgPhRX",
-        "text_KNkdHn"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "rich_text_Fgn4CV": {
       "type": "rich-text",
       "blocks": {
         "heading_LXNMga": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>אחרי למעלה מ 1,000 מטופלות...</strong>",
+            "heading": "<strong>לאחר מאות של מטופלות</strong>",
             "heading_size": "h1"
           }
         },
@@ -515,30 +410,18 @@
           "settings": {
             "text": "<p>את לא לבד.</p><p>ואת בטח לא צריכה להמשיך לחיות כמו שחיית עד היום.</p><p>ובטח ובטח שאת לא צריכה להמשיך לסבול בגלל זה!</p><p>לאור העובדה שנשים רבות מתמודדות עם הבעיה הזו, דאגתי להכניס במיוחד שיעור שלם בסדנה הדיגיטלית הזו, שמדבר על הדפוס הזה בלבד.</p><p><strong>שיעור מספר 5 בסדנה ידבר על:</strong></p><ul><li>מאיפה ״אימצת״ את הדפוס הזה,</li><li>למה עשית את זה,</li><li>איך הוא שירת אותך (בעבר כמובן),</li><li>למה הוא גורם לך לסטרס,</li><li>ומה את יכולה לעשות כדי להתחיל לעקור אותו מהשורש ולחיות ללא לחץ.</li></ul>"
           }
-        },
-        "button_NjQhUw": {
-          "type": "button",
-          "settings": {
-            "button_label": "קראתי מספיק. אני רוצה לצאת מהחרדה עכשיו.",
-            "button_link": "#shopify-section-template--17736452112563__secondary_product_3AMrLx",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "heading_LXNMga",
         "text_8tTJtx",
         "heading_RQGAjd",
-        "text_LMFE7H",
-        "button_NjQhUw"
+        "text_LMFE7H"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "scheme-2",
+        "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -574,7 +457,7 @@
           "type": "shopify://apps/stamped-reviews/blocks/main-widget/a103faaf-2125-4b0e-89fa-de5149736723",
           "settings": {
             "animation": true,
-            "tags_exclude": "project-no",
+            "tags_exclude": "",
             "tags_include": "",
             "search": "",
             "linkify": false,
@@ -588,51 +471,6 @@
       ],
       "settings": {
         "include_margins": true
-      }
-    },
-    "rich_text_GaNd7e": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_Q7XmBz": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>״זה לא בשבילי...״</strong>",
-            "heading_size": "h0"
-          }
-        },
-        "text_34pUYH": {
-          "type": "text",
-          "settings": {
-            "text": "<p>❌ לא צריך להדליק נירות ריחניים ולעמעם את האורות.</p><p></p><p>❌ לא צריך להיות רוחניקית שלובשת שרוואלים והולכת יחפה.</p><p></p><p>❌ לא צריך לקום ב 5 בבוקר לפני שהיום מתחיל.</p><p></p><p>❌לא צריך להוסיף עוד שעות ביום.</p><p></p><p>❌לא צריך לטוס להודו לשלושה חודשים.</p><p></p><p>❌ לא צריך לעזוב את העבודה שלך או להתגרש.</p>"
-          }
-        },
-        "heading_mPD4bU": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>מדובר במדריך המעשי והמקיף ביותר בישראל</strong>",
-            "heading_size": "h1"
-          }
-        },
-        "text_prWpKx": {
-          "type": "text",
-          "settings": {
-            "text": "<p>שנכתב כדי לתמוך בשגרה היומית שלך,<br/>ולא כדי להוסיף עלייך עוד קשיים.</p><p>את צריכה לתפקד.</p><p>את צריכה להמשיך לעבוד.</p><p>את צריכה לתפקד בתוך הזוגיות ו/או המשפחה שלך.</p><p>הם כולם צריכים אותך,</p><p>בדיוק כמו שאת - <strong>צריכה אותך.</strong></p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_Q7XmBz",
-        "text_34pUYH",
-        "heading_mPD4bU",
-        "text_prWpKx"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     },
     "multicolumn_BxneJ4": {
@@ -694,34 +532,101 @@
         "padding_bottom": 80
       }
     },
-    "rich_text_w4aAYp": {
+    "rich_text_CQJBaQ": {
       "type": "rich-text",
       "blocks": {
-        "heading_XVHQRz": {
+        "heading_XGbVV7": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>למקרה שלא הייתי ברורה - הנה כל מה שאת מקבלת כשאת מזמינה את StressLess:</strong>",
+            "heading": "<strong>אוקיי הבנתי, זה מדבר אליי - כמה זה עולה?</strong>",
             "heading_size": "h1"
           }
         },
-        "text_qVUNcP": {
+        "text_qhAi3m": {
           "type": "text",
           "settings": {
-            "text": "<h2>✔️ משלוח תוך 41 שניות גג.</h2><h2></h2><h2>✔️ בונוס 1: סדנה דיגיטלית מלאה <strong>במתנה</strong> (שווי מקורי של 299₪!)</h2><h2></h2><h2>✔️ בונוס 2: 3 מדיטציות מודרכות במתנה (שווי מקורי של 70₪)</h2><h2></h2><h2>✔️ הספר הדיגיטלי המלא (99₪)</h2>"
+            "text": "<p>הערך של התכנים בסדנת <strong>StressLess</strong> הוא ערך שקשה מאוד לכמת - ההשפעה של היכולת לנהל ולהתמודד את הלחצים שמעכבים אותך בחייך שווה לך דברים שנמצאים אולי מעבר לגבולות הדמיון.</p>"
           }
         },
-        "heading_fzdYRC": {
+        "heading_RRP7BN": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>בשווי מקורי של 468₪</strong>",
+            "heading": "<strong>ובכל זאת</strong>",
             "heading_size": "h1"
+          }
+        },
+        "text_WRDGwY": {
+          "type": "text",
+          "settings": {
+            "text": "<p>המחיר המקורי של הסדנה, ולאור העובדה שהתכנים זמינים לך לנצח נצחים, היה במקור</p>"
+          }
+        },
+        "heading_wJWCJw": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>1,598₪</strong>",
+            "heading_size": "hxxl"
           }
         }
       },
       "block_order": [
-        "heading_XVHQRz",
-        "text_qVUNcP",
-        "heading_fzdYRC"
+        "heading_XGbVV7",
+        "text_qhAi3m",
+        "heading_RRP7BN",
+        "text_WRDGwY",
+        "heading_wJWCJw"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_w4jBFj": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_X4hED8": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>אבל זה לא המחיר שאת הולכת לשלם היום!</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_QKDzKh": {
+          "type": "text",
+          "settings": {
+            "text": "<p>למרות שהסדנה הזאת שווה את זה ויותר - המשימה שלנו היא להגיע ולעזור לכמה שיותר נפשות.</p>"
+          }
+        },
+        "text_qeFLj4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>וגם, זה לא סוד שהכלכלה הישראלית במצב קשה.</p><p>היא הייתה במצב קשה עוד לפני המלחמה, ובינינו, את המחיר הכלכלי של המלחמה אנחנו עוד לא התחלנו אפילו להרגיש.</p>"
+          }
+        },
+        "heading_W7Jzkp": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>לאור המצב - החלטנו לעשות משהו מטורף - לתת את הסדנה,</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_3jVgBe": {
+          "type": "text",
+          "settings": {
+            "text": "<p>לא ב ₪1,000</p><p>לא ב ₪800</p><p><strong>ואפילו לא ב ₪500.</strong></p><p><strong>אנחנו נותנות את הסדנה במתנה.</strong></p><p>את משלמת רק על הספר, מחיר מצחיק של:</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_X4hED8",
+        "text_QKDzKh",
+        "text_qeFLj4",
+        "heading_W7Jzkp",
+        "text_3jVgBe"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -729,80 +634,124 @@
         "color_scheme": "scheme-3",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 24
       }
     },
-    "secondary_product_3AMrLx": {
-      "type": "secondary-product",
+    "custom_liquid_KkHaUK": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".center {margin: auto;}",
+        "strong {font-size: 5rem;}",
+        "@media (min-width: 990px) {strong {font-size: 8rem; }}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"rich-text__blocks center\">\n<h2 class=\"rich-text__heading rte inline-richtext h1 scroll-trigger animate--slide-in price--on-sale\" data-cascade=\"\" style=\"--animation-order: 0;\">\n                <strong class=\"price-item price-item--sale price-item--last\">{{ product.price | money_without_trailing_zeros }}₪ בלבד</strong>\n              </h2>\n<p>או בשלושה תשלומים קטנים של {{ product.price | divided_by: 3 | money_without_trailing_zeros }}₪ ללא ריבית.</p>\n</div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 24
+      }
+    },
+    "component_countdown_4VUEn6": {
+      "type": "component-countdown",
+      "settings": {
+        "show_days": false,
+        "countdown_date": "Wed Jan 01 2025 23:59:59 GMT+0300 (שעון ישראל (קיץ))",
+        "countdown_url": "/",
+        "left_text": true,
+        "left_copy": "<p>המחיר יעלה בעוד</p>",
+        "right_text_direction": "ltr",
+        "left_text_direction": "ltr",
+        "right_text": false,
+        "right_copy": ""
+      }
+    },
+    "main_product_G9DUDg": {
+      "type": "main-product",
       "blocks": {
-        "text_VU4hG8": {
+        "text_9cUMUJ": {
           "type": "text",
           "settings": {
-            "text": "<strong>אבל היום את תשלמי רק על הספר הדיגיטלי המלא</strong>",
+            "text": "<h2><strong>אז אחרי שהגענו עד לכאן...</strong></h2>",
             "text_style": "body"
           }
         },
-        "text_D8G8YY": {
+        "text_3VTF9i": {
           "type": "text",
           "settings": {
-            "text": "המכיל בתוכו את כל הסודות, צעד אחר צעד, להתמודדות עם חרדה, בלי תרופות ובלי אותיות קטנות.",
+            "text": "<p>תלחצי על הכפתור ״קנה עכשיו״,</p><p>תמלאי את הפרטים,</p><p>תאשרי את התשלום המאובטח,</p><p>ותתחילי לפתוח את הימים שלך</p><p>עם שלווה במקום עם סטרס.</p>",
             "text_style": "body"
           }
         },
-        "price_EzBmL9": {
+        "stamped_reviews_star_rating_badge_MYbyAh": {
+          "type": "shopify://apps/stamped-reviews/blocks/star-rating-badge/a103faaf-2125-4b0e-89fa-de5149736723",
+          "settings": {
+            "use_metafields": false,
+            "sku_tagtype": "handle",
+            "is_featured_product": false,
+            "featured_product_handle": ""
+          }
+        },
+        "text_bTMBWC": {
+          "type": "text",
+          "settings": {
+            "text": "<h1><strong>StressLess - הדרך שלך להחזיר את השקט שלך</strong></h1>",
+            "text_style": "body"
+          }
+        },
+        "price_jURd6h": {
           "type": "price",
           "settings": {}
         },
-        "text_EiUCM6": {
-          "type": "text",
-          "settings": {
-            "text": "או ב 3 תשלומים נוחים של 33₪ ללא ריבית.",
-            "text_style": "subtitle"
-          }
-        },
-        "buy_buttons_UKQLzP": {
+        "buy_buttons_QUjnFk": {
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
+            "show_gift_card_recipient": false
           }
         },
-        "icon_with_text_bira3f": {
+        "icon_with_text_qaccqp": {
           "type": "icon-with-text",
           "settings": {
             "layout": "horizontal",
             "icon_1": "none",
-            "image_1": "shopify://shop_images/pos-swipe-icon.svg",
-            "heading_1": "חלוקה לתשלומים",
+            "image_1": "shopify://shop_images/recurring-subscription-icon.svg",
+            "heading_1": "זיכוי כספי בקלות",
             "icon_2": "none",
             "image_2": "shopify://shop_images/secure-payment-icon.svg",
             "heading_2": "תשלום מאובטח",
             "icon_3": "none",
-            "image_3": "shopify://shop_images/recurring-subscription-icon.svg",
-            "heading_3": "החזר כספי",
+            "image_3": "shopify://shop_images/legal-agreement-contract-paper-icon.svg",
+            "heading_3": "תוצאות מובטחות",
             "icon_4": "none",
-            "image_4": "shopify://shop_images/legal-agreement-contract-paper-icon.svg",
-            "heading_4": "תוצאות מובטחות"
+            "image_4": "shopify://shop_images/pos-swipe-icon.svg",
+            "heading_4": "חלוקה לתשלומים"
           }
         }
       },
       "block_order": [
-        "text_VU4hG8",
-        "text_D8G8YY",
-        "price_EzBmL9",
-        "text_EiUCM6",
-        "buy_buttons_UKQLzP",
-        "icon_with_text_bira3f"
+        "text_9cUMUJ",
+        "text_3VTF9i",
+        "stamped_reviews_star_rating_badge_MYbyAh",
+        "text_bTMBWC",
+        "price_jURd6h",
+        "buy_buttons_QUjnFk",
+        "icon_with_text_qaccqp"
       ],
       "settings": {
-        "product": "stress-less",
+        "show_tax_notice": false,
+        "enable_sticky_info": true,
         "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
-        "secondary_background": false,
-        "constrain_to_viewport": true,
+        "media_size": "small",
+        "constrain_to_viewport": false,
+        "media_fit": "contain",
+        "gallery_layout": "columns",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "hide",
         "hide_variants": false,
         "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 60,
+        "padding_bottom": 60
       }
     },
     "collapsible_content_BhkJmX": {
@@ -895,28 +844,122 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "slideshow_PRHeb4": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_QTTfKw": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/plant-8338691_1280.jpg",
+            "heading": "זה לא משנה איפה התחלת",
+            "heading_size": "h1",
+            "subheading": "זה משנה איפה את מסיימת.",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 50,
+            "color_scheme": "scheme-4",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_BqwBcV": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/ProductImage3.jpg",
+            "heading": "גם מסע של אלף צעדים",
+            "heading_size": "h1",
+            "subheading": "מתחיל בצעד אחד קטן",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 50,
+            "color_scheme": "scheme-4",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_hTrnck": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/stone-tower-4519290_1920.jpg",
+            "heading": "הגיע הזמן לשים אותך",
+            "heading_size": "h1",
+            "subheading": "במרכז המעגל",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 50,
+            "color_scheme": "scheme-4",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_QTTfKw",
+        "slide_BqwBcV",
+        "slide_hTrnck"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 7,
+        "image_behavior": "ambient",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "1733311835a82ed4ee": {
+      "type": "apps",
+      "blocks": {
+        "klaviyo_email_marketing_sms_form_embed_block_yqEKRR": {
+          "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/form-embed-block/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "Xe5VJr"
+          }
+        }
+      },
+      "block_order": [
+        "klaviyo_email_marketing_sms_form_embed_block_yqEKRR"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
-    "rich_text_QBjb6f",
+    "image_banner_yCGVAF",
     "rich_text_NpfGDf",
     "rich_text_jPcDFh",
     "rich_text_kz3cXM",
-    "main_product_tHhKcY",
+    "rich_text_cGJR6f",
     "rich_text_TUPMUW",
     "rich_text_ctY8UH",
     "rich_text_dq4i4Q",
     "rich_text_9TxGGr",
     "multicolumn_bVeK8i",
     "image_banner_BFhtgC",
-    "rich_text_8jzkgA",
     "rich_text_Fgn4CV",
     "rich_text_x8bVDk",
     "17211428891945090f",
-    "rich_text_GaNd7e",
     "multicolumn_BxneJ4",
-    "rich_text_w4aAYp",
-    "secondary_product_3AMrLx",
-    "collapsible_content_BhkJmX"
+    "rich_text_CQJBaQ",
+    "rich_text_w4jBFj",
+    "custom_liquid_KkHaUK",
+    "component_countdown_4VUEn6",
+    "main_product_G9DUDg",
+    "collapsible_content_BhkJmX",
+    "slideshow_PRHeb4",
+    "1733311835a82ed4ee"
   ]
 }

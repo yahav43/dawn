@@ -30,10 +30,10 @@
       ],
       "settings": {}
     },
-    "17336488123453021b": {
+    "1729861268343e58e3": {
       "type": "apps",
       "blocks": {
-        "klaviyo_email_marketing_sms_form_embed_block_DnkfYq": {
+        "klaviyo_email_marketing_sms_form_embed_block_cTGfD4": {
           "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/form-embed-block/2632fe16-c075-4321-a88b-50b567f42507",
           "settings": {
             "formId": "{{ article.metafields.custom.form_id.value }}"
@@ -41,10 +41,47 @@
         }
       },
       "block_order": [
-        "klaviyo_email_marketing_sms_form_embed_block_DnkfYq"
+        "klaviyo_email_marketing_sms_form_embed_block_cTGfD4"
       ],
       "settings": {
         "include_margins": true
+      }
+    },
+    "custom_liquid_D7tFCQ": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "featured_product_caNWex": {
+      "type": "featured-product",
+      "blocks": {
+        "title_kFeAT6": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "title_kFeAT6"
+      ],
+      "settings": {
+        "product": "{{ article.metafields.custom.blog_article_featured_product.value }}",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "secondary_background": false,
+        "media_size": "small",
+        "constrain_to_viewport": false,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "featured_blog_zW6zki": {
@@ -69,7 +106,9 @@
   },
   "order": [
     "main",
-    "17336488123453021b",
+    "1729861268343e58e3",
+    "custom_liquid_D7tFCQ",
+    "featured_product_caNWex",
     "featured_blog_zW6zki"
   ]
 }

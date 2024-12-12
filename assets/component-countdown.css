@@ -5,7 +5,7 @@
 .countdown-section {
 	position: sticky;
 	top: 61px;
-	z-index: 4;
+	z-index: 2;
 }
 
 .announce-countdown {
@@ -61,7 +61,7 @@
 	align-items: center;
 	z-index: 1;
 	height: 100%;
-	padding: calc(var(--grid-mobile-vertical-spacing) * .5);
+	padding: 0 calc(var(--grid-mobile-vertical-spacing) * .5);
 }
 
 .countdown #tiles>span,
@@ -94,6 +94,6 @@
 	}
 
 	.countdown-section {
-		top: 66px;
+		top: 75px;
 	}
 }

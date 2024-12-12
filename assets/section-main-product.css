@@ -23,8 +23,8 @@ product-info {
   .product__column-sticky {
     display: block;
     position: sticky;
-    top: 7rem;
-    z-index: 2;
+    top: 16rem;
+    z-index: 1;
   }
 
   .product--thumbnail .thumbnail-list {
@@ -1511,4 +1511,9 @@ a.product__text {
 
 .product__text.product__text--secondary.inline-richtext.subtitle:last-child {
   font-size: 1.2rem;
+}
+
+.stamped-badge {
+  display: flex !important;
+  justify-content: center !important;
 }
