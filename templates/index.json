@@ -18,22 +18,32 @@
             "formId": "Sc8fj8"
           }
         },
-        "stamped_reviews_main_widget_RiYjwA": {
-          "type": "shopify://apps/stamped-reviews/blocks/main-widget/a103faaf-2125-4b0e-89fa-de5149736723",
+        "stamped_reviews_carousel_eaUPr9": {
+          "type": "shopify://apps/stamped-reviews/blocks/carousel/a103faaf-2125-4b0e-89fa-de5149736723",
           "settings": {
-            "animation": true,
-            "tags_exclude": "",
-            "tags_include": "reset-button",
-            "search": "",
-            "linkify": true,
-            "use_metafields": false,
-            "sku_tagtype": "sku"
+            "title": "הצטרפי למועדון",
+            "auto_play": true,
+            "auto_play_speed": 5,
+            "take": 30,
+            "color_title": "",
+            "color_star": "",
+            "color_text": "",
+            "color_link": "",
+            "review_ids": "",
+            "product_ids": "8120000086195",
+            "category": "",
+            "product_brand": "",
+            "tags": "",
+            "min_rating": "4",
+            "fill_empty": false,
+            "random": false,
+            "with_photos": false
           }
         }
       },
       "block_order": [
         "klaviyo_email_marketing_sms_form_embed_block_diQrED",
-        "stamped_reviews_main_widget_RiYjwA"
+        "stamped_reviews_carousel_eaUPr9"
       ],
       "custom_css": [
         "@media screen and (min-width: 750px) {input, button {max-width: 50rem; width: 50rem; margin: auto; direction: rtl; }}"
