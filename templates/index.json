@@ -162,18 +162,75 @@
             "heading": "<strong>לא צריך לעשות יוגה או לשבת במדיטציה ארוכה בישיבת לוטוס עם הידיים על הברכיים </strong>👌🏻🧘🏾‍♀️",
             "heading_size": "h0"
           }
+        },
+        "text_Lk37na": {
+          "type": "text",
+          "settings": {
+            "text": "<p>התחלתי לטפל כי הרצון העמוק ביותר שלי היה (והוא עדיין), לעזור לכמה שיותר נפשות - כמה שיותר - יותר טוב.</p><p>עם השנים זה הוביל אותי לכתיבת המדריך הקצר והמעשי הזה, וזו גם הסיבה שאני רוצה לתת לך אותו עכשיו בחינם לגמרי.</p><p>ככל שהסתכלתי עליו יותר מקרוב, הבנתי שהוא עובד בכל מצב, ולכל אחת.</p><p>״ניסיתי״ את זה בהתחלה עם כל אחת מהמטופלות שלי אשר היה נראה לי נכון לנסות, כי גם אם זה לא היה עוזר - אני הייתי שם לעזור.</p>"
+          }
+        },
+        "heading_gYNaGH": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>אבל זה עבד. כבר מהמטופלת הראשונה זה עבד.</strong>",
+            "heading_size": "h1"
+          }
         }
       },
       "block_order": [
         "heading_e8mWjg",
         "text_VnaikL",
         "button_RaNPTn",
-        "heading_gEcVrh"
+        "heading_gEcVrh",
+        "text_Lk37na",
+        "heading_gYNaGH"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_k6X8gD": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_8hBnK3": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>מי צריכה ללחוץ על ״כפתור האיפוס״ שלה?</strong>",
+            "heading_size": "h0"
+          }
+        },
+        "text_9yWzp3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>אם את אמא לילדים, את כנראה רוצה שהם יספרו לך כשהם עושים משהו רע (תסמכי עליי, הם עושים או יעשו), ולא <strong>יפחדו שתלחצי ותצאי עליהם על 200. נכון?</strong></p><p><strong>האם בגלל המצב את מחפשת (או שהתחלת כבר) לקחת ציפרלקס?</strong></p><p>אם את עובדת בשירות לקוחות, אני יודעת כמה קשה היום שלך יכול להיות. אבל חשבת פעם איזה הבדל יכול להיות אם <strong>תלמדי להישאר רגועה ולענות לעניין?</strong> <strong>אולי תקבלי את הקידום שרצית (או שמגיע לך)?</strong></p><p>אם את הייטקיסטית ועובדת שעות הזויות בגלל הפרשי שעות וגם מכריחים אותך לבוא למשרד אפילו שאת לא רוצה כי מלחיץ לך שם.</p><p>אם את נלחצת כל פעם שקצת עולים הטורים מול בן/בת הזוג שלך, אז את קופאת או לא יודעת מה להגיד.</p><p>אם את נלחצת מלעמוד בתור או בפקק בגלל שכל שניה מישהו יכול לעקוף אותך ולגנוב לך את המקום...</p><p>אם סימנת ״וי״ על לפחות אחת מהשאלות כאן למעלה - הספר הזה הוא בשבילך. ממני אליך.</p>"
+          }
+        },
+        "button_6tGBkx": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_8hBnK3",
+        "text_9yWzp3",
+        "button_6tGBkx"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -261,6 +318,7 @@
     "1733587743d71f48a1",
     "video_xzHMGb",
     "rich_text_hjWwXP",
+    "rich_text_k6X8gD",
     "1734087311fd9fb8a1",
     "multirow_RkqD97"
   ]
