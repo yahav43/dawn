@@ -59,11 +59,12 @@
         "heading_size": "h1",
         "heading_text_alignment": "center",
         "enable_video_looping": true,
+        "video": "shopify://files/videos/FFF ואריה בג׳ונגל לקידום ממומן - HD 720p.mov",
         "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "description": "",
         "full_width": true,
         "color_scheme": "",
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 36
       }
     },
