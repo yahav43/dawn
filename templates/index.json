@@ -9,15 +9,68 @@
  */
 {
   "sections": {
+    "image_banner_mUqR7Y": {
+      "type": "image-banner",
+      "blocks": {
+        "richtext_eggRpc": {
+          "type": "richtext",
+          "settings": {
+            "higher_heading": "מטפלת בכירה עם +25 שנות ניסיון חושפת:",
+            "higher_heading_size": "h2",
+            "higher_title_direction": "rtl"
+          }
+        },
+        "heading_xcw4Wf": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>איך לחסל חרדה ולחץ תוך 5 דקות - בחינם</strong>",
+            "heading_size": "h0",
+            "title_direction": "rtl"
+          }
+        },
+        "text_tpRDYV": {
+          "type": "text",
+          "settings": {
+            "text": "<p>גלי את <strong>״כפתור האיפוס״: </strong>3 שיטות סופר-פשוטות, מעשיות ומוכחות שיעזרו לך לצאת מהלופים של הלחץ, לשחרר את הראש, ולהחזיר לעצמך שליטה על החיים שלך - בלי לקחת כדורים, לצאת מהבית או לתכנן טיול גדול להודו.</p>",
+            "text_style": "body"
+          }
+        },
+        "buttons_PRyRFw": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "אני רוצה להפסיק עם הלחץ",
+            "button_weight_1": "bold",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "richtext_eggRpc",
+        "heading_xcw4Wf",
+        "text_tpRDYV",
+        "buttons_PRyRFw"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/create_relaxing_water_images_with_aesthetic_objects.jpg",
+        "image_overlay_opacity": 60,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-4",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
     "1733587743d71f48a1": {
       "type": "apps",
       "blocks": {
-        "klaviyo_email_marketing_sms_form_embed_block_diQrED": {
-          "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/form-embed-block/2632fe16-c075-4321-a88b-50b567f42507",
-          "settings": {
-            "formId": "Sc8fj8"
-          }
-        },
         "stamped_reviews_carousel_eaUPr9": {
           "type": "shopify://apps/stamped-reviews/blocks/carousel/a103faaf-2125-4b0e-89fa-de5149736723",
           "settings": {
@@ -42,7 +95,6 @@
         }
       },
       "block_order": [
-        "klaviyo_email_marketing_sms_form_embed_block_diQrED",
         "stamped_reviews_carousel_eaUPr9"
       ],
       "custom_css": [
@@ -66,6 +118,23 @@
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 36
+      }
+    },
+    "1734087311fd9fb8a1": {
+      "type": "apps",
+      "blocks": {
+        "klaviyo_email_marketing_sms_form_embed_block_Fg4nAr": {
+          "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/form-embed-block/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": ""
+          }
+        }
+      },
+      "block_order": [
+        "klaviyo_email_marketing_sms_form_embed_block_Fg4nAr"
+      ],
+      "settings": {
+        "include_margins": true
       }
     },
     "multirow_RkqD97": {
@@ -129,8 +198,10 @@
     }
   },
   "order": [
+    "image_banner_mUqR7Y",
     "1733587743d71f48a1",
     "video_xzHMGb",
+    "1734087311fd9fb8a1",
     "multirow_RkqD97"
   ]
 }
