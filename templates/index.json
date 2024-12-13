@@ -46,13 +46,22 @@
             "button_link_2": "",
             "button_style_secondary_2": false
           }
+        },
+        "richtext_6EQdKj": {
+          "type": "richtext",
+          "settings": {
+            "higher_heading": "מדריך דיגיטלי קצר ומעשי, 100% בחינם, בלי להשאיר פרטי אשראי ובלי לתת כתובת למשלוח.",
+            "higher_heading_size": "h2",
+            "higher_title_direction": "rtl"
+          }
         }
       },
       "block_order": [
         "richtext_eggRpc",
         "heading_xcw4Wf",
         "text_tpRDYV",
-        "buttons_PRyRFw"
+        "buttons_PRyRFw",
+        "richtext_6EQdKj"
       ],
       "settings": {
         "image": "shopify://shop_images/create_relaxing_water_images_with_aesthetic_objects.jpg",
