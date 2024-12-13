@@ -85,7 +85,7 @@
           "settings": {
             "animation": true,
             "tags_exclude": "",
-            "tags_include": "",
+            "tags_include": "reset-button",
             "search": "",
             "linkify": true,
             "use_metafields": false,
