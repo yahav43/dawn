@@ -113,22 +113,6 @@
         "include_margins": false
       }
     },
-    "video_xzHMGb": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "heading_text_alignment": "center",
-        "enable_video_looping": true,
-        "video": "shopify://files/videos/FFF ואריה בג׳ונגל לקידום ממומן - HD 720p.mov",
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": true,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 36
-      }
-    },
     "rich_text_hjWwXP": {
       "type": "rich-text",
       "blocks": {
@@ -319,7 +303,6 @@
   "order": [
     "image_banner_mUqR7Y",
     "1733587743d71f48a1",
-    "video_xzHMGb",
     "rich_text_hjWwXP",
     "rich_text_k6X8gD",
     "1734087311fd9fb8a1",
