@@ -155,12 +155,20 @@
             "button_link_2": "",
             "button_style_secondary_2": false
           }
+        },
+        "heading_gEcVrh": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>לא צריך לעשות יוגה או לשבת במדיטציה ארוכה בישיבת לוטוס עם הידיים על הברכיים </strong>👌🏻🧘🏾‍♀️",
+            "heading_size": "h0"
+          }
         }
       },
       "block_order": [
         "heading_e8mWjg",
         "text_VnaikL",
-        "button_RaNPTn"
+        "button_RaNPTn",
+        "heading_gEcVrh"
       ],
       "settings": {
         "desktop_content_position": "center",
