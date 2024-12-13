@@ -40,7 +40,7 @@
           "settings": {
             "button_label_1": "אני רוצה להפסיק עם הלחץ",
             "button_weight_1": "bold",
-            "button_link_1": "",
+            "button_link_1": "#shopify-section-template--17822882234547__1734087311fd9fb8a1",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -146,7 +146,7 @@
           "type": "button",
           "settings": {
             "button_label": "אני חייבת את זה בהול",
-            "button_link": "",
+            "button_link": "#shopify-section-template--17822882234547__1734087311fd9fb8a1",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
