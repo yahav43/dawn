@@ -410,7 +410,7 @@
 }
 
 .banner__box>*+* {
-  margin-top: 1rem;
+  margin: 1rem 0;
 }
 
 .banner__box>*:first-child {
@@ -441,8 +441,12 @@
   margin-bottom: 0;
 }
 
+.banner__heading:last-child {
+  font-size: 1rem;
+}
+
 .banner__box .banner__heading+* {
-  margin-top: 1rem;
+  margin-top: 1.3rem;
 }
 
 .banner__buttons {
