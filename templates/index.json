@@ -17,10 +17,23 @@
           "settings": {
             "formId": "Sc8fj8"
           }
+        },
+        "stamped_reviews_main_widget_RiYjwA": {
+          "type": "shopify://apps/stamped-reviews/blocks/main-widget/a103faaf-2125-4b0e-89fa-de5149736723",
+          "settings": {
+            "animation": true,
+            "tags_exclude": "",
+            "tags_include": "reset-button",
+            "search": "",
+            "linkify": true,
+            "use_metafields": false,
+            "sku_tagtype": "sku"
+          }
         }
       },
       "block_order": [
-        "klaviyo_email_marketing_sms_form_embed_block_diQrED"
+        "klaviyo_email_marketing_sms_form_embed_block_diQrED",
+        "stamped_reviews_main_widget_RiYjwA"
       ],
       "custom_css": [
         "@media screen and (min-width: 750px) {input, button {max-width: 50rem; width: 50rem; margin: auto; direction: rtl; }}"
