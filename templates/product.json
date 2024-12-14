@@ -726,19 +726,29 @@
             "row_content": "<p>הספר <strong>StressLess</strong> מתאים לכל אישה שמרגישה שהלחץ והסטרס מנהלים את חייה.</p><p>אם את מנסה להתמודד עם עומס יום-יומי בעבודה, בבית או בחיים האישיים, ולא מוצאת רגע לעצמך – הספר הזה בדיוק בשבילך.</p><p>הוא מתאים לנשים מכל תחומי החיים:<br/>מנהלות, מורות, אחיות, עורכות דין, אמהות, ואפילו לעצמאיות.</p>",
             "page": ""
           }
+        },
+        "collapsible_row_edCyhE": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "מה בדיוק אני אקבל בספר?",
+            "icon": "none",
+            "row_content": "<p>בספר תמצאי:</p><ul><li>טכניקות מעשיות וקלות ליישום להפחתת סטרס.</li><li>עקרונות שיחזירו לך את השקט הפנימי, כמו \"רק להיום\".</li><li>תרגילי נשימה פשוטים שיעזרו לך להירגע בכל רגע של לחץ.</li><li>כלים לשיפור הריכוז, האפקטיביות והשליטה בזמן שלך.</li><li>סיפורים מהקליניקה שמראים איך נשים אחרות יישמו את השיטות האלו ועשו שינויים משמעותיים בחייהן.</li></ul>",
+            "page": ""
+          }
         }
       },
       "block_order": [
-        "collapsible_row_UyiN7d"
+        "collapsible_row_UyiN7d",
+        "collapsible_row_edCyhE"
       ],
       "settings": {
         "caption": "",
-        "heading": "שאלות נפוצות",
-        "heading_size": "h1",
+        "heading": "<strong>אני רק שאלה...</strong>",
+        "heading_size": "h0",
         "heading_alignment": "center",
         "layout": "none",
-        "color_scheme": "scheme-2",
-        "container_color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "color_scheme": "scheme-3",
+        "container_color_scheme": "scheme-3",
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
