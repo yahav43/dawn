@@ -77,6 +77,29 @@
         "show_text_below": false
       }
     },
+    "rich_text_yGTghH": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_EKfQaQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>קוראות משתפות</strong>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_EKfQaQ"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "full_width": true,
+        "padding_top": 52,
+        "padding_bottom": 16
+      }
+    },
     "1733587743d71f48a1": {
       "type": "apps",
       "blocks": {
@@ -292,6 +315,7 @@
   },
   "order": [
     "image_banner_mUqR7Y",
+    "rich_text_yGTghH",
     "1733587743d71f48a1",
     "rich_text_hjWwXP",
     "rich_text_k6X8gD",
