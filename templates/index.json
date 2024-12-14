@@ -88,7 +88,7 @@
             "tags_include": "reset-button",
             "search": "",
             "linkify": true,
-            "use_metafields": false,
+            "use_metafields": true,
             "sku_tagtype": "handle"
           }
         }
