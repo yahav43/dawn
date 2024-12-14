@@ -807,6 +807,33 @@
             "row_content": "<p>האמת היא שהזמן הנכון הוא עכשיו.</p><p>ככל שתתחילי מוקדם יותר, תראי את השינויים בחייך מוקדם יותר.</p><p>תני לעצמך את ההזדמנות לשפר את החיים שלך – מגיע לך להרגיש טוב יותר.</p><p>במידה ולא תהיי מרוצה תוכלי לקבל זיכוי מלא על הספר - בלי שאלות ובלי אותיות קטנות.</p>",
             "page": ""
           }
+        },
+        "collapsible_row_6AKajY": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "האם הספר מתאים גם לנשים שנמצאות בטיפול או כבר עושות עבודה עצמית?",
+            "icon": "none",
+            "row_content": "<p>כן!</p><p>הספר מתאים לכל מי שרוצה כלים מעשיים להתמודד עם לחץ ולהעצים את השקט הפנימי שלה.</p><p>הוא יכול להשתלב נהדר לצד עבודה טיפולית או כל מסגרת אחרת.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_fDizB9": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "אני יכולה לרכוש את הספר כמתנה למישהי אחרת?",
+            "icon": "none",
+            "row_content": "<p>בוודאי, אפילו מומלץ!</p><p>אם יש לך חברה, או אמא (או גם וגם) שאת יודעת שהספר יכול לעזור להן, זה יכול להיות מתנה מדהימה ומלאת ערך.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_k9qe4K": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "כמה זמן הספר יהיה זמין במחיר המיוחד הזה?",
+            "icon": "none",
+            "row_content": "<p>המחיר המיוחד של 49 שקלים זמין לזמן מוגבל בלבד.</p><p>אני ממליצה לך לרכוש אותו עכשיו כדי לא לפספס את ההזדמנות הזו.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -819,7 +846,10 @@
         "collapsible_row_yQYVQN",
         "collapsible_row_y6hVVF",
         "collapsible_row_GeVgtQ",
-        "collapsible_row_w7k7T9"
+        "collapsible_row_w7k7T9",
+        "collapsible_row_6AKajY",
+        "collapsible_row_fDizB9",
+        "collapsible_row_k9qe4K"
       ],
       "settings": {
         "caption": "",
