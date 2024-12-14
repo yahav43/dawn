@@ -151,7 +151,7 @@
         "content_alignment": "right",
         "color_scheme": "scheme-3",
         "full_width": true,
-        "padding_top": 40,
+        "padding_top": 0,
         "padding_bottom": 52
       }
     },
@@ -506,7 +506,7 @@
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "center",
+        "content_alignment": "right",
         "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
         "full_width": true,
         "padding_top": 40,
@@ -526,7 +526,7 @@
         "text_34pUYH": {
           "type": "text",
           "settings": {
-            "text": "<p>❌ לא צריך להדליק נירות ריחניים ולעמעם את האורות.</p><p></p><p>❌ לא צריך להיות רוחניקית שלובשת שרוואלים והולכת יחפה.</p><p></p><p>❌ לא צריך לקום ב 5 בבוקר לפני שהיום מתחיל.</p><p></p><p>❌לא צריך להוסיף עוד שעות ביום.</p><p></p><p>❌לא צריך לטוס להודו לשלושה חודשים.</p><p></p><p>❌ לא צריך לעזוב את העבודה שלך או להתגרש.</p>"
+            "text": "<p>❌ לא צריך להדליק נרות ריחניים ולעמעם את האורות. 🕯️</p><p></p><p>❌ לא צריך להיות רוחניקית שלובשת שרוואלים והולכת יחפה. ⛩️</p><p></p><p>❌ לא צריך לקום ב 5 בבוקר לפני שהיום מתחיל.</p><p></p><p>❌לא צריך להוסיף עוד שעות ביום.</p><p></p><p>❌לא צריך לטוס להודו לשלושה חודשים. 🍛🇮🇳</p><p></p><p>❌ לא צריך לעזוב את העבודה שלך או להתגרש.</p>"
           }
         },
         "heading_mPD4bU": {
@@ -551,7 +551,7 @@
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "center",
+        "content_alignment": "right",
         "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
