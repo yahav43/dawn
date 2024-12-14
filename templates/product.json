@@ -387,7 +387,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "right",
-        "color_scheme": "",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -462,56 +462,6 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "image_banner_BFhtgC": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_A3xkFW": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>לבריאות הנפש שלך אין מחיר</strong>",
-            "heading_size": "h1",
-            "title_direction": "rtl"
-          }
-        },
-        "text_aRm8Mb": {
-          "type": "text",
-          "settings": {
-            "text": "<h3><strong>ואי אפשר לדעת כמה זמן עוד תוכלי להמשיך ככה</strong></h3>",
-            "text_style": "body"
-          }
-        },
-        "buttons_th7EUA": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "אני רוצה להפסיק לחיות בחרדה",
-            "button_weight_1": "bold",
-            "button_link_1": "#shopify-section-template--17736452112563__secondary_product_3AMrLx",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_A3xkFW",
-        "text_aRm8Mb",
-        "buttons_th7EUA"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/1_07f39fa8-77ae-4065-9ae7-1c53f161de70.jpg",
-        "image_overlay_opacity": 50,
-        "image_height": "small",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-4",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
       }
     },
     "rich_text_Fgn4CV": {
@@ -881,7 +831,6 @@
     "image_banner_fBdXTL",
     "rich_text_VDgkJH",
     "multicolumn_bVeK8i",
-    "image_banner_BFhtgC",
     "rich_text_Fgn4CV",
     "rich_text_GaNd7e",
     "rich_text_GMP4Uj",
