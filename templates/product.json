@@ -613,23 +613,54 @@
         "padding_bottom": 52
       }
     },
+    "rich_text_GMP4Uj": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YAmJFi": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>כמה שווה לך להפחית את הלחץ ולהחזיר את השליטה על החיים שלך?</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_b7qQiY": {
+          "type": "text",
+          "settings": {
+            "text": "<p>כשנשים שואלות אותי כמה הספר <strong>StressLess</strong> שווה, התשובה הראשונה שלי היא:<br/><br/><strong>\"אי אפשר לכמת את זה.\"</strong></p><p>תחשבי על זה לרגע.</p><p>איך אפשר למדוד שינוי כמו:</p><ul><li>יותר רגעים של אושר עם הילדים שלך,</li><li>שקט פנימי שמאפשר לך לישון בלילה,</li><li>שיפור משמעותי בביצועים בעבודה – שמוביל להעלאה בשכר או אפילו קידום,</li><li>או תחושת קלילות ובריאות טובה יותר,<br/>שגורמות לך להרגיש שוב אנרגטית ומלאת חיים.</li></ul><p>נשים שקראו את הספר הזה מספרות על שינויים מדהימים, שחסכו להן <strong>אלפי שקלים</strong> על טיפולים, קואוצ'ינג או תרופות נגד חרדה.<br/><br/>היו נשים שאמרו שהספר הזה עזר להן להגיע לקידום בעבודה, קידום של מאות שקלים כל חודש.<br/><br/>ואחרות שחוו רגעים קטנים ובלתי נמדדים – כמו לצחוק עם הילדים שלהן, להרגיש יותר נוכחת עם בן הזוג, או סופסוף לא להתעצבן כשאמא של הבן זוג באה לבקר.</p><p>אז כן, אפשר להגיד שהספר הזה שווה הרבה – הרבה יותר ממה שאפשר להגדיר בכסף.</p><p><strong>אם הייתי מבקשת מחיר שמשקף את הערך הזה, הוא היה בקלות 785 שקלים.</strong><br/><br/>והאמת? נשים רבות כבר אמרו לי שזה היה שווה כל שקל.</p><p>אבל אני לא רוצה שזה ירגיש כמו \"השקעה כבדה\".</p><p>אני רוצה שכל אישה, בכל שלב בחיים שלה, תוכל לגשת לכלים האלו ולהשתמש בהם לשנות את חייה.<br/><br/>לכן, החלטתי לתת הנחה משמעותית מאוד – לא 785 שקלים, לא 500 שקלים, ואפילו לא 100 שקלים.</p>"
+          }
+        },
+        "heading_BCbi4d": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>המחיר שאת תשלמי היום: רק 49₪.</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_xMY9x9": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>זה הכול. 49₪ שמפרידים בינך לבין שקט פנימי, רוגע ושליטה בחיים שלך.</strong></p><p>ואת מקבלת יותר מרק ספר – את מקבלת מדריך פרקטי ואמיתי שמוכח שהוא עובד.</p><p>המחיר הזה הוא לזמן מוגבל בלבד, כחלק מהמשימה שלנו להפיץ את הכלים האלו ל 10,000 נשים הראשונות שיהיו מהירות מספיק לזהות הזדמנות כשהן רואות אותה.</p><p>אז אם את רוצה להפוך את הלחץ בחיים שלך - <strong>עכשיו זה הזמן שלך לקחת את הצעד הראשון.</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_YAmJFi",
+        "text_b7qQiY",
+        "heading_BCbi4d",
+        "text_xMY9x9"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "right",
+        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
     "secondary_product_3AMrLx": {
       "type": "secondary-product",
       "blocks": {
-        "text_VU4hG8": {
-          "type": "text",
-          "settings": {
-            "text": "<strong>אבל היום את תשלמי רק על הספר הדיגיטלי המלא</strong>",
-            "text_style": "body"
-          }
-        },
-        "text_D8G8YY": {
-          "type": "text",
-          "settings": {
-            "text": "המכיל בתוכו את כל הסודות, צעד אחר צעד, להתמודדות עם חרדה, בלי תרופות ובלי אותיות קטנות.",
-            "text_style": "body"
-          }
-        },
         "price_EzBmL9": {
           "type": "price",
           "settings": {}
@@ -637,7 +668,7 @@
         "text_EiUCM6": {
           "type": "text",
           "settings": {
-            "text": "או ב 3 תשלומים נוחים של 33₪ ללא ריבית.",
+            "text": "או ב 3 תשלומים נוחים של 16.33₪ ללא ריבית. פחות מקפה ומאפה.",
             "text_style": "subtitle"
           }
         },
@@ -668,8 +699,6 @@
         }
       },
       "block_order": [
-        "text_VU4hG8",
-        "text_D8G8YY",
         "price_EzBmL9",
         "text_EiUCM6",
         "buy_buttons_UKQLzP",
@@ -692,75 +721,15 @@
         "collapsible_row_UyiN7d": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "תוך כמה זמן אראה תוצאות?",
+            "heading": "למי הספר הזה מתאים?",
             "icon": "none",
-            "row_content": "<p>ברוב המקרים ניתן לראות שינוי תוך 24 שעות, אך לבסוף זה אינדיבידואלי, ואצל כל אחת ואחד ניתן יהיה לראות שינוי בפרקי זמן שונים.</p><p>חשוב לזכור שאנחנו לא בתחרות עם אף אחד, ושכל שינוי לטובה יקרה בקצב שלו, ובקצב שמתאים לך.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_mADL4C": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "איך אני ניגשת לתכנים?",
-            "icon": "none",
-            "row_content": "<p>לאחר הרכישה, תקבלי מאיתנו מייל עם פרטי ההתחברות האישיים שלך לתכנים של הסדנה.</p><p>התמיכה שלנו גם תמיד זמינה לך בכתובת:</p><p><a href=\"mailto:support@thecenterofthecircle.com\" target=\"_blank\" title=\"שליחת מייל לשירות הלקוחות של מרכז המעגל\">support@thecenterofthecircle.com</a></p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_Fkb8Jh": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "כמה זמן יש לי גישה לתכנים?",
-            "icon": "none",
-            "row_content": "<p>התכנים זמינים לתמיד, וכל עוד לא ביטלת את ההזמנה.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_tR8DGP": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "האם יש תמיכה טכנית?",
-            "icon": "none",
-            "row_content": "<p>כן. ניתן לפנות אלינו בטופס <a href=\"/pages/contact\" target=\"_blank\" title=\"Contact\">יצירת הקשר</a> ואנו נעזור בהקדם.</p><p>התמיכה שלנו גם תמיד זמינה לך בכתובת:</p><p><a href=\"mailto:support@thecenterofthecircle.com\" target=\"_blank\" title=\"שליחת מייל לשירות הלקוחות של מרכז המעגל\">support@thecenterofthecircle.com</a></p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_xEDk8d": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "מה ההבדל בין StressLess לבין אפליקציות מדיטציה חינמיות?",
-            "icon": "none",
-            "row_content": "<p>רוב האפליקציות אינן חינמיות לחלוטין, ולרוב דורשות מנוי חודשי.</p><p>אצלינו תקבלי יותר ערך תמורת מה ששילמת, ולא תצטרכי לשלם מספר פעמים, אלא רק פעם אחת.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_UnXJRb": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "האם התכנים מתאימים גם לבני נוער?",
-            "icon": "none",
-            "row_content": "<p>התכנים מתאימים לכל הגילאים.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_jVgC6d": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "מה קורה אם אני לא מרוצה מהקורס?",
-            "icon": "none",
-            "row_content": "<p>במידה ולא צפית בתכנים של הקורס בכלל, תוכלי לבקש זיכוי ואנו נדאג לזכות אותך לאמצעי התשלום שדרכו שילמת.</p><p>במידה וכבר צפית בתכנים של המוצר - אין באפשרותינו להציע זיכוי.</p><p>במידה ושאלתך לא נענתה נשמח שתפני אל שירות הלקוחות שלנו במייל ואנו נדאג לעזור.</p>",
+            "row_content": "<p>הספר <strong>StressLess</strong> מתאים לכל אישה שמרגישה שהלחץ והסטרס מנהלים את חייה.</p><p>אם את מנסה להתמודד עם עומס יום-יומי בעבודה, בבית או בחיים האישיים, ולא מוצאת רגע לעצמך – הספר הזה בדיוק בשבילך.</p><p>הוא מתאים לנשים מכל תחומי החיים:<br/>מנהלות, מורות, אחיות, עורכות דין, אמהות, ואפילו לעצמאיות.</p>",
             "page": ""
           }
         }
       },
       "block_order": [
-        "collapsible_row_UyiN7d",
-        "collapsible_row_mADL4C",
-        "collapsible_row_Fkb8Jh",
-        "collapsible_row_tR8DGP",
-        "collapsible_row_xEDk8d",
-        "collapsible_row_UnXJRb",
-        "collapsible_row_jVgC6d"
+        "collapsible_row_UyiN7d"
       ],
       "settings": {
         "caption": "",
@@ -792,6 +761,7 @@
     "image_banner_BFhtgC",
     "rich_text_Fgn4CV",
     "rich_text_GaNd7e",
+    "rich_text_GMP4Uj",
     "secondary_product_3AMrLx",
     "collapsible_content_BhkJmX"
   ]
