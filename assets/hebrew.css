@@ -30,6 +30,7 @@ slider-component .card-information,
 .rich-text__blocks,
 div[class*="kl-private-reset-css"],
 .banner__box *,
+.collapsible-content__heading,
 product-recommendations {
   direction: rtl;
 }
@@ -284,4 +285,9 @@ div.klaviyo-countdown {
     margin-left: 20px;
     margin-right: 0;
   }
+}
+
+.rich-text__heading,
+.button {
+  text-align: center;
 }

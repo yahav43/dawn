@@ -90,5 +90,5 @@
 }
 
 .rich-text__blocks.right .rich-text__buttons {
-  justify-content: flex-end;
+  justify-content: center;
 }
