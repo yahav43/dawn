@@ -234,6 +234,9 @@
         "text_qeG69K",
         "button_eMaWTN"
       ],
+      "custom_css": [
+        "p:nth-child(2) {text-align: center;}"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "right",
