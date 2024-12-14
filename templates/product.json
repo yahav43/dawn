@@ -236,7 +236,7 @@
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "center",
+        "content_alignment": "right",
         "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
         "full_width": true,
         "padding_top": 40,
@@ -296,7 +296,7 @@
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "center",
+        "content_alignment": "right",
         "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
@@ -309,7 +309,7 @@
         "heading_Bwr8rw": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>״הלכה למעשה - איך נשים בתפקידים הלחוצים ביותר הצליחו להפחית סטרס, לקחת שליטה, ולהשיג תוצאות מדהימות – בלי לוותר על עצמן״</strong>",
+            "heading": "<strong>״הלכה למעשה -איך נשים בתפקידים הלחוצים ביותר הצליחו להפחית סטרס, לקחת שליטה, ולהשיג תוצאות מדהימות – בלי לוותר על עצמן״</strong>",
             "heading_size": "h1",
             "title_direction": "rtl"
           }
@@ -383,30 +383,7 @@
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "rich_text_9TxGGr": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_kkgyhR": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>מה את מקבלת</strong>",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_kkgyhR"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "content_alignment": "right",
         "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
@@ -463,6 +440,7 @@
         "column_dyQk6n",
         "column_w7PkFw"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "title_direction": "rtl",
@@ -559,7 +537,7 @@
         "text_LMFE7H": {
           "type": "text",
           "settings": {
-            "text": "<p>את לא לבד.</p><p>ואת בטח לא צריכה להמשיך לחיות כמו שחיית עד היום.</p><p>ובטח ובטח שאת לא צריכה להמשיך לסבול בגלל זה!</p><p>לאור העובדה שנשים רבות מתמודדות עם הבעיה הזו, דאגתי להכניס במיוחד שיעור שלם בסדנה הדיגיטלית הזו, שמדבר על הדפוס הזה בלבד.</p><p><strong>שיעור מספר 5 בסדנה ידבר על:</strong></p><ul><li>מאיפה ״אימצת״ את הדפוס הזה,</li><li>למה עשית את זה,</li><li>איך הוא שירת אותך (בעבר כמובן),</li><li>למה הוא גורם לך לסטרס,</li><li>ומה את יכולה לעשות כדי להתחיל לעקור אותו מהשורש ולחיות ללא לחץ.</li></ul>"
+            "text": "<p>את לא לבד.</p><p>ואת בטח לא צריכה להמשיך לחיות כמו שחיית עד היום.</p><p>ובטח ובטח שאת לא צריכה להמשיך לסבול בגלל זה!</p><p>לאור העובדה שנשים רבות מתמודדות עם הבעיה הזו, דאגתי להכניס במיוחד פרק שלם בספר שמדבר על הדפוס הזה.</p><p><strong>הפרק השישי בספר מדבר על:</strong></p><ul><li>מאיפה ״אימצת״ את הדפוס הזה,</li><li>למה עשית את זה,</li><li>איך הוא שירת אותך (בעבר כמובן),</li><li>למה הוא גורם לך לסטרס,</li><li>ומה את יכולה לעשות כדי להתחיל לעקור אותו מהשורש ולחיות ללא לחץ.</li></ul>"
           }
         },
         "button_NjQhUw": {
@@ -810,7 +788,6 @@
     "rich_text_8jzkgA",
     "image_banner_fBdXTL",
     "rich_text_VDgkJH",
-    "rich_text_9TxGGr",
     "multicolumn_bVeK8i",
     "image_banner_BFhtgC",
     "rich_text_Fgn4CV",
