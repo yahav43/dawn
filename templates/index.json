@@ -80,31 +80,21 @@
     "1733587743d71f48a1": {
       "type": "apps",
       "blocks": {
-        "stamped_reviews_carousel_QEPiiQ": {
-          "type": "shopify://apps/stamped-reviews/blocks/carousel/a103faaf-2125-4b0e-89fa-de5149736723",
+        "stamped_reviews_main_widget_AzzcGj": {
+          "type": "shopify://apps/stamped-reviews/blocks/main-widget/a103faaf-2125-4b0e-89fa-de5149736723",
           "settings": {
-            "title": "קוראות משתפות",
-            "auto_play": false,
-            "auto_play_speed": 7,
-            "take": 29,
-            "color_title": "",
-            "color_star": "",
-            "color_text": "#9b585a",
-            "color_link": "#9b585a",
-            "review_ids": "",
-            "product_ids": "",
-            "category": "",
-            "product_brand": "",
-            "tags": "reset-button",
-            "min_rating": "none",
-            "fill_empty": true,
-            "random": true,
-            "with_photos": false
+            "animation": true,
+            "tags_exclude": "",
+            "tags_include": "reset-button",
+            "search": "",
+            "linkify": true,
+            "use_metafields": false,
+            "sku_tagtype": "sku"
           }
         }
       },
       "block_order": [
-        "stamped_reviews_carousel_QEPiiQ"
+        "stamped_reviews_main_widget_AzzcGj"
       ],
       "custom_css": [
         "@media screen and (min-width: 750px) {input, button {max-width: 50rem; width: 50rem; margin: auto; direction: rtl; }}"
