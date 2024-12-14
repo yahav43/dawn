@@ -2567,7 +2567,7 @@ input[type='checkbox'] {
   width: 5rem;
 }
 
-a.header__icon--cart {
+a.header__icon--cart:not(.header__icon--summary) {
   position: relative;
   margin-right: -1.2rem;
   display: none;
