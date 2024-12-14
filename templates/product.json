@@ -18,13 +18,6 @@
             "text": "<p>לראשונה בישראל - המהדורה המוגבלת לשנת 2025:</p>"
           }
         },
-        "heading_CpypnC": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>StressLess</strong>",
-            "heading_size": "hxl"
-          }
-        },
         "heading_jEaWqi": {
           "type": "heading",
           "settings": {
@@ -60,7 +53,6 @@
       },
       "block_order": [
         "text_CKdR7w",
-        "heading_CpypnC",
         "heading_jEaWqi",
         "text_gTtVmg",
         "button_eGtfkq",
