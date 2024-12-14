@@ -15,7 +15,7 @@
         "text_CKdR7w": {
           "type": "text",
           "settings": {
-            "text": "<p>לראשונה בישראל:</p>"
+            "text": "<p>לראשונה בישראל - המהדורה המוגבלת לשנת 2025:</p>"
           }
         },
         "heading_CpypnC": {
@@ -28,7 +28,7 @@
         "heading_jEaWqi": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>המדריך הדיגיטלי השלם שילמד אותך איך לחסל את החרדה,להשתלט על הלחץ,ולהפוך מקורבן למלכה</strong>",
+            "heading": "<strong>״המדריך הדיגיטלי השלם שילמד אותך איך לחסל את החרדה,להשתלט על הלחץ,ולהפוך מקורבן למלכה״</strong>",
             "heading_size": "h0"
           }
         },
@@ -48,6 +48,14 @@
             "button_link_2": "",
             "button_style_secondary_2": false
           }
+        },
+        "caption_hVnaU9": {
+          "type": "caption",
+          "settings": {
+            "caption": "*כמות העותקים מוגבלת",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
         }
       },
       "block_order": [
@@ -55,7 +63,8 @@
         "heading_CpypnC",
         "heading_jEaWqi",
         "text_gTtVmg",
-        "button_eGtfkq"
+        "button_eGtfkq",
+        "caption_hVnaU9"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -66,33 +75,84 @@
         "padding_bottom": 52
       }
     },
-    "rich_text_NpfGDf": {
+    "rich_text_MTkCrC": {
       "type": "rich-text",
       "blocks": {
-        "text_YcwmaB": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>חלאס.</strong></p><p>מישהו צריך להגיד את זה.</p><p>הלחץ היומיומי שאנחנו מתמודדות איתו כל יום כבר <strong>יותר מ - 400</strong> ימים הוא לא משהו שאפשר להמשיך לחיות איתו.</p><p>כל יום מחדש:</p><ul><li>לזגזג מהאינסטגרם למבזקים ב Ynet</li><li>לצפות בחדשות באובססיביות</li><li>להגיד אמירות מדכאות כמו ״עד כמה שאפשר״ או ״זה מה יש״ או ״בגלל המצב״</li><li>לדאוג מתי תהיה האזעקה הבאה...</li></ul>"
-          }
-        },
-        "heading_7Ltxzc": {
+        "heading_xhk8Mb": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>להיות חופשייה מחרדות - האם זה יותר מדי לבקש?</strong>",
+            "heading": "<strong>קוראות משתפות</strong>",
             "heading_size": "h1"
-          }
-        },
-        "text_HBGw9e": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>לא.</strong></p><p><strong>ממש לא.</strong></p><p>לדמיין יום שבו את נושמת בקלות, בלי מועקה בחזה או דפיקות לב מואצות - <strong>זה לא יותר מדי לבקש.</strong></p><p>יום שבו את יכולה פשוט <em>להיות</em>, ללא מתח, ללא מחשבות טורדניות – רק רוגע, קלילות ושלווה אמיתית - <strong>זה לא יותר מדי לבקש.</strong></p><p>לעבור יום אחד בלי לדאוג אם מישהו שאת מכירה יחזור הביתה בשלום מהמילואים - <strong>זה לא יותר מדי לבקש.</strong></p><p>לחיות בלי חרדה <strong>זה לא יותר מדי לבקש.</strong></p>"
           }
         }
       },
       "block_order": [
-        "text_YcwmaB",
-        "heading_7Ltxzc",
-        "text_HBGw9e"
+        "heading_xhk8Mb"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "full_width": true,
+        "padding_top": 48,
+        "padding_bottom": 20
+      }
+    },
+    "17211428891945090f": {
+      "type": "apps",
+      "blocks": {
+        "stamped_product_reviews_ugc_main_widget_iqETUF": {
+          "type": "shopify://apps/stamped-reviews/blocks/main-widget/a103faaf-2125-4b0e-89fa-de5149736723",
+          "settings": {
+            "animation": true,
+            "tags_exclude": "project-no",
+            "tags_include": "",
+            "search": "",
+            "linkify": false,
+            "use_metafields": false,
+            "sku_tagtype": "handle"
+          }
+        }
+      },
+      "block_order": [
+        "stamped_product_reviews_ugc_main_widget_iqETUF"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "rich_text_HUXVwe": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_XmLjKQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>״כנראה הספר המעשי והיסודי ביותר שנכתב לציבור הרחב עד היום...״</strong>",
+            "heading_size": "h0"
+          }
+        },
+        "text_bXjQRY": {
+          "type": "text",
+          "settings": {
+            "text": "<p>למי שמרגישה שהיא נשחקת תחת העומס של החיים…</p><p>אם את רוצה להחזיר לעצמך את השליטה, להפחית את הסטרס שמנהל אותך, ולגלות איך אפשר להרגיש שקט פנימי גם בימים הכי עמוסים…</p><p>הספר הזה יכול להיות המתנה הכי חשובה שתקבלי השנה.</p><p>אני אסביר למה:</p><p>שמי יעל מימון, ולפני כמה שנים הייתי במקום מאוד דומה. הייתי מטפלת שמצליחה לעזור לכל כך הרבה אנשים – אבל לא הצלחתי לעזור לעצמי.</p><p>בין הקליניקה, הבית, המשפחה והמשימות האינסופיות – מצאתי את עצמי מותשת, בלי רגע לעצמי, והכי גרוע – עם תחושה שאני פשוט לא מספיקה.</p><p>הייתי מתעוררת בבוקר עם כובד על החזה, נרדמת בלילה עם מחשבות שלא נתנו לי מנוחה, ומחפשת דרך לצאת מהמעגל הזה של לחץ ותשישות.</p><p>ואז יום אחד, זה הכה בי: לא יכול להיות שאני חיה ככה.</p><p>זה לא החיים שרציתי לעצמי, ובטח שלא הדוגמה שרציתי להראות לאנשים סביבי. החלטתי לקחת את הידע שלי מהיוגה, הטיפול והעבודה ההכרתית – ולנסות אותו קודם כל על עצמי.</p><p>זה התחיל מצעדים קטנים: תרגול נשימות פשוטות, עצירה לשתות כוס תה בלי לרוץ למשימה הבאה, וללמוד להסתכל על הלחץ מזווית אחרת.</p><p>בהתחלה זה הרגיש בלתי אפשרי. אבל לאט לאט, התחיל שינוי. מצאתי דרכים קטנות לחזור לעצמי, לנשום קצת יותר, ולחיות מתוך איזון.</p><p>היום אני במקום אחר לגמרי. אני קמה בבוקר עם שקט פנימי, יש לי יותר אנרגיה מבעבר, ואני כבר לא נשחקת מהמקום שבו הייתי.</p><p>וזו הסיבה שכתבתי את הספר <strong>StressLess</strong>.</p><p>כדי לא רק לשתף את הדרך שלי, אלא להראות גם לך – שאת לא חייבת להמשיך לחיות ככה. שיש לך את הכוח לעשות שינוי, ושזה לא מצריך מהפכות. כל מה שצריך זה להתחיל בצעד אחד קטן, ואחריו עוד אחד.</p><p>בדיוק כמו שאני עשיתי.</p><p>אם את מרגישה שהחיים מנהלים אותך, אם את קמה עייפה ונרדמת מתוסכלת – אני מזמינה אותך לגלות את הכלים האלו.</p><p>בספר <strong>StressLess</strong> אני חולקת איתך טכניקות פשוטות, שכל אחת יכולה ליישם, שיעזרו לך להפחית את הלחץ, לחזור לנשום ולהחזיר לעצמך את השליטה – גם אם את בעיצומו של מירוץ החיים.</p><p>זה לא עוד ספר על \"תיאוריה\". זה מדריך מעשי, שנכתב מתוך הלב ומתוך ניסיון אמיתי של שנים – בקליניקה, עם תלמידים, ובחיי האישיים.</p><p>את לא לבד במסע הזה, ואני יודעת שאם הגעת עד כאן, את כבר מוכנה לשינוי.</p><p>אז למה לחכות? תני לעצמך את המתנה שמגיעה לך.</p><p><strong>StressLess</strong> מחכה לך עכשיו באתר, ויכול להיות הצעד הראשון שלך לשקט שאת כל כך מחפשת.\"</p>"
+          }
+        },
+        "button_tCdnqP": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_XmLjKQ",
+        "text_bXjQRY",
+        "button_tCdnqP"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -101,51 +161,6 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
-      }
-    },
-    "rich_text_jPcDFh": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_khF8JV": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>זה צורך אנושי בסיסי ביותר והוא מגיע לך מעצם היותך.</strong>",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_khF8JV"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "rich_text_kz3cXM": {
-      "type": "rich-text",
-      "blocks": {
-        "text_7wamNy": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>אם את מרגישה שאת רחוקה מזה – את במקום הנכון.</strong></p><p><br/>StressLess הוא הכלי שלך להחזיר את עצמך לידיים שלך.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_7wamNy"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 40
       }
     },
     "main_product_tHhKcY": {
@@ -241,44 +256,6 @@
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "rich_text_dq4i4Q": {
-      "type": "rich-text",
-      "blocks": {
-        "text_KqaRDK": {
-          "type": "text",
-          "settings": {
-            "text": "<p>אז בלי להתעכב עוד - אני מתרגשת להציג לך:</p>"
-          }
-        },
-        "heading_FT6dxn": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>StressLess</strong>",
-            "heading_size": "h0"
-          }
-        },
-        "heading_NLz9eH": {
-          "type": "heading",
-          "settings": {
-            "heading": "המדריך השלם להפחתת סטרס והעלאת חוסן",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "text_KqaRDK",
-        "heading_FT6dxn",
-        "heading_NLz9eH"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-4feb0ec6-dde3-45b4-a3ba-44a251713d28",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -542,52 +519,6 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
-      }
-    },
-    "rich_text_x8bVDk": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_Wwr7Wk": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>הנה כמה דברים שחלק מהמטופלות שעברו את הסדנה היו מוכנות לשתף</strong>",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_Wwr7Wk"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
-      }
-    },
-    "17211428891945090f": {
-      "type": "apps",
-      "blocks": {
-        "stamped_product_reviews_ugc_main_widget_iqETUF": {
-          "type": "shopify://apps/stamped-reviews/blocks/main-widget/a103faaf-2125-4b0e-89fa-de5149736723",
-          "settings": {
-            "animation": true,
-            "tags_exclude": "project-no",
-            "tags_include": "",
-            "search": "",
-            "linkify": false,
-            "use_metafields": false,
-            "sku_tagtype": "handle"
-          }
-        }
-      },
-      "block_order": [
-        "stamped_product_reviews_ugc_main_widget_iqETUF"
-      ],
-      "settings": {
-        "include_margins": true
       }
     },
     "rich_text_GaNd7e": {
@@ -899,20 +830,17 @@
   },
   "order": [
     "rich_text_QBjb6f",
-    "rich_text_NpfGDf",
-    "rich_text_jPcDFh",
-    "rich_text_kz3cXM",
+    "rich_text_MTkCrC",
+    "17211428891945090f",
+    "rich_text_HUXVwe",
     "main_product_tHhKcY",
     "rich_text_TUPMUW",
     "rich_text_ctY8UH",
-    "rich_text_dq4i4Q",
     "rich_text_9TxGGr",
     "multicolumn_bVeK8i",
     "image_banner_BFhtgC",
     "rich_text_8jzkgA",
     "rich_text_Fgn4CV",
-    "rich_text_x8bVDk",
-    "17211428891945090f",
     "rich_text_GaNd7e",
     "multicolumn_BxneJ4",
     "rich_text_w4aAYp",
