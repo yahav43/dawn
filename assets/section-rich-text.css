@@ -91,4 +91,7 @@
 
 .rich-text__blocks.right .rich-text__buttons {
   justify-content: center;
+  margin-right: auto;
+  margin-left: auto;
+  display: flex;
 }
