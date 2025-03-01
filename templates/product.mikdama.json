@@ -158,22 +158,6 @@
         "padding_bottom": 52
       }
     },
-    "video_cJCwDc": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "heading_text_alignment": "center",
-        "enable_video_looping": true,
-        "video": "shopify://files/videos/ריטריט אדמה והשתרשות - טיזר_5aa351eb-da51-42f6-8e3d-4fae9691b627.mp4",
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": true,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "image_with_text_3teATm": {
       "type": "image-with-text",
       "blocks": {
@@ -434,7 +418,6 @@
     "image_banner_eyrDfn",
     "rich_text_9fKHgT",
     "rich_text_qQ7BrA",
-    "video_cJCwDc",
     "image_with_text_3teATm",
     "multicolumn_J8dJaF",
     "collapsible_content_BhkJmX",
